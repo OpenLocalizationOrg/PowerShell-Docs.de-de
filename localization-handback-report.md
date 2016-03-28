@@ -1,26 +1,11 @@
 # <a name='report-top'></a> Localization Handback Report
 
 ## Summary
- Total Files | 1
+ Total Files | 0
 
 ## File List
- Source File | Status | Details 
- ----------- | ------ | ------- 
- [dsc\Test1\SonjaTest.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/e5a2d47f5fb96591929145bd6895eadc642136f1/dsc/Test1/SonjaTest.md) | InSyncHandedBackSuccess | [Details](#27daeca973361d35caa48d668078a0ef7f64353654)
 
 ## Item Details
-##### <a name='27daeca973361d35caa48d668078a0ef7f64353654'></a> Source: [dsc\Test1\SonjaTest.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/e5a2d47f5fb96591929145bd6895eadc642136f1/dsc/Test1/SonjaTest.md)
-* Status: InSyncHandedBackSuccess
-* Target File: [dsc\Test1\SonjaTest.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs.de-de/blob/6dd6a393cf5494a5424c07b0840c3751fd25aec3/dsc/Test1/SonjaTest.md)
-* Handoff File: [SonjaTest.bab99385ac372c3ae450ecdd8e590c3ad3219939.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/234f7c9425b988e291e46cc3b6c6159a6ac95cc7/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/SonjaTest.bab99385ac372c3ae450ecdd8e590c3ad3219939.de-de.xlf)
-* Handoff Datetime: 2016-03-24 23:59:52
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: [SonjaTest.bab99385ac372c3ae450ecdd8e590c3ad3219939.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/b99db412a104b58168e65383cb05e64b931df100/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/SonjaTest.bab99385ac372c3ae450ecdd8e590c3ad3219939.de-de.xlf)
-* Handback Datetime: 2016-03-28 22:03:20
-* [Back to Top](#report-top)
-
 
 ## Error Details
 
