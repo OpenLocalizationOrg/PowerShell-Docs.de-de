@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "32ee770772ef44dba7bcb2ae6952652156617803",
-  "LastTranslatedCommit": "01cd46be19e47549956c5834c82d8e9dc432aed0",
+  "LastTranslatedCommit": "6dd6a393cf5494a5424c07b0840c3751fd25aec3",
   "Items": {
     "c3b8854dbecd4ab03e46c51a23ac00461bdd7014": {
       "FileHash": "c3b8854dbecd4ab03e46c51a23ac00461bdd7014",
@@ -1766,14 +1766,14 @@
       "HandoffPriority": "",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "HandbackFilePath": null,
-      "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
+      "TargetFileCommit": "6dd6a393cf5494a5424c07b0840c3751fd25aec3",
+      "TargetFilePath": "dsc\\Test1\\SonjaTest.md",
+      "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\SonjaTest.bab99385ac372c3ae450ecdd8e590c3ad3219939.de-de.xlf",
+      "HandbackFileCommit": "b99db412a104b58168e65383cb05e64b931df100",
+      "HandbackDateTime": "2016-03-28T22:03:20.6174619Z",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "UpdatedDateTime": "2016-03-28T22:03:20.6174619Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",

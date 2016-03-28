@@ -5,12 +5,12 @@
  -------- | ----- 
  Total Files | 64
 [ Handoff Failed Files ](#handoff-failed-list)| 0
-[ Handoff Success Files ](#handoff-success-list)| 5
+[ Handoff Success Files ](#handoff-success-list)| 4
 [ Archive Failed Files ](#archive-failed-list)| 0
 [ Archive Success Files ](#archive-success-list)| 0
 [ Handback Failed Files ](#handback-failed-list)| 0
 [ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 5
-[ In Sync Handback Files ](#insync-handback-success-list)| 46
+[ In Sync Handback Files ](#insync-handback-success-list)| 47
 [ Ignored Files ](#ignored-list)| 8
 
 ## <a name='handoff-failed-list'></a> Handoff Failed File List
@@ -22,7 +22,6 @@
  [dsc\images\PartialConfigPullServer.jpg](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/46ecc054c2a848e8c31a156b55f298e6b4984750/dsc/images/PartialConfigPullServer.jpg) | HandedOffSuccess | [Details](#1ba842005c2b1ce80a3670429b3e010c7b1c1f5921)
  [dsc\images\Pull.png](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/46ecc054c2a848e8c31a156b55f298e6b4984750/dsc/images/Pull.png) | HandedOffSuccess | [Details](#86d829b1fcdd41e648ed0594eaf337b3726c143c22)
  [dsc\images\Push.png](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/46ecc054c2a848e8c31a156b55f298e6b4984750/dsc/images/Push.png) | HandedOffSuccess | [Details](#d3008e3fe7da4c118c693d2b34a0b329780f8d8623)
- [dsc\Test1\SonjaTest.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/e5a2d47f5fb96591929145bd6895eadc642136f1/dsc/Test1/SonjaTest.md) | HandedOffSuccess | [Details](#27daeca973361d35caa48d668078a0ef7f64353654)
 
 ## <a name='archive-failed-list'></a> Archive Failed File List
 
@@ -83,6 +82,7 @@
  [dsc\secureMOF.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/36b7625bf81bb4eac9d5c2cdcd410514dd367101/dsc/secureMOF.md) | InSyncHandedBackSuccess | [Details](#14cf6c2005eb756200e7fd065b61e4120d84c02e51)
  [dsc\secureServer.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/36b7625bf81bb4eac9d5c2cdcd410514dd367101/dsc/secureServer.md) | InSyncHandedBackSuccess | [Details](#2290a81a8dbc82b7881d2b6006d70a90578f9a5652)
  [dsc\serviceResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/36b7625bf81bb4eac9d5c2cdcd410514dd367101/dsc/serviceResource.md) | InSyncHandedBackSuccess | [Details](#ca609ad6055d8053e43e482ed2e57b3db41c354953)
+ [dsc\Test1\SonjaTest.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/e5a2d47f5fb96591929145bd6895eadc642136f1/dsc/Test1/SonjaTest.md) | InSyncHandedBackSuccess | [Details](#27daeca973361d35caa48d668078a0ef7f64353654)
  [dsc\TOC.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/36b7625bf81bb4eac9d5c2cdcd410514dd367101/dsc/TOC.md) | InSyncHandedBackSuccess | [Details](#66cefb1620ad412d3f4e041561ae1df356fdb1e655)
  [dsc\troubleshooting.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/36b7625bf81bb4eac9d5c2cdcd410514dd367101/dsc/troubleshooting.md) | InSyncHandedBackSuccess | [Details](#2886767875ee6a9882ca050e34787cfa1fb6410956)
  [dsc\userResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/36b7625bf81bb4eac9d5c2cdcd410514dd367101/dsc/userResource.md) | InSyncHandedBackSuccess | [Details](#e4b793025b00cb3137eddc0e7ec437f03abdf3c457)
@@ -767,15 +767,15 @@
 * [Back to Top](#report-top)
 
 ##### <a name='27daeca973361d35caa48d668078a0ef7f64353654'></a> Source: [dsc\Test1\SonjaTest.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/e5a2d47f5fb96591929145bd6895eadc642136f1/dsc/Test1/SonjaTest.md)
-* Status: HandedOffSuccess
-* Target File: 
+* Status: InSyncHandedBackSuccess
+* Target File: [dsc\Test1\SonjaTest.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs.de-de/blob/6dd6a393cf5494a5424c07b0840c3751fd25aec3/dsc/Test1/SonjaTest.md)
 * Handoff File: [SonjaTest.bab99385ac372c3ae450ecdd8e590c3ad3219939.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/234f7c9425b988e291e46cc3b6c6159a6ac95cc7/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/SonjaTest.bab99385ac372c3ae450ecdd8e590c3ad3219939.de-de.xlf)
 * Handoff Datetime: 2016-03-24 23:59:52
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
+* Handback File: [SonjaTest.bab99385ac372c3ae450ecdd8e590c3ad3219939.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/b99db412a104b58168e65383cb05e64b931df100/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/SonjaTest.bab99385ac372c3ae450ecdd8e590c3ad3219939.de-de.xlf)
+* Handback Datetime: 2016-03-28 22:03:20
 * [Back to Top](#report-top)
 
 ##### <a name='66cefb1620ad412d3f4e041561ae1df356fdb1e655'></a> Source: [dsc\TOC.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/36b7625bf81bb4eac9d5c2cdcd410514dd367101/dsc/TOC.md)
