@@ -1078,9 +1078,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\live\\archive\\1ba842005c2b1ce80a3670429b3e010c7b1c1f59.jpg",
+      "ArchiveFileCommit": "7d12bbf2a1d20e21008f83239eb4ec1c7a39dcbb",
+      "ArchiveFileDateTime": "2016-04-05T03:37:28.7239644Z",
       "ArchiveException": null
     },
     "4cb0a0836e56ca31f9e101be81e1427493cbbcd5": {

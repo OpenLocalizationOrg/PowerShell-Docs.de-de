@@ -5,9 +5,9 @@
  -------- | ----- 
  Total Files | 64
 [ Handoff Failed Files ](#handoff-failed-list)| 0
-[ Handoff Success Files ](#handoff-success-list)| 55
+[ Handoff Success Files ](#handoff-success-list)| 54
 [ Archive Failed Files ](#archive-failed-list)| 0
-[ Archive Success Files ](#archive-success-list)| 0
+[ Archive Success Files ](#archive-success-list)| 1
 [ Handback Failed Files ](#handback-failed-list)| 0
 [ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 0
 [ In Sync Handback Files ](#insync-handback-success-list)| 0
@@ -34,7 +34,6 @@
  [dsc\fileResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/9a43f1261204b8d1577ec78786f8f7cee724668a/dsc/fileResource.md) | HandedOffSuccess | [Details](#ce115dd79b0793718f8e79bb465f244b7cc725b119)
  [dsc\groupResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/9a43f1261204b8d1577ec78786f8f7cee724668a/dsc/groupResource.md) | HandedOffSuccess | [Details](#bc098355d65bff2203a212f2387be6f79fbb63e820)
  [dsc\images\PartialConfig1.jpg](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/9a43f1261204b8d1577ec78786f8f7cee724668a/dsc/images/PartialConfig1.jpg) | HandedOffSuccess | [Details](#3e61149f7b05f74d662d3038233013ffdcbed1a321)
- [dsc\images\PartialConfigPullServer.jpg](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/9a43f1261204b8d1577ec78786f8f7cee724668a/dsc/images/PartialConfigPullServer.jpg) | HandedOffSuccess | [Details](#1ba842005c2b1ce80a3670429b3e010c7b1c1f5922)
  [dsc\images\Pull.png](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/9a43f1261204b8d1577ec78786f8f7cee724668a/dsc/images/Pull.png) | HandedOffSuccess | [Details](#86d829b1fcdd41e648ed0594eaf337b3726c143c23)
  [dsc\images\Push.png](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/9a43f1261204b8d1577ec78786f8f7cee724668a/dsc/images/Push.png) | HandedOffSuccess | [Details](#d3008e3fe7da4c118c693d2b34a0b329780f8d8624)
  [dsc\lnxArchiveResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/9a43f1261204b8d1577ec78786f8f7cee724668a/dsc/lnxArchiveResource.md) | HandedOffSuccess | [Details](#2e0a09a025bcee8fc97e417b21a51773904a0d2e25)
@@ -77,6 +76,9 @@
 ## <a name='archive-failed-list'></a> Archive Failed File List
 
 ## <a name='archive-success-list'></a> Archive Success File List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [dsc\images\PartialConfigPullServer.jpg](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/9a43f1261204b8d1577ec78786f8f7cee724668a/dsc/images/PartialConfigPullServer.jpg) | ArchivedSuccess | [Details](#1ba842005c2b1ce80a3670429b3e010c7b1c1f5922)
 
 ## <a name='handback-failed-list'></a> Handback Failed File List
 
@@ -364,13 +366,13 @@
 * [Back to Top](#report-top)
 
 ##### <a name='1ba842005c2b1ce80a3670429b3e010c7b1c1f5922'></a> Source: [dsc\images\PartialConfigPullServer.jpg](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/9a43f1261204b8d1577ec78786f8f7cee724668a/dsc/images/PartialConfigPullServer.jpg)
-* Status: HandedOffSuccess
+* Status: ArchivedSuccess
 * Target File: 
 * Handoff File: [1ba842005c2b1ce80a3670429b3e010c7b1c1f59.jpg](https://github.com/OpenLocalizationOrg/olhandoff/blob/cfa55863a99e5bda37f0d33f474416f7795dfc48/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/live/1ba842005c2b1ce80a3670429b3e010c7b1c1f59.jpg)
 * Handoff Datetime: 2016-01-05 07:32:57
 * Handoff Reason: IsDependency
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
+* Archive File: [1ba842005c2b1ce80a3670429b3e010c7b1c1f59.jpg](https://github.com/OpenLocalizationOrg/olhandoff/blob/7d12bbf2a1d20e21008f83239eb4ec1c7a39dcbb/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/live/archive/1ba842005c2b1ce80a3670429b3e010c7b1c1f59.jpg)
+* Archive Datetime: 2016-04-05 03:37:28
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * Dependency From: dsc\partialConfigs.md
