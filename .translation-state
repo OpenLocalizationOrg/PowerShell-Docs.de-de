@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "d5ec439356d12304ceb6b2b3257885aa2cc461b7",
+  "LastProcessedCommit": "d8673d1d50c12395eab9b9aff5bc57189f5ce80b",
   "LastTranslatedCommit": "b980fb7bf0188fb51b987abbed757d4aba49a660",
   "Items": {
     "c3b8854dbecd4ab03e46c51a23ac00461bdd7014": {
@@ -2257,6 +2257,66 @@
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\partialConfigs.f483ab7fa1511b557780a02b5b807245f730c1b6.de-de.xlf",
       "HandoffFileCommit": "f68329d7b0379690dac42102e29fbaaa4efa405a",
       "HandoffDateTime": "2016-04-13T18:37:49.9588933Z",
+      "HandoffPriority": "",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "a20dd5927999cbb3c1125bd4ff8944954abc84a9": {
+      "FileHash": "a20dd5927999cbb3c1125bd4ff8944954abc84a9",
+      "SourceFileCommit": "d8673d1d50c12395eab9b9aff5bc57189f5ce80b",
+      "SourceFilePath": "dsc\\images\\Pull1.png",
+      "HandoffReason": 2,
+      "DependencyFrom": [
+        "dsc\\partialConfigs.md"
+      ],
+      "TokenReference": null,
+      "FilePathList": [
+        "dsc\\images\\Pull1.png"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\a20dd5927999cbb3c1125bd4ff8944954abc84a9.png",
+      "HandoffFileCommit": "b5f4039ed87ef62b16c516110e428699f41a1578",
+      "HandoffDateTime": "2016-04-13T18:47:39.2360754Z",
+      "HandoffPriority": "",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "da410bf1b10ae360fda5734aecb19f33331aea47": {
+      "FileHash": "da410bf1b10ae360fda5734aecb19f33331aea47",
+      "SourceFileCommit": "d8673d1d50c12395eab9b9aff5bc57189f5ce80b",
+      "SourceFilePath": "dsc\\partialConfigs.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "TokenReference": null,
+      "FilePathList": [
+        "dsc\\partialConfigs.md"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\partialConfigs.f483ab7fa1511b557780a02b5b807245f730c1b6.de-de.xlf",
+      "HandoffFileCommit": "b5f4039ed87ef62b16c516110e428699f41a1578",
+      "HandoffDateTime": "2016-04-13T18:47:39.2360754Z",
       "HandoffPriority": "",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
