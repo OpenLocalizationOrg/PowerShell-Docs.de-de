@@ -2,11 +2,17 @@
   "c3b8854dbecd4ab03e46c51a23ac00461bdd7014": [
     "CONTRIBUTING.md"
   ],
+  "ffe9d4d734e51f68031e6c7df6068d8dd71e61cb": [
+    "dsc\\archiveResource.md"
+  ],
   "81efeb79a70df604ef8c126c0ebd17b4f4711a44": [
     "dsc\\archiveResource.md"
   ],
   "d0d36cc79854de58e99c4984ef47dab41a4e7df4": [
     "dsc\\archiveResource.md"
+  ],
+  "9ea62ec24425a14aae82050e6098e5fe9aef0550": [
+    "dsc\\authoringResource.md"
   ],
   "fde661d2dc3c7c099c34134f4e665ba02cc3ceb9": [
     "dsc\\authoringResource.md"
@@ -104,20 +110,17 @@
   "ef2664b6dd61bd55898971adf7e4a57f92be88cc": [
     "dsc\\metaConfig4.md"
   ],
-  "7f5f99f0f0befde13272221e376006dffbddb994": [
-    "dsc\\overview.md"
-  ],
   "9c9f1da0b560c44c9760583c4193bdf4eaee09f7": [
     "dsc\\packageResource.md"
+  ],
+  "127e4f2cb6925f771c7f8695b47d421a7ddad156": [
+    "dsc\\partialConfigs.md"
   ],
   "3f1843e8a1335617c562084ce69fc82ae7c2c694": [
     "dsc\\partialConfigs.md"
   ],
   "3e61149f7b05f74d662d3038233013ffdcbed1a3": [
     "dsc\\images\\PartialConfig1.jpg"
-  ],
-  "1ba842005c2b1ce80a3670429b3e010c7b1c1f59": [
-    "dsc\\images\\PartialConfigPullServer.jpg"
   ],
   "4cb0a0836e56ca31f9e101be81e1427493cbbcd5": [
     "dsc\\pullClient.md"
@@ -179,11 +182,8 @@
   "9abd5f2bd558706c03e2c0da58503ef914d08142": [
     "README.md"
   ],
-  "91b5eedfa30db98ae6b92251819037478fcc297d": [
-    "dsc\\Test1\\SonjaTest.md"
-  ],
-  "27daeca973361d35caa48d668078a0ef7f643536": [
-    "dsc\\Test1\\SonjaTest.md"
+  "69d23bf4e3d757777db90569dc8de830aeaf15d9": [
+    "dsc\\Test1\\OpenLoc is cool.md"
   ],
   "0e5e26f8c14790ce9de7c2c788c80a895dddb47d": [
     "dsc\\Test1\\OpenLoc is cool.md"
@@ -193,5 +193,8 @@
   ],
   "6c6311c3d6bdafefa766356266b6aa934c84f4c9": [
     "dsc\\Test1\\SonjaFileToo.md"
+  ],
+  "d4e485c4e2461db1b7cca67d12d1a7dd331996a6": [
+    "dsc\\testmove2\\overview-test2.md"
   ]
 }
