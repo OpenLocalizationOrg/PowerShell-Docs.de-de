@@ -1,14 +1,27 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 1
+ Total Files | 2
 
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
+ [albina\Exclude.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/9c419cd8c9dbcc9d4665b549ff78fb6fce507874/albina/Exclude.md) | HandedOffSuccess | [Details](#75df3e5c84331cf063ec7255d0a91cc731109b054)
  [dsc\Test1\MoraviaDemo.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/b55a68d179ab003b414a0ab6459fdd2923ab108c/dsc/Test1/MoraviaDemo.md) | HandedOffFailed | [Details](#e60976865fe9b1b0115509c66b9973dea16992ec56)
 
 ## Item Details
+##### <a name='75df3e5c84331cf063ec7255d0a91cc731109b054'></a> Source: [albina\Exclude.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/9c419cd8c9dbcc9d4665b549ff78fb6fce507874/albina/Exclude.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [Exclude.8062154e3e7f8b504bfcefa7b1ec65857d6c6c72.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/43fb5b0877a5695a7c6e898a15bca73c75c78ee1/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Exclude.8062154e3e7f8b504bfcefa7b1ec65857d6c6c72.de-de.xlf)
+* Handoff Datetime: 2016-04-25 21:43:27
+* Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* [Back to Top](#report-top)
+
 ##### <a name='e60976865fe9b1b0115509c66b9973dea16992ec56'></a> Source: [dsc\Test1\MoraviaDemo.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/b55a68d179ab003b414a0ab6459fdd2923ab108c/dsc/Test1/MoraviaDemo.md)
 * Status: HandedOffFailed
 * Target File: 
