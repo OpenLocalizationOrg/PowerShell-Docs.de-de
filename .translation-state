@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "bf987b4e98d5c1961ff74ca2f3ee47d4000ce884",
+  "LastProcessedCommit": "daaad319bcb4fbd657ad3a26a75f8463b1834e83",
   "LastTranslatedCommit": "b980fb7bf0188fb51b987abbed757d4aba49a660",
   "Items": {
     "c3b8854dbecd4ab03e46c51a23ac00461bdd7014": {
@@ -2405,7 +2405,7 @@
       ],
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2016-04-25T20:33:23.1258801Z",
+      "HandoffDateTime": "2016-04-25T21:25:25.3126661Z",
       "HandoffPriority": "",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
@@ -2416,7 +2416,7 @@
         "stack_trace": "   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 388",
         "extended_information": null
       },
-      "HandoffFailureTimes": 5,
+      "HandoffFailureTimes": 6,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
