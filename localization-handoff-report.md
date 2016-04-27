@@ -1,12 +1,13 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 1
+ Total Files | 2
 
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
  [dsc\Test1\MoraviaDemo.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/b55a68d179ab003b414a0ab6459fdd2923ab108c/dsc/Test1/MoraviaDemo.md) | HandedOffFailed | [Details](#e60976865fe9b1b0115509c66b9973dea16992ec58)
+ [Sonja\Sonja_A.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/6b17eed699cafa6439a3554bbbc8980564bc7c5d/Sonja/Sonja_A.md) | HandedOffSuccess | [Details](#f08cf5cf212cff8aa1937f98eb76ef69b8cd3b5068)
 
 ## Item Details
 ##### <a name='e60976865fe9b1b0115509c66b9973dea16992ec58'></a> Source: [dsc\Test1\MoraviaDemo.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/b55a68d179ab003b414a0ab6459fdd2923ab108c/dsc/Test1/MoraviaDemo.md)
@@ -16,6 +17,18 @@
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
 * Handoff Error: [handoff_transform_failed](#e60976865fe9b1b0115509c66b9973dea16992ec58handoff_transform_failed)
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* [Back to Top](#report-top)
+
+##### <a name='f08cf5cf212cff8aa1937f98eb76ef69b8cd3b5068'></a> Source: [Sonja\Sonja_A.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/6b17eed699cafa6439a3554bbbc8980564bc7c5d/Sonja/Sonja_A.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [Sonja_A.cb75a5cb54fc3149075b9753c5307d2e5aa84c9a.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/4d57b84a3dc7f84a0cda3e787a9a620ff4bfc0ad/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Sonja_A.cb75a5cb54fc3149075b9753c5307d2e5aa84c9a.de-de.xlf)
+* Handoff Datetime: 2016-04-27 23:02:54
+* Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
