@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "e0cd7ab7af86c4ab46c960612a5d3b8b8195bc30",
+  "LastProcessedCommit": "6a8cbd12d2e0105ac33da7c4531af4a6d755ca7c",
   "LastTranslatedCommit": "b980fb7bf0188fb51b987abbed757d4aba49a660",
   "Items": {
     "c3b8854dbecd4ab03e46c51a23ac00461bdd7014": {
@@ -2488,7 +2488,7 @@
       "HasMetadata": false,
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2016-05-09T21:32:19.0226178Z",
+      "HandoffDateTime": "2016-05-11T21:08:07.6582206Z",
       "HandoffPriority": "",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
@@ -2496,10 +2496,10 @@
         "internal_error_retriable": false,
         "exception_message": "dsc\\Test1\\MoraviaDemo.md file with commit id b55a68d179ab003b414a0ab6459fdd2923ab108c can not be found",
         "exception_type": "System.IO.FileNotFoundException",
-        "stack_trace": "   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 388",
+        "stack_trace": "   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 389",
         "extended_information": null
       },
-      "HandoffFailureTimes": 12,
+      "HandoffFailureTimes": 13,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
@@ -2707,6 +2707,36 @@
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\authoringResource.106f1f4d77068b2b95f1927b611b5f405ec7a317.de-de.xlf",
       "HandoffFileCommit": "b9a08fd9659c378aa9f8a40c769db26acb9bfb48",
       "HandoffDateTime": "2016-05-09T21:32:19.0226178Z",
+      "HandoffPriority": "",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "abd70c1285a5f33e209692e746b7971926f54a58": {
+      "FileHash": "abd70c1285a5f33e209692e746b7971926f54a58",
+      "SourceFileCommit": "6a8cbd12d2e0105ac33da7c4531af4a6d755ca7c",
+      "SourceFilePath": "dsc\\authoringResource.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "TokenReference": null,
+      "FilePathList": [
+        "dsc\\authoringResource.md"
+      ],
+      "HasMetadata": false,
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\authoringResource.106f1f4d77068b2b95f1927b611b5f405ec7a317.de-de.xlf",
+      "HandoffFileCommit": "78a335f5466a45b22b52600d2831d58b1cadbf0b",
+      "HandoffDateTime": "2016-05-11T21:08:07.6425949Z",
       "HandoffPriority": "",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
