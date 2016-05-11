@@ -12,6 +12,7 @@
       "FilePathList": [
         "CONTRIBUTING.md"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\CONTRIBUTING.3f454a98e586d1aa0d322e19afd5e67e08f2d3c8.de-de.xlf",
       "HandoffFileCommit": "9c95c636c46af8b12e98b2c7753517e92e88ad85",
       "HandoffDateTime": "2015-11-06T03:02:49.2525619Z",
@@ -41,6 +42,7 @@
       "FilePathList": [
         "dsc\\archiveResource.md"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\archiveResource.b4701b9fe5acf94be3fabf470371d8e47dd154d4.de-de.xlf",
       "HandoffFileCommit": "9c95c636c46af8b12e98b2c7753517e92e88ad85",
       "HandoffDateTime": "2015-11-06T03:02:49.2525619Z",
@@ -70,6 +72,7 @@
       "FilePathList": [
         "dsc\\authoringResource.md"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\authoringResource.106f1f4d77068b2b95f1927b611b5f405ec7a317.de-de.xlf",
       "HandoffFileCommit": "9c95c636c46af8b12e98b2c7753517e92e88ad85",
       "HandoffDateTime": "2015-11-06T03:02:49.2525619Z",
@@ -99,6 +102,7 @@
       "FilePathList": [
         "dsc\\authoringResourceClass.md"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\authoringResourceClass.3603134df9ad1cad202d10769ff631a083cc3aae.de-de.xlf",
       "HandoffFileCommit": "9c95c636c46af8b12e98b2c7753517e92e88ad85",
       "HandoffDateTime": "2015-11-06T03:02:49.2525619Z",
@@ -128,6 +132,7 @@
       "FilePathList": [
         "dsc\\authoringResourceComposite.md"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\authoringResourceComposite.6d5d1e53e83e25cfc63e26078da390a4fa6737f2.de-de.xlf",
       "HandoffFileCommit": "9c95c636c46af8b12e98b2c7753517e92e88ad85",
       "HandoffDateTime": "2015-11-06T03:02:49.2525619Z",
@@ -157,6 +162,7 @@
       "FilePathList": [
         "dsc\\authoringResourceMOF.md"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\authoringResourceMOF.1f503c33425780c369e78193e2f2f4e9242c401b.de-de.xlf",
       "HandoffFileCommit": "9c95c636c46af8b12e98b2c7753517e92e88ad85",
       "HandoffDateTime": "2015-11-06T03:02:49.2525619Z",
@@ -186,6 +192,7 @@
       "FilePathList": [
         "dsc\\authoringResourceMofCS.md"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\authoringResourceMofCS.0647b27b00ec52b2f524a2856e48bc7c29c0f867.de-de.xlf",
       "HandoffFileCommit": "9c95c636c46af8b12e98b2c7753517e92e88ad85",
       "HandoffDateTime": "2015-11-06T03:02:49.2525619Z",
@@ -215,6 +222,7 @@
       "FilePathList": [
         "dsc\\authoringResourceMofDesigner.md"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\authoringResourceMofDesigner.09b1adffc4afb0d9b1154880e2dab0b25d82d51b.de-de.xlf",
       "HandoffFileCommit": "9c95c636c46af8b12e98b2c7753517e92e88ad85",
       "HandoffDateTime": "2015-11-06T03:02:49.2525619Z",
@@ -244,6 +252,7 @@
       "FilePathList": [
         "dsc\\builtInResource.md"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\builtInResource.2f855e1582347e986aa4e5e62b842b886596fdc2.de-de.xlf",
       "HandoffFileCommit": "9c95c636c46af8b12e98b2c7753517e92e88ad85",
       "HandoffDateTime": "2015-11-06T03:02:49.2525619Z",
@@ -273,6 +282,7 @@
       "FilePathList": [
         "dsc\\configData.md"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\configData.51d01a46dd9af8b425788cc485523b09f8470b95.de-de.xlf",
       "HandoffFileCommit": "9c95c636c46af8b12e98b2c7753517e92e88ad85",
       "HandoffDateTime": "2015-11-06T03:02:49.2525619Z",
@@ -302,6 +312,7 @@
       "FilePathList": [
         "dsc\\configurations.md"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\configurations.02626ddbf3a00f8ede56fdfd2e46a027800e75b6.de-de.xlf",
       "HandoffFileCommit": "9c95c636c46af8b12e98b2c7753517e92e88ad85",
       "HandoffDateTime": "2015-11-06T03:02:49.2525619Z",
@@ -331,6 +342,7 @@
       "FilePathList": [
         "dsc\\enactingConfigurations.md"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\enactingConfigurations.5949c3926cc7d368fa49b0ba340a078984794e5d.de-de.xlf",
       "HandoffFileCommit": "9c95c636c46af8b12e98b2c7753517e92e88ad85",
       "HandoffDateTime": "2015-11-06T03:02:49.2525619Z",
@@ -362,6 +374,7 @@
       "FilePathList": [
         "dsc\\images\\Push.png"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\d3008e3fe7da4c118c693d2b34a0b329780f8d86.png",
       "HandoffFileCommit": "9df3005c2111d8665ed834aa4827cadbaeb9ad7b",
       "HandoffDateTime": "2016-02-23T18:16:07.4512413Z",
@@ -394,6 +407,7 @@
       "FilePathList": [
         "dsc\\images\\Pull.png"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\86d829b1fcdd41e648ed0594eaf337b3726c143c.png",
       "HandoffFileCommit": "9df3005c2111d8665ed834aa4827cadbaeb9ad7b",
       "HandoffDateTime": "2016-02-23T18:16:07.4512413Z",
@@ -423,6 +437,7 @@
       "FilePathList": [
         "dsc\\environmentResource.md"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\environmentResource.eb91ffd4cd8bdb9476e5a83de1a20d3b7b502a56.de-de.xlf",
       "HandoffFileCommit": "9c95c636c46af8b12e98b2c7753517e92e88ad85",
       "HandoffDateTime": "2015-11-06T03:02:49.2525619Z",
@@ -452,6 +467,7 @@
       "FilePathList": [
         "dsc\\fileResource.md"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\fileResource.ad0d9bba41b615db808e5dfc814b50945863b3da.de-de.xlf",
       "HandoffFileCommit": "9c95c636c46af8b12e98b2c7753517e92e88ad85",
       "HandoffDateTime": "2015-11-06T03:02:49.2525619Z",
@@ -481,6 +497,7 @@
       "FilePathList": [
         "dsc\\groupResource.md"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\groupResource.d19d416269795c92566b62c36b9782062dcea43e.de-de.xlf",
       "HandoffFileCommit": "9c95c636c46af8b12e98b2c7753517e92e88ad85",
       "HandoffDateTime": "2015-11-06T03:02:49.2525619Z",
@@ -510,6 +527,7 @@
       "FilePathList": [
         "dsc\\lnxArchiveResource.md"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\lnxArchiveResource.095aab7d23720fd394f2573c30223a6bbcc0a4ef.de-de.xlf",
       "HandoffFileCommit": "9c95c636c46af8b12e98b2c7753517e92e88ad85",
       "HandoffDateTime": "2015-11-06T03:02:49.2525619Z",
@@ -539,6 +557,7 @@
       "FilePathList": [
         "dsc\\lnxBuiltInResources.md"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\lnxBuiltInResources.12cc0e2a7d17afe6b1e1b9c928760080863926f9.de-de.xlf",
       "HandoffFileCommit": "9c95c636c46af8b12e98b2c7753517e92e88ad85",
       "HandoffDateTime": "2015-11-06T03:02:49.2525619Z",
@@ -568,6 +587,7 @@
       "FilePathList": [
         "dsc\\lnxEnvironmentResource.md"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\lnxEnvironmentResource.60c6523b1d06708f748c9039105a2042fa341552.de-de.xlf",
       "HandoffFileCommit": "9c95c636c46af8b12e98b2c7753517e92e88ad85",
       "HandoffDateTime": "2015-11-06T03:02:49.2525619Z",
@@ -597,6 +617,7 @@
       "FilePathList": [
         "dsc\\lnxFileLineResource.md"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\lnxFileLineResource.d91fc802a4c6cdbff5a2e35f92b34c36c6dbf5eb.de-de.xlf",
       "HandoffFileCommit": "9c95c636c46af8b12e98b2c7753517e92e88ad85",
       "HandoffDateTime": "2015-11-06T03:02:49.2525619Z",
@@ -626,6 +647,7 @@
       "FilePathList": [
         "dsc\\lnxFileResource.md"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\lnxFileResource.1f67ed46e7bb4ac04f73143e1d7ab7e9199d3191.de-de.xlf",
       "HandoffFileCommit": "9c95c636c46af8b12e98b2c7753517e92e88ad85",
       "HandoffDateTime": "2015-11-06T03:02:49.2525619Z",
@@ -655,6 +677,7 @@
       "FilePathList": [
         "dsc\\lnxGettingStarted.md"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\lnxGettingStarted.1601cf6d0eb8b4f7343575c8fbf2106bfaad8b65.de-de.xlf",
       "HandoffFileCommit": "9c95c636c46af8b12e98b2c7753517e92e88ad85",
       "HandoffDateTime": "2015-11-06T03:02:49.2525619Z",
@@ -684,6 +707,7 @@
       "FilePathList": [
         "dsc\\lnxGroupResource.md"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\lnxGroupResource.0cedb684d797032bd47cdb852629c36da0884567.de-de.xlf",
       "HandoffFileCommit": "9c95c636c46af8b12e98b2c7753517e92e88ad85",
       "HandoffDateTime": "2015-11-06T03:02:49.2525619Z",
@@ -713,6 +737,7 @@
       "FilePathList": [
         "dsc\\lnxPackageResource.md"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\lnxPackageResource.db35ab938bbfbb38cae53fe9ae98fd22b5f18009.de-de.xlf",
       "HandoffFileCommit": "9c95c636c46af8b12e98b2c7753517e92e88ad85",
       "HandoffDateTime": "2015-11-06T03:02:49.2525619Z",
@@ -742,6 +767,7 @@
       "FilePathList": [
         "dsc\\lnxScriptResource.md"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\lnxScriptResource.1344a5d5b807ee53705e93842d9ef5e25a883359.de-de.xlf",
       "HandoffFileCommit": "9c95c636c46af8b12e98b2c7753517e92e88ad85",
       "HandoffDateTime": "2015-11-06T03:02:49.2525619Z",
@@ -771,6 +797,7 @@
       "FilePathList": [
         "dsc\\lnxServiceResource.md"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\lnxServiceResource.e637c7f7b18939ec8c16eadf2c42ab00e236fb7b.de-de.xlf",
       "HandoffFileCommit": "9c95c636c46af8b12e98b2c7753517e92e88ad85",
       "HandoffDateTime": "2015-11-06T03:02:49.2525619Z",
@@ -800,6 +827,7 @@
       "FilePathList": [
         "dsc\\lnxSshAuthorizedKeysResource.md"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\lnxSshAuthorizedKeysResource.9a647ff238cd38a2fc7da58f3cc5682acf7d3346.de-de.xlf",
       "HandoffFileCommit": "9c95c636c46af8b12e98b2c7753517e92e88ad85",
       "HandoffDateTime": "2015-11-06T03:02:49.2525619Z",
@@ -829,6 +857,7 @@
       "FilePathList": [
         "dsc\\lnxUserResource.md"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\lnxUserResource.2376554a25dd8dfad6a78a6180b7c7166e4817e1.de-de.xlf",
       "HandoffFileCommit": "9c95c636c46af8b12e98b2c7753517e92e88ad85",
       "HandoffDateTime": "2015-11-06T03:02:49.2525619Z",
@@ -858,6 +887,7 @@
       "FilePathList": [
         "dsc\\logResource.md"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\logResource.07af9dfcf6076ef19059178c3b404762677920f0.de-de.xlf",
       "HandoffFileCommit": "9c95c636c46af8b12e98b2c7753517e92e88ad85",
       "HandoffDateTime": "2015-11-06T03:02:49.2525619Z",
@@ -887,6 +917,7 @@
       "FilePathList": [
         "dsc\\metaConfig.md"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\metaConfig.915dba9ed66671e4a41c35a16d5248bb4c94e3d6.de-de.xlf",
       "HandoffFileCommit": "9c95c636c46af8b12e98b2c7753517e92e88ad85",
       "HandoffDateTime": "2015-11-06T03:02:49.2525619Z",
@@ -916,6 +947,7 @@
       "FilePathList": [
         "dsc\\metaConfig4.md"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\metaConfig4.4ec702d458e6574099cead724f0e57c3c5d262df.de-de.xlf",
       "HandoffFileCommit": "9c95c636c46af8b12e98b2c7753517e92e88ad85",
       "HandoffDateTime": "2015-11-06T03:02:49.2525619Z",
@@ -945,6 +977,7 @@
       "FilePathList": [
         "dsc\\overview.md"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\overview.8cc85dd99239e10c76baa6006d906abfd6122c3f.de-de.xlf",
       "HandoffFileCommit": "9c95c636c46af8b12e98b2c7753517e92e88ad85",
       "HandoffDateTime": "2015-11-06T03:02:49.2525619Z",
@@ -974,6 +1007,7 @@
       "FilePathList": [
         "dsc\\packageResource.md"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\packageResource.132c4949cee174dc0dc324456d220436cb9884e6.de-de.xlf",
       "HandoffFileCommit": "9c95c636c46af8b12e98b2c7753517e92e88ad85",
       "HandoffDateTime": "2015-11-06T03:02:49.2525619Z",
@@ -1003,6 +1037,7 @@
       "FilePathList": [
         "dsc\\partialConfigs.md"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\partialConfigs.f483ab7fa1511b557780a02b5b807245f730c1b6.de-de.xlf",
       "HandoffFileCommit": "9c95c636c46af8b12e98b2c7753517e92e88ad85",
       "HandoffDateTime": "2015-11-06T03:02:49.2525619Z",
@@ -1034,6 +1069,7 @@
       "FilePathList": [
         "dsc\\images\\PartialConfig1.jpg"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\3e61149f7b05f74d662d3038233013ffdcbed1a3.jpg",
       "HandoffFileCommit": "9df3005c2111d8665ed834aa4827cadbaeb9ad7b",
       "HandoffDateTime": "2016-02-23T18:16:07.4512413Z",
@@ -1065,6 +1101,7 @@
       "FilePathList": [
         "dsc\\images\\PartialConfigPullServer.jpg"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\1ba842005c2b1ce80a3670429b3e010c7b1c1f59.jpg",
       "HandoffFileCommit": "9df3005c2111d8665ed834aa4827cadbaeb9ad7b",
       "HandoffDateTime": "2016-02-23T18:16:07.4512413Z",
@@ -1094,6 +1131,7 @@
       "FilePathList": [
         "dsc\\pullClient.md"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\pullClient.4844144e7d40a6e8b1be2cfaa80a5307f19f47f9.de-de.xlf",
       "HandoffFileCommit": "9c95c636c46af8b12e98b2c7753517e92e88ad85",
       "HandoffDateTime": "2015-11-06T03:02:49.2525619Z",
@@ -1123,6 +1161,7 @@
       "FilePathList": [
         "dsc\\pullClientConfigID.md"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\pullClientConfigID.1b955603d220e49bbe52711bacf74c46feec04cc.de-de.xlf",
       "HandoffFileCommit": "9c95c636c46af8b12e98b2c7753517e92e88ad85",
       "HandoffDateTime": "2015-11-06T03:02:49.2525619Z",
@@ -1152,6 +1191,7 @@
       "FilePathList": [
         "dsc\\pullClientConfigID4.md"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\pullClientConfigID4.3556f8028eee8a539990f2895506bcbafb14a012.de-de.xlf",
       "HandoffFileCommit": "9c95c636c46af8b12e98b2c7753517e92e88ad85",
       "HandoffDateTime": "2015-11-06T03:02:49.2525619Z",
@@ -1181,6 +1221,7 @@
       "FilePathList": [
         "dsc\\pullClientConfigNames.md"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\pullClientConfigNames.90531abb3b29bfd751ad2f3a115a4ba02024827e.de-de.xlf",
       "HandoffFileCommit": "9c95c636c46af8b12e98b2c7753517e92e88ad85",
       "HandoffDateTime": "2015-11-06T03:02:49.2525619Z",
@@ -1210,6 +1251,7 @@
       "FilePathList": [
         "dsc\\pullServer.md"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\pullServer.4b925b277da29998394af746bdbdd508fda48909.de-de.xlf",
       "HandoffFileCommit": "9c95c636c46af8b12e98b2c7753517e92e88ad85",
       "HandoffDateTime": "2015-11-06T03:02:49.2525619Z",
@@ -1239,6 +1281,7 @@
       "FilePathList": [
         "dsc\\queryServerNodes.md"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\queryServerNodes.bb63da39c46de8db127c93721dcbec9b10f73d2d.de-de.xlf",
       "HandoffFileCommit": "9c95c636c46af8b12e98b2c7753517e92e88ad85",
       "HandoffDateTime": "2015-11-06T03:02:49.2525619Z",
@@ -1268,6 +1311,7 @@
       "FilePathList": [
         "dsc\\registryResource.md"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\registryResource.7e5e3fabff013c107bd112ac774a50c9cab7c90a.de-de.xlf",
       "HandoffFileCommit": "9c95c636c46af8b12e98b2c7753517e92e88ad85",
       "HandoffDateTime": "2015-11-06T03:02:49.2525619Z",
@@ -1297,6 +1341,7 @@
       "FilePathList": [
         "dsc\\resources.md"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\resources.41990b4bc17648676f43a9aedfa72aa3db455ca3.de-de.xlf",
       "HandoffFileCommit": "9c95c636c46af8b12e98b2c7753517e92e88ad85",
       "HandoffDateTime": "2015-11-06T03:02:49.2525619Z",
@@ -1326,6 +1371,7 @@
       "FilePathList": [
         "dsc\\scriptResource.md"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\scriptResource.086a4e23c7f1950435cf115060757fcd9b7f7f5d.de-de.xlf",
       "HandoffFileCommit": "9c95c636c46af8b12e98b2c7753517e92e88ad85",
       "HandoffDateTime": "2015-11-06T03:02:49.2525619Z",
@@ -1355,6 +1401,7 @@
       "FilePathList": [
         "dsc\\secureMOF.md"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\secureMOF.84bae90620632fc30568f4afa595e2b86e8aa6d1.de-de.xlf",
       "HandoffFileCommit": "9c95c636c46af8b12e98b2c7753517e92e88ad85",
       "HandoffDateTime": "2015-11-06T03:02:49.2525619Z",
@@ -1384,6 +1431,7 @@
       "FilePathList": [
         "dsc\\secureServer.md"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\secureServer.ce207607010d18109152742ba23c923cd3cddba2.de-de.xlf",
       "HandoffFileCommit": "9c95c636c46af8b12e98b2c7753517e92e88ad85",
       "HandoffDateTime": "2015-11-06T03:02:49.2525619Z",
@@ -1413,6 +1461,7 @@
       "FilePathList": [
         "dsc\\serviceResource.md"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\serviceResource.17d839ef9952ec1a45ba971fcff47a80c41593cf.de-de.xlf",
       "HandoffFileCommit": "9c95c636c46af8b12e98b2c7753517e92e88ad85",
       "HandoffDateTime": "2015-11-06T03:02:49.2525619Z",
@@ -1442,6 +1491,7 @@
       "FilePathList": [
         "dsc\\TOC.md"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\TOC.b2a7935bce42ebc7e43bfe65f3058900e2942427.de-de.xlf",
       "HandoffFileCommit": "9c95c636c46af8b12e98b2c7753517e92e88ad85",
       "HandoffDateTime": "2015-11-06T03:02:49.2525619Z",
@@ -1471,6 +1521,7 @@
       "FilePathList": [
         "dsc\\troubleshooting.md"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\troubleshooting.bcb1039de4ec46bfb0ab2d224be50829d0891e7d.de-de.xlf",
       "HandoffFileCommit": "9c95c636c46af8b12e98b2c7753517e92e88ad85",
       "HandoffDateTime": "2015-11-06T03:02:49.2525619Z",
@@ -1500,6 +1551,7 @@
       "FilePathList": [
         "dsc\\userResource.md"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\userResource.5de4fbe03e9e06934442ba451eb0564931863f45.de-de.xlf",
       "HandoffFileCommit": "9c95c636c46af8b12e98b2c7753517e92e88ad85",
       "HandoffDateTime": "2015-11-06T03:02:49.2525619Z",
@@ -1529,6 +1581,7 @@
       "FilePathList": [
         "dsc\\windowsfeatureResource.md"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\windowsfeatureResource.07b968eb71ba947a4bf5fa25add8a0e2c25bcadf.de-de.xlf",
       "HandoffFileCommit": "9c95c636c46af8b12e98b2c7753517e92e88ad85",
       "HandoffDateTime": "2015-11-06T03:02:49.2525619Z",
@@ -1558,6 +1611,7 @@
       "FilePathList": [
         "dsc\\windowsProcessResource.md"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\windowsProcessResource.d5014f2fde06deea365cd1e64a3587c037999fa7.de-de.xlf",
       "HandoffFileCommit": "9c95c636c46af8b12e98b2c7753517e92e88ad85",
       "HandoffDateTime": "2015-11-06T03:02:49.2525619Z",
@@ -1587,6 +1641,7 @@
       "FilePathList": [
         "README.md"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\README.8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d.de-de.xlf",
       "HandoffFileCommit": "9c95c636c46af8b12e98b2c7753517e92e88ad85",
       "HandoffDateTime": "2015-11-06T03:02:49.2525619Z",
@@ -1616,6 +1671,7 @@
       "FilePathList": [
         "README.md"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\README.8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d.de-de.xlf",
       "HandoffFileCommit": "f420a9ca54ee04b14c3a5fccc4dafe6e3094abf7",
       "HandoffDateTime": "2016-01-05T07:26:32.1708284Z",
@@ -1645,6 +1701,7 @@
       "FilePathList": [
         "dsc\\archiveResource.md"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\archiveResource.b4701b9fe5acf94be3fabf470371d8e47dd154d4.de-de.xlf",
       "HandoffFileCommit": "9df3005c2111d8665ed834aa4827cadbaeb9ad7b",
       "HandoffDateTime": "2016-02-23T18:16:07.4512413Z",
@@ -1674,6 +1731,7 @@
       "FilePathList": [
         "dsc\\authoringResourceClass.md"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\authoringResourceClass.3603134df9ad1cad202d10769ff631a083cc3aae.de-de.xlf",
       "HandoffFileCommit": "9df3005c2111d8665ed834aa4827cadbaeb9ad7b",
       "HandoffDateTime": "2016-02-23T18:16:07.4512413Z",
@@ -1703,6 +1761,7 @@
       "FilePathList": [
         "dsc\\authoringResourceComposite.md"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\authoringResourceComposite.6d5d1e53e83e25cfc63e26078da390a4fa6737f2.de-de.xlf",
       "HandoffFileCommit": "9df3005c2111d8665ed834aa4827cadbaeb9ad7b",
       "HandoffDateTime": "2016-02-23T18:16:07.4512413Z",
@@ -1732,6 +1791,7 @@
       "FilePathList": [
         "dsc\\pullServer.md"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\pullServer.4b925b277da29998394af746bdbdd508fda48909.de-de.xlf",
       "HandoffFileCommit": "9df3005c2111d8665ed834aa4827cadbaeb9ad7b",
       "HandoffDateTime": "2016-02-23T18:16:07.4512413Z",
@@ -1761,6 +1821,7 @@
       "FilePathList": [
         "dsc\\Test1\\SonjaTest.md"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\SonjaTest.bab99385ac372c3ae450ecdd8e590c3ad3219939.de-de.xlf",
       "HandoffFileCommit": "234f7c9425b988e291e46cc3b6c6159a6ac95cc7",
       "HandoffDateTime": "2016-03-24T23:59:52.1773775Z",
@@ -1790,6 +1851,7 @@
       "FilePathList": [
         "dsc\\Test1\\OpenLoc is cool.md"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\OpenLoc is cool.e253b4bff54b0434cc180a6770a453af141b2a53.de-de.xlf",
       "HandoffFileCommit": "1fd8f0b588e6020464910b56ff637e1a57672347",
       "HandoffDateTime": "2016-03-28T22:33:13.8825208Z",
@@ -1819,6 +1881,7 @@
       "FilePathList": [
         "dsc\\Test1\\OpenLoc is cool.md"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\OpenLoc is cool.e253b4bff54b0434cc180a6770a453af141b2a53.de-de.xlf",
       "HandoffFileCommit": "68b0b857655825b119dee17d742915c56298a888",
       "HandoffDateTime": "2016-03-31T00:22:16.1691991Z",
@@ -1848,6 +1911,7 @@
       "FilePathList": [
         "dsc\\Test1\\SonjaTest.md"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\SonjaTest.bab99385ac372c3ae450ecdd8e590c3ad3219939.de-de.xlf",
       "HandoffFileCommit": "68b0b857655825b119dee17d742915c56298a888",
       "HandoffDateTime": "2016-03-31T00:22:16.1691991Z",
@@ -1877,6 +1941,7 @@
       "FilePathList": [
         "dsc\\Test1\\SonjaFileToo.md"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\SonjaFileToo.200fe5c96e02b06bc5f8a666c8090d57bedd4415.de-de.xlf",
       "HandoffFileCommit": "f5b14d8c442dd34535468ca508078d1420f2edb8",
       "HandoffDateTime": "2016-03-31T00:51:49.3696705Z",
@@ -1906,6 +1971,7 @@
       "FilePathList": [
         "dsc\\archiveResource.md"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\archiveResource.b4701b9fe5acf94be3fabf470371d8e47dd154d4.de-de.xlf",
       "HandoffFileCommit": "ad86fc14ca3b81bde086df3267532f624102c7ac",
       "HandoffDateTime": "2016-04-13T01:00:15.1498703Z",
@@ -1935,6 +2001,7 @@
       "FilePathList": [
         "dsc\\authoringResource.md"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\authoringResource.106f1f4d77068b2b95f1927b611b5f405ec7a317.de-de.xlf",
       "HandoffFileCommit": "ad86fc14ca3b81bde086df3267532f624102c7ac",
       "HandoffDateTime": "2016-04-13T01:00:15.1498703Z",
@@ -1964,6 +2031,7 @@
       "FilePathList": [
         "dsc\\partialConfigs.md"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\partialConfigs.f483ab7fa1511b557780a02b5b807245f730c1b6.de-de.xlf",
       "HandoffFileCommit": "ad86fc14ca3b81bde086df3267532f624102c7ac",
       "HandoffDateTime": "2016-04-13T01:00:15.1498703Z",
@@ -1993,6 +2061,7 @@
       "FilePathList": [
         "dsc\\Test1\\OpenLoc is cool.md"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\OpenLoc is cool.e253b4bff54b0434cc180a6770a453af141b2a53.de-de.xlf",
       "HandoffFileCommit": "ad86fc14ca3b81bde086df3267532f624102c7ac",
       "HandoffDateTime": "2016-04-13T01:00:15.1498703Z",
@@ -2022,6 +2091,7 @@
       "FilePathList": [
         "dsc\\testmove2\\overview-test2.md"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\overview-test2.b82580217442d4533cc66897b1a1a51a6f090168.de-de.xlf",
       "HandoffFileCommit": "ad86fc14ca3b81bde086df3267532f624102c7ac",
       "HandoffDateTime": "2016-04-13T01:00:15.1498703Z",
@@ -2051,6 +2121,7 @@
       "FilePathList": [
         "dsc\\Test1\\OpenLoc ROCKS.md"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\OpenLoc ROCKS.ac3ecff61703b5a6c0e8f6ae2b1e10c3a845cc67.de-de.xlf",
       "HandoffFileCommit": "13df1ffa916489ad860d2297e8024f26c74adb21",
       "HandoffDateTime": "2016-04-13T01:10:39.1195311Z",
@@ -2080,6 +2151,7 @@
       "FilePathList": [
         "dsc\\Test1\\SonjaFileToo.md"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\SonjaFileToo.200fe5c96e02b06bc5f8a666c8090d57bedd4415.de-de.xlf",
       "HandoffFileCommit": "13df1ffa916489ad860d2297e8024f26c74adb21",
       "HandoffDateTime": "2016-04-13T01:10:39.1195311Z",
@@ -2109,6 +2181,7 @@
       "FilePathList": [
         "dsc\\Test1\\SonjaFileToo.md"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\SonjaFileToo.200fe5c96e02b06bc5f8a666c8090d57bedd4415.de-de.xlf",
       "HandoffFileCommit": "ca83896d83cc41c32078117d097132170682ea72",
       "HandoffDateTime": "2016-04-13T01:20:29.4434696Z",
@@ -2138,6 +2211,7 @@
       "FilePathList": [
         "dsc\\archiveResource.md"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\archiveResource.b4701b9fe5acf94be3fabf470371d8e47dd154d4.de-de.xlf",
       "HandoffFileCommit": "138064854f1f626b7b33ff04eaee35f6dc16b4f9",
       "HandoffDateTime": "2016-04-13T03:30:48.4374321Z",
@@ -2167,6 +2241,7 @@
       "FilePathList": [
         "dsc\\archiveResource.md"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\archiveResource.b4701b9fe5acf94be3fabf470371d8e47dd154d4.de-de.xlf",
       "HandoffFileCommit": "4226f18251e32ec180c07c1edfe2427d25d539a5",
       "HandoffDateTime": "2016-04-13T05:40:36.7570996Z",
@@ -2196,6 +2271,7 @@
       "FilePathList": [
         "dsc\\archiveResource.md"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\archiveResource.b4701b9fe5acf94be3fabf470371d8e47dd154d4.de-de.xlf",
       "HandoffFileCommit": "a14a8dc32fab4ad3b95044503d840e99a60816b1",
       "HandoffDateTime": "2016-04-13T06:10:42.7198088Z",
@@ -2226,6 +2302,7 @@
         "dsc\\archiveResource.md",
         "dsc\\test1\\archiveResource.md"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\archiveResource.9f32c8aa8982eaf123d5f16d5ad76459150e3e62.de-de.xlf",
       "HandoffFileCommit": "fee276433ccbbb4d1b8c977e416162a87b922194",
       "HandoffDateTime": "2016-04-16T02:21:03.044697Z",
@@ -2255,6 +2332,7 @@
       "FilePathList": [
         "dsc\\partialConfigs.md"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\partialConfigs.f483ab7fa1511b557780a02b5b807245f730c1b6.de-de.xlf",
       "HandoffFileCommit": "f68329d7b0379690dac42102e29fbaaa4efa405a",
       "HandoffDateTime": "2016-04-13T18:37:49.9588933Z",
@@ -2286,6 +2364,7 @@
       "FilePathList": [
         "dsc\\images\\Pull1.png"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\a20dd5927999cbb3c1125bd4ff8944954abc84a9.png",
       "HandoffFileCommit": "b5f4039ed87ef62b16c516110e428699f41a1578",
       "HandoffDateTime": "2016-04-13T18:47:39.2360754Z",
@@ -2315,6 +2394,7 @@
       "FilePathList": [
         "dsc\\partialConfigs.md"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\partialConfigs.f483ab7fa1511b557780a02b5b807245f730c1b6.de-de.xlf",
       "HandoffFileCommit": "b5f4039ed87ef62b16c516110e428699f41a1578",
       "HandoffDateTime": "2016-04-13T18:47:39.2360754Z",
@@ -2344,6 +2424,7 @@
       "FilePathList": [
         "dsc\\authoringResource.md"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\authoringResource.106f1f4d77068b2b95f1927b611b5f405ec7a317.de-de.xlf",
       "HandoffFileCommit": "d55b094aeccb1d5d3c7c7ca47e6118c57746f28f",
       "HandoffDateTime": "2016-04-14T22:15:47.0458748Z",
@@ -2374,6 +2455,7 @@
         "dsc\\troubleshooting.md",
         "dsc\\move\\rename_troubleshooting.md"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\rename_troubleshooting.4c130a5165c494568ef17f0cc6e7c9fc0caf31bc.de-de.xlf",
       "HandoffFileCommit": "05354815dae5b001d66f61bad5fcaff08c289b10",
       "HandoffDateTime": "2016-04-18T03:30:32.3868871Z",
@@ -2403,6 +2485,7 @@
       "FilePathList": [
         "dsc\\Test1\\MoraviaDemo.md"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
       "HandoffDateTime": "2016-05-09T21:32:19.0226178Z",
@@ -2440,6 +2523,7 @@
       "FilePathList": [
         "dsc\\authoringResource.md"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\authoringResource.106f1f4d77068b2b95f1927b611b5f405ec7a317.de-de.xlf",
       "HandoffFileCommit": "6aecdedfa4a3277d4a351096a0abcefb2ac4e11d",
       "HandoffDateTime": "2016-04-19T17:44:02.2266172Z",
@@ -2469,6 +2553,7 @@
       "FilePathList": [
         "dsc\\authoringResource.md"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\authoringResource.106f1f4d77068b2b95f1927b611b5f405ec7a317.de-de.xlf",
       "HandoffFileCommit": "af73bd5678c82132ca130982e351ca2a81e915d6",
       "HandoffDateTime": "2016-04-20T18:40:40.5903354Z",
@@ -2498,6 +2583,7 @@
       "FilePathList": [
         "albina\\Exclude.md"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\Exclude.8062154e3e7f8b504bfcefa7b1ec65857d6c6c72.de-de.xlf",
       "HandoffFileCommit": "43fb5b0877a5695a7c6e898a15bca73c75c78ee1",
       "HandoffDateTime": "2016-04-25T21:43:27.2031465Z",
@@ -2527,6 +2613,7 @@
       "FilePathList": [
         "albina1\\Include.md"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\Include.d5d7a7cbff1647794600448b37e1772193fdeb6e.de-de.xlf",
       "HandoffFileCommit": "f9b7ffaa860da948b59e350b29e004d1efe711d5",
       "HandoffDateTime": "2016-04-25T21:53:12.1157183Z",
@@ -2556,6 +2643,7 @@
       "FilePathList": [
         "Sonja\\Sonja_A.md"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\Sonja_A.cb75a5cb54fc3149075b9753c5307d2e5aa84c9a.de-de.xlf",
       "HandoffFileCommit": "4d57b84a3dc7f84a0cda3e787a9a620ff4bfc0ad",
       "HandoffDateTime": "2016-04-27T23:02:54.49182Z",
@@ -2585,6 +2673,7 @@
       "FilePathList": [
         "dsc\\Sonja_in_dsc_folder.md"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\Sonja_in_dsc_folder.9fced11a4d3bd93bff93f7067a2b176a308a36ce.de-de.xlf",
       "HandoffFileCommit": "a33402052de35a1769f42b54aac7bd86c1bd2aa9",
       "HandoffDateTime": "2016-04-27T23:53:38.6454646Z",
@@ -2614,6 +2703,7 @@
       "FilePathList": [
         "dsc\\authoringResource.md"
       ],
+      "HasMetadata": false,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\authoringResource.106f1f4d77068b2b95f1927b611b5f405ec7a317.de-de.xlf",
       "HandoffFileCommit": "b9a08fd9659c378aa9f8a40c769db26acb9bfb48",
       "HandoffDateTime": "2016-05-09T21:32:19.0226178Z",
