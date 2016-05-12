@@ -6,22 +6,22 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [dsc\authoringResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/6a8cbd12d2e0105ac33da7c4531af4a6d755ca7c/dsc/authoringResource.md) | OutofSyncHandedBackSuccess | [Details](#abd70c1285a5f33e209692e746b7971926f54a588)
+ [dsc\partialConfigs.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a2d4c47e8b7fd00370c352bbd1270ab6568b2958/dsc/partialConfigs.md) | OutofSyncHandedBackSuccess | [Details](#17c9149903fd6a7ce6904b03a76619795944554e44)
  [dsc\Test1\MoraviaDemo.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/b55a68d179ab003b414a0ab6459fdd2923ab108c/dsc/Test1/MoraviaDemo.md) | HandedOffFailed | [Details](#e60976865fe9b1b0115509c66b9973dea16992ec59)
 
 ## Item Details
-##### <a name='abd70c1285a5f33e209692e746b7971926f54a588'></a> Source: [dsc\authoringResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/6a8cbd12d2e0105ac33da7c4531af4a6d755ca7c/dsc/authoringResource.md)
+##### <a name='17c9149903fd6a7ce6904b03a76619795944554e44'></a> Source: [dsc\partialConfigs.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a2d4c47e8b7fd00370c352bbd1270ab6568b2958/dsc/partialConfigs.md)
 * Status: OutofSyncHandedBackSuccess
 * Target File: 
-* Handoff File: [authoringResource.106f1f4d77068b2b95f1927b611b5f405ec7a317.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/78a335f5466a45b22b52600d2831d58b1cadbf0b/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/authoringResource.106f1f4d77068b2b95f1927b611b5f405ec7a317.de-de.xlf)
-* Handoff Datetime: 2016-05-11 21:08:07
+* Handoff File: [partialConfigs.f483ab7fa1511b557780a02b5b807245f730c1b6.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/517f247530506813b1a9ac25667442d26e0dcb48/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/partialConfigs.f483ab7fa1511b557780a02b5b807245f730c1b6.de-de.xlf)
+* Handoff Datetime: 2016-05-12 05:58:20
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Current Target File: [dsc\authoringResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs.de-de/blob/01cd46be19e47549956c5834c82d8e9dc432aed0/dsc/authoringResource.md)
-* Current Handback File: [authoringResource.106f1f4d77068b2b95f1927b611b5f405ec7a317.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/89efa27c194af8bac868adffc070a2c35069ac27/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/authoringResource.106f1f4d77068b2b95f1927b611b5f405ec7a317.de-de.xlf)
+* Current Target File: [dsc\partialConfigs.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs.de-de/blob/01cd46be19e47549956c5834c82d8e9dc432aed0/dsc/partialConfigs.md)
+* Current Handback File: [partialConfigs.f483ab7fa1511b557780a02b5b807245f730c1b6.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/89efa27c194af8bac868adffc070a2c35069ac27/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/partialConfigs.f483ab7fa1511b557780a02b5b807245f730c1b6.de-de.xlf)
 * Current Handback Datetime: 2015-11-24 23:39:45
 * [Back to Top](#report-top)
 
