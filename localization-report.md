@@ -17,7 +17,7 @@
  Source File | Status | Details 
  ----------- | ------ | ------- 
  [dsc\Test1\MoraviaDemo.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/b55a68d179ab003b414a0ab6459fdd2923ab108c/dsc/Test1/MoraviaDemo.md) | HandedOffFailed | [Details](#e60976865fe9b1b0115509c66b9973dea16992ec59)
- [dsc\Test1\OpenLoc ROCKS.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/5d40229cc5014c159352170071b347a333a90fa5/dsc/Test1/OpenLoc ROCKS.md) | HandedOffFailed | [Details](#1e97e7496cbb66ff8b8a10b1412383cf9f3f4c3460)
+ [dsc\Test1\OpenLoc ROCKS.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/5d40229cc5014c159352170071b347a333a90fa5/dsc/Test1/OpenLoc%20ROCKS.md) | HandedOffFailed | [Details](#1e97e7496cbb66ff8b8a10b1412383cf9f3f4c3460)
  [dsc\Test1\SonjaFileToo.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/2b1b0b4a9a3f8d40903c732762b4dbd74bf69673/dsc/Test1/SonjaFileToo.md) | HandedOffFailed | [Details](#a659f12ae049937714da659dd95d40ea9774222c61)
 
 ## <a name='handoff-success-list'></a> Handoff Success File List
@@ -853,7 +853,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='1e97e7496cbb66ff8b8a10b1412383cf9f3f4c3460'></a> Source: [dsc\Test1\OpenLoc ROCKS.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/5d40229cc5014c159352170071b347a333a90fa5/dsc/Test1/OpenLoc ROCKS.md)
+##### <a name='1e97e7496cbb66ff8b8a10b1412383cf9f3f4c3460'></a> Source: [dsc\Test1\OpenLoc ROCKS.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/5d40229cc5014c159352170071b347a333a90fa5/dsc/Test1/OpenLoc%20ROCKS.md)
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
