@@ -1,0 +1,21 @@
+{
+  "build_entry_point": "",
+  "need_generate_pdf": false,
+  "need_generate_intellisense": false,
+  "docsets_to_publish": [
+    {
+      "docset_name": "PowerShell_PowerShell-docs_dsc",
+      "build_output_subfolder": "dsc",
+      "locale": "de-de",
+      "version": 0,
+      "open_to_public_contributors": true,
+      "type_mapping": {
+        "Conceptual": "Content"
+      }
+    }
+  ],
+  "notification_subscribers": [
+    ""
+  ],
+  "skip_source_output_uploading": false
+}
