@@ -1,22 +1,45 @@
 {
-  "build_entry_point": "",
+  "build_entry_point": "docs",
   "need_generate_pdf": false,
   "need_generate_intellisense": false,
   "docsets_to_publish": [
     {
       "docset_name": "PowerShell_PowerShell-docs_dsc",
-      "build_output_subfolder": "dsc",
       "build_source_folder": "dsc",
+      "build_output_subfolder": "dsc",
       "locale": "de-de",
       "version": 0,
       "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content"
       }
+    },
+    {
+      "docset_name": "olorg-powershell-docs-atatest",
+      "build_source_folder": "ATADocsTest",
+      "build_output_subfolder": "olorg-powershell-docs-atatest",
+      "locale": "de-de",
+      "version": 0,
+      "open_to_public_contributors": true,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "RestApi": "Content"
+      },
+      "template_folder": "_themes"
     }
   ],
   "notification_subscribers": [
     ""
   ],
-  "skip_source_output_uploading": false
+  "branches_to_filter": [],
+  "skip_source_output_uploading": false,
+  "dependent_repositories": [
+    {
+      "path_to_root": "_themes",
+      "url": "https://github.com/Microsoft/templates.docs.msft.de-de",
+      "branch": "master",
+      "branch_mapping": {}
+    }
+  ]
 }
