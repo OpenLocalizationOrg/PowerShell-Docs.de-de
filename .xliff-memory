@@ -2187,8 +2187,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\2b2dfd9c39fe5d7bf4a52032653108729715e6bf.255cd0a7e474eb4e2d095f980c549cf26bc248ae.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\common-role-capability-pitfalls.dfaa23ae81cb39f04c2fe16d9e7917452e8b7b3b.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "gallery\\psget\\module\\psget_update-modulemanifest.md.d0f20bc9187df20af71bcee898087a66ea58cb6b.HT": {
       "SourceFilename": "gallery\\psget\\module\\psget_update-modulemanifest.md",
@@ -2217,8 +2217,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\ad03c24f7cfd141744721b5825c20e8d2f0a00a8.81f994a43faeaa6cffb5e5b5f7c51a93998d55c5.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\dsc_confighelp.f820ac9bca8e0dc5c00c6a8fca928469a7bf501b.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "scripting\\core-powershell\\core-modules\\Microsoft.PowerShell.Core-Module.md.62fb664182f0706d738541e93cc0d2eaafc043eb.HT": {
       "SourceFilename": "scripting\\core-powershell\\core-modules\\Microsoft.PowerShell.Core-Module.md",
@@ -2257,8 +2257,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\b91e3bbb40b2b5eddd1e43be568773c850a9b8e0.34cccf872e3fc328e69f50828adb9dca8fe4ba45.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\class_newtype.9ab827c0184e4434bea8e35d941675ccca6c487d.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "dsc\\pullClient.md.cb5462e01ce46a7cf5198587b654be1af43c7fe7.HT": {
       "SourceFilename": "dsc\\pullClient.md",
@@ -2327,8 +2327,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\3010b1ce497d8a5e45ada003587d9e104eddd8b1.c9e180190d0e5b3fa853883744f88bc4b3bf525a.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\class_overview.47b2db18ab277465532501bdd9ec704e75ef939d.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "dsc\\singleInstance.md.fd104c1ee3f3fff42420b635810184077cf53611.HT": {
       "SourceFilename": "dsc\\singleInstance.md",
@@ -2347,8 +2347,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\97cd3cb5658f3acabf4f980d1e3fa99fe84e0d04.1f810ee1eb0285d2662a8c16cf7020cfe1b9a9fd.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\dsc_setdsclcm.ef6c7d4888ecc43581b14aae37e8323a0436d5cc.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "gallery\\psgallery\\psgallery_pseditions.md.44bef89f7fc16547e072118cde8f251157ed5e48.HT": {
       "SourceFilename": "gallery\\psgallery\\psgallery_pseditions.md",
@@ -2377,8 +2377,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\06790d07e8798b1f263b023d0b231c6d9dd1d061.2ba33f87f7c77eb8e844df148d9b4db056e230a6.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\dsc_nodeid.d5c351f720310ee08eb5cc0449bcd89fc6c828b1.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "scripting\\core-powershell\\ise\\The-ISEMenuItemCollection-Object.md.d67fcf37788fe9fbb480d4c350d6f4c0131664f6.HT": {
       "SourceFilename": "scripting\\core-powershell\\ise\\The-ISEMenuItemCollection-Object.md",
@@ -2417,8 +2417,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\2160a4b932075c98df6806c61d263d30f650b9f4.89980a5c3341f35d7fb8a3e9de375cfbf33300cb.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\audit_cms.1a4620c3522dc041191724aaba92897a08d4f2cc.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "dsc\\msft-dsclocalconfigurationmanager-resourceset.md.bbd99ed4d2125caf9f47a2f8d632e11b90c756d0.HT": {
       "SourceFilename": "dsc\\msft-dsclocalconfigurationmanager-resourceset.md",
@@ -2467,8 +2467,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\1050b9c9297adeef0215d706c19aa450fb483d97.e247b8278d29837cb0706ae2b18ba09563658dc2.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\dsc_waitfor.48580aa1828047d340b5e5c526709461d5ebe255.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "scripting\\getting-started\\cookbooks\\Working-With-Files-Folders-and-Registry-Keys.md.18f3c722645ecce7bd991b51369239a55dedcb94.HT": {
       "SourceFilename": "scripting\\getting-started\\cookbooks\\Working-With-Files-Folders-and-Registry-Keys.md",
@@ -2487,8 +2487,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\074f3570e9354f2186be8690744640ea4739ef6e.233d702cd181975dcc8e251342ea2d39a31f9b20.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\console-guide.2c039b505fcac6b00d7b2c1ce6118cf177bd3661.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "dsc\\lnxEnvironmentResource.md.435444f6fc614c4eb41f93b93eb86207c1c631b1.HT": {
       "SourceFilename": "dsc\\lnxEnvironmentResource.md",
@@ -2507,8 +2507,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\e6653a02421e3aec3910a70c64f7cf7cecd696ab.f3276095d515754e446148a709b21b0d36a17e65.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\console-enhancements.3c888b1935faa7ae4eb59ba6845eb7d78cd60ecc.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "scripting\\core-powershell\\ise\\ISE-Module.md.12d4e484bc87c241d09bb986fe5f69ff2b0f44f3.HT": {
       "SourceFilename": "scripting\\core-powershell\\ise\\ISE-Module.md",
@@ -2527,8 +2527,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\4c8cbbd1f795a7117f049ccd6cbb00abb1127b24.03b7cb4d684ffbb45391d2d870fe60199477dc6c.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\dsc_partialconfig.7a57fc67534f25ae1cee47917aa5f48c9fe07fe2.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "scripting\\getting-started\\cookbooks\\Sorting-Objects.md.eae373bfa6422f9241eccb31ab73c383795514b2.HT": {
       "SourceFilename": "scripting\\getting-started\\cookbooks\\Sorting-Objects.md",
@@ -2577,8 +2577,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\461cd535bfbdda6cc90364aace9912f713431c21.3419c9ad3c9e8cfcdd0eab883841c03425477249.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\debugResource.ac634156affe5c723cc149a298f5aa4268d17016.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "jea\\TOC.MD.78f50eb0aca4cd80e8fe3539947a35bc2226d4e5.HT": {
       "SourceFilename": "jea\\TOC.MD",
@@ -2657,8 +2657,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\becacd2dcbc6fd0edd9154a45342edc5c536935b.21fd226ead442e51146350e98b6a35a991150f43.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\configHelp.640c1514ba89b533fcd70fb36da2f349eced1926.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "scripting\\getting-started\\cookbooks\\Managing-Windows-PowerShell-Drives.md.14ada96b258d3633e87deed9cd9892e2e9d6983b.HT": {
       "SourceFilename": "scripting\\getting-started\\cookbooks\\Managing-Windows-PowerShell-Drives.md",
@@ -2697,8 +2697,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\3cccbc0ec413b03899ae92e747b8e5828d667b0b.df80ef929031b00f21a2be520d5a15240ded7545.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\dsc_repository.deb1b97eeef91cd16ea753a88765f7e6c8f61292.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "dsc\\gettingStarted.md.78c8bb40e1125625979cf9b3e6a25b24f24fc9bb.HT": {
       "SourceFilename": "dsc\\gettingStarted.md",
@@ -2747,8 +2747,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\0660867e6e7c7a93a8ca80d76f22db7fd86f8826.2cbcfe51a3d4ba522af10d8c661354924be413a2.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\debug_overview.1dc7b5c9880c61726d759a20f5756d7c955759a7.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "dsc\\windowsOptionalFeatureResource.md.142bd38089e2e529e8de59c4591db2a9041616d9.HT": {
       "SourceFilename": "dsc\\windowsOptionalFeatureResource.md",
@@ -2787,8 +2787,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\9f3f79a29e0fb7ec5a5111284bb7985548e17749.54ae270b9d400546c80590795dd4f5fb532b2dcb.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\considerations-when-limiting-commands.f94b8dd0f9c77bf7e8a6286eb8ff8f20609bf593.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "gallery\\psget\\script\\psget_publish-script.md.6b433fdfbf6a5958608d54d661aba0fe4d5c4208.HT": {
       "SourceFilename": "gallery\\psget\\script\\psget_publish-script.md",
@@ -2817,8 +2817,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\1fe624c2532e44ed675762f3c141934fb4f0b60d.c4cd4f56586227b8eecc947e249584420ed9ca29.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\directCallResource.7adf3e286a432cf50a90cb04db12b1f70bb586cd.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "gallery\\psgallery\\psgallery_unlist_items.md.eb5f961d5a1dd4fd3769492e8bf85db3ed4b0f6b.HT": {
       "SourceFilename": "gallery\\psgallery\\psgallery_unlist_items.md",
@@ -2867,8 +2867,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\4c0f405a46e16935211b3886a40c9f7d1afc7260.347f4a678fd237b2bfb5407124967071cba4a72e.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\Creating-.NET-and-COM-Objects--New-Object-.6a22a1f1b10e73cd8dc65134aed84f0d6961bf45.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "gallery\\psget\\psget_cmdlets_troubleshooting.md.fb59b120cb75c6bff1519553ec834535ddeb37f3.HT": {
       "SourceFilename": "gallery\\psget\\psget_cmdlets_troubleshooting.md",
@@ -2917,8 +2917,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\a70d965afdb4edd71fa5dfd42d4c0f7ae7d65f29.9e21753f0bedcb7dd51836f67e366cd126c4e5a2.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\class_baseconstructor.7fe6ee1dd851ef4aa67d9e97f707b2aee2fecef0.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "dsc\\groupSetResource.md.a7491be2d673df5d0df05ce3c552705cc2e9d155.HT": {
       "SourceFilename": "dsc\\groupSetResource.md",
@@ -2997,8 +2997,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\6bb220e50bdb77c2a7ffd36ea744aa3fc454dc67.fa55e97a2f046c3235c5e1cc4e99ce155a297426.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\dsc_directaccess.7a6b66fb5d0c51e4c69ed337e09c14a8a76e9ff4.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "dsc\\configData.md.ddc3f0fefc2a2081d67ed4070e3ca36960fd3006.HT": {
       "SourceFilename": "dsc\\configData.md",
@@ -3007,8 +3007,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\8a3ae5fdf5d70de999ca6b992efb14533408c305.ec3ee6b6f223ac48e1c9aca1dc8d8b6d8c04cc15.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\configData.51d01a46dd9af8b425788cc485523b09f8470b95.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "scripting\\setup\\Windows-PowerShell-System-Requirements.md.27a650729c183d73cb7184477de85adcfd37f04f.HT": {
       "SourceFilename": "scripting\\setup\\Windows-PowerShell-System-Requirements.md",
@@ -3027,8 +3027,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\8e7dd69fc5ba29e719aec353afcac2471ecb2352.d6d997d890003584e210888d29bf24b21119392d.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\compatibility.c48662c8b1c8f8765c91c89c348a9a64174fcb50.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "scripting\\getting-started\\cookbooks\\Changing-Computer-State.md.31b971d4de40a70297894cd856ac1f41e27677e5.HT": {
       "SourceFilename": "scripting\\getting-started\\cookbooks\\Changing-Computer-State.md",
@@ -3037,8 +3037,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\1779b9de13a30a43236e24793e5196261a7db77f.bc4bb5a1a48d944bfd5e692cc521d0b5cd44ff13.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\Changing-Computer-State.11ba8b4925a07ccc764ebf8a1887a5857c1d7273.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "wmf\\5.1\\features-scenarios-cache\\Improved-dsc-classresource.md.7cc3b9c4dcf545052fe37132551936907f5536a2.HT": {
       "SourceFilename": "wmf\\5.1\\features-scenarios-cache\\Improved-dsc-classresource.md",
@@ -3247,8 +3247,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\c88c145c3585befcee194499f7e21aaeac67c0f3.c4940ecf97d6a01965fcba640e92711f4e51539f.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\DSC-improvements.34bcd4169d438016a90bb7d385251ff174844f98.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "wmf\\5.0\\dsc_updateconfig.md.e9bea291ddf061e00e1743760a2a7b63a16da8de.HT": {
       "SourceFilename": "wmf\\5.0\\dsc_updateconfig.md",
@@ -3257,8 +3257,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\e3643fd339a0662d87f9532d9c38fd56c7f72333.c6a99bbb8294567fd6f48a6958e6ec8112e154c6.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\dsc_updateconfig.b3842fd986f3d536d3f4449fb960724b496517d9.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "wmf\\5.0\\limitation_overview.md.99b8cca2c1f02fa465a4aa40bd77ea8eb40f6623.HT": {
       "SourceFilename": "wmf\\5.0\\limitation_overview.md",
@@ -3317,8 +3317,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\df6b5db79c8c165e7fb3c1570838ac7a696b5a55.7d22e349dedf82c30bf1dd49ef1969eac6c5f6c7.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\dsc_testconfiguration.80d6e6c713d3c87ea98a35ea9a2b1ecdf85d9b68.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "jea\\on-blacklisting.md.59e1ff4d1b9897bb73d29ba673e9685fe1bc5557.HT": {
       "SourceFilename": "jea\\on-blacklisting.md",
@@ -3397,8 +3397,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\6c0c1d42dae602a83bbad7a0abe8df1b6435489a.4e9d3e743bafd70a2036d6bad96711a0fc25c7d2.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\Creating-a-Custom-Input-Box.d0b0f28391ca707134d516718eec44a874382d2a.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "dsc\\authoringResource.md.ac29b17b4989c595021fa7a158cdeab572d34987.HT": {
       "SourceFilename": "dsc\\authoringResource.md",
@@ -3407,8 +3407,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\5b43723f7b14eb4bca06d0430b5981c3663c5801.be8ec798f59b8dc71cdaf2d0f106a0f0cd2f95d9.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\authoringResource.106f1f4d77068b2b95f1927b611b5f405ec7a317.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "dsc\\msft-dsclocalconfigurationmanager-enabledebugconfiguration.md.074b65f477200ef3eb139c4f8f337ae3a5821438.HT": {
       "SourceFilename": "dsc\\msft-dsclocalconfigurationmanager-enabledebugconfiguration.md",
@@ -3447,8 +3447,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\c858f997c814483a10f5a9d59fb5352c99ac1093.e45c377aaaf5256c2800482ced439e8237fbcf5e.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\dsc_freqnomultiple.24a510bddeb0893246c680375a783ba9be7c648b.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "dsc\\authoringResourceMOF.md.13e2e7b7f7c0cd82ce318bdc85b90097bc7fc39e.HT": {
       "SourceFilename": "dsc\\authoringResourceMOF.md",
@@ -3457,8 +3457,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\50b99917f15d290db30da1b1b752d668d886ec50.ddc12eef11e9dc5cfe8ce67da90f119c46befbe3.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\authoringResourceMOF.1f503c33425780c369e78193e2f2f4e9242c401b.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "gallery\\psget\\repository\\psget_unregister-psrepository.md.e8cfe2049017294c7d3a6dccd993baeebc7e2578.HT": {
       "SourceFilename": "gallery\\psget\\repository\\psget_unregister-psrepository.md",
@@ -3507,8 +3507,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\a5bfad60f1cb254f1899723c40751cd8b96ef54e.afcba3d38c927a9492b5e38723e77c18f46a240e.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\basic-cookbooks-reference.5da8328fb64dd6fc478181655b0b740c33e1cf9c.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "scripting\\getting-started\\cookbooks\\Creating-a-Graphical-Date-Picker.md.2800e443cf6ba251632a3c6e986e5ac37d9faa95.HT": {
       "SourceFilename": "scripting\\getting-started\\cookbooks\\Creating-a-Graphical-Date-Picker.md",
@@ -3517,8 +3517,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\9c232f47eba22790dfc98e4948c71e181616d2ae.6dc98f7956feb06b144a9675068de96b6c95707f.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\Creating-a-Graphical-Date-Picker.a933c5ebd581abc094dabf7086ffddce8ea5c63e.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "jea\\introduction.md.ce8485ce30f7f4db7b1963efe0b4374519af44d3.HT": {
       "SourceFilename": "jea\\introduction.md",
@@ -3547,8 +3547,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\b4d97b1c96a99bcfc43fb20ce9a4ecfa528ea024.357324200f8924f97d42a8936c1a72a66d40bb27.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\Accessibility-in-Windows-PowerShell-ISE.2ca37c157ff546e8a8bfde68228e933bd363cbbe.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "scripting\\getting-started\\cookbooks\\Other-Useful-Scripting-Objects.md.5af134f0bbe0efa47c634b41c4ca3d8eb3c016c2.HT": {
       "SourceFilename": "scripting\\getting-started\\cookbooks\\Other-Useful-Scripting-Objects.md",
@@ -3717,8 +3717,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\8a7774b36f15ff790c31d4c1a8bc69be257b8508.6743d0536b90d49b1dcb9c620012b4829fa628b9.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\bugfixes.9ac3235fa7ee0f522e47993290af882a3a4a26f7.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "scripting\\core-powershell\\ise\\Introducing-the-Windows-PowerShell-ISE.md.a597b7bc877029fd98ab84b9817f243ed02d393a.HT": {
       "SourceFilename": "scripting\\core-powershell\\ise\\Introducing-the-Windows-PowerShell-ISE.md",
@@ -3987,8 +3987,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\a257f792d39f360a2c9e638f42ffac5fed282b00.b460b18096f52c371d6df828bef94fbece58d29e.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\dsc_identicalduplicate.5d2a56666d6760f99354e53bd0572bed6f5327a9.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "scripting\\getting-started\\fundamental\\Using-Windows-PowerShell-for-Administration.md.9d7158c7052a0aaed4ab21dc38850f65ee4a1c37.HT": {
       "SourceFilename": "scripting\\getting-started\\fundamental\\Using-Windows-PowerShell-for-Administration.md",
@@ -4067,8 +4067,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\be8fdde764d0e3adb9aad50217ebc7c3ea26bbc4.ffa157cc039fd9f0a6b4667bab8c9ddc4e9e606e.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\dsc_encryptedmof.ae98aa583f49a21a6d3fb46448195bcd56337fdc.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "gallery\\readme.md.6eb9ae50b4bd8ae87f1229f7e09a850cd92d20f1.HT": {
       "SourceFilename": "gallery\\readme.md",
@@ -4107,8 +4107,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\6338545a3ded859ba9abddaaff768bb89cb2dac0.e47b9b01bb0a3b03a39cc5bd74a5863f438642f4.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\dsc_sxsresource.d69876c715c1fdad209db88936b87f8e2b29f24c.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "scripting\\getting-started\\fundamental\\Learning-Windows-PowerShell-Names.md.1c4b18240543a1fdbe67f7c030691c1a6e6a54ab.HT": {
       "SourceFilename": "scripting\\getting-started\\fundamental\\Learning-Windows-PowerShell-Names.md",
@@ -4167,8 +4167,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\2d2b142dc862f7655f28aa34e1fd91f63bd6286e.526bf6a71b797b7ecd9937af06718aad160acef2.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\decisionMaker.01553169f2ba4241995260fad925e2784b5f5567.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "wmf\\5.0\\dsc_metaconfiguration.md.ac3000c9d6a6cba6110d6436128c41758ed6e528.HT": {
       "SourceFilename": "wmf\\5.0\\dsc_metaconfiguration.md",
@@ -4177,8 +4177,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\695980323cb5d00d5c8f6bbe2d1c1c29ec99f809.2df82f2d4288840a01b05f6acdfd04985da52e1f.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\dsc_metaconfiguration.35d6b407146eac14a3a7029b9de7033c38a22bb9.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "scripting\\core-powershell\\workflows\\PSWorkflowUtility-Module.md.2cf637d584d45553bbc8d6aa0e3a7b7ff05ab57d.HT": {
       "SourceFilename": "scripting\\core-powershell\\workflows\\PSWorkflowUtility-Module.md",
@@ -4207,8 +4207,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\b4d9889430447d7499075847f8439cc2859f5751.ca53dcf21dfc20a68871c0a34d21a84cc4751a73.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\dsc_classbasedresource.5c3f03799c95e04a59b065d6f8922d74f341a15c.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "scripting\\setup\\Starting-Windows-PowerShell-on-Earlier-Versions-of-Windows.md.bdc6997dacda742b1f879922c9117a541118fa14.HT": {
       "SourceFilename": "scripting\\setup\\Starting-Windows-PowerShell-on-Earlier-Versions-of-Windows.md",
@@ -4227,8 +4227,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\dc50a729855a71d61c187da9d698bd294f740546.f9cbebf3ef7b2280abd084490664e01e3ab235c2.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\authorization-rules-and-security-features-of-windows-powershell-web-access.c317fe9a78ba1130929bd001738c2eb57f0037dd.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "scripting\\setup\\Starting-the-Windows-PowerShell-2.0-Engine.md.81438459006736c0e155e37c7e202b70389122ab.HT": {
       "SourceFilename": "scripting\\setup\\Starting-the-Windows-PowerShell-2.0-Engine.md",
@@ -4247,8 +4247,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\443d343d6f5c79c562e36ba59cd822d990de8715.fef8917c4b8eb3b03c1e432ffa058951cdcea425.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\contributing_to_psgallery_documentation.cdc8ea8133cc381a44e6b22ab29399fc0e010fc7.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "dsc\\authoringResourceMofDesigner.md.f40ed95d04f7160f49af7888dbe054269fefb4ec.HT": {
       "SourceFilename": "dsc\\authoringResourceMofDesigner.md",
@@ -4257,8 +4257,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\be2141330dda803a22fdce6d65a1e379adf14fed.99e58d2f3aea9461d9fcc5d367fd415dffd1682d.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\authoringResourceMofDesigner.09b1adffc4afb0d9b1154880e2dab0b25d82d51b.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "wmf\\5.0\\class_base.md.89bbcc973cfd100c00eae97c3ed33f7de6eea9d0.HT": {
       "SourceFilename": "wmf\\5.0\\class_base.md",
@@ -4267,8 +4267,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\6968ca2fb27c1f300b7b5e5730e358d81fc4c400.f2425c9ed5dba20248a5f48c4a4c41154e3a5f0e.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\class_base.4cc8998d2f276a57fa965a488e963ba42771d5b8.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "wmf\\5.0\\feedback_nonewline.md.65a174b6de93f18285fca2b950bae827ddac8f13.HT": {
       "SourceFilename": "wmf\\5.0\\feedback_nonewline.md",
@@ -4297,8 +4297,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\ea312b4e773cd8b0eceeca123e616957728eb1c6.afe6f982f838cd8bea7e10afaa1c9de74a740532.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\builtInResource.2f855e1582347e986aa4e5e62b842b886596fdc2.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "wmf\\5.0\\informationstream_overview.md.8398525d58aa755a5fd7df875b845d40956235fc.HT": {
       "SourceFilename": "wmf\\5.0\\informationstream_overview.md",
@@ -4317,8 +4317,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\648c2106d29749858161b78fb879c514078705d1.3785ad25e909ca9c7baf6396b91aa3bcb1a7dd27.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\dsc_lcmstate.cd64c6e3e1e836262b70ece11b130e06b6f3bad0.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "scripting\\setup\\Installing-the-Windows-PowerShell-SDK.md.6a153956dcd13defd357018e0a76a37bc035a09b.HT": {
       "SourceFilename": "scripting\\setup\\Installing-the-Windows-PowerShell-SDK.md",
@@ -4367,8 +4367,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\09ff4761ecdcf1d4433c4f40701cb7af3be44c8f.35af2d17160208526f5971056a6d05fc556d41c5.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\class_basemethod.196d5316eaf1e61bbb5e5dd6a8449e57e8fc8ab0.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "wmf\\5.0\\oneget_cmdlets.md.a236f73f8d09b474b946010d342c4fb3cb610681.HT": {
       "SourceFilename": "wmf\\5.0\\oneget_cmdlets.md",
@@ -4407,8 +4407,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\3e5d5e93231b772b65d1913a4dbafc86d4edb950.a88e7ab5b9fc84378df1dce46c2b3fdadf5e9fba.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\analysis_cache.ebd5d54252739ef057bf5e6146bcf8d8131dab36.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "scripting\\setup\\security.md.75fbb8643565dea1775905fe4593dcc1fef12288.HT": {
       "SourceFilename": "scripting\\setup\\security.md",
@@ -4507,8 +4507,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\56ec43a84cfdbceb7633609696ea697c515e2931.66d8b344dc04e1ef2c1fb5aad1cf0f744b890b64.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\dsc_importdscresource.6e807c405f17f191256af2d3a990bb08e143b60e.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "wmf\\5.1\\features-scenarios-cache\\oneget-improvement.md.de8d27702cfc27e899b6abeabf1c0598d024b3fd.HT": {
       "SourceFilename": "wmf\\5.1\\features-scenarios-cache\\oneget-improvement.md",
@@ -4557,8 +4557,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\991a324945289b2eff0b706d093b2d345352fb15.1184562a4eebf7bafd7fa7fd0d91982d033bf2b1.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\authoringResourceMofCS.0647b27b00ec52b2f524a2856e48bc7c29c0f867.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "wmf\\5.0\\dsc_reporting.md.637a5068f7aad4e140674443cdea2526b3887deb.HT": {
       "SourceFilename": "wmf\\5.0\\dsc_reporting.md",
@@ -4567,8 +4567,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\9111f0ea2e0fc923994055819938fa16dfb0bedf.8067af435879e7bf1b5565acb281791217575ca6.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\dsc_reporting.3683c7c2b6af9827ef59d833315a1fe1753f4724.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "wmf\\5.0\\class_interface.md.f0f92e0a3f0ceadf6ea645e748e260ab4d206ea4.HT": {
       "SourceFilename": "wmf\\5.0\\class_interface.md",
@@ -4577,8 +4577,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\31b64b6845c8d6ece8628bd565662525a65353d9.d399eb0c438877f43bbead2edd1261f91ae925cf.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\class_interface.9f3079ca5e797498f02f8747c04250b1f4f3043f.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "dsc\\nanoDsc.md.0fc3db58a2b2bc2a8b88ee01cc92bae99302a24d.HT": {
       "SourceFilename": "dsc\\nanoDsc.md",
@@ -4627,8 +4627,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\98a8a8f27661042bef27d0edceccf9a67c9153d1.b9ada69cdd3ea265df0979a118047698d413c7eb.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\dsc_statestatus.e27c3bcf9358f0bcde16f5f499fcbd4c43622786.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "wmf\\5.0\\feedback_archive.md.a6a2ad28a14329b7873c0fc079b1004726f594f3.HT": {
       "SourceFilename": "wmf\\5.0\\feedback_archive.md",
@@ -4657,8 +4657,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\9dab14b25815ac7c005b915df421300a1cc72033.69bc5131cb165a18ce5ca012fdced64f139bc2e2.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\Creating-and-Publishing-an-item.612ca6dd00bb48ef9dc422d6bad977ea54f0c53a.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "wmf\\5.0\\feedback_fileinfo.md.ed540f141e6cdaa4799cecf0ea3e3fd82f8e47d2.HT": {
       "SourceFilename": "wmf\\5.0\\feedback_fileinfo.md",
@@ -4717,8 +4717,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\817fadb79716e41ce8cc8f4245dedc66347ac413.420e1aa08206eaa4e0dfe9b7c8aa21a26566f5f4.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\DSCSigningValidations.9fb5f7c90060737d46691c9c29429a9e500a99db.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "wmf\\TOC.md.9012da26d6468b0e5db6459151d0f1e35e638b8c.HT": {
       "SourceFilename": "wmf\\TOC.md",
@@ -4837,8 +4837,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\368c26766961e760fd2de8c99057121bea076158.e2cd2599108ddb0f1d957e968181c7ce1f9347cc.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\DSCPartialConfigNaming.0fa686a40e3e562fa831fc87a2ac2b8b81cfba33.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "gallery\\psget\\module\\modulewithpseditionsupport.md.dd1d36462038964f56d1dc1455a69a805335ea65.HT": {
       "SourceFilename": "gallery\\psget\\module\\modulewithpseditionsupport.md",
@@ -4877,8 +4877,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\0cfda25530705f1c17e72c2e19a5f389d2cb7686.f5652b846cc7b930f2cf8f707cb11e714be6cd3e.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\dsc_runas.1962ecfa965fe6bb030c6cf8ceb5aa07252b3126.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "scripting\\getting-started\\cookbooks\\Managing-Services.md.53fe204a169f6cc63decef3f8a0fa5631b62ccdf.HT": {
       "SourceFilename": "scripting\\getting-started\\cookbooks\\Managing-Services.md",
@@ -4907,8 +4907,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\59206d28411ca6d4591cff5b3f158f4f5b78cc6a.1e88f7e63f8d4c178f54d7da8c233c70f3bef00a.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\dsc_wow64.c734644e88e00205f45013bd4b2341f7df609095.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "dsc\\msft-dsclocalconfigurationmanager-getmetaconfiguration.md.a684e5a74928504038915e01e09a4346de7a437c.HT": {
       "SourceFilename": "dsc\\msft-dsclocalconfigurationmanager-getmetaconfiguration.md",
@@ -4957,8 +4957,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\a1e178e907a9edbe652b5da32ad286550f95076f.7ea1fafcf9adae32efc9c6698c7ff0ab4cae33e5.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\community-resources.29f3e6ec9661c97589a0cc8652b4d1c7917aa57d.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "scripting\\getting-started\\cookbooks\\Selecting-Parts-of-Objects--Select-Object-.md.6f3295d20d228aebc619077c5da3fb930d5f4339.HT": {
       "SourceFilename": "scripting\\getting-started\\cookbooks\\Selecting-Parts-of-Objects--Select-Object-.md",
@@ -5047,8 +5047,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\1d4d2d9106ef76d6628f93cf86234807dbb121ed.f4838527673f97113668c50db2f8439d96e25e94.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\archiveResource.b4701b9fe5acf94be3fabf470371d8e47dd154d4.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "dsc\\TOC.md.6689a3e27b11b7a6770188eb1b042b6e8b0549f9.HT": {
       "SourceFilename": "dsc\\TOC.md",
@@ -5087,8 +5087,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\548cb522ecf8f8f5e82fb43e709c6b8bf3a05096.8c34b76a9c956b3eb8be7e02f58269fb880cae32.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\About-Windows-PowerShell.9cb66c3513a43593501f97fde1913b752049ba24.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "scripting\\core-powershell\\ise\\How-to-Debug-Scripts-in-Windows-PowerShell-ISE.md.c6588679c6243c2414c568a588602fef33deb0a7.HT": {
       "SourceFilename": "scripting\\core-powershell\\ise\\How-to-Debug-Scripts-in-Windows-PowerShell-ISE.md",
@@ -5157,8 +5157,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\8473eb668e4da5bab01c2f2b7647cbced413bd22.326ab8d38f8942f3bc4b2bde19bc1e5eef88d85f.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\creating-a-domain-controller.b6645bbc4de5b0de067c85719afba2a9b0dcc9fb.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "dsc\\resources.md.639868f9a8cb8502a8f7010a93e22446eb99c5ec.HT": {
       "SourceFilename": "dsc\\resources.md",
@@ -5177,8 +5177,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\fbfae5c87a81bb36e1187a65b2ef7a6a982d99f4.46719108ad4f43b6bc497cd3563c02a937aa2dd3.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\dsc_publishconfig.d1e8983bf865e4d34049ce85fe6bc796ca7f6c92.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "wmf\\5.0\\dsc_newresources.md.1e9c48181d9acd6e6a1d11878e72ae22dc6b1070.HT": {
       "SourceFilename": "wmf\\5.0\\dsc_newresources.md",
@@ -5187,8 +5187,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\34c29d88f0676e51c1b8af9d9e65b151eb8a4272.f6761e9957db6cfd471680f6346e25205abe9c9b.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\dsc_newresources.ab9c09459bc25b3931945d9d404f4599a48be7e0.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "wmf\\5.0\\audit_transcript.md.f1283c370d4e51a33a12c7dc3bd759c278507f1c.HT": {
       "SourceFilename": "wmf\\5.0\\audit_transcript.md",
@@ -5197,8 +5197,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\61364255f33378d71724705658d9924a7730b74e.9bcebe3c7353e45df5fbb8d78610a57eb1f7f9e9.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\audit_transcript.742defa1fc2c40092f068aecc8c8eb1036f2c66f.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "wmf\\5.1\\known-issues-cache\\NetworkingSwitchCmdletInput.md.f4b0f640b5cb07887156838650f310cbcd1c09dc.HT": {
       "SourceFilename": "wmf\\5.1\\known-issues-cache\\NetworkingSwitchCmdletInput.md",
@@ -5267,8 +5267,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\96204a0ce674cacd5b830f9f8b820ce3e1cbbc20.ffccd6022edb98fc90a5267ce952f1d904b7bf9e.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\Collecting-Information-About-Computers.eed23e687357879bd13c90bb4d3966ee89bc9099.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "scripting\\setup\\WinRMSecurity.md.61c63d3e7129dd3bedec748629ccd6e9d52b276a.HT": {
       "SourceFilename": "scripting\\setup\\WinRMSecurity.md",
@@ -5347,8 +5347,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\da794b5c2fa3e975a3f39afbac989b2f40b07915.b1fa8de164a99b5339f644042685ed114ebde3f5.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\dsc_refreshmode.aae04d9212e4bdfa064262dbc13ff73f67d28fc3.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "scripting\\core-powershell\\Running-Remote-Commands.md.5f604701e3b4a2748f542af303c67c60730f8b98.HT": {
       "SourceFilename": "scripting\\core-powershell\\Running-Remote-Commands.md",
@@ -5367,8 +5367,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\87e99e2735be9d2790dc0d7f75318bafe3bfd4dc.1c49342da4acf04d531060ee50038942513403b8.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\Deleting-Items.4e26f4bda62324aed679b0c10b81017d4f3924ba.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "jea\\role-capabilities.md.349654b726014e341e8701ed8c62967d6819e4a0.HT": {
       "SourceFilename": "jea\\role-capabilities.md",
@@ -5397,8 +5397,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\b0fb33b1d5e4ef1b0b9018ec5dd5f88ef5df4719.e909f12df64ff256080bbd7700e378499440a7f5.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\dsc_removeconfigdoc.83ad29516446e4b7390a6cacef8d0de31bb735a3.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "dsc\\pullServer.md.b82effc3099b07e4daa2eaeae3347b9f5bbad46c.HT": {
       "SourceFilename": "dsc\\pullServer.md",
@@ -5437,8 +5437,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\d84bb35ada3588367436e6f5e3c6696b90c3661b.0157db623bdd661ffa753b2f503e49db6498649a.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\configurations.02626ddbf3a00f8ede56fdfd2e46a027800e75b6.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "dsc\\groupResource.md.271c1fa67110e6e2638ae4d472ef60353dbc4993.HT": {
       "SourceFilename": "dsc\\groupResource.md",
@@ -5537,8 +5537,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\c8f97c3b565e0718b38a8e62a2b9cb9558451fc5.f2ca8aec4dd413319d99f8041dea575a4a2d68aa.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\core-powershell.94ba5d1996717b25414c15a5364425d4d49e05f1.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "wmf\\5.0\\feedback_formathex.md.9e02bae048228341ed202e6f19369d040925ac2f.HT": {
       "SourceFilename": "wmf\\5.0\\feedback_formathex.md",
@@ -5607,8 +5607,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\b5de1100450a89796c20a5bbb2e71f7759374b02.efd1e7d29ebbed18ed6a5d1477ac7439300faf9c.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\authoringResourceClass.3603134df9ad1cad202d10769ff631a083cc3aae.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "dsc\\msft-dsclocalconfigurationmanager-sendconfigurationapply.md.07e99b210be5616c29bd2ebddc54bc3710c04d88.HT": {
       "SourceFilename": "dsc\\msft-dsclocalconfigurationmanager-sendconfigurationapply.md",
@@ -5627,8 +5627,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\5396621599aea3316ac6d32d137ed114db68bbb3.f391b917d6683c421cc9b9f944cc65033c234a1e.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\bootstrapping_nuget_proivder_and_exe.3d7517dad67af35162e1b84a4893b46bd5b591e6.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "wmf\\5.0\\dsc_improvements.md.1cdc9fa4167ac96e892b91b00583fa9eb208dc77.HT": {
       "SourceFilename": "wmf\\5.0\\dsc_improvements.md",
@@ -5637,8 +5637,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\336c6bc43b482eda6524ebed0381240868261f64.4fd2a8082bc8d0ac183ac729a3c38bf656b82615.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\dsc_improvements.ef97b488849556e2b3c44d95f49f5b63fa3153bd.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "wmf\\5.0\\audit_script.md.1ec878b2491094d959d61829a6bd7c8163ae2963.HT": {
       "SourceFilename": "wmf\\5.0\\audit_script.md",
@@ -5647,8 +5647,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\654c0d5e83b9832524298b5c96eae094f371330f.768fe38c962ea891616f9b095ee49221a4364831.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\audit_script.ccd77e9c7f4781d90d16930be2e2e2005ff14222.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "wmf\\5.0\\feedback_convertfromString.md.a2e6d6e0319e1095a95b7bad95c19a66554f865a.HT": {
       "SourceFilename": "wmf\\5.0\\feedback_convertfromString.md",
@@ -5697,8 +5697,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\dc5b682e8e6b028c3cc54130e697d67fd4c234d2.7fa1254478be645755bd69f4e26e7d90dfdbf1bd.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\dsc_partialconfig_mixedmode.589a3de34413ae3f13f49ff83861189d47e231b2.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "scripting\\core-powershell\\core-modules.md.72e8e8c23f8c782324e85bc921fc58f3b8896a97.HT": {
       "SourceFilename": "scripting\\core-powershell\\core-modules.md",
@@ -5707,8 +5707,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\3bee547fc53d1164d3cbf17f033083d4f1099ae7.96f7ec2dc6aa6118297a267736e1a884a8c53fdd.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\core-modules.704485ba8e24c04a46b61fa4b4be5fb4b56d985f.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "dsc\\crossNodeDependencies.md.28bbef023596f46f76215f59bcbe83ebaad419fb.HT": {
       "SourceFilename": "dsc\\crossNodeDependencies.md",
@@ -5717,8 +5717,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\f4c64d3603fd01f29a63f8b180057714bf3d1197.4baaa7bcbf08093c885ad97cd3e00b51f80fc0e7.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\crossNodeDependencies.bd1d65501a23b72cf44e4d417ebad7a3bd5c7139.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "scripting\\getting-started\\cookbooks\\Appendix-2---Creating-a-Custom-PowerShell-Shortcut.md.11ea74b839443b7d21e143077c68235fd730239d.HT": {
       "SourceFilename": "scripting\\getting-started\\cookbooks\\Appendix-2---Creating-a-Custom-PowerShell-Shortcut.md",
@@ -5727,8 +5727,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\ceec1038516ddd4c29df770d14981c0a69437498.528f6f31b47eaa69b11b814f9b7be341ff4c13ca.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\Appendix-2---Creating-a-Custom-PowerShell-Shortcut.43122497f916b1aacf07b6760d601b606e4719f8.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "scripting\\PowerShell-Scripting.md.11480f915917680b5eb8fe0b11cce8709aa84057.HT": {
       "SourceFilename": "scripting\\PowerShell-Scripting.md",
@@ -5747,8 +5747,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\61eac49bc710a2435117409b74ba02798cf720da.6adb5e5c5b9a3ea1fb7141e04368d4cab3a9d10c.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\Appendix-1---Compatibility-Aliases.1e82caf8ddab51a17d518f635e351df370bbc743.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "wmf\\5.0\\productincompat.md.149737aa34226e172ca73b629e9992c59211c824.HT": {
       "SourceFilename": "wmf\\5.0\\productincompat.md",
@@ -5827,8 +5827,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\9ef3bec301af268ec4f97d881c0efbee71656fa4.c7df9feb5b2b37dda96aded4f67491a709fb32b0.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\dsc_getconfigurationstatus.6dbd8b8c78c8ec42545c0e351d242cfdaa1d7eef.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "gallery\\TOC.md.b89db43de5c27c18e2a5dd84a93778a1988a5ad5.HT": {
       "SourceFilename": "gallery\\TOC.md",
@@ -5927,8 +5927,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\2a17fdd4092adf734398f38bec915d53c1b3e566.3ae3c91c44224e0050947d56e2cb7dd3d8ecda9f.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\console-improvements.1e8be4b16ba9b1a7df66013c3107d42521f009d8.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "gallery\\psget\\module\\psget_update-module.md.c71500091026fcfaa8a211517afd1da9f1c50a14.HT": {
       "SourceFilename": "gallery\\psget\\module\\psget_update-module.md",
@@ -6047,8 +6047,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\b1cdc60338b2c130dad7d917c8fcec543aafe467.a444bee8b7ac1b7327f94235f4c33f96d02f44cf.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\dsc_authoring.c549b1f0b83923af0cbc07bbf3754a486f8b4303.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "wmf\\5.0\\networkswitch_overview.md.354f53203f87a526d97bb901601b7394d806d533.HT": {
       "SourceFilename": "wmf\\5.0\\networkswitch_overview.md",
@@ -6067,8 +6067,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\e1c94c281a39b3ae026bbeea9811ecc71b9cdb1c.aa9ff635041c51177a72cdd21b023092984443a1.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\basic-cookbooks.8c3a9847d486728dbb152bba4ef40ec861a781a6.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "wmf\\5.0\\sil_overview.md.6b66406f51008d79ef7928bff1a14b89cd061845.HT": {
       "SourceFilename": "wmf\\5.0\\sil_overview.md",
@@ -6097,8 +6097,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\1357bcf47977f6f1bfdc6420851d9f4df3e2b46d.8f95cd9be5b9d3118c19bde309206157a1d481dd.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\dsc_resourcedebugging.094cf92c8661eb6bf762a1e58fc19a5166ae2104.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "dsc\\authoringResourceComposite.md.2144f4336189a010c8eeb3c5e2a9a116a5c185e6.HT": {
       "SourceFilename": "dsc\\authoringResourceComposite.md",
@@ -6167,8 +6167,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\a750fb208e73ce2ebffb2fa86a55c825169d8ad8.cf734337b2ed718efb6e2edba3f2bfece320fadb.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\configDataCredentials.f3e75119e7d93b2f914823c5ea23bfde3935a874.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "scripting\\setup\\Installing-the-Windows-PowerShell-2.0-Engine.md.197fee0a2b8740b39a4142a037ae766d7b08eb4b.HT": {
       "SourceFilename": "scripting\\setup\\Installing-the-Windows-PowerShell-2.0-Engine.md",
@@ -6257,8 +6257,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\20e6c97ad5dc845bc0ead973ed8a62b34af3e824.48b1e87d5e9b2f3e26fab7ffcbaa1bd25248f860.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\audit_overview.92ad34c8060616c8b797a90e6812159e2418ad20.de-de.xlf",
+      "LocXliffCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d"
     },
     "gallery\\psgallery\\psgallery_search_syntax.md.a99b74a2ccc9a4c69d649c74d8f3a14e82fd82ba.HT": {
       "SourceFilename": "gallery\\psgallery\\psgallery_search_syntax.md",
