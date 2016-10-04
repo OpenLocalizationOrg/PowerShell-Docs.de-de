@@ -1,18 +1,37 @@
-#Erstellen Sie benutzerdefinierter Windows PowerShell gewünscht State Configuration-Ressourcen
+---
+title: Erstellen von benutzerdefinierten Windows PowerShell DSC-Ressourcen
+ms.date: 2016-05-16
+keywords: powershell,DSC
+description: 
+ms.topic: article
+author: eslesar
+manager: dongill
+ms.prod: powershell
+translationtype: Human Translation
+ms.sourcegitcommit: a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b
+ms.openlocfilehash: 5b43723f7b14eb4bca06d0430b5981c3663c5801
 
-> Gilt für: WindowsPowerShell 4.0, WindowsPowerShell 5.0
+---
 
-Windows PowerShell gewünscht State Configuration (DSC) verfügt über integrierte Ressourcen, mit denen Sie Ihre Umgebung konfigurieren. (Weitere Informationen finden Sie unter [integrierte Windows PowerShell gewünschten Status Konfigurationsressourcen](builtInResource.md).) Dieses Thema enthält einen Überblick über die Entwicklung von Ressourcen und Links zu Themen mit bestimmten Informationen und Beispiele.
+# Erstellen von benutzerdefinierten Windows PowerShell DSC-Ressourcen
 
-##DSC Komponenten
+> Gilt für: Windows PowerShell 4.0, Windows PowerShell 5.0
 
-Eine DSC-Ressource ist ein Windows PowerShell-Modul. Das Modul enthält das Schema (die Definition der konfigurierbaren Eigenschaften) und die Implementierung (der Code, der die eigentliche von einer Konfiguration angegeben Arbeit) für die Ressource. Ein Schema der DSC-Ressource kann in eine MOF-Datei definiert werden, und die Implementierung erfolgt über ein Skriptmodul. Beginnen mit der Unterstützung von PowerShell-Klassen in Version 5, können das Schema und die Implementierung in einer Klasse definiert werden. Die folgenden Themen beschreiben ausführlicher DSC-Ressourcen zu erstellen.
+Windows PowerShell DSC verfügt über integrierte Ressourcen, mit denen Sie Ihre Umgebung konfigurieren können (Weitere Informationen finden Sie unter [Integrierte Windows PowerShell DSC-Ressourcen](builtInResource.md).) Dieses Thema enthält einen Überblick über die Entwicklung von Ressourcen sowie Links zu Themen mit speziellen Informationen und Beispielen.
 
-* [Schreiben eine benutzerdefinierte DSC-Ressource mit MOF](authoringResourceMOF.md)
-* [Implementieren eine Ressource DSC in c#](authoringResourceMofCS.md)
-* [Schreiben eine benutzerdefinierte DSC-Ressource mit PowerShell-Klassen](authoringResourceClass.md)
-* [Zusammengesetzte Ressourcen: mit einer DSC-Konfiguration als Ressource](authoringResourceComposite.md)
-* [Mithilfe des Tools Ressourcen-Designer](authoringResourceMofDesigner.md)
+## Komponenten der DSC-Ressourcen
 
+Eine DSC-Ressource ist ein Windows PowerShell-Modul. Das Modul enthält das Schema (die Definition der konfigurierbaren Eigenschaften) und die Implementierung (den Code, der die eigentliche durch eine Konfiguration angegebene Arbeit ausführt) für die Ressource. Ein DSC-Ressourcenschema kann in einer MOF-Datei definiert werden, und die Implementierung erfolgt durch ein Skriptmodul. Beginnend mit der Unterstützung von PowerShell-Klassen in Version 5 können das Schema und die Implementierung in einer Klasse definiert werden. Die folgenden Themen beschreiben ausführlicher, wie Sie DSC-Ressourcen erstellen.
+
+* [Schreiben einer benutzerdefinierten DSC-Ressource mit MOF](authoringResourceMOF.md) 
+* [Implementieren einer DSC-Ressource in C#](authoringResourceMofCS.md) 
+* [Schreiben einer benutzerdefinierten DSC-Ressource mit PowerShell-Klassen](authoringResourceClass.md) 
+* [Zusammengesetzte Ressourcen: Verwenden einer DSC-Konfiguration als Ressource](authoringResourceComposite.md) 
+* [Verwenden des Ressourcen-Designers](authoringResourceMofDesigner.md) 
+
+
+
+
+<!--HONumber=Oct16_HO1-->
 
 

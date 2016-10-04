@@ -1,48 +1,61 @@
-#Schreiben eine benutzerdefinierte DSC-Ressource mit PowerShell-Klassen
+---
+title: Schreiben einer benutzerdefinierten DSC-Ressource mit PowerShell-Klassen
+ms.date: 2016-05-16
+keywords: powershell,DSC
+description: 
+ms.topic: article
+author: eslesar
+manager: dongill
+ms.prod: powershell
+translationtype: Human Translation
+ms.sourcegitcommit: a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b
+ms.openlocfilehash: b5de1100450a89796c20a5bbb2e71f7759374b02
 
-> Gilt für: Windows WindowsPowerShell 5.0
+---
 
-Mit der Einführung von PowerShell-Klassen in Windows PowerShell 5.0 können Sie jetzt eine Ressource DSC durch Erstellen einer Klasse definieren. Die Klasse definiert das Schema und die Implementierung der Ressource, daher keine Notwendigkeit besteht, eine separate MOF-Datei erstellen. Die Ordnerstruktur für eine Ressource auf Klassen basierende wurde vereinfacht, da ein **DSCResources** Ordner ist nicht erforderlich.
+# Schreiben einer benutzerdefinierten DSC-Ressource mit PowerShell-Klassen
 
-In einer klassenbasierten DSC-Ressource ist das Schema als Eigenschaften der Klasse definiert, die mit Attributen, geben Sie die Eigenschaft geändert werden kann. Die Ressource wird implementiert, indem **Get()**, **DISTINCT**, und **Test()** Methoden (entspricht der **Get-TargetResource**, **Set TargetResource**, und **Test TargetResource** Funktionen in einer Skriptressource.
+> Gilt für: Windows PowerShell 5.0
 
-In diesem Thema erstellen wir eine einfache Ressource namens **FileResource** eine Datei in einem angegebenen Pfad verwaltet.
+Mit der Einführung der PowerShell-Klassen in Windows PowerShell 5.0 können Sie jetzt eine DSC-Ressourcen durch Erstellen einer Klasse definieren. Die Klasse definiert das Schema und die Implementierung der Ressource, daher besteht keine Notwendigkeit, eine separate MOF-Datei zu erstellen. Die Ordnerstruktur für eine klassenbasierte Ressource ist auch einfacher, da kein **DSCResources**-Ordner erforderlich ist.
 
-Weitere Informationen zu DSC-Ressourcen finden Sie unter [benutzerdefinierte Windows PowerShell gewünschten Status Konfiguration Buildressourcen](authoringResource.md)
+In einer klassenbasierten DSC-Ressource wird das Schema als Eigenschaften der Klasse definiert, die mit Attributen für den Eigenschaftstyp geändert werden können. Die Ressource wird mit den Methoden **Get()**, **Set()**und **Test()** implementiert (entspricht den Funktionen **Get-TargetResource**, **Set-TargetResource** und **Test-TargetResource** in einer Skriptressource.
 
-##Ordnerstruktur für eine Klassenressource
+In diesem Thema wird eine einfache Ressource mit dem Namen **FileResource** erstellt, die eine Datei unter einem angegebenen Pfad verwaltet.
 
-Um eine benutzerdefinierte DSC-Ressource mit einer PowerShell-Klasse zu implementieren, erstellen Sie die folgende Ordnerstruktur. Die Klasse definiert ist, **MyDscResource.psm1** und das modulmanifest definiert ist, **MyDscResource.psd1**.
+Weitere Informationen zu DSC-Ressourcen finden Sie unter [Erstellen von benutzerdefinierten Windows PowerShell DSC-Ressourcen](authoringResource.md).
+
+## Ordnerstruktur für eine Klassenressource
+
+Um eine benutzerdefinierte DSC-Ressource mit einer PowerShell-Klasse zu implementieren, erstellen Sie die folgende Ordnerstruktur. Die Klasse wird in **MyDscResource.psm1** und das Modulmanifest in **MyDscResource.psd1** definiert.
 
 ```
-$env: psmodulepath (folder)
-    |- MyDscResources (folder)
+$env:ProgramFiles\WindowsPowerShell\Modules (folder)
+    |- MyDscResource (folder)
         |- MyDscResource.psm1 
            MyDscResource.psd1 
 ```
 
-##Erstellen Sie die Klasse
+## Erstellen einer Klasse
 
-Sie verwenden das Schlüsselwort Class zum Erstellen einer PowerShell-Klasse. Verwenden, um anzugeben, dass eine Klasse eine DSC-Ressource der **DscResource()** Attribut. Der Name der Klasse ist der Name der Ressource DSC.
+Sie verwenden das Schlüsselwort „class“ zum Erstellen einer PowerShell-Klasse. Um anzugeben, dass eine Klasse eine DSC-Ressource ist, verwenden Sie das Attribut **DscResource()**. Der Name der Klasse ist der Name der DSC-Ressource.
 
 ```powershell
 [DscResource()]
-class FileResource{
+class FileResource {
 }
 ```
 
-###Deklarieren von Eigenschaften
+### Deklarieren von Eigenschaften
 
-Das Schema der DSC Resource wird als Eigenschaften der Klasse definiert. Wir haben drei Eigenschaften wie folgt deklarieren.
+Das DSC-Ressourcenschema wird als Eigenschaften der Klasse definiert. Es wurden die folgenden drei Eigenschaften deklariert.
 
 ```powershell
 [DscProperty(Key)]
 [string]$Path
 
-
 [DscProperty(Mandatory)]
 [Ensure] $Ensure
-
 
 [DscProperty(Mandatory)]
 [string] $SourcePath
@@ -51,23 +64,14 @@ Das Schema der DSC Resource wird als Eigenschaften der Klasse definiert. Wir hab
 [Nullable[datetime]] $CreationTime
 ```
 
-Beachten Sie, dass die Eigenschaften von Attribute geändert werden. Die Attribues-Zuordnung zum entsprechenden Attribute wie folgt in MOF-Klassen verwendet.
+Beachten Sie, dass die Eigenschaften durch Attribute geändert werden. Die Attribute haben folgende Bedeutungen:
 
-Property-Attribut im MOF-Klassenattribut Beschreibung
-DscProperty(Key)
-Schlüssel
-Die Eigenschaft ist erforderlich. Die Eigenschaft ist ein Schlüssel. Die Werte aller Eigenschaften als Schlüssel zur eindeutigen Identifizierung eine Ressourceninstanz innerhalb einer Konfiguration kombinieren müssen markiert.
-DscProperty(Mandatory)
-Erforderlich
-Die Eigenschaft ist erforderlich.
-DscProperty(NotConfigurable)
-Lesen
-Die Eigenschaft ist schreibgeschützt. Eigenschaften, die mit diesem Attribut markierte können nicht von einer Konfiguration festgelegt werden, aber aufgefüllt werden, von der Get()-Methode, sofern diese vorhanden sind.
-DscProperty()
-Schreiben
-Die Eigenschaft konfigurierbar ist, aber es ist nicht erforderlich.
+- **DscProperty(Key)**: Die Eigenschaft ist erforderlich. Die Eigenschaft ist ein Schlüssel. Die Werte aller als Schlüssel gekennzeichneten Eigenschaften in Kombination müssen eine Ressourceninstanz in einer Konfiguration eindeutig identifizieren.
+- **DscProperty(Mandatory)**: Die Eigenschaft ist erforderlich.
+- **DscProperty(NotConfigurable)**: Die Eigenschaft ist schreibgeschützt. Eigenschaften, die mit diesem Attribut gekennzeichnet sind, können nicht von einer Konfiguration festgelegt werden, sondern werden durch die Methode **Get()**, wenn vorhanden, aufgefüllt.
+- **DscProperty()**: Die Eigenschaft ist konfigurierbar, aber nicht erforderlich.
 
-Die **$Path** und **$SourcePath** Eigenschaften sind beide Zeichenfolgen. Die **$CreationTime** ist ein [DateTime](https://technet.microsoft.com/en-us/library/system.datetime.aspx) Eigenschaft. Die **$Ensure** -Eigenschaft ist ein Enumerationstyp, der wie folgt definiert.
+Die Eigenschaften **$Path** und **$SourcePath** sind Zeichenfolgen. **$CreationTime** ist eine [DateTime](https://technet.microsoft.com/en-us/library/system.datetime.aspx)-Eigenschaft. Die Eigenschaft **$Ensure** ist ein Enumerationstyp, der wie folgt definiert ist:
 
 ```powershell
 enum Ensure 
@@ -77,21 +81,23 @@ enum Ensure
 }
 ```
 
-###Implementieren die Methoden
+### Implementieren der Methoden
 
-Die **Get()**, **DISTINCT**, und **Test()** Methoden sind analog zu den **Get-TargetResource**, **Set TargetResource**, und **Test TargetResource** Funktionen in eine Skriptressource.
+Die Methoden **Get()**, **Set()** und **Test()** werden analog zu den Funktionen **Get-TargetResource**, **Set-TargetResource** und **Test-TargetResource** in einer Skriptressource implementiert.
 
-Dieser Code umfasst auch die CopyFile()"-Funktion eine Hilfsfunktion, die die Datei kopiert **$SourcePath** auf **$Path**.
+Dieser Code umfasst auch die Funktion „CopyFile()“, eine Hilfsfunktion, die die Datei von **$SourcePath** nach **$Path** kopiert. 
 
 ```powershell
-<#
+
+    <#
         This method is equivalent of the Set-TargetResource script function.
         It sets the resource to the desired state.
     #>
     [void] Set()
-    {        
+    {
         $fileExists = $this.TestFilePath($this.Path)
-        if($this.ensure -eq [Ensure]::Present)
+
+        if ($this.ensure -eq [Ensure]::Present)
         {
             if(-not $fileExists)
             {
@@ -100,7 +106,7 @@ Dieser Code umfasst auch die CopyFile()"-Funktion eine Hilfsfunktion, die die Da
         }
         else
         {
-            if($fileExists)
+            if ($fileExists)
             {
                 Write-Verbose -Message "Deleting the file $($this.Path)"
                 Remove-Item -LiteralPath $this.Path -Force
@@ -108,17 +114,16 @@ Dieser Code umfasst auch die CopyFile()"-Funktion eine Hilfsfunktion, die die Da
         }
     }
 
-    <# 
-
-        This method is equivalent of the Test-TargetResource script function. 
+    <#
+        This method is equivalent of the Test-TargetResource script function.
         It should return True or False, showing whether the resource
-        is in a desired state.         
+        is in a desired state.
     #>
     [bool] Test()
     {
         $present = $this.TestFilePath($this.Path)
 
-        if($this.Ensure -eq [Ensure]::Present)
+        if ($this.Ensure -eq [Ensure]::Present)
         {
             return $present
         }
@@ -128,7 +133,6 @@ Dieser Code umfasst auch die CopyFile()"-Funktion eine Hilfsfunktion, die die Da
         }
     }
 
-
     <#
         This method is equivalent of the Get-TargetResource script function.
         The implementation should use the keys to find appropriate resources.
@@ -137,7 +141,7 @@ Dieser Code umfasst auch die CopyFile()"-Funktion eine Hilfsfunktion, die die Da
     #>
     [FileResource] Get()
     {
-        $present = $this.TestFilePath($this.Path)        
+        $present = $this.TestFilePath($this.Path)
 
         if ($present)
         {
@@ -149,7 +153,7 @@ Dieser Code umfasst auch die CopyFile()"-Funktion eine Hilfsfunktion, die die Da
         {
             $this.CreationTime = $null
             $this.Ensure = [Ensure]::Absent
-        }        
+        }
 
         return $this
     }
@@ -158,22 +162,24 @@ Dieser Code umfasst auch die CopyFile()"-Funktion eine Hilfsfunktion, die die Da
         Helper method to check if the file exists and it is file
     #>
     [bool] TestFilePath([string] $location)
-    {      
+    {
         $present = $true
 
-        $item = Get-ChildItem -LiteralPath $location -ea Ignore
+        $item = Get-ChildItem -LiteralPath $location -ErrorAction Ignore
+
         if ($item -eq $null)
         {
-            $present = $false            
+            $present = $false
         }
-        elseif( $item.PSProvider.Name -ne "FileSystem")
+        elseif ($item.PSProvider.Name -ne "FileSystem")
         {
             throw "Path $($location) is not a file path."
         }
-        elseif($item.PSIsContainer)
+        elseif ($item.PSIsContainer)
         {
             throw "Path $($location) is a directory path."
         }
+
         return $present
     }
 
@@ -181,236 +187,39 @@ Dieser Code umfasst auch die CopyFile()"-Funktion eine Hilfsfunktion, die die Da
         Helper method to copy file from source to path
     #>
     [void] CopyFile()
-    { 
-        if(-not $this.TestFilePath($this.SourcePath))
+    {
+        if (-not $this.TestFilePath($this.SourcePath))
         {
             throw "SourcePath $($this.SourcePath) is not found."
         }
 
-        [System.IO.FileInfo] $destFileInfo = new-object System.IO.FileInfo($this.Path)
+        [System.IO.FileInfo] $destFileInfo = New-Object -TypeName System.IO.FileInfo($this.Path)
+
         if (-not $destFileInfo.Directory.Exists)
         {
             Write-Verbose -Message "Creating directory $($destFileInfo.Directory.FullName)"
 
-            #use CreateDirectory instead of New-Item to avoid code
-            # to handle the non-terminating error
+            <#
+                Use CreateDirectory instead of New-Item to avoid code
+                to handle the non-terminating error
+            #>
             [System.IO.Directory]::CreateDirectory($destFileInfo.Directory.FullName)
         }
 
-        if(Test-Path -LiteralPath $this.Path -PathType Container)
+        if (Test-Path -LiteralPath $this.Path -PathType Container)
         {
             throw "Path $($this.Path) is a directory path"
         }
 
         Write-Verbose -Message "Copying $($this.SourcePath) to $($this.Path)"
 
-        #DSC engine catches and reports any error that occurs
+        # DSC engine catches and reports any error that occurs
         Copy-Item -LiteralPath $this.SourcePath -Destination $this.Path -Force
-    }
-}<# 
-        This method replaces the Set-TargetResource DSC script function.
-        It sets the resource to the desired state. 
-    #>
-    [void] Set() 
-    {       
-        $fileExists = Test-Path -path $this.Path -PathType Leaf 
-        if($this.ensure -eq [Ensure]::Present)
-        {
-            if(-not $fileExists)
-            {
-                $this.CopyFile()            
-            }
-        }
-        else
-        {
-            if($fileExists)         
-            {
-                Write-Verbose -Message "Deleting the file $this.Path"
-                Remove-Item -LiteralPath $this.Path                     
-            }
-        } 
-    } 
-
-
-    <# 
-
-        This method replaces the Test-TargetResource function. 
-        It should return True or False, showing whether the resource
-         is in a desired state.         
-    #> 
-
-    [bool] Test()
-    {
-        if(Test-Path -path $this.Path -PathType Container)
-        {
-            throw "Path '$this.Path' is a directory path."
-        }
-
-        $fileExists = Test-Path -path $this.Path -PathType Leaf
-
-        if($this.ensure -eq [Ensure]::Present)
-        {
-            return $fileExists
-        }
-
-        return (-not $fileExists)
-    }
-
-
-    <# 
-        This method replaces the Get-TargetResource function.         
-        The implementation should use the keys to find appropriate resources. 
-        This method returns an instance of this class with the updated key properties. 
-    #> 
-
-    [FileResource] Get() 
-    {
-        $file = Get-item $this.Path
-        return $this
-    }
-
-    <#
-        Helper method to copy file from source to path.
-        Because this resource provider run under system,
-        Only the Administrators and system have full
-         access to the new created directory and file
-    #>
-    CopyFile()
-    {
-        if(Test-Path -path $this.SourcePath -PathType Container)
-        {
-            throw "SourcePath '$this.SourcePath' is a directory path"
-        }
-
-        if( -not (Test-Path -path $this.SourcePath -PathType Leaf))
-        {
-            throw "SourcePath '$this.SourcePath' is not found."
-        }
-
-        [System.IO.FileInfo] $destFileInfo = new-object System.IO.FileInfo($this.Path)
-        if (-not $destFileInfo.Directory.Exists)
-        {         
-            Write-Verbose -Message "Creating directory $($destFileInfo.Directory.FullName)"
-
-            #use CreateDirectory instead of New-Item to avoid lines
-            # to handle the non-terminating error
-            [System.IO.Directory]::CreateDirectory($destFileInfo.Directory.FullName)
-        }
-
-        if(Test-Path -path $this.Path -PathType Container)
-        {
-            throw "Path '$this.Path' is a directory path"
-        }
-
-        Write-Verbose -Message "Copying $this.SourcePath to $this.Path"
-
-        #DSC engine catches and reports any error that occurs
-        Copy-Item -Path $this.SourcePath -Destination $this.Path -Force
-    } 
- <# 
-        This method replaces the Set-TargetResource DSC script function.
-        It sets the resource to the desired state. 
-    #>
-    [void] Set() 
-    {       
-        $fileExists = Test-Path -path $Path -PathType Leaf 
-        if($ensure -eq [Ensure]::Present)
-        {
-            if(-not $fileExists)
-            {
-                $this.CopyFile()            
-            }
-        }
-        else
-        {
-            if($fileExists)         
-            {
-                Write-Verbose -Message "Deleting the file $Path"
-                Remove-Item -LiteralPath $Path                     
-            }
-        } 
-    } 
-
-
-    <# 
-
-        This method replaces the Test-TargetResource function. 
-        It should return True or False, showing whether the resource
-         is in a desired state.         
-    #> 
-
-    [bool] Test()
-    {
-        if(Test-Path -path $Path -PathType Container)
-        {
-            throw "Path '$Path' is a directory path."
-        }
-
-        $fileExists = Test-Path -path $Path -PathType Leaf
-if($ensure -eq [Ensure]::Present)
-        {
-            return $fileExists
-        }
-
-        return (-not $fileExists)
-    }
-
-
-    <# 
-        This method replaces the Get-TargetResource function.         
-        The implementation should use the keys to find appropriate resources. 
-        This method returns an instance of this class with the updated key properties. 
-    #> 
-
-    [FileResource] Get() 
-    {
-        $file = Get-item $Path
-        return $this
-    }
-
-    <#
-        Helper method to copy file from source to path
-        Because this resource provider run under system,
-        Only the Administrators and system have full
-         access to the new created directory and file
-    #>
-    CopyFile()
-    {
-        if(Test-Path -path $SourcePath -PathType Container)
-        {
-            throw "SourcePath '$SourcePath' is a directory path"
-        }
-
-        if( -not (Test-Path -path $SourcePath -PathType Leaf))
-        {
-            throw "SourcePath '$SourcePath' is not found."
-        }
-
-        [System.IO.FileInfo] $destFileInfo = new-object System.IO.FileInfo($Path)
-        if (-not $destFileInfo.Directory.Exists)
-        {         
-            Write-Verbose -Message "Creating directory $($destFileInfo.Directory.FullName)"
-
-            #use CreateDirectory instead of New-Item to avoid lines
-            # to handle the non-terminating error
-            [System.IO.Directory]::CreateDirectory($destFileInfo.Directory.FullName)
-        }
-
-        if(Test-Path -path $Path -PathType Container)
-        {
-            throw "Path '$Path' is a directory path"
-        }
-
-        Write-Verbose -Message "Copying $SourcePath to $Path"
-
-        #DSC engine catches and reports any error that occurs
-        Copy-Item -Path $SourcePath -Destination $Path -Force
     }
 ```
 
-###Die vollständige Datei
-
-Die vollständige Klasse-Datei:
+### Die vollständige Datei
+Die vollständige Klassendatei folgt.
 
 ```powershell
 enum Ensure
@@ -427,7 +236,7 @@ enum Ensure
 [DscResource()]
 class FileResource
 {
-    <# 
+    <#
        This property is the fully qualified path to the file that is
        expected to be present or absent.
 
@@ -450,12 +259,12 @@ class FileResource
         The [DscProperty(Mandatory)] attribute indicates the property is
         required and DSC will guarantee it is set.
 
-        If Mandatory is not specified or if it is defined as 
+        If Mandatory is not specified or if it is defined as
         Mandatory=$false, the value is not guaranteed to be set when DSC
         calls the resource.  This is appropriate for optional properties.
     #>
     [DscProperty(Mandatory)]
-    [Ensure] $Ensure    
+    [Ensure] $Ensure
 
     <#
        This property defines the fully qualified path to a file that will
@@ -485,18 +294,18 @@ class FileResource
         It sets the resource to the desired state.
     #>
     [void] Set()
-    {        
+    {
         $fileExists = $this.TestFilePath($this.Path)
-        if($this.ensure -eq [Ensure]::Present)
+        if ($this.ensure -eq [Ensure]::Present)
         {
-            if(-not $fileExists)
+            if (-not $fileExists)
             {
                 $this.CopyFile()
             }
         }
         else
         {
-            if($fileExists)
+            if ($fileExists)
             {
                 Write-Verbose -Message "Deleting the file $($this.Path)"
                 Remove-Item -LiteralPath $this.Path -Force
@@ -504,17 +313,16 @@ class FileResource
         }
     }
 
-    <# 
-
-        This method is equivalent of the Test-TargetResource script function. 
+    <#
+        This method is equivalent of the Test-TargetResource script function.
         It should return True or False, showing whether the resource
-        is in a desired state.         
+        is in a desired state.
     #>
     [bool] Test()
     {
         $present = $this.TestFilePath($this.Path)
 
-        if($this.Ensure -eq [Ensure]::Present)
+        if ($this.Ensure -eq [Ensure]::Present)
         {
             return $present
         }
@@ -524,7 +332,6 @@ class FileResource
         }
     }
 
-
     <#
         This method is equivalent of the Get-TargetResource script function.
         The implementation should use the keys to find appropriate resources.
@@ -533,7 +340,7 @@ class FileResource
     #>
     [FileResource] Get()
     {
-        $present = $this.TestFilePath($this.Path)        
+        $present = $this.TestFilePath($this.Path)
 
         if ($present)
         {
@@ -545,7 +352,7 @@ class FileResource
         {
             $this.CreationTime = $null
             $this.Ensure = [Ensure]::Absent
-        }        
+        }
 
         return $this
     }
@@ -554,22 +361,23 @@ class FileResource
         Helper method to check if the file exists and it is file
     #>
     [bool] TestFilePath([string] $location)
-    {      
+    {
         $present = $true
 
         $item = Get-ChildItem -LiteralPath $location -ea Ignore
         if ($item -eq $null)
         {
-            $present = $false            
+            $present = $false
         }
-        elseif( $item.PSProvider.Name -ne "FileSystem")
+        elseif ($item.PSProvider.Name -ne "FileSystem")
         {
             throw "Path $($location) is not a file path."
         }
-        elseif($item.PSIsContainer)
+        elseif ($item.PSIsContainer)
         {
             throw "Path $($location) is a directory path."
         }
+
         return $present
     }
 
@@ -577,8 +385,8 @@ class FileResource
         Helper method to copy file from source to path
     #>
     [void] CopyFile()
-    { 
-        if(-not $this.TestFilePath($this.SourcePath))
+    {
+        if (-not $this.TestFilePath($this.SourcePath))
         {
             throw "SourcePath $($this.SourcePath) is not found."
         }
@@ -588,168 +396,30 @@ class FileResource
         {
             Write-Verbose -Message "Creating directory $($destFileInfo.Directory.FullName)"
 
-            #use CreateDirectory instead of New-Item to avoid code
-            # to handle the non-terminating error
+            <#
+                Use CreateDirectory instead of New-Item to avoid code
+                 to handle the non-terminating error
+            #>
             [System.IO.Directory]::CreateDirectory($destFileInfo.Directory.FullName)
         }
 
-        if(Test-Path -LiteralPath $this.Path -PathType Container)
+        if (Test-Path -LiteralPath $this.Path -PathType Container)
         {
             throw "Path $($this.Path) is a directory path"
         }
 
         Write-Verbose -Message "Copying $($this.SourcePath) to $($this.Path)"
 
-        #DSC engine catches and reports any error that occurs
+        # DSC engine catches and reports any error that occurs
         Copy-Item -LiteralPath $this.SourcePath -Destination $this.Path -Force
     }
-}# This module defines a class for a DSC "FileResource" provider. 
-
-
-enum Ensure 
-{ 
-    Absent 
-    Present 
-} 
-
-
-<# This resource manages the file in a specific path. 
-[DscResource()] indicates the class is a DSC resource 
-#> 
-
-[DscResource()]
-class FileResource{ 
-
-    <# This is a key property 
-       [DscResourceKey()] also means the property is required.
-       It is guaranteed to be set, other properties may not
-        be set if the configuration did not specify values.
-    #> 
-    [DscResourceKey()]
-    [string]$Path
-
-    <# 
-       [DscResourceMandatory()] means the property is required.
-       It is guaranteed to be set, other properties may not be set
-        if the configuration did not specify values.
-    #>
-    [DscResourceMandatory()]
-    [Ensure] $Ensure
-
-    <# 
-       [DscResourceMandatory()] means the property is required.
-    #>
-    [DscResourceMandatory()]
-    [string] $SourcePath     
-
-    [DscResource
-
-    <# 
-        This method replaces the Set-TargetResource DSC script function.
-        It sets the resource to the desired state. 
-    #>
-    [void] Set() 
-    {       
-        $fileExists = Test-Path -path $this.Path -PathType Leaf 
-        if($this.ensure -eq [Ensure]::Present)
-        {
-            if(-not $fileExists)
-            {
-                $this.CopyFile()            
-            }
-        }
-        else
-        {
-            if($fileExists)         
-            {
-                Write-Verbose -Message "Deleting the file $this.Path"
-                Remove-Item -LiteralPath $this.Path                     
-            }
-        } 
-    } 
-
-
-    <# 
-
-        This method replaces the Test-TargetResource function. 
-        It should return True or False, showing whether the resource
-         is in a desired state.         
-    #> 
-
-    [bool] Test()
-    {
-        if(Test-Path -path $this.Path -PathType Container)
-        {
-            throw "Path '$this.Path' is a directory path."
-        }
-
-        $fileExists = Test-Path -path $this.Path -PathType Leaf
-
-        if($this.ensure -eq [Ensure]::Present)
-        {
-            return $fileExists
-        }
-
-        return (-not $fileExists)
-    }
-
-
-    <# 
-        This method replaces the Get-TargetResource function.         
-        The implementation should use the keys to find appropriate resources. 
-        This method returns an instance of this class with the updated key properties. 
-    #> 
-
-    [FileResource] Get() 
-    {
-        $file = Get-item $this.Path
-        return $this
-    }
-
-    <#
-        Helper method to copy file from source to path.
-        Because this resource provider run under system,
-        Only the Administrators and system have full
-         access to the new created directory and file
-    #>
-    CopyFile()
-    {
-        if(Test-Path -path $this.SourcePath -PathType Container)
-        {
-            throw "SourcePath '$this.SourcePath' is a directory path"
-        }
-
-        if( -not (Test-Path -path $this.SourcePath -PathType Leaf))
-        {
-            throw "SourcePath '$this.SourcePath' is not found."
-        }
-
-        [System.IO.FileInfo] $destFileInfo = new-object System.IO.FileInfo($this.Path)
-        if (-not $destFileInfo.Directory.Exists)
-        {         
-            Write-Verbose -Message "Creating directory $($destFileInfo.Directory.FullName)"
-
-            #use CreateDirectory instead of New-Item to avoid lines
-            # to handle the non-terminating error
-            [System.IO.Directory]::CreateDirectory($destFileInfo.Directory.FullName)
-        }
-
-        if(Test-Path -path $this.Path -PathType Container)
-        {
-            throw "Path '$this.Path' is a directory path"
-        }
-
-        Write-Verbose -Message "Copying $this.SourcePath to $this.Path"
-
-        #DSC engine catches and reports any error that occurs
-        Copy-Item -Path $this.SourcePath -Destination $this.Path -Force
-    }
-} 
+} # This module defines a class for a DSC "FileResource" provider.
 ```
 
-##Erstellen Sie eine Manifestdatei
 
-Um eine klassenbasierte Ressource dem DSC-Modul verfügbar zu machen, müssen Sie enthalten eine **DscResourcesToExport** Anweisung in der Manifestdatei, die weist das Modul, um die Ressource zu exportieren. Die Manifestdatei sieht folgendermaßen aus:
+## Erstellen eines Manifests
+
+Um eine klassenbasierte Ressource für das DSC-Modul verfügbar zu machen, müssen Sie eine **DscResourcesToExport**-Anweisung zur Manifestdatei hinzufügen, die das Modul anweist, die Ressource zu exportieren. Unser Manifest sieht folgendermaßen aus:
 
 ```powershell
 @{
@@ -785,9 +455,9 @@ PowerShellVersion = '5.0'
 } 
 ```
 
-##Testen Sie die Ressource
+## Testen der Ressource
 
-Nach dem Speichern der Klasse und manifest-Dateien in der Ordnerstruktur wie oben beschrieben, können Sie eine Konfiguration erstellen, die die neue Ressource verwendet. Informationen über das Ausführen einer DSC-Konfigurations finden Sie unter [Inkraftsetzung Konfigurationen](enactingConfigurations.md). Die folgende Konfiguration wird überprüft, ob die Datei unter `c:\test\test.txt` vorhanden ist, und falls nicht, kopiert die Datei vom `c:\test.txt` (erstellen Sie `c:\test.txt` vor dem Ausführen der Konfigurations).
+Nachdem Sie die Klasse und die Manifestdateien, wie zuvor beschrieben, in der Ordnerstruktur gespeichert haben, können Sie eine Konfiguration erstellen, die die neue Ressource verwendet. Informationen dazu, wie Sie eine DSC-Konfiguration ausführen, finden Sie unter [Inkraftsetzung von Konfigurationen](enactingConfigurations.md). Die folgende Konfiguration überprüft, ob die Datei unter `c:\test\test.txt` vorhanden ist, und kopiert sie bei Bedarf aus `c:\test.txt` (Sie sollten `c:\test.txt` vor dem Ausführen der Konfiguration erstellen).
 
 ```powershell
 Configuration Test
@@ -804,11 +474,13 @@ Test
 Start-DscConfiguration -Wait -Force Test
 ```
 
-##Weitere Informationen
+## Weitere Informationen
+### Konzepte
+[Erstellen von benutzerdefinierten Windows PowerShell DSC-Ressourcen](authoringResource.md)
 
-###Konzepte
 
-[Erstellen Sie benutzerdefinierter Windows PowerShell gewünscht State Configuration-Ressourcen](authoringResource.md)
 
+
+<!--HONumber=Oct16_HO1-->
 
 

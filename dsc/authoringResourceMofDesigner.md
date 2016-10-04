@@ -1,24 +1,38 @@
-#Mithilfe des Tools Ressourcen-Designer
+---
+title: Verwenden des Ressourcen-Designers
+ms.date: 2016-05-16
+keywords: powershell,DSC
+description: 
+ms.topic: article
+author: eslesar
+manager: dongill
+ms.prod: powershell
+translationtype: Human Translation
+ms.sourcegitcommit: a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b
+ms.openlocfilehash: be2141330dda803a22fdce6d65a1e379adf14fed
 
-> Gilt für: WindowsPowerShell 4.0, WindowsPowerShell 5.0
+---
 
-Mit dem Ressourcen-Designer ist ein Satz von Cmdlets, die verfügbar gemacht werden, indem die **xDscResourceDesigner** -Modul, das Erstellen von Windows PowerShell gewünscht State Configuration (DSC) Ressourcen zu erleichtern. Die Cmdlets in dieser Ressource können das MOF-Schema, das Skriptmodul und die Verzeichnisstruktur für die neue Ressource zu erstellen. Weitere Informationen zu DSC-Ressourcen finden Sie unter [benutzerdefinierte Windows PowerShell gewünschten Status Konfiguration Buildressourcen](authoringResource.md).
-In diesem Thema erstellen wir eine DSC-Ressource, die Active Directory-Benutzer zu verwalten.
-Verwenden der [Install-Module](https://technet.microsoft.com/en-us/library/dn807162.aspx) -Cmdlet zum Installieren der **xDscResourceDesigner** Modul.
+# Verwenden des Ressourcen-Designers
 
-> **Hinweis**: **Install-Module** befindet sich auf der **PowerShellGet** Module, die in PowerShell 5.0 enthalten ist. Download der **PowerShellGet** -Modul für PowerShell 3.0 und 4.0 auf [PackageManagement PowerShell-Module Vorschau](https://www.microsoft.com/en-us/download/details.aspx?id=49186).
+> Gilt für: Windows PowerShell 4.0, Windows PowerShell 5.0
 
-##Erstellen von Ressourceneigenschaften
+Der Ressourcen-Designer ist ein Satz von Cmdlets, die vom Modul **xDscResourceDesigner** verfügbar gemacht werden und das Erstellen von Windows PowerShell DSC-Ressourcen erleichtern. Die Cmdlets in dieser Ressource helfen beim Erstellen des MOF-Schemas, des Skriptmoduls und der Verzeichnisstruktur für die neue Ressource. Weitere Informationen zu DSC-Ressourcen finden Sie unter [Erstellen von benutzerdefinierten Windows PowerShell DSC-Ressourcen](authoringResource.md).
+In diesem Thema wird eine DSC-Ressource zur Verwaltung von Active Directory-Benutzern erstellt.
+Verwenden Sie das Cmdlet [Install-Module](https://technet.microsoft.com/en-us/library/dn807162.aspx) zum Installieren des Moduls **xDscResourceDesigner**.
 
-Als Erstes müssen wir ist Eigenschaften festlegen, die die Ressource verfügbar macht. In diesem Beispiel definieren wir einen Active Directory-Benutzer mit den folgenden Eigenschaften.
+>**Hinweis**: **Install-Module** ist im Modul **PowerShellGet** enthalten, das Bestandteil von PowerShell 5.0 ist. Das Modul **PowerShellGet** für PowerShell 3.0 und 4.0 können Sie unter [PowerShell-Module „PackageManagement“ – Vorschau](https://www.microsoft.com/en-us/download/details.aspx?id=49186) herunterladen.
 
-Parametername Beschreibung
-* **Benutzername**: Schlüsseleigenschaft, der ein Benutzer eindeutig identifiziert.
-* **Sicherstellen, dass**: Gibt an, ob das Benutzerkonto vorhanden sein soll oder nicht vorhanden ist. Dieser Parameter wird nur zwei mögliche Werte aufweisen.
-* **DomainCredential**: das Kennwort für den Benutzer.
-* **Kennwort**: das gewünschte Kennwort für den Benutzer zu einer Konfiguration, um das Kennwort bei Bedarf ändern.
+## Erstellen von Ressourceneigenschaften
+Zunächst werden Eigenschaften festgelegt, die die Ressource verfügbar machen soll. In diesem Beispiel wird ein Active Directory-Benutzer mit den folgenden Eigenschaften definiert.
+ 
+Parameternamen und Beschreibungen
+* **UserName**: Schlüsseleigenschaft, die einen Benutzer eindeutig identifiziert.
+* **Ensure**: Gibt an, ob das Benutzerkonto vorhanden („Present“) oder nicht vorhanden („Absent“) sein soll. Für diesen Parameter gibt es nur zwei mögliche Werte.
+* **DomainCredential**: Das Domänenkennwort für den Benutzer.
+* **Password**: Das gewünschte Kennwort für den Benutzer, um einer Konfiguration zu erlauben, das Benutzerkennwort bei Bedarf zu ändern.
 
-Um die Eigenschaften zu erstellen, verwenden wir die **neu xDscResourceProperty** Cmdlet. Die folgenden PowerShell-Befehle erstellen, die oben beschriebenen Eigenschaften.
+Um die Eigenschaften zu erstellen, wird das Cmdlet **New-xDscResourceProperty** verwendet. Mit den folgenden PowerShell-Befehlen werden die oben beschriebenen Eigenschaften erstellt.
 
 ```powershell
 PS C:\> $UserName = New-xDscResourceProperty –Name UserName -Type String -Attribute Key
@@ -27,17 +41,17 @@ PS C:\> $DomainCredential = New-xDscResourceProperty –Name DomainCredential-Ty
 PS C:\> $Password = New-xDscResourceProperty –Name Password -Type PSCredential -Attribute Write
 ```
 
-##Die Ressource zu erstellen
+## Erstellen der Ressource
 
-Nun, dass die Ressourceneigenschaften erstellt wurden, rufen wir die **neu xDscResource** Cmdlet, um die Ressource zu erstellen. Die **neu xDscResource** Cmdlet nimmt die Liste der Eigenschaften als Parameter. Lässt sich der Pfad, in dem das Modul erstellt werden soll, den Namen der neuen Ressource und der Name des Moduls, in dem es enthalten ist. Der folgende PowerShell-Befehl wird die Ressource erstellt.
+Nachdem die Ressourceneigenschaften nun erstellt wurden, kann das Cmdlet **New-xDscResource** aufgerufen werden, um die Ressource zu erstellen. Vom Cmdlet **New-xDscResource** wird die Liste der Eigenschaften als Parameter verwendet. Es verwendet auch der Pfad, unter dem das Modul erstellt werden soll, den Namen der neuen Ressource und den Namen des Moduls, in dem sie enthalten ist. Der folgende PowerShell-Befehl erstellt die Ressource:
 
 ```powershell
 PS C:\> New-xDscResource –Name Demo_ADUser –Property $UserName, $Ensure, $DomainCredential, $Password –Path ‘C:\Program Files\WindowsPowerShell\Modules’ –ModuleName Demo_DSCModule
 ```
 
-Die **neu xDscResource** -Cmdlet erstellt, das MOF-Schema, ein Gerüst Ressourcenskript, das erforderliche Verzeichnisstruktur für die neue Ressource und ein Manifest für das Modul, das die neue Ressource verfügbar macht.
+Das Cmdlet **New-xDscResource** erstellt das MOF-Schema, ein Skelettressourcenskript, die erforderliche Verzeichnisstruktur für die neue Ressource und ein Manifest für das Modul, das die neue Ressource verfügbar macht.
 
-Die MOF-Schemadatei befindet sich am **c:\Programme\Microsoft Files\WindowsPowerShell\Modules\Demo_DSCModule\DSCResources\Demo_ADUser\Demo_ADUser.schema.mof**, und sein Inhalt ist wie folgt.
+Die MOF-Schemadatei befindet sich unter **C:\Programme\WindowsPowerShell\Modules\Demo_DSCModule\DSCResources\Demo_ADUser\Demo_ADUser.schema.mof**, und der Inhalt sieht wie folgt aus:
 
 ```
 [ClassVersion("1.0.0.0"), FriendlyName("Demo_ADUser")]
@@ -50,7 +64,7 @@ class Demo_ADUser : OMI_BaseResource
 };
 ```
 
-Das Ressourcenskript befindet sich am **c:\Programme\Microsoft Files\WindowsPowerShell\Modules\Demo_DSCModule\DSCResources\Demo_ADUser\Demo_ADUser.psm1**. Es umfasst nicht die eigentliche Logik, um die Ressource zu implementieren, die Sie selbst hinzufügen müssen. Der Inhalt des Skripts Skelett ist wie folgt.
+Das Ressourcenskript befindet sich unter **C:\Programme\WindowsPowerShell\Modules\Demo_DSCModule\DSCResources\Demo_ADUser\Demo_ADUser.psm1**. Es umfasst nicht die eigentliche Logik zum Implementieren der Ressource. Diese müssen Sie selbst hinzufügen. Der Inhalt des Skelettskripts sieht wie folgt aus:
 
 ```powershell
 function Get-TargetResource
@@ -150,31 +164,32 @@ $result
 Export-ModuleMember -Function *-TargetResource
 ```
 
-##Aktualisieren der Ressource
+## Aktualisieren der Ressource
 
-Sie müssen zum Hinzufügen oder Ändern der Parameterliste der Ressource, können Sie Aufrufen der **Update xDscResource** Cmdlet. Das Cmdlet aktualisiert die Ressource mit einer neuen Parameterliste. Wenn Sie bereits in Ihr Ressourcenskript Logik hinzugefügt haben, wird die intakt gelassen.
+Wenn Sie die Parameterliste der Ressource erweitern oder ändern müssen, können Sie das Cmdlet **Update-xDscResource** aufrufen. Das Cmdlet aktualisiert die Ressource mit einer neuen Parameterliste. Wenn Sie bereits Logik zu Ihrem Ressourcenskript hinzugefügt haben, bleibt diese davon unberührt.
 
-Angenommen Sie, dass Sie das letzte Protokoll Zeit für den Benutzer in unsere Ressource einschließen möchten. Anstatt die Ressource erneut vollständig zu schreiben, rufen Sie die **neu xDscResourceProperty** die neue Eigenschaft zu erstellen, und rufen Sie anschließend **Update xDscResource** und die Liste der Eigenschaften die neue Eigenschaft hinzuzufügen.
+Angenommen, Sie möchten den Zeitpunkt der letzten Anmeldung des Benutzers zur Ressource hinzufügen. Anstatt die Ressource vollständig neu zu schreiben, können Sie **New-xDscResourceProperty** aufrufen, um die Eigenschaft neu zu erstellen, und diese neue Eigenschaft dann mit **Update-xDscResource** zur Eigenschaftenliste hinzufügen.
 
 ```powershell
 PS C:\> $lastLogon = New-xDscResourceProperty –Name LastLogon –Type Hashtable –Attribute Write –Description “For mapping users to their last log on time”
 PS C:\> Update-xDscResource –Name ‘Demo_ADUser’ –Property $UserName, $Ensure, $DomainCredential, $Password, $lastLogon -Force
 ```
 
-##Testen ein Ressourcenschema
+## Testen eines Ressourcenschemas
 
-Mit dem Ressourcen-Designer stellt eine weitere Cmdlet, das verwendet werden kann, um die Gültigkeit des MOF-Schema zu testen, die Sie manuell erstellt haben. Rufen Sie die **Test xDscSchema** -Cmdlet der Pfad des Schemas eine MOF-Ressource als Parameter übergeben. Mit dem Cmdlet werden alle Fehler im Schema ausgegeben.
+Der Ressourcen-Designer stellt ein weiteres Cmdlet zur Verfügung, mit dem Sie die Gültigkeit eines MOF-Schemas testen können, das Sie manuell geschrieben haben. Rufen Sie das Cmdlet **Test-xDscSchema**auf, und übergeben Sie dabei den Pfad eines MOF-Ressourcenschemas als Parameter. Das Cmdlet gibt alle Fehler im Schema aus.
 
-###Weitere Informationen
+### Weitere Informationen
 
-####Konzepte
+#### Konzepte
+[Erstellen von benutzerdefinierten Windows PowerShell DSC-Ressourcen](authoringResource.md)
 
-[Erstellen Sie benutzerdefinierter Windows PowerShell gewünscht State Configuration-Ressourcen](authoringResource.md)
-
-####Weitere Ressourcen
-
+#### Weitere Ressourcen
 [xDscResourceDesigner-Modul](https://powershellgallery.com/packages/xDscResourceDesigner)
 
 
+
+
+<!--HONumber=Oct16_HO1-->
 
 

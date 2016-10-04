@@ -1,21 +1,35 @@
-#DSC-Konfigurationen
+---
+title: DSC-Konfigurationen
+ms.date: 2016-05-16
+keywords: powershell,DSC
+description: 
+ms.topic: article
+author: eslesar
+manager: dongill
+ms.prod: powershell
+translationtype: Human Translation
+ms.sourcegitcommit: a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b
+ms.openlocfilehash: d84bb35ada3588367436e6f5e3c6696b90c3661b
 
-> Gilt für: WindowsPowerShell 4.0, WindowsPowerShell 5.0
+---
 
-DSC-Konfigurationen werden PowerShell-Skripts, die eine besondere Art von Funktion zu definieren. 
-Um eine Konfiguration zu definieren, verwenden Sie das PowerShell-Schlüsselwort __Konfiguration__.
+# DSC-Konfigurationen
+
+>Gilt für: Windows PowerShell 4.0, Windows PowerShell 5.0
+
+DSC-Konfigurationen sind PowerShell-Skripts, die eine besondere Art von Funktion definieren. Zum Definieren einer Konfiguration verwenden Sie das PowerShell-Schlüsselwort __Configuration__.
 
 ```powershell
 Configuration MyDscConfiguration {
 
-    Node “TEST-PC1” {
+    Node "TEST-PC1" {
         WindowsFeature MyFeatureInstance {
-            Ensure = “Present”
-            Name =  “RSAT”
+            Ensure = "Present"
+            Name =  "RSAT"
         }
         WindowsFeature My2ndFeatureInstance {
-            Ensure = “Present”
-            Name = “Bitlocker”
+            Ensure = "Present"
+            Name = "Bitlocker"
         }
     }
 }
@@ -23,50 +37,50 @@ Configuration MyDscConfiguration {
 
 Speichern Sie das Skript als PS1-Datei.
 
-##Configuration-syntax
+## Konfigurationssyntax
 
-Ein Skript besteht aus den folgenden Teilen:
+Ein Konfigurationsskript besteht aus den folgenden Teilen:
 
-- Die **Konfiguration** blockieren. Dies ist die äußerste Skriptblock. Definieren sie mithilfe der **Konfiguration** -Schlüsselwort und einen Namen angeben. In diesem Fall ist der Name der Konfiguration "MyDscConfiguration".
-- Eine oder mehrere **Knoten** blockiert. Diese definieren die Knoten (Computer oder virtuelle Computer), die Sie konfigurieren. In der Konfiguration oben ist eine **Knoten** blockieren, die auf einen Computer mit dem Namen "TEST-PC1".
-- Mindestens eine Ressource blockiert. Dies ist, in dem die Konfiguration die Eigenschaften für die Ressourcen festlegt, die ihm konfiguriert wird. In diesem Fall stehen zwei Ressource-Blöcken, von denen jeder die Ressource "WindowsFeature" aufrufen.
+- Dem **Configuration**-Block. Dies ist die äußerste Skriptblock. Sie definieren ihn mithilfe des Schlüsselworts **Configuration** und der Angabe eines Namens. In diesem Fall lautet der Name der Konfiguration „MyDscConfiguration“.
+- Mindestens einem **Node**-Block. Diese Blöcke definieren die Knoten (Computer oder VMs), die Sie konfigurieren. Bei der obigen Konfiguration gibt es einen **Node**-Block für den Computer „TEST-PC1“.
+- Mindestens einen Ressourcenblock. In diesen Blöcken werden die Eigenschaften der Ressourcen festlegt, die konfiguriert werden. In diesem Fall gibt es zwei Ressourcenblöcke, die beide die Ressource „WindowsFeature“ aufrufen.
 
-Innerhalb einer **Konfiguration** Block, führen Sie alle Elemente, die Sie normalerweise in einer PowerShell-Funktion konnte. Beispielsweise im vorherigen Beispiel, konnte Wenn Sie nicht den Namen des Zielcomputers in der Konfiguration fest codieren möchten Sie einen Parameter für den Knotennamen hinzufügen:
+Innerhalb eines **Configuration**-Blocks sind alle Aktionen möglich, die Sie normalerweise mit einer PowerShell-Funktion ausführen. Wenn Sie beispielsweise im vorherigen Beispiel den Namen des Zielcomputers nicht in der Konfiguration hart codieren möchten, können Sie einen Parameter für den Knotennamen hinzufügen:
 
 ```powershell
 Configuration MyDscConfiguration {
 
     param(
-        [string[]]$computerName="localhost"
+        [string[]]$ComputerName="localhost"
     )
-    Node $computerName {
+    Node $ComputerName {
         WindowsFeature MyFeatureInstance {
-            Ensure = “Present”
-            Name =  “RSAT”
+            Ensure = "Present"
+            Name =  "RSAT"
         }
         WindowsFeature My2ndFeatureInstance {
-            Ensure = “Present”
-            Name = “Bitlocker”
+            Ensure = "Present"
+            Name = "Bitlocker"
         }
     }
 }
 ```
 
-In diesem Beispiel geben Sie den Namen des Knotens, indem Sie es als $computerName-Parameter übergeben wenn Sie [Kompilieren der Konfigurationsdateiunterschiede] (#, Kompilieren die Konfiguration). Der Name der Standardwert ist "Localhost".
+Bei diesem Beispiel geben Sie den Namen des Knotens an, indem Sie ihn als $ComputerName-Parameter übergeben, wenn Sie [die Konfiguration kompilieren](# Compiling the configuration). Der Standardname ist „localhost“.
 
-##Kompilieren die Konfiguration
+## Kompilieren der Konfiguration
+Bevor Sie eine Konfiguration anwenden können, müssen Sie sie in einem MOF-Dokument kompilieren. Dazu rufen Sie die Konfiguration wie eine PowerShell-Funktion auf.
+>__Hinweis:__ Damit eine Konfiguration aufgerufen werden kann, muss sie sich (wie jede andere PowerShell-Funktion) im globalen Bereich befinden. Dies erfolgt, indem Sie das Skript mit „Dot-Sourcing“ ausführen oder das Konfigurationsskript durch Drücken von F5 oder Klicken auf die Schaltfläche __Skript ausführen__ in der integrierte Skriptumgebung starten. Um das Skript mit „Dot-Sourcing“ ausführen, rufen Sie den Befehl `. .\myConfig.ps1` auf, wobei `myConfig.ps1` der Name der Skriptdatei mit Ihrer Konfiguration ist.
 
-Bevor Sie eine Konfiguration in Gang zu setzen können, müssen Sie es in eine MOF-Dokument kompiliert. Hierzu müssen Sie die Konfiguration aufrufen, wie Sie eine PowerShell-Funktion.
-> __Hinweis:__ zum Aufrufen einer Konfigurations die Funktion im globalen Bereich (wie bei jedem anderen PowerShell-Funktion) werden muss. Können Sie diese geschieht entweder durch "Punkt-sourcing" des Skripts vornehmen oder durch Ausführen des Konfigurationsskripts mithilfe von F5, oder klicken auf die __Skript ausführen__ Schaltfläche in der ISE. Punkt-Quelle das Skript, führen Sie den Befehl ". .\myConfig.ps1`  `myConfig.ps1 "ist der Name der Skriptdatei, die die Konfiguration enthält.
+Beim Aufruf der Konfiguration erfolgt Folgendes:
 
-Beim Aufrufen der Konfigurations erstellt:
+- Alle Variablen werden aufgelöst. 
+- Im aktuellen Verzeichnis wird ein Ordner mit dem Namen der Konfiguration erstellt.
+- Eine Datei namens _NodeName.mof_ wird im neuen Verzeichnis erstellt, wobei _NodeName_ der Name des Zielknotens der Konfiguration ist. Wenn mehrere Knoten vorhanden sind, wird eine MOF-Datei für jeden Knoten erstellt.
 
-- Ein Ordner im aktuellen Verzeichnis mit dem gleichen Namen wie die Konfiguration.
-- Eine Datei namens _NodeName_MOF in das neue Verzeichnis, in dem _NodeName_ ist der Name des Zielknotens der Konfiguration. Wenn mehrere Knoten vorhanden sind, wird eine MOF-Datei für jeden Knoten erstellt.
+>__Hinweis:__: Die MOF-Datei enthält alle Konfigurationsinformationen für den Zielknoten. Aus diesem Grund ist es wichtig, sie geschützt zu halten. Weitere Informationen finden Sie unter [Schützen der MOF-Datei](secureMOF.md).
 
-> __Hinweis__: das MOF-Datei enthält alle Konfigurationsinformationen für den Zielknoten. Aus diesem Grund ist es wichtig, um es zu schützen. Weitere Informationen finden Sie unter [Sichern die MOF-Datei](secureMOF.md).
-
-Kompilieren die erste Konfiguration oberhalb der Ergebnisse in die folgende Ordnerstruktur:
+Das Kompilieren der ersten oben gezeigten Konfiguration führt zur folgenden Ordnerstruktur:
 
 ```powershell
 PS C:\users\default\Documents\DSC Configurations> . .\MyDscConfiguration.ps1
@@ -75,52 +89,54 @@ PS C:\users\default\Documents\DSC Configurations> MyDscConfiguration
 Mode                LastWriteTime         Length Name                                                                                              
 ----                -------------         ------ ----                                                                                         
 -a----       10/23/2015   4:32 PM           2842 TEST-PC1.mof
-```
+```  
 
-Wenn die Konfiguration einen Parameter, wie im zweiten Beispiel, die zum Zeitpunkt der Kompilierung angegeben werden akzeptiert. Hier ist wie die, die aussehen würde:
+Wenn die Konfiguration wie im zweiten Beispiel einen Parameter verwendet, muss dieser zur Kompilierungszeit angegeben werden. Das sieht dann so aus:
 
 ```powershell
 PS C:\users\default\Documents\DSC Configurations> . .\MyDscConfiguration.ps1
-PS C:\users\default\Documents\DSC Configurations> MyDscConfiguration -computerName 'MyTestNode'
+PS C:\users\default\Documents\DSC Configurations> MyDscConfiguration -ComputerName 'MyTestNode'
     Directory: C:\users\default\Documents\DSC Configurations\MyDscConfiguration
 Mode                LastWriteTime         Length Name                                                                                              
 ----                -------------         ------ ----                                                                                         
 -a----       10/23/2015   4:32 PM           2842 MyTestNode.mof
-```
+```      
 
-##DependsOn verwenden
-
-Eine nützliche DSC-Schlüsselwort ist __DependsOn__. In der Regel (jedoch nicht immer unbedingt), DSC angewendet wird, die Ressourcen in der Reihenfolge, die sie in der Konfiguration angezeigt werden. Allerdings __DependsOn__ gibt an, welche Ressourcen von anderen Ressourcen abhängig sind und LCM wird sichergestellt, dass sie in der richtigen Reihenfolge, unabhängig von der Reihenfolge angewendet werden, in denen Ressourcen Instanzen definiert sind. Z. B. eine Konfiguration gibt möglicherweise an, die einer Instanz von der __Benutzer__ Ressource abhängig ist, auf das Vorhandensein einer __Gruppe__ Instanz:
+## Verwenden von „DependsOn“
+Eine nützliches DSC-Schlüsselwort ist __DependsOn__. In der Regel (jedoch nicht unbedingt immer) wendet DSC die Ressourcen in der Reihenfolge an, die der sie in der Konfiguration angegeben sind. __DependsOn__ gibt hingegen an, welche Ressourcen von anderen Ressourcen abhängig sind. Der LCM stellt sicher, dass sie in der richtigen Reihenfolge angewendet werden, und zwar unabhängig von der Reihenfolge, in der Ressourceninstanzen definiert sind. Eine Konfiguration kann z. B. angeben, dass eine Instanz der Ressource __User__ vom Vorhandensein einer __Group__-Instanz abhängig ist:
 
 ```powershell
 Configuration DependsOnExample {
     Node Test-PC1 {
         Group GroupExample {
-            Ensure = “Present”
-            GroupName = “TestGroup”
+            Ensure = "Present"
+            GroupName = "TestGroup"
         }
-User UserExample {
-Ensure = “Present”
-FullName = “TestUser”
-DependsOn = “GroupExample”
-}
+
+        User UserExample {
+            Ensure = "Present"
+            UserName = "TestUser"
+            FullName = "TestUser"
+            DependsOn = "[Group]GroupExample"
+        }
     }
 }
 ```
 
-##Neue Ressourcen verwenden in Ihrer Konfiguration
+## Verwenden neuer Ressourcen in Ihrer Konfiguration
+Wenn Sie die vorherigen Beispielen ausgeführt haben, werden Sie vielleicht die Warnung bemerkt haben, dass Sie eine Ressource verwendet haben, ohne sie explizit zu importieren.
+Derzeit gehören 12 Ressourcen zum Funktionsumfang von DSC im „PSDesiredStateConfiguration“-Modul. Andere Ressourcen in externen Modulen müssen in `$env:PSModulePath` eingefügt werden, damit sie vom lokalen Konfigurations-Manager (LCM) erkannt werden. Das neue Cmdlet [Get-DscResource](https://technet.microsoft.com/en-us/library/dn521625.aspx) kann verwendet werden, um zu bestimmen, welche Ressourcen im System installiert sind und dem LCM zur Verfügung stehen. Nachdem diese Module in `$env:PSModulePath` abgelegt und von [Get-DscResource](https://technet.microsoft.com/en-us/library/dn521625.aspx) ordnungsgemäß erkannt wurden, müssen sie dennoch in Ihre Konfiguration geladen werden. __Import-DscResource__ ist ein dynamisches Schlüsselwort, das nur in einem __Configuration__-Block erkannt werden kann (d. h. es ist kein Cmdlet). __Import-DscResource__ unterstützt zwei Parameter:
+* __ModuleName__ ist die empfohlene Methode der Verwendung von __Import DscResource__. Dieser Parameter akzeptiert den Namen des Moduls mit den Ressourcen, die importiert werden sollen, (sowie einem Zeichenfolgenarray mit Modulnamen). 
+* __Name__ ist der Name der zu importierenden Ressource. Dies ist nicht der Anzeigename, der als „Name“ von [Get-DscResource](https://technet.microsoft.com/en-us/library/dn521625.aspx) zurückgegeben wird, sondern der Klassennamen, der verwendet wird, wenn Sie das Ressourcenschema definieren (wird als __ResourceType__ von [Get-DscResource](https://technet.microsoft.com/en-us/library/dn521625.aspx) zurückgegeben). 
 
-Wenn Sie die vorherigen Beispielen ausgeführt haben, vielleicht Sie bemerkt, dass Sie darauf hingewiesen wurden, dass Sie eine Ressource verwendet haben, ohne diesen explizit importieren.
-Heute ist im Lieferumfang DSC 12 Ressourcen als Teil des PSDesiredStateConfiguration-Moduls. Andere Ressourcen in externen Modulen müssen eingefügt werden, `$env: PSModulePath` um LCM erkannt zu werden. Neue Cmdlet [Get-DscResource](https://technet.microsoft.com/en-us/library/dn521625.aspx), kann verwendet werden, um zu bestimmen, welche Ressourcen von den LCM auf dem System installiert und für die Verwendung verfügbar sind. 
-Sobald diese Module in platziert wurden `$env: PSModulePath` von ordnungsgemäß erkannt [Get-DscResource](https://technet.microsoft.com/en-us/library/dn521625.aspx), dennoch müssen Sie in Ihrer Konfiguration geladen werden. __Import DscResource__ ist eine dynamic-Schlüsselwort, das nur in erkannt wird ein __Konfiguration__ Block (d. h. es ist kein Cmdlet). __Import DscResource__ unterstützt zwei Parameter:
-* __ModuleName__ ist die empfohlene Verwendung __Import DscResource__. Er akzeptiert den Namen des Moduls, das die Ressourcen (sowie ein Zeichenfolgenarray Modulnamen) importiert werden.
-* __Name__ ist der Name der Ressource zu importieren. Dies ist nicht der Anzeigename, der als "Name" zurückgegeben werden, indem [Get-DscResource](https://technet.microsoft.com/en-us/library/dn521625.aspx), aber der Klassennamen verwendet werden, wenn das Ressourcenschema definiert (als zurückgegeben __ResourceType__ von [Get-DscResource](https://technet.microsoft.com/en-us/library/dn521625.aspx)).
-
-##Weitere Informationen
-
-* [WindowsPowerShell gewünschten Status (Übersicht)](overview.md)
+## Weitere Informationen
+* [Windows PowerShell DSC – Übersicht](overview.md)
 * [DSC-Ressourcen](resources.md)
-* [Konfigurieren des lokalen Konfigurations-Managers](metaconfig.md)
+* [Konfigurieren des lokalen Konfigurations-Managers](metaConfig.md)
 
+
+
+
+<!--HONumber=Oct16_HO1-->
 
 

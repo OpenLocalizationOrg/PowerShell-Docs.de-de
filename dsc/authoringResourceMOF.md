@@ -1,19 +1,34 @@
-#Schreiben eine benutzerdefinierte DSC-Ressource mit MOF
+---
+title: Schreiben einer benutzerdefinierten DSC-Ressource mit MOF
+ms.date: 2016-05-16
+keywords: powershell,DSC
+description: 
+ms.topic: article
+author: eslesar
+manager: dongill
+ms.prod: powershell
+translationtype: Human Translation
+ms.sourcegitcommit: a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b
+ms.openlocfilehash: 50b99917f15d290db30da1b1b752d668d886ec50
 
-> Gilt für: WindowsPowerShell 4.0, WindowsPowerShell 5.0
+---
 
-In diesem Thema werden wir das Schema für eine benutzerdefinierte Windows PowerShell gewünscht State Configuration (DSC)-Ressource in eine MOF-Datei definieren und implementieren die Ressource in einer Windows PowerShell-Skriptdatei. Diese benutzerdefinierte Ressource ist zum Erstellen und Verwalten einer Website.
+# Schreiben einer benutzerdefinierten DSC-Ressource mit MOF
 
-##Erstellen des MOF-Schemas
+> Gilt für: Windows PowerShell 4.0, Windows PowerShell 5.0
 
-Das Schema definiert die Eigenschaften der Ressource, die durch ein Konfigurationsskript DSC konfiguriert werden können.
+In diesem Thema wird das Schema für eine benutzerdefinierte Windows PowerShell DSC-Ressource in einer MOF-Datei definiert und die Ressource in einer Windows PowerShell-Skriptdatei implementiert. Diese benutzerdefinierte Ressource dient zum Erstellen und Verwalten einer Website.
 
-###Ordnerstruktur für eine MOF-Ressource
+## Schreiben des MOF-Schemas
 
-Um eine benutzerdefinierte DSC-Ressource mit einer MOF-Schema zu implementieren, erstellen Sie die folgende Ordnerstruktur. Das MOF-Schema wird in der Demo-Datei definiert_IISWebsite.schema.mof und das Ressourcenskript wird definiert, in der Demo_IISWebsite.ps1. Optional können Sie eine Modul-Manifestdatei (psd1)-Datei erstellen.
+Das Schema definiert die Eigenschaften der Ressource, die durch ein DSC-Konfigurationsskript konfiguriert werden können.
+
+### Ordnerstruktur für eine MOF-Ressource
+
+Um eine benutzerdefinierte DSC-Ressource mit einem MOF-Schema zu implementieren, erstellen Sie die folgende Ordnerstruktur. Das MOF-Schema ist in der Datei „Demo_IISWebsite.schema.mof“ definiert und das Ressourcenskript in „Demo_IISWebsite.psm1“. Optional können Sie eine Modulmanifestdatei (psd1) erstellen.
 
 ```
-$env: psmodulepath (folder)
+$env:ProgramFiles\WindowsPowerShell\Modules (folder)
     |- MyDscResources (folder)
         |- DSCResources (folder)
             |- Demo_IISWebsite (folder)
@@ -22,11 +37,11 @@ $env: psmodulepath (folder)
                 |- Demo_IISWebsite.schema.mof (file, required)
 ```
 
-Beachten Sie, dass es notwendig ist, erstellen Sie einen Ordner mit dem Namen DSCResources im Ordner der obersten Ebene und der Ordner für jede Ressource den gleichen Namen wie die Ressource aufweisen muss.
+Beachten Sie, dass im Ordner der obersten Ebene ein Ordner mit dem Namen „DSCResources“ erstellt werden muss, und dass die Ordnernamen für die einzelnen Ressourcen den Namen der jeweiligen Ressourcen entsprechen müssen.
 
-###Der Inhalt der MOF-Datei
+### Inhalt der MOF-Datei
 
-Es folgt ein Beispiel-MOF-Datei, die für eine benutzerdefinierte Website-Ressource verwendet werden kann. Um dieses Beispiel auszuführen, dieses Schema in einer Datei speichern und die Datei *Demo_IISWebsite.schema.mof*.
+Die folgende MOF-Beispieldatei kann für eine benutzerdefinierte Websiteressource verwendet werden. Um dieses Beispiel anzuwenden, speichern Sie das Schema in einer Datei, und rufen Sie die Datei *Demo_IISWebsite.schema.mof* auf.
 
 ```
 [ClassVersion("1.0.0"), FriendlyName("Website")] 
@@ -43,24 +58,24 @@ class Demo_IISWebsite : OMI_BaseResource
 };
 ```
 
-Beachten Sie die folgenden Informationen zu den vorherigen Code:
+Beachten Sie Folgendes im Zusammenhang mit dem vorherigen Code:
 
-* `FriendlyName` definiert den Namen, die auf diese benutzerdefinierte Ressource in Konfigurationsskripts DSC verweisen können. In diesem Beispiel `Website` ist gleichbedeutend mit dem Anzeigenamen `Archiv` für die integrierten Archiv-Ressource.
-* Die Klasse für Ihre benutzerdefinierte Ressource von abgeleitet werden, müssen Sie definieren `OMI_BaseResource`.
-* Der Typqualifizierer `[Key]`, auf eine Eigenschaft gibt an, dass diese Eigenschaft die Resource-Instanz eindeutig identifiziert wird. Ein `[Key]` Eigenschaft ist ebenfalls erforderlich.
-* Die `[Required]` -Kennzeichner gibt an, dass die Eigenschaft erforderlich ist (ein Wert muss in jedem Configuration-Skript, das diese Ressource verwendet angegeben werden).
-* Die `[schreiben]` -Kennzeichner gibt an, dass diese Eigenschaft optional ist, wenn Sie benutzerdefinierte Ressource in ein Konfigurationsskript verwenden. Die `[read]` -Kennzeichner gibt an, dass eine Eigenschaft kann nicht von einer Konfiguration festgelegt werden, und nur für Berichtszwecke.
-* `Werte` schränkt die Werte, die die Eigenschaft, die die Liste der definierten Werte zugewiesen werden, können `ValueMap`. Weitere Informationen finden Sie unter [ValueMap und Wert Qualifizierer](https://msdn.microsoft.com/library/windows/desktop/aa393965.aspx).
-* Einschließlich einer Eigenschaft namens `sicherstellen, dass` in die Ressource als Möglichkeit zum Verwalten eines konsistenten Stils mit integrierten DSC-Ressourcen empfohlen.
-* Benennen Sie die Schemadatei für Ihre benutzerdefinierte Ressource wie folgt: `classname.schema.mof`, wobei `Classname` ist der Bezeichner, der folgt der `Klasse` Schlüsselwort in der Schemadefinition.
+* `FriendlyName` definiert den Namen, den Sie verwenden können, um auf diese benutzerdefinierte Ressource in DSC-Konfigurationsskripts zu verweisen. In diesem Beispiel entspricht `Website` dem Anzeigenamen `Archive` für die integrierten Ressource „Archive“.
+* Die Klasse, die Sie für die benutzerdefinierte Ressource definieren, muss von `OMI_BaseResource` abgeleitet sein.
+* Der Typqualifizierer `[Key]` für eine Eigenschaft gibt an, dass die Ressourceninstanz durch diese Eigenschaft eindeutig identifiziert wird. Mindestens eine `[Key]`-Eigenschaft ist erforderlich.
+* Der Qualifizierer `[Required]` gibt an, dass die Eigenschaft erforderlich ist (der Wert muss in jedem Konfigurationsskript, in dem die Ressource verwendet wird, angegeben werden).
+* Der Qualifizierer `[write]` gibt an, dass diese Eigenschaft bei Verwendung der benutzerdefinierten Ressource in einem Konfigurationsskript optional ist. Der Qualifizierer `[read]` gibt an, dass eine Eigenschaft nicht durch eine Konfiguration festgelegt werden kann und nur zu Berichtszwecken dient.
+* `Values` schränkt die Werte, die der Eigenschaft zugewiesen werden können, auf die in `ValueMap` definierte Werteliste ein. Weitere Informationen finden Sie unter [Die Qualifizierer „ValueMap“ und „Value“](https://msdn.microsoft.com/library/windows/desktop/aa393965.aspx).
+* Eine empfohlene Methode, einen konsistenten Stil mit integrierten DSC-Ressourcen beizubehalten, ist das Hinzufügen einer Eigenschaft namens `Ensure`, die die Werte `Present` und `Absent` aufweist, zu Ihrer Ressource.
+* Benennen Sie die Schemadatei für die benutzerdefinierte Ressource wie folgt: `classname.schema.mof`, wobei `classname` der Bezeichner ist, der dem Schlüsselwort `class` in der Schemadefinition folgt.
 
-###Schreiben die Ressourcenskriptdatei
+### Schreiben des Ressourcenskripts
 
-Das Ressourcenskript implementiert die Logik der Ressource. In diesem Modul müssen Sie drei aufgerufenen Funktionen einschließen **Get-TargetResource**, **Set TargetResource**, und **Test TargetResource**. Alle drei Funktionen müssen einen Parametersatz erstellen, der identisch mit dem Satz von Eigenschaften, die im MOF-Schema, das Sie für die Ressource erstellt definiert ist. In diesem Dokument wird dieser Satz von Eigenschaften als die "Ressourceneigenschaften." bezeichnet. Speicher, die diese drei Funktionen in einer Datei namens <ResourceName>psm1. Im folgenden Beispiel werden die Funktionen in einer Datei namens Demo_IISWebsite.psm1 gespeichert.
+Das Ressourcenskript implementiert die Logik der Ressource. In diesem Modul fügen Sie die drei Funktionen **Get-TargetResource**, **Set-TargetResource**, und **Test-TargetResource** hinzu. Alle drei Funktionen verwenden einen Parametersatz, der identisch mit dem Satz von Eigenschaften ist, die im MOF-Schema definiert wurden, das Sie für die Ressource erstellt haben. In diesem Dokument wird dieser Eigenschaftensatz als die „Ressourceneigenschaften“ bezeichnet. Speichern Sie die drei Funktionen in einer Datei namens „<ResourceName>.psm1“. Im folgenden Beispiel werden die Funktionen in einer Datei namens „Demo_IISWebsite.psm1“ gespeichert.
 
-> **Hinweis**: Wenn Sie das gleiche Skript mehr als einmal auf die Ressource ausführen, Sie keine Fehlermeldungen angezeigt sollten und die Ressource in denselben Zustand wie nach Ausführung des Skripts bleiben sollen. Um dies zu erreichen, stellen Sie sicher, Ihre **Get-TargetResource** und **Test TargetResource** Funktionen unverändert die Ressource, und diese Aufrufen der **Set TargetResource** Funktion mehr als einmal in einer Sequenz mit dem gleichen Parameter Werte entspricht immer einmal aufrufen.
+> **Hinweis**: Wenn Sie das gleiche Konfigurationsskript mehrfach für Ihre Ressource ausführen, sollten keine Fehler ausgegeben werden, und die Ressource sollte sich im gleichen Zustand wie nach der einmaligen Ausführung des Skripts befinden. Stellen Sie dazu sicher, dass Ihre Funktionen **Get-TargetResource** und **Test-TargetResource** die Ressource unverändert verlassen, und dass das Ergebnis der Funktion **Set-TargetResource** mit denselben Parameterwerten immer identisch ist, egal, ob Sie die Funktion einmal oder mehrfach aufrufen.
 
-In der **Get-TargetResource** Implementierung-Funktion, die wichtigsten Eigenschaftswerte, die bereitgestellt werden als Parameter Überprüfen des Status der Instanz angegebene Ressource. Diese Funktion muss eine Hashtabelle zurück, die die Ressourceneigenschaften als Schlüssel und die tatsächlichen Werte dieser Eigenschaften als die entsprechenden Werte aufgeführt. Der folgende Code enthält ein Beispiel.
+Verwenden Sie in der Implementierung der Funktion **Get-TargetResource** die Schlüsselressourcen-Eigenschaftswerte, die als Parameter bereitgestellt werden, um den Status der angegebenen Ressourceninstanz zu überprüfen. Diese Funktion muss eine Hashtabelle zurückgeben, in der alle Ressourceneigenschaften als Schlüssel und die tatsächlichen Werte dieser Eigenschaften als die entsprechende Werte aufgeführt sind. Der folgende Code gibt ein Beispiel.
 
 ```powershell
 # DSC uses the Get-TargetResource function to fetch the status of the resource instance specified in the parameters for the target machine
@@ -106,16 +121,16 @@ function Get-TargetResource
                                         Protocol = $Website.bindings.Collection.protocol;
                                         Binding = $Website.bindings.Collection.bindingInformation;
                                     }
-
+  
         $getTargetResourceResult;
 }
 ```
 
-Abhängig von den Werten, die für die Ressourceneigenschaften in das Konfigurationsskript angegeben sind die **Set TargetResource** müssen, führen Sie eine der folgenden:
+Abhängig von den Werten, die für die Ressourceneigenschaften im Konfigurationsskript angegeben sind, muss die Funktion **Set-TargetResource** eine der folgenden Aktionen ausführen:
 
-* Erstellen einer neuen website
-* Aktualisieren einer vorhandenen website
-* Löschen einer vorhandenen website
+* Erstellen einer neuen Website
+* Aktualisieren einer vorhandenen Website
+* Löschen einer vorhandenen Website
 
 Das folgende Beispiel veranschaulicht dies.
 
@@ -146,7 +161,7 @@ function Set-TargetResource
 
         [string[]]$Protocol
     )
-
+ 
     <# If Ensure is set to "Present" and the website specified in the mandatory input parameters does not exist, then create it using the specified parameter values #>
     <# Else, if Ensure is set to "Present" and the website does exist, then update its properties to match the values provided in the non-mandatory parameter values #>
     <# Else, if Ensure is set to "Absent" and the website does not exist, then do nothing #>
@@ -154,9 +169,9 @@ function Set-TargetResource
 }
 ```
 
-Abschließend die **Test TargetResource** Funktion muss denselben als Parameter akzeptieren **Get-TargetResource** und **Set TargetResource**. In der Implementierung von **Test TargetResource**, überprüfen Sie den Status der Ressourceninstanz, die in die wichtigsten Parameter angegeben ist. Wenn der tatsächliche Status der Ressource nicht im Satz der Parameter angegebenen Werte übereinstimmt, zurück **$false**. Andernfalls zurück **$true**.
+Schließlich muss die Funktion **Test-TargetResource** den gleichen Parametersatz verwenden wie **Get-TargetResource** und **Set-TargetResource**. Überprüfen Sie in der Implementierung von **Test-TargetResource** den Status der in den Schlüsselparametern angegebenen Ressourceninstanz. Wenn der aktuelle Status der Ressourceninstanz nicht mit den im Parametersatz angegebenen Werten übereinstimmt, wird **$false** zurückgegeben. Andernfalls wird **$true** zurückgegeben.
 
-Der folgende code implementiert die **Test TargetResource** Funktion.
+Der folgende Code implementiert die Funktion **Test-TargetResource**.
 
 ```powershell
 function Test-TargetResource
@@ -203,11 +218,11 @@ $result
 }
 ```
 
-**Hinweis**: einfacher debuggen, verwenden Sie die **Write-Verbose** Cmdlet in der Implementierung der vorherigen drei Funktionen. Dieses Cmdlet schreibt Text in den Stream ausführliche Meldung. Standardmäßig der Datenstrom ausführliche Meldung wird nicht angezeigt, aber es können Sie anzeigen, indem Sie den Wert der **$VerbosePreference** Variable oder mithilfe der **ausführlich** Parameter in den Cmdlets DSC = new.
+**Hinweis**: Zum einfacheren Debuggen verwenden Sie in Ihrer Implementierung der vorherigen drei Funktionen das Cmdlet **Write-Verbose**. Dieses Cmdlet schreibt Text in den Stream für ausführliche Meldungen. Standardmäßig wird der Stream für ausführliche Meldungen nicht angezeigt. Sie können ihn jedoch anzeigen, indem Sie den Wert der Variablen **$VerbosePreference** ändern den Parameter **Verbose** in „DSC cmdlets = new“ verwenden.
 
-###Erstellen das modulmanifest
+### Erstellen das Modulmanifest
 
-Verwenden Sie schließlich die **New-ModuleManifest** -Cmdlet zum Definieren einer <ResourceName>psd1-Datei für Ihre benutzerdefinierte Ressource-Modul. Wenn Sie dieses Cmdlet aufrufen, verweisen Sie auf die Skript-Modul (psm1)-Datei, die im vorherigen Abschnitt beschrieben. Umfassen **Get-TargetResource**, **Set TargetResource**, und **Test TargetResource** in der Liste der Funktionen für den export. Es folgt ein Beispiel-Manifestdatei.
+Verwenden Sie abschließend das Cmdlet **New-ModuleManifest**, um eine „<ResourceName>psd1“-Datei für das benutzerdefinierte Ressourcenmodul zu definieren. Wenn Sie dieses Cmdlet aufrufen, verweisen Sie auf die im vorherigen Abschnitt beschriebene Skriptmoduldatei (.psm1). Fügen Sie **Get-TargetResource**, **Set-TargetResource** und **Test-TargetResource** zur Liste der zu exportierenden Funktionen hinzu. Im Folgenden finden Sie eine Beispielmanifestdatei.
 
 ```powershell
 # Module manifest for module 'Demo.IIS.Website'
@@ -261,5 +276,9 @@ FunctionsToExport = @("Get-TargetResource", "Set-TargetResource", "Test-TargetRe
 }
 ```
 
+
+
+
+<!--HONumber=Oct16_HO1-->
 
 
