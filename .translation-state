@@ -34,8 +34,16 @@
       "ArchiveException": null,
       "BilingualFilePath": null,
       "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
-      "BilingualException": null
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
+      "BilingualException": {
+        "internal_error_code": "bilingual_uploading_failed",
+        "internal_error_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\CONTRIBUTING.3f454a98e586d1aa0d322e19afd5e67e08f2d3c8.de-de.xlf with commit: 89efa27c194af8bac868adffc070a2c35069ac27 failed.",
+        "internal_error_retriable": false,
+        "exception_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\CONTRIBUTING.3f454a98e586d1aa0d322e19afd5e67e08f2d3c8.de-de.xlf with commit: 89efa27c194af8bac868adffc070a2c35069ac27 failed.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      }
     },
     "d0d36cc79854de58e99c4984ef47dab41a4e7df4": {
       "FileHash": "d0d36cc79854de58e99c4984ef47dab41a4e7df4",
@@ -174,8 +182,16 @@
       "ArchiveException": null,
       "BilingualFilePath": null,
       "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
-      "BilingualException": null
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
+      "BilingualException": {
+        "internal_error_code": "bilingual_uploading_failed",
+        "internal_error_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\authoringResourceComposite.6d5d1e53e83e25cfc63e26078da390a4fa6737f2.de-de.xlf with commit: 89efa27c194af8bac868adffc070a2c35069ac27 failed.",
+        "internal_error_retriable": false,
+        "exception_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\authoringResourceComposite.6d5d1e53e83e25cfc63e26078da390a4fa6737f2.de-de.xlf with commit: 89efa27c194af8bac868adffc070a2c35069ac27 failed.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      }
     },
     "f64cbea29a1e9998b8ade46d69c1ef1c584bd633": {
       "FileHash": "f64cbea29a1e9998b8ade46d69c1ef1c584bd633",
@@ -419,8 +435,16 @@
       "ArchiveException": null,
       "BilingualFilePath": null,
       "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
-      "BilingualException": null
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
+      "BilingualException": {
+        "internal_error_code": "bilingual_uploading_failed",
+        "internal_error_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\enactingConfigurations.5949c3926cc7d368fa49b0ba340a078984794e5d.de-de.xlf with commit: 89efa27c194af8bac868adffc070a2c35069ac27 failed.",
+        "internal_error_retriable": false,
+        "exception_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\enactingConfigurations.5949c3926cc7d368fa49b0ba340a078984794e5d.de-de.xlf with commit: 89efa27c194af8bac868adffc070a2c35069ac27 failed.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      }
     },
     "d3008e3fe7da4c118c693d2b34a0b329780f8d86": {
       "FileHash": "d3008e3fe7da4c118c693d2b34a0b329780f8d86",
@@ -529,8 +553,16 @@
       "ArchiveException": null,
       "BilingualFilePath": null,
       "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
-      "BilingualException": null
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
+      "BilingualException": {
+        "internal_error_code": "bilingual_uploading_failed",
+        "internal_error_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\environmentResource.eb91ffd4cd8bdb9476e5a83de1a20d3b7b502a56.de-de.xlf with commit: 89efa27c194af8bac868adffc070a2c35069ac27 failed.",
+        "internal_error_retriable": false,
+        "exception_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\environmentResource.eb91ffd4cd8bdb9476e5a83de1a20d3b7b502a56.de-de.xlf with commit: 89efa27c194af8bac868adffc070a2c35069ac27 failed.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      }
     },
     "ce115dd79b0793718f8e79bb465f244b7cc725b1": {
       "FileHash": "ce115dd79b0793718f8e79bb465f244b7cc725b1",
@@ -564,8 +596,16 @@
       "ArchiveException": null,
       "BilingualFilePath": null,
       "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
-      "BilingualException": null
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
+      "BilingualException": {
+        "internal_error_code": "bilingual_uploading_failed",
+        "internal_error_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\fileResource.ad0d9bba41b615db808e5dfc814b50945863b3da.de-de.xlf with commit: 89efa27c194af8bac868adffc070a2c35069ac27 failed.",
+        "internal_error_retriable": false,
+        "exception_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\fileResource.ad0d9bba41b615db808e5dfc814b50945863b3da.de-de.xlf with commit: 89efa27c194af8bac868adffc070a2c35069ac27 failed.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      }
     },
     "bc098355d65bff2203a212f2387be6f79fbb63e8": {
       "FileHash": "bc098355d65bff2203a212f2387be6f79fbb63e8",
@@ -599,8 +639,16 @@
       "ArchiveException": null,
       "BilingualFilePath": null,
       "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
-      "BilingualException": null
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
+      "BilingualException": {
+        "internal_error_code": "bilingual_uploading_failed",
+        "internal_error_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\groupResource.d19d416269795c92566b62c36b9782062dcea43e.de-de.xlf with commit: 89efa27c194af8bac868adffc070a2c35069ac27 failed.",
+        "internal_error_retriable": false,
+        "exception_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\groupResource.d19d416269795c92566b62c36b9782062dcea43e.de-de.xlf with commit: 89efa27c194af8bac868adffc070a2c35069ac27 failed.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      }
     },
     "2e0a09a025bcee8fc97e417b21a51773904a0d2e": {
       "FileHash": "2e0a09a025bcee8fc97e417b21a51773904a0d2e",
@@ -634,8 +682,16 @@
       "ArchiveException": null,
       "BilingualFilePath": null,
       "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
-      "BilingualException": null
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
+      "BilingualException": {
+        "internal_error_code": "bilingual_uploading_failed",
+        "internal_error_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\lnxArchiveResource.095aab7d23720fd394f2573c30223a6bbcc0a4ef.de-de.xlf with commit: 89efa27c194af8bac868adffc070a2c35069ac27 failed.",
+        "internal_error_retriable": false,
+        "exception_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\lnxArchiveResource.095aab7d23720fd394f2573c30223a6bbcc0a4ef.de-de.xlf with commit: 89efa27c194af8bac868adffc070a2c35069ac27 failed.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      }
     },
     "e4d20bc0f083c463514e2044ce86679041263075": {
       "FileHash": "e4d20bc0f083c463514e2044ce86679041263075",
@@ -669,8 +725,16 @@
       "ArchiveException": null,
       "BilingualFilePath": null,
       "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
-      "BilingualException": null
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
+      "BilingualException": {
+        "internal_error_code": "bilingual_uploading_failed",
+        "internal_error_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\lnxBuiltInResources.12cc0e2a7d17afe6b1e1b9c928760080863926f9.de-de.xlf with commit: 89efa27c194af8bac868adffc070a2c35069ac27 failed.",
+        "internal_error_retriable": false,
+        "exception_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\lnxBuiltInResources.12cc0e2a7d17afe6b1e1b9c928760080863926f9.de-de.xlf with commit: 89efa27c194af8bac868adffc070a2c35069ac27 failed.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      }
     },
     "ef0812e4b382b5efb6e6f42d8671fab3ab663a4b": {
       "FileHash": "ef0812e4b382b5efb6e6f42d8671fab3ab663a4b",
@@ -704,8 +768,16 @@
       "ArchiveException": null,
       "BilingualFilePath": null,
       "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
-      "BilingualException": null
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
+      "BilingualException": {
+        "internal_error_code": "bilingual_uploading_failed",
+        "internal_error_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\lnxEnvironmentResource.60c6523b1d06708f748c9039105a2042fa341552.de-de.xlf with commit: 89efa27c194af8bac868adffc070a2c35069ac27 failed.",
+        "internal_error_retriable": false,
+        "exception_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\lnxEnvironmentResource.60c6523b1d06708f748c9039105a2042fa341552.de-de.xlf with commit: 89efa27c194af8bac868adffc070a2c35069ac27 failed.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      }
     },
     "0b7aa5b03a19ff1afa79f5ae96f24d034531e4b8": {
       "FileHash": "0b7aa5b03a19ff1afa79f5ae96f24d034531e4b8",
@@ -739,8 +811,16 @@
       "ArchiveException": null,
       "BilingualFilePath": null,
       "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
-      "BilingualException": null
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
+      "BilingualException": {
+        "internal_error_code": "bilingual_uploading_failed",
+        "internal_error_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\lnxFileLineResource.d91fc802a4c6cdbff5a2e35f92b34c36c6dbf5eb.de-de.xlf with commit: 89efa27c194af8bac868adffc070a2c35069ac27 failed.",
+        "internal_error_retriable": false,
+        "exception_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\lnxFileLineResource.d91fc802a4c6cdbff5a2e35f92b34c36c6dbf5eb.de-de.xlf with commit: 89efa27c194af8bac868adffc070a2c35069ac27 failed.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      }
     },
     "8be1ad92f73cb8ddb2ced42d6471c90a67807b7a": {
       "FileHash": "8be1ad92f73cb8ddb2ced42d6471c90a67807b7a",
@@ -774,8 +854,16 @@
       "ArchiveException": null,
       "BilingualFilePath": null,
       "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
-      "BilingualException": null
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
+      "BilingualException": {
+        "internal_error_code": "bilingual_uploading_failed",
+        "internal_error_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\lnxFileResource.1f67ed46e7bb4ac04f73143e1d7ab7e9199d3191.de-de.xlf with commit: 89efa27c194af8bac868adffc070a2c35069ac27 failed.",
+        "internal_error_retriable": false,
+        "exception_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\lnxFileResource.1f67ed46e7bb4ac04f73143e1d7ab7e9199d3191.de-de.xlf with commit: 89efa27c194af8bac868adffc070a2c35069ac27 failed.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      }
     },
     "ce17b7bb17435cd925f196e4736114982de4e056": {
       "FileHash": "ce17b7bb17435cd925f196e4736114982de4e056",
@@ -809,8 +897,16 @@
       "ArchiveException": null,
       "BilingualFilePath": null,
       "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
-      "BilingualException": null
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
+      "BilingualException": {
+        "internal_error_code": "bilingual_uploading_failed",
+        "internal_error_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\lnxGettingStarted.1601cf6d0eb8b4f7343575c8fbf2106bfaad8b65.de-de.xlf with commit: 89efa27c194af8bac868adffc070a2c35069ac27 failed.",
+        "internal_error_retriable": false,
+        "exception_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\lnxGettingStarted.1601cf6d0eb8b4f7343575c8fbf2106bfaad8b65.de-de.xlf with commit: 89efa27c194af8bac868adffc070a2c35069ac27 failed.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      }
     },
     "9bda555be3a52c574eccfa66b114883e2f543c70": {
       "FileHash": "9bda555be3a52c574eccfa66b114883e2f543c70",
@@ -844,8 +940,16 @@
       "ArchiveException": null,
       "BilingualFilePath": null,
       "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
-      "BilingualException": null
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
+      "BilingualException": {
+        "internal_error_code": "bilingual_uploading_failed",
+        "internal_error_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\lnxGroupResource.0cedb684d797032bd47cdb852629c36da0884567.de-de.xlf with commit: 89efa27c194af8bac868adffc070a2c35069ac27 failed.",
+        "internal_error_retriable": false,
+        "exception_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\lnxGroupResource.0cedb684d797032bd47cdb852629c36da0884567.de-de.xlf with commit: 89efa27c194af8bac868adffc070a2c35069ac27 failed.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      }
     },
     "37c34dfa85386e8d190a5cfd459c3a6885cca838": {
       "FileHash": "37c34dfa85386e8d190a5cfd459c3a6885cca838",
@@ -879,8 +983,16 @@
       "ArchiveException": null,
       "BilingualFilePath": null,
       "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
-      "BilingualException": null
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
+      "BilingualException": {
+        "internal_error_code": "bilingual_uploading_failed",
+        "internal_error_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\lnxPackageResource.db35ab938bbfbb38cae53fe9ae98fd22b5f18009.de-de.xlf with commit: 89efa27c194af8bac868adffc070a2c35069ac27 failed.",
+        "internal_error_retriable": false,
+        "exception_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\lnxPackageResource.db35ab938bbfbb38cae53fe9ae98fd22b5f18009.de-de.xlf with commit: 89efa27c194af8bac868adffc070a2c35069ac27 failed.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      }
     },
     "056b0c86701cfd096c863560836dc129ecefc862": {
       "FileHash": "056b0c86701cfd096c863560836dc129ecefc862",
@@ -914,8 +1026,16 @@
       "ArchiveException": null,
       "BilingualFilePath": null,
       "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
-      "BilingualException": null
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
+      "BilingualException": {
+        "internal_error_code": "bilingual_uploading_failed",
+        "internal_error_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\lnxScriptResource.1344a5d5b807ee53705e93842d9ef5e25a883359.de-de.xlf with commit: 89efa27c194af8bac868adffc070a2c35069ac27 failed.",
+        "internal_error_retriable": false,
+        "exception_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\lnxScriptResource.1344a5d5b807ee53705e93842d9ef5e25a883359.de-de.xlf with commit: 89efa27c194af8bac868adffc070a2c35069ac27 failed.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      }
     },
     "3d766f5b9e2bb9284e717d5a998b1a7c291221fc": {
       "FileHash": "3d766f5b9e2bb9284e717d5a998b1a7c291221fc",
@@ -949,8 +1069,16 @@
       "ArchiveException": null,
       "BilingualFilePath": null,
       "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
-      "BilingualException": null
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
+      "BilingualException": {
+        "internal_error_code": "bilingual_uploading_failed",
+        "internal_error_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\lnxServiceResource.e637c7f7b18939ec8c16eadf2c42ab00e236fb7b.de-de.xlf with commit: 89efa27c194af8bac868adffc070a2c35069ac27 failed.",
+        "internal_error_retriable": false,
+        "exception_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\lnxServiceResource.e637c7f7b18939ec8c16eadf2c42ab00e236fb7b.de-de.xlf with commit: 89efa27c194af8bac868adffc070a2c35069ac27 failed.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      }
     },
     "6b36c9b34b8f76cbae8443058dbd949e47dbc0b2": {
       "FileHash": "6b36c9b34b8f76cbae8443058dbd949e47dbc0b2",
@@ -984,8 +1112,16 @@
       "ArchiveException": null,
       "BilingualFilePath": null,
       "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
-      "BilingualException": null
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
+      "BilingualException": {
+        "internal_error_code": "bilingual_uploading_failed",
+        "internal_error_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\lnxSshAuthorizedKeysResource.9a647ff238cd38a2fc7da58f3cc5682acf7d3346.de-de.xlf with commit: 89efa27c194af8bac868adffc070a2c35069ac27 failed.",
+        "internal_error_retriable": false,
+        "exception_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\lnxSshAuthorizedKeysResource.9a647ff238cd38a2fc7da58f3cc5682acf7d3346.de-de.xlf with commit: 89efa27c194af8bac868adffc070a2c35069ac27 failed.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      }
     },
     "31eea97ab4912ca241557cddbf59929e085ebe80": {
       "FileHash": "31eea97ab4912ca241557cddbf59929e085ebe80",
@@ -1019,8 +1155,16 @@
       "ArchiveException": null,
       "BilingualFilePath": null,
       "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
-      "BilingualException": null
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
+      "BilingualException": {
+        "internal_error_code": "bilingual_uploading_failed",
+        "internal_error_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\lnxUserResource.2376554a25dd8dfad6a78a6180b7c7166e4817e1.de-de.xlf with commit: 89efa27c194af8bac868adffc070a2c35069ac27 failed.",
+        "internal_error_retriable": false,
+        "exception_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\lnxUserResource.2376554a25dd8dfad6a78a6180b7c7166e4817e1.de-de.xlf with commit: 89efa27c194af8bac868adffc070a2c35069ac27 failed.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      }
     },
     "0f4922e1df8725aad839211dbe0dfc532692f606": {
       "FileHash": "0f4922e1df8725aad839211dbe0dfc532692f606",
@@ -1054,8 +1198,16 @@
       "ArchiveException": null,
       "BilingualFilePath": null,
       "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
-      "BilingualException": null
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
+      "BilingualException": {
+        "internal_error_code": "bilingual_uploading_failed",
+        "internal_error_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\logResource.07af9dfcf6076ef19059178c3b404762677920f0.de-de.xlf with commit: 89efa27c194af8bac868adffc070a2c35069ac27 failed.",
+        "internal_error_retriable": false,
+        "exception_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\logResource.07af9dfcf6076ef19059178c3b404762677920f0.de-de.xlf with commit: 89efa27c194af8bac868adffc070a2c35069ac27 failed.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      }
     },
     "d7b3908ae670a7bcc976f2675834316862a25802": {
       "FileHash": "d7b3908ae670a7bcc976f2675834316862a25802",
@@ -1089,8 +1241,16 @@
       "ArchiveException": null,
       "BilingualFilePath": null,
       "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
-      "BilingualException": null
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
+      "BilingualException": {
+        "internal_error_code": "bilingual_uploading_failed",
+        "internal_error_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\metaConfig.915dba9ed66671e4a41c35a16d5248bb4c94e3d6.de-de.xlf with commit: 89efa27c194af8bac868adffc070a2c35069ac27 failed.",
+        "internal_error_retriable": false,
+        "exception_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\metaConfig.915dba9ed66671e4a41c35a16d5248bb4c94e3d6.de-de.xlf with commit: 89efa27c194af8bac868adffc070a2c35069ac27 failed.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      }
     },
     "ef2664b6dd61bd55898971adf7e4a57f92be88cc": {
       "FileHash": "ef2664b6dd61bd55898971adf7e4a57f92be88cc",
@@ -1124,8 +1284,16 @@
       "ArchiveException": null,
       "BilingualFilePath": null,
       "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
-      "BilingualException": null
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
+      "BilingualException": {
+        "internal_error_code": "bilingual_uploading_failed",
+        "internal_error_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\metaConfig4.4ec702d458e6574099cead724f0e57c3c5d262df.de-de.xlf with commit: 89efa27c194af8bac868adffc070a2c35069ac27 failed.",
+        "internal_error_retriable": false,
+        "exception_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\metaConfig4.4ec702d458e6574099cead724f0e57c3c5d262df.de-de.xlf with commit: 89efa27c194af8bac868adffc070a2c35069ac27 failed.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      }
     },
     "7f5f99f0f0befde13272221e376006dffbddb994": {
       "FileHash": "7f5f99f0f0befde13272221e376006dffbddb994",
@@ -1159,8 +1327,16 @@
       "ArchiveException": null,
       "BilingualFilePath": null,
       "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
-      "BilingualException": null
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
+      "BilingualException": {
+        "internal_error_code": "bilingual_uploading_failed",
+        "internal_error_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\overview.8cc85dd99239e10c76baa6006d906abfd6122c3f.de-de.xlf with commit: 89efa27c194af8bac868adffc070a2c35069ac27 failed.",
+        "internal_error_retriable": false,
+        "exception_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\overview.8cc85dd99239e10c76baa6006d906abfd6122c3f.de-de.xlf with commit: 89efa27c194af8bac868adffc070a2c35069ac27 failed.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      }
     },
     "9c9f1da0b560c44c9760583c4193bdf4eaee09f7": {
       "FileHash": "9c9f1da0b560c44c9760583c4193bdf4eaee09f7",
@@ -1194,8 +1370,16 @@
       "ArchiveException": null,
       "BilingualFilePath": null,
       "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
-      "BilingualException": null
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
+      "BilingualException": {
+        "internal_error_code": "bilingual_uploading_failed",
+        "internal_error_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\packageResource.132c4949cee174dc0dc324456d220436cb9884e6.de-de.xlf with commit: 89efa27c194af8bac868adffc070a2c35069ac27 failed.",
+        "internal_error_retriable": false,
+        "exception_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\packageResource.132c4949cee174dc0dc324456d220436cb9884e6.de-de.xlf with commit: 89efa27c194af8bac868adffc070a2c35069ac27 failed.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      }
     },
     "3f1843e8a1335617c562084ce69fc82ae7c2c694": {
       "FileHash": "3f1843e8a1335617c562084ce69fc82ae7c2c694",
@@ -1229,8 +1413,16 @@
       "ArchiveException": null,
       "BilingualFilePath": null,
       "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
-      "BilingualException": null
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
+      "BilingualException": {
+        "internal_error_code": "bilingual_uploading_failed",
+        "internal_error_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\partialConfigs.f483ab7fa1511b557780a02b5b807245f730c1b6.de-de.xlf with commit: 89efa27c194af8bac868adffc070a2c35069ac27 failed.",
+        "internal_error_retriable": false,
+        "exception_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\partialConfigs.f483ab7fa1511b557780a02b5b807245f730c1b6.de-de.xlf with commit: 89efa27c194af8bac868adffc070a2c35069ac27 failed.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      }
     },
     "3e61149f7b05f74d662d3038233013ffdcbed1a3": {
       "FileHash": "3e61149f7b05f74d662d3038233013ffdcbed1a3",
@@ -1338,8 +1530,16 @@
       "ArchiveException": null,
       "BilingualFilePath": null,
       "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
-      "BilingualException": null
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
+      "BilingualException": {
+        "internal_error_code": "bilingual_uploading_failed",
+        "internal_error_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\pullClient.4844144e7d40a6e8b1be2cfaa80a5307f19f47f9.de-de.xlf with commit: 89efa27c194af8bac868adffc070a2c35069ac27 failed.",
+        "internal_error_retriable": false,
+        "exception_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\pullClient.4844144e7d40a6e8b1be2cfaa80a5307f19f47f9.de-de.xlf with commit: 89efa27c194af8bac868adffc070a2c35069ac27 failed.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      }
     },
     "54bb78b313c4f0c721862910496c5154ed5444ef": {
       "FileHash": "54bb78b313c4f0c721862910496c5154ed5444ef",
@@ -1373,8 +1573,16 @@
       "ArchiveException": null,
       "BilingualFilePath": null,
       "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
-      "BilingualException": null
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
+      "BilingualException": {
+        "internal_error_code": "bilingual_uploading_failed",
+        "internal_error_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\pullClientConfigID.1b955603d220e49bbe52711bacf74c46feec04cc.de-de.xlf with commit: 89efa27c194af8bac868adffc070a2c35069ac27 failed.",
+        "internal_error_retriable": false,
+        "exception_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\pullClientConfigID.1b955603d220e49bbe52711bacf74c46feec04cc.de-de.xlf with commit: 89efa27c194af8bac868adffc070a2c35069ac27 failed.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      }
     },
     "3714670bd9ded38e54c1f2e3f64658950c6d3f40": {
       "FileHash": "3714670bd9ded38e54c1f2e3f64658950c6d3f40",
@@ -1408,8 +1616,16 @@
       "ArchiveException": null,
       "BilingualFilePath": null,
       "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
-      "BilingualException": null
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
+      "BilingualException": {
+        "internal_error_code": "bilingual_uploading_failed",
+        "internal_error_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\pullClientConfigID4.3556f8028eee8a539990f2895506bcbafb14a012.de-de.xlf with commit: 89efa27c194af8bac868adffc070a2c35069ac27 failed.",
+        "internal_error_retriable": false,
+        "exception_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\pullClientConfigID4.3556f8028eee8a539990f2895506bcbafb14a012.de-de.xlf with commit: 89efa27c194af8bac868adffc070a2c35069ac27 failed.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      }
     },
     "42c9a0b9ad1f9073bb9c927e68baa7e9d7b77d95": {
       "FileHash": "42c9a0b9ad1f9073bb9c927e68baa7e9d7b77d95",
@@ -1443,8 +1659,16 @@
       "ArchiveException": null,
       "BilingualFilePath": null,
       "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
-      "BilingualException": null
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
+      "BilingualException": {
+        "internal_error_code": "bilingual_uploading_failed",
+        "internal_error_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\pullClientConfigNames.90531abb3b29bfd751ad2f3a115a4ba02024827e.de-de.xlf with commit: 89efa27c194af8bac868adffc070a2c35069ac27 failed.",
+        "internal_error_retriable": false,
+        "exception_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\pullClientConfigNames.90531abb3b29bfd751ad2f3a115a4ba02024827e.de-de.xlf with commit: 89efa27c194af8bac868adffc070a2c35069ac27 failed.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      }
     },
     "2668c9aa8c36621eb9797e634354bc7fa285d3b8": {
       "FileHash": "2668c9aa8c36621eb9797e634354bc7fa285d3b8",
@@ -1478,8 +1702,16 @@
       "ArchiveException": null,
       "BilingualFilePath": null,
       "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
-      "BilingualException": null
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
+      "BilingualException": {
+        "internal_error_code": "bilingual_uploading_failed",
+        "internal_error_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\pullServer.4b925b277da29998394af746bdbdd508fda48909.de-de.xlf with commit: 89efa27c194af8bac868adffc070a2c35069ac27 failed.",
+        "internal_error_retriable": false,
+        "exception_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\pullServer.4b925b277da29998394af746bdbdd508fda48909.de-de.xlf with commit: 89efa27c194af8bac868adffc070a2c35069ac27 failed.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      }
     },
     "fc1456c57ade6862957e54ee53f18f189785848a": {
       "FileHash": "fc1456c57ade6862957e54ee53f18f189785848a",
@@ -1513,8 +1745,16 @@
       "ArchiveException": null,
       "BilingualFilePath": null,
       "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
-      "BilingualException": null
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
+      "BilingualException": {
+        "internal_error_code": "bilingual_uploading_failed",
+        "internal_error_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\queryServerNodes.bb63da39c46de8db127c93721dcbec9b10f73d2d.de-de.xlf with commit: 89efa27c194af8bac868adffc070a2c35069ac27 failed.",
+        "internal_error_retriable": false,
+        "exception_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\queryServerNodes.bb63da39c46de8db127c93721dcbec9b10f73d2d.de-de.xlf with commit: 89efa27c194af8bac868adffc070a2c35069ac27 failed.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      }
     },
     "44f3bb3bec83fd779c83d0326d55c88ead77cfba": {
       "FileHash": "44f3bb3bec83fd779c83d0326d55c88ead77cfba",
@@ -1548,8 +1788,16 @@
       "ArchiveException": null,
       "BilingualFilePath": null,
       "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
-      "BilingualException": null
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
+      "BilingualException": {
+        "internal_error_code": "bilingual_uploading_failed",
+        "internal_error_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\registryResource.7e5e3fabff013c107bd112ac774a50c9cab7c90a.de-de.xlf with commit: 89efa27c194af8bac868adffc070a2c35069ac27 failed.",
+        "internal_error_retriable": false,
+        "exception_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\registryResource.7e5e3fabff013c107bd112ac774a50c9cab7c90a.de-de.xlf with commit: 89efa27c194af8bac868adffc070a2c35069ac27 failed.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      }
     },
     "df54abe3d92ffaff2998e9fb3157b42cf83143c2": {
       "FileHash": "df54abe3d92ffaff2998e9fb3157b42cf83143c2",
@@ -1583,8 +1831,16 @@
       "ArchiveException": null,
       "BilingualFilePath": null,
       "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
-      "BilingualException": null
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
+      "BilingualException": {
+        "internal_error_code": "bilingual_uploading_failed",
+        "internal_error_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\resources.41990b4bc17648676f43a9aedfa72aa3db455ca3.de-de.xlf with commit: 89efa27c194af8bac868adffc070a2c35069ac27 failed.",
+        "internal_error_retriable": false,
+        "exception_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\resources.41990b4bc17648676f43a9aedfa72aa3db455ca3.de-de.xlf with commit: 89efa27c194af8bac868adffc070a2c35069ac27 failed.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      }
     },
     "b081337b68091f95498d23fecbc64701866b2cec": {
       "FileHash": "b081337b68091f95498d23fecbc64701866b2cec",
@@ -1618,8 +1874,16 @@
       "ArchiveException": null,
       "BilingualFilePath": null,
       "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
-      "BilingualException": null
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
+      "BilingualException": {
+        "internal_error_code": "bilingual_uploading_failed",
+        "internal_error_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\scriptResource.086a4e23c7f1950435cf115060757fcd9b7f7f5d.de-de.xlf with commit: 89efa27c194af8bac868adffc070a2c35069ac27 failed.",
+        "internal_error_retriable": false,
+        "exception_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\scriptResource.086a4e23c7f1950435cf115060757fcd9b7f7f5d.de-de.xlf with commit: 89efa27c194af8bac868adffc070a2c35069ac27 failed.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      }
     },
     "14cf6c2005eb756200e7fd065b61e4120d84c02e": {
       "FileHash": "14cf6c2005eb756200e7fd065b61e4120d84c02e",
@@ -1653,8 +1917,16 @@
       "ArchiveException": null,
       "BilingualFilePath": null,
       "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
-      "BilingualException": null
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
+      "BilingualException": {
+        "internal_error_code": "bilingual_uploading_failed",
+        "internal_error_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\secureMOF.84bae90620632fc30568f4afa595e2b86e8aa6d1.de-de.xlf with commit: 89efa27c194af8bac868adffc070a2c35069ac27 failed.",
+        "internal_error_retriable": false,
+        "exception_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\secureMOF.84bae90620632fc30568f4afa595e2b86e8aa6d1.de-de.xlf with commit: 89efa27c194af8bac868adffc070a2c35069ac27 failed.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      }
     },
     "2290a81a8dbc82b7881d2b6006d70a90578f9a56": {
       "FileHash": "2290a81a8dbc82b7881d2b6006d70a90578f9a56",
@@ -1688,8 +1960,16 @@
       "ArchiveException": null,
       "BilingualFilePath": null,
       "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
-      "BilingualException": null
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
+      "BilingualException": {
+        "internal_error_code": "bilingual_uploading_failed",
+        "internal_error_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\secureServer.ce207607010d18109152742ba23c923cd3cddba2.de-de.xlf with commit: 89efa27c194af8bac868adffc070a2c35069ac27 failed.",
+        "internal_error_retriable": false,
+        "exception_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\secureServer.ce207607010d18109152742ba23c923cd3cddba2.de-de.xlf with commit: 89efa27c194af8bac868adffc070a2c35069ac27 failed.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      }
     },
     "ca609ad6055d8053e43e482ed2e57b3db41c3549": {
       "FileHash": "ca609ad6055d8053e43e482ed2e57b3db41c3549",
@@ -1723,8 +2003,16 @@
       "ArchiveException": null,
       "BilingualFilePath": null,
       "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
-      "BilingualException": null
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
+      "BilingualException": {
+        "internal_error_code": "bilingual_uploading_failed",
+        "internal_error_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\serviceResource.17d839ef9952ec1a45ba971fcff47a80c41593cf.de-de.xlf with commit: 89efa27c194af8bac868adffc070a2c35069ac27 failed.",
+        "internal_error_retriable": false,
+        "exception_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\serviceResource.17d839ef9952ec1a45ba971fcff47a80c41593cf.de-de.xlf with commit: 89efa27c194af8bac868adffc070a2c35069ac27 failed.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      }
     },
     "66cefb1620ad412d3f4e041561ae1df356fdb1e6": {
       "FileHash": "66cefb1620ad412d3f4e041561ae1df356fdb1e6",
@@ -1758,8 +2046,16 @@
       "ArchiveException": null,
       "BilingualFilePath": null,
       "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
-      "BilingualException": null
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
+      "BilingualException": {
+        "internal_error_code": "bilingual_uploading_failed",
+        "internal_error_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\TOC.b2a7935bce42ebc7e43bfe65f3058900e2942427.de-de.xlf with commit: 89efa27c194af8bac868adffc070a2c35069ac27 failed.",
+        "internal_error_retriable": false,
+        "exception_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\TOC.b2a7935bce42ebc7e43bfe65f3058900e2942427.de-de.xlf with commit: 89efa27c194af8bac868adffc070a2c35069ac27 failed.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      }
     },
     "2886767875ee6a9882ca050e34787cfa1fb64109": {
       "FileHash": "2886767875ee6a9882ca050e34787cfa1fb64109",
@@ -1793,8 +2089,16 @@
       "ArchiveException": null,
       "BilingualFilePath": null,
       "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
-      "BilingualException": null
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
+      "BilingualException": {
+        "internal_error_code": "bilingual_uploading_failed",
+        "internal_error_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\troubleshooting.bcb1039de4ec46bfb0ab2d224be50829d0891e7d.de-de.xlf with commit: 89efa27c194af8bac868adffc070a2c35069ac27 failed.",
+        "internal_error_retriable": false,
+        "exception_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\troubleshooting.bcb1039de4ec46bfb0ab2d224be50829d0891e7d.de-de.xlf with commit: 89efa27c194af8bac868adffc070a2c35069ac27 failed.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      }
     },
     "e4b793025b00cb3137eddc0e7ec437f03abdf3c4": {
       "FileHash": "e4b793025b00cb3137eddc0e7ec437f03abdf3c4",
@@ -1828,8 +2132,16 @@
       "ArchiveException": null,
       "BilingualFilePath": null,
       "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
-      "BilingualException": null
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
+      "BilingualException": {
+        "internal_error_code": "bilingual_uploading_failed",
+        "internal_error_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\userResource.5de4fbe03e9e06934442ba451eb0564931863f45.de-de.xlf with commit: 89efa27c194af8bac868adffc070a2c35069ac27 failed.",
+        "internal_error_retriable": false,
+        "exception_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\userResource.5de4fbe03e9e06934442ba451eb0564931863f45.de-de.xlf with commit: 89efa27c194af8bac868adffc070a2c35069ac27 failed.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      }
     },
     "1484f03d1d80b73e3131095e3363b246929a0a35": {
       "FileHash": "1484f03d1d80b73e3131095e3363b246929a0a35",
@@ -1863,8 +2175,16 @@
       "ArchiveException": null,
       "BilingualFilePath": null,
       "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
-      "BilingualException": null
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
+      "BilingualException": {
+        "internal_error_code": "bilingual_uploading_failed",
+        "internal_error_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\windowsfeatureResource.07b968eb71ba947a4bf5fa25add8a0e2c25bcadf.de-de.xlf with commit: 89efa27c194af8bac868adffc070a2c35069ac27 failed.",
+        "internal_error_retriable": false,
+        "exception_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\windowsfeatureResource.07b968eb71ba947a4bf5fa25add8a0e2c25bcadf.de-de.xlf with commit: 89efa27c194af8bac868adffc070a2c35069ac27 failed.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      }
     },
     "47c387c525a58a88f18e61920736a6e0e7f2098d": {
       "FileHash": "47c387c525a58a88f18e61920736a6e0e7f2098d",
@@ -1898,8 +2218,16 @@
       "ArchiveException": null,
       "BilingualFilePath": null,
       "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
-      "BilingualException": null
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
+      "BilingualException": {
+        "internal_error_code": "bilingual_uploading_failed",
+        "internal_error_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\windowsProcessResource.d5014f2fde06deea365cd1e64a3587c037999fa7.de-de.xlf with commit: 89efa27c194af8bac868adffc070a2c35069ac27 failed.",
+        "internal_error_retriable": false,
+        "exception_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\windowsProcessResource.d5014f2fde06deea365cd1e64a3587c037999fa7.de-de.xlf with commit: 89efa27c194af8bac868adffc070a2c35069ac27 failed.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      }
     },
     "9abd5f2bd558706c03e2c0da58503ef914d08142": {
       "FileHash": "9abd5f2bd558706c03e2c0da58503ef914d08142",
@@ -10899,9 +11227,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\archiveResource.b4701b9fe5acf94be3fabf470371d8e47dd154d4.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "5b43723f7b14eb4bca06d0430b5981c3663c5801": {
@@ -10934,9 +11262,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\authoringResource.106f1f4d77068b2b95f1927b611b5f405ec7a317.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "b5de1100450a89796c20a5bbb2e71f7759374b02": {
@@ -10969,9 +11297,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\authoringResourceClass.3603134df9ad1cad202d10769ff631a083cc3aae.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "6631d60d7d82e71c315c26a0196aa3e4c1b60b15": {
@@ -11047,9 +11375,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\authoringResourceMOF.1f503c33425780c369e78193e2f2f4e9242c401b.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "991a324945289b2eff0b706d093b2d345352fb15": {
@@ -11082,9 +11410,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\authoringResourceMofCS.0647b27b00ec52b2f524a2856e48bc7c29c0f867.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "be2141330dda803a22fdce6d65a1e379adf14fed": {
@@ -11117,9 +11445,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\authoringResourceMofDesigner.09b1adffc4afb0d9b1154880e2dab0b25d82d51b.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "ea312b4e773cd8b0eceeca123e616957728eb1c6": {
@@ -11152,9 +11480,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\builtInResource.2f855e1582347e986aa4e5e62b842b886596fdc2.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "8a3ae5fdf5d70de999ca6b992efb14533408c305": {
@@ -11187,9 +11515,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\configData.51d01a46dd9af8b425788cc485523b09f8470b95.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "a750fb208e73ce2ebffb2fa86a55c825169d8ad8": {
@@ -11222,9 +11550,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\configDataCredentials.f3e75119e7d93b2f914823c5ea23bfde3935a874.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "becacd2dcbc6fd0edd9154a45342edc5c536935b": {
@@ -11257,9 +11585,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\configHelp.640c1514ba89b533fcd70fb36da2f349eced1926.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "d84bb35ada3588367436e6f5e3c6696b90c3661b": {
@@ -11292,9 +11620,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\configurations.02626ddbf3a00f8ede56fdfd2e46a027800e75b6.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "f4c64d3603fd01f29a63f8b180057714bf3d1197": {
@@ -11327,9 +11655,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\crossNodeDependencies.bd1d65501a23b72cf44e4d417ebad7a3bd5c7139.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "461cd535bfbdda6cc90364aace9912f713431c21": {
@@ -11362,9 +11690,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\debugResource.ac634156affe5c723cc149a298f5aa4268d17016.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "2d2b142dc862f7655f28aa34e1fd91f63bd6286e": {
@@ -11397,9 +11725,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\decisionMaker.01553169f2ba4241995260fad925e2784b5f5567.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "1fe624c2532e44ed675762f3c141934fb4f0b60d": {
@@ -11432,9 +11760,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\directCallResource.7adf3e286a432cf50a90cb04db12b1f70bb586cd.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "4c802002c6a03a27d02221dd713677911a77c30b": {
@@ -14129,9 +14457,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\contributing_to_psgallery_documentation.cdc8ea8133cc381a44e6b22ab29399fc0e010fc7.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "9dab14b25815ac7c005b915df421300a1cc72033": {
@@ -14164,9 +14492,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\Creating-and-Publishing-an-item.612ca6dd00bb48ef9dc422d6bad977ea54f0c53a.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "87e99e2735be9d2790dc0d7f75318bafe3bfd4dc": {
@@ -14199,9 +14527,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\Deleting-Items.4e26f4bda62324aed679b0c10b81017d4f3924ba.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "57218c316b6921e2cd61027a2387edc31a2d9471": {
@@ -15534,9 +15862,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\bootstrapping_nuget_proivder_and_exe.3d7517dad67af35162e1b84a4893b46bd5b591e6.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "df940c200d4099560fdeb24bc471816f576f50db": {
@@ -16164,9 +16492,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\common-role-capability-pitfalls.dfaa23ae81cb39f04c2fe16d9e7917452e8b7b3b.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "9f3f79a29e0fb7ec5a5111284bb7985548e17749": {
@@ -16199,9 +16527,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\considerations-when-limiting-commands.f94b8dd0f9c77bf7e8a6286eb8ff8f20609bf593.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "8473eb668e4da5bab01c2f2b7647cbced413bd22": {
@@ -16234,9 +16562,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\creating-a-domain-controller.b6645bbc4de5b0de067c85719afba2a9b0dcc9fb.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "e7ea3957ce3bbd3ce0fc072a82cd108606f05614": {
@@ -16759,9 +17087,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\console-guide.2c039b505fcac6b00d7b2c1ce6118cf177bd3661.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "3bee547fc53d1164d3cbf17f033083d4f1099ae7": {
@@ -16794,9 +17122,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\core-modules.704485ba8e24c04a46b61fa4b4be5fb4b56d985f.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "249a0ece77a11fd9aa54a6ff4170e44f42b377c9": {
@@ -17389,9 +17717,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\core-powershell.94ba5d1996717b25414c15a5364425d4d49e05f1.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "460ab6d82b694266d31b09779866f746b56c9f51": {
@@ -18474,9 +18802,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\authorization-rules-and-security-features-of-windows-powershell-web-access.c317fe9a78ba1130929bd001738c2eb57f0037dd.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "75e9b6525d74a8bc632b9fe2e64183717f59776f": {
@@ -18754,9 +19082,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\basic-cookbooks.8c3a9847d486728dbb152bba4ef40ec861a781a6.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "61eac49bc710a2435117409b74ba02798cf720da": {
@@ -18789,9 +19117,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\Appendix-1---Compatibility-Aliases.1e82caf8ddab51a17d518f635e351df370bbc743.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "ceec1038516ddd4c29df770d14981c0a69437498": {
@@ -18824,9 +19152,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\Appendix-2---Creating-a-Custom-PowerShell-Shortcut.43122497f916b1aacf07b6760d601b606e4719f8.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "a5bfad60f1cb254f1899723c40751cd8b96ef54e": {
@@ -18859,9 +19187,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\basic-cookbooks-reference.5da8328fb64dd6fc478181655b0b740c33e1cf9c.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "1779b9de13a30a43236e24793e5196261a7db77f": {
@@ -18894,9 +19222,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\Changing-Computer-State.11ba8b4925a07ccc764ebf8a1887a5857c1d7273.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "96204a0ce674cacd5b830f9f8b820ce3e1cbbc20": {
@@ -18929,9 +19257,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\Collecting-Information-About-Computers.eed23e687357879bd13c90bb4d3966ee89bc9099.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "4c0f405a46e16935211b3886a40c9f7d1afc7260": {
@@ -18964,9 +19292,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\Creating-.NET-and-COM-Objects--New-Object-.6a22a1f1b10e73cd8dc65134aed84f0d6961bf45.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "6c0c1d42dae602a83bbad7a0abe8df1b6435489a": {
@@ -18999,9 +19327,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\Creating-a-Custom-Input-Box.d0b0f28391ca707134d516718eec44a874382d2a.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "9c232f47eba22790dfc98e4948c71e181616d2ae": {
@@ -19034,9 +19362,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\Creating-a-Graphical-Date-Picker.a933c5ebd581abc094dabf7086ffddce8ea5c63e.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "de9e8af7908ac6a72a100fd2c86b52c30c390c39": {
@@ -19979,9 +20307,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\About-Windows-PowerShell.9cb66c3513a43593501f97fde1913b752049ba24.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "c1f285a1d1beb35c931c17f5944d7ec697cb152e": {
@@ -20714,9 +21042,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\Accessibility-in-Windows-PowerShell-ISE.2ca37c157ff546e8a8bfde68228e933bd363cbbe.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "b6189e43fc9579a29d598deb705bb8e4e32e4a4f": {
@@ -21344,9 +21672,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\audit_cms.1a4620c3522dc041191724aaba92897a08d4f2cc.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "20e6c97ad5dc845bc0ead973ed8a62b34af3e824": {
@@ -21379,9 +21707,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\audit_overview.92ad34c8060616c8b797a90e6812159e2418ad20.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "654c0d5e83b9832524298b5c96eae094f371330f": {
@@ -21414,9 +21742,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\audit_script.ccd77e9c7f4781d90d16930be2e2e2005ff14222.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "61364255f33378d71724705658d9924a7730b74e": {
@@ -21449,9 +21777,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\audit_transcript.742defa1fc2c40092f068aecc8c8eb1036f2c66f.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "6968ca2fb27c1f300b7b5e5730e358d81fc4c400": {
@@ -21484,9 +21812,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\class_base.4cc8998d2f276a57fa965a488e963ba42771d5b8.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "a70d965afdb4edd71fa5dfd42d4c0f7ae7d65f29": {
@@ -21519,9 +21847,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\class_baseconstructor.7fe6ee1dd851ef4aa67d9e97f707b2aee2fecef0.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "09ff4761ecdcf1d4433c4f40701cb7af3be44c8f": {
@@ -21554,9 +21882,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\class_basemethod.196d5316eaf1e61bbb5e5dd6a8449e57e8fc8ab0.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "31b64b6845c8d6ece8628bd565662525a65353d9": {
@@ -21589,9 +21917,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\class_interface.9f3079ca5e797498f02f8747c04250b1f4f3043f.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "b91e3bbb40b2b5eddd1e43be568773c850a9b8e0": {
@@ -21624,9 +21952,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\class_newtype.9ab827c0184e4434bea8e35d941675ccca6c487d.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "3010b1ce497d8a5e45ada003587d9e104eddd8b1": {
@@ -21659,9 +21987,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\class_overview.47b2db18ab277465532501bdd9ec704e75ef939d.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "0660867e6e7c7a93a8ca80d76f22db7fd86f8826": {
@@ -21694,9 +22022,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\debug_overview.1dc7b5c9880c61726d759a20f5756d7c955759a7.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "b1cdc60338b2c130dad7d917c8fcec543aafe467": {
@@ -21729,9 +22057,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\dsc_authoring.c549b1f0b83923af0cbc07bbf3754a486f8b4303.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "b4d9889430447d7499075847f8439cc2859f5751": {
@@ -21764,9 +22092,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\dsc_classbasedresource.5c3f03799c95e04a59b065d6f8922d74f341a15c.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "ad03c24f7cfd141744721b5825c20e8d2f0a00a8": {
@@ -21799,9 +22127,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\dsc_confighelp.f820ac9bca8e0dc5c00c6a8fca928469a7bf501b.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "6bb220e50bdb77c2a7ffd36ea744aa3fc454dc67": {
@@ -21834,9 +22162,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\dsc_directaccess.7a6b66fb5d0c51e4c69ed337e09c14a8a76e9ff4.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "be8fdde764d0e3adb9aad50217ebc7c3ea26bbc4": {
@@ -21869,9 +22197,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\dsc_encryptedmof.ae98aa583f49a21a6d3fb46448195bcd56337fdc.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "c858f997c814483a10f5a9d59fb5352c99ac1093": {
@@ -21904,9 +22232,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\dsc_freqnomultiple.24a510bddeb0893246c680375a783ba9be7c648b.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "9ef3bec301af268ec4f97d881c0efbee71656fa4": {
@@ -21939,9 +22267,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\dsc_getconfigurationstatus.6dbd8b8c78c8ec42545c0e351d242cfdaa1d7eef.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "a257f792d39f360a2c9e638f42ffac5fed282b00": {
@@ -21974,9 +22302,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\dsc_identicalduplicate.5d2a56666d6760f99354e53bd0572bed6f5327a9.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "56ec43a84cfdbceb7633609696ea697c515e2931": {
@@ -22009,9 +22337,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\dsc_importdscresource.6e807c405f17f191256af2d3a990bb08e143b60e.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "336c6bc43b482eda6524ebed0381240868261f64": {
@@ -22044,9 +22372,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\dsc_improvements.ef97b488849556e2b3c44d95f49f5b63fa3153bd.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "648c2106d29749858161b78fb879c514078705d1": {
@@ -22079,9 +22407,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\dsc_lcmstate.cd64c6e3e1e836262b70ece11b130e06b6f3bad0.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "695980323cb5d00d5c8f6bbe2d1c1c29ec99f809": {
@@ -22114,9 +22442,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\dsc_metaconfiguration.35d6b407146eac14a3a7029b9de7033c38a22bb9.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "34c29d88f0676e51c1b8af9d9e65b151eb8a4272": {
@@ -22149,9 +22477,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\dsc_newresources.ab9c09459bc25b3931945d9d404f4599a48be7e0.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "06790d07e8798b1f263b023d0b231c6d9dd1d061": {
@@ -22184,9 +22512,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\dsc_nodeid.d5c351f720310ee08eb5cc0449bcd89fc6c828b1.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "4c8cbbd1f795a7117f049ccd6cbb00abb1127b24": {
@@ -22219,9 +22547,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\dsc_partialconfig.7a57fc67534f25ae1cee47917aa5f48c9fe07fe2.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "dc5b682e8e6b028c3cc54130e697d67fd4c234d2": {
@@ -22254,9 +22582,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\dsc_partialconfig_mixedmode.589a3de34413ae3f13f49ff83861189d47e231b2.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "fbfae5c87a81bb36e1187a65b2ef7a6a982d99f4": {
@@ -22289,9 +22617,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\dsc_publishconfig.d1e8983bf865e4d34049ce85fe6bc796ca7f6c92.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "da794b5c2fa3e975a3f39afbac989b2f40b07915": {
@@ -22324,9 +22652,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\dsc_refreshmode.aae04d9212e4bdfa064262dbc13ff73f67d28fc3.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "b0fb33b1d5e4ef1b0b9018ec5dd5f88ef5df4719": {
@@ -22359,9 +22687,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\dsc_removeconfigdoc.83ad29516446e4b7390a6cacef8d0de31bb735a3.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "9111f0ea2e0fc923994055819938fa16dfb0bedf": {
@@ -22394,9 +22722,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\dsc_reporting.3683c7c2b6af9827ef59d833315a1fe1753f4724.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "3cccbc0ec413b03899ae92e747b8e5828d667b0b": {
@@ -22429,9 +22757,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\dsc_repository.deb1b97eeef91cd16ea753a88765f7e6c8f61292.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "1357bcf47977f6f1bfdc6420851d9f4df3e2b46d": {
@@ -22464,9 +22792,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\dsc_resourcedebugging.094cf92c8661eb6bf762a1e58fc19a5166ae2104.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "0cfda25530705f1c17e72c2e19a5f389d2cb7686": {
@@ -22499,9 +22827,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\dsc_runas.1962ecfa965fe6bb030c6cf8ceb5aa07252b3126.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "97cd3cb5658f3acabf4f980d1e3fa99fe84e0d04": {
@@ -22534,9 +22862,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\dsc_setdsclcm.ef6c7d4888ecc43581b14aae37e8323a0436d5cc.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "98a8a8f27661042bef27d0edceccf9a67c9153d1": {
@@ -22569,9 +22897,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\dsc_statestatus.e27c3bcf9358f0bcde16f5f499fcbd4c43622786.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "6338545a3ded859ba9abddaaff768bb89cb2dac0": {
@@ -22604,9 +22932,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\dsc_sxsresource.d69876c715c1fdad209db88936b87f8e2b29f24c.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "df6b5db79c8c165e7fb3c1570838ac7a696b5a55": {
@@ -22639,9 +22967,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\dsc_testconfiguration.80d6e6c713d3c87ea98a35ea9a2b1ecdf85d9b68.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "e3643fd339a0662d87f9532d9c38fd56c7f72333": {
@@ -22674,9 +23002,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\dsc_updateconfig.b3842fd986f3d536d3f4449fb960724b496517d9.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "1050b9c9297adeef0215d706c19aa450fb483d97": {
@@ -22709,9 +23037,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\dsc_waitfor.48580aa1828047d340b5e5c526709461d5ebe255.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "59206d28411ca6d4591cff5b3f158f4f5b78cc6a": {
@@ -22744,9 +23072,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\dsc_wow64.c734644e88e00205f45013bd4b2341f7df609095.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "40b022f369f09df35a4e8b1e675d75410b69dde9": {
@@ -24074,9 +24402,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\bugfixes.9ac3235fa7ee0f522e47993290af882a3a4a26f7.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "a1e178e907a9edbe652b5da32ad286550f95076f": {
@@ -24109,9 +24437,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\community-resources.29f3e6ec9661c97589a0cc8652b4d1c7917aa57d.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "8e7dd69fc5ba29e719aec353afcac2471ecb2352": {
@@ -24144,9 +24472,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\compatibility.c48662c8b1c8f8765c91c89c348a9a64174fcb50.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "2a17fdd4092adf734398f38bec915d53c1b3e566": {
@@ -24179,9 +24507,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\console-improvements.1e8be4b16ba9b1a7df66013c3107d42521f009d8.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "c88c145c3585befcee194499f7e21aaeac67c0f3": {
@@ -24214,9 +24542,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\DSC-improvements.34bcd4169d438016a90bb7d385251ff174844f98.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "bb7efc55b1c948c349aa778b700e5cb1277b9762": {
@@ -24284,9 +24612,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\analysis_cache.ebd5d54252739ef057bf5e6146bcf8d8131dab36.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "1e422b30ab2471e73123badedf1f10631f9730ed": {
@@ -24362,9 +24690,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\console-enhancements.3c888b1935faa7ae4eb59ba6845eb7d78cd60ecc.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "368c26766961e760fd2de8c99057121bea076158": {
@@ -24397,9 +24725,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\DSCPartialConfigNaming.0fa686a40e3e562fa831fc87a2ac2b8b81cfba33.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "7505e063fad84999af786f2af0602d204ed973b7": {
@@ -24475,9 +24803,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\DSCSigningValidations.9fb5f7c90060737d46691c9c29429a9e500a99db.de-de.xlf",
+      "BilingualFileCommit": "a9936e0ca2bc9e575597f4bb7195419369a93f4d",
+      "BilingualDateTime": "2016-10-04T23:09:03.8007373Z",
       "BilingualException": null
     },
     "b24e70c1e1aaf71487b00fbccaf6edb0f375b888": {
