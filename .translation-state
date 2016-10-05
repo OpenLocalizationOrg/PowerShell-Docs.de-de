@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b",
+  "LastProcessedCommit": "6617508f720e75cd9a7f49611d9b6a25399f0512",
   "LastTranslatedCommit": "1b92f3a5e7b6e9e91ae2920eadaaa191d582ae6e",
   "Items": {
     "c3b8854dbecd4ab03e46c51a23ac00461bdd7014": {
@@ -2765,10 +2765,10 @@
         "dsc\\testmove2\\overview-test2.md"
       ],
       "HasMetadata": false,
-      "TranslationType": 0,
+      "TranslationType": 1,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\overview-test2.b82580217442d4533cc66897b1a1a51a6f090168.de-de.xlf",
-      "HandoffFileCommit": "c06b3685a648c31ef16b6bdb0c0d38cc05394f63",
-      "HandoffDateTime": "2016-06-01T23:09:14.2784186Z",
+      "HandoffFileCommit": "68e98dd115e3a1f5b72509ba2680f69d7d26d005",
+      "HandoffDateTime": "2016-10-05T22:49:23.2417538Z",
       "HandoffPriority": "",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
@@ -3189,10 +3189,10 @@
         "dsc\\move\\rename_troubleshooting.md"
       ],
       "HasMetadata": false,
-      "TranslationType": 0,
+      "TranslationType": 1,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\rename_troubleshooting.4c130a5165c494568ef17f0cc6e7c9fc0caf31bc.de-de.xlf",
-      "HandoffFileCommit": "c06b3685a648c31ef16b6bdb0c0d38cc05394f63",
-      "HandoffDateTime": "2016-06-01T23:09:14.2784186Z",
+      "HandoffFileCommit": "68e98dd115e3a1f5b72509ba2680f69d7d26d005",
+      "HandoffDateTime": "2016-10-05T22:49:23.2417538Z",
       "HandoffPriority": "",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
@@ -3434,10 +3434,10 @@
         "dsc\\Sonja_in_dsc_folder.md"
       ],
       "HasMetadata": false,
-      "TranslationType": 0,
+      "TranslationType": 1,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\Sonja_in_dsc_folder.9fced11a4d3bd93bff93f7067a2b176a308a36ce.de-de.xlf",
-      "HandoffFileCommit": "c06b3685a648c31ef16b6bdb0c0d38cc05394f63",
-      "HandoffDateTime": "2016-06-01T23:09:14.2784186Z",
+      "HandoffFileCommit": "68e98dd115e3a1f5b72509ba2680f69d7d26d005",
+      "HandoffDateTime": "2016-10-05T22:49:23.2417538Z",
       "HandoffPriority": "",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
@@ -25557,6 +25557,41 @@
       "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\TOC.60497266061c38453b3db893ec675eb65584af89.de-de.xlf",
       "BilingualFileCommit": "6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3",
       "BilingualDateTime": "2016-10-05T16:32:20.2000213Z",
+      "BilingualException": null
+    },
+    "897f751eab3149d2c5de728042148e9d7c0bb1db": {
+      "FileHash": "897f751eab3149d2c5de728042148e9d7c0bb1db",
+      "SourceFileCommit": "6617508f720e75cd9a7f49611d9b6a25399f0512",
+      "SourceFilePath": "Xamarin\\Index.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "TokenReference": null,
+      "FilePathList": [
+        "Xamarin\\Index.md"
+      ],
+      "HasMetadata": false,
+      "TranslationType": 1,
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\Index.e91feffba67618796babf7f7c4ac867ead922d70.de-de.xlf",
+      "HandoffFileCommit": "68e98dd115e3a1f5b72509ba2680f69d7d26d005",
+      "HandoffDateTime": "2016-10-05T22:49:23.2417538Z",
+      "HandoffPriority": "",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
       "BilingualException": null
     }
   }
