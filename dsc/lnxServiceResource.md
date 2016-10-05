@@ -1,39 +1,53 @@
-#DSC für Linux NxService Ressource
+---
+title: "DSC für Linux-Resource „nxService“"
+ms.date: 2016-05-16
+keywords: powershell,DSC
+description: 
+ms.topic: article
+author: eslesar
+manager: dongill
+ms.prod: powershell
+translationtype: Human Translation
+ms.sourcegitcommit: a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b
+ms.openlocfilehash: 3835495705297616a41329bcfdaad42b464115d8
 
-Die **NxService** Ressource in PowerShell gewünscht State Configuration (DSC) bietet einen Mechanismus zum Verwalten von Diensten auf einem Linux-Knoten.
+---
 
-##Syntax
+# DSC für Linux-Resource „nxService“
+
+Die Ressource **nxService** in PowerShell DSC bietet einen Mechanismus zum Verwalten von Diensten auf einem Linux-Knoten.
+
+## Syntax
 
 ```
 nxService <string> #ResourceName
 {
     Name = <string>
     [ Controller = <string> { init | upstart | system }  ]
-    [ Enambled = <bool> ]
+    [ Enabled = <bool> ]
     [ State = <string> { Running | Stopped } ]
     [ DependsOn = <string[]> ]
 
 }
 ```
 
-##Eigenschaften
-
-| Eigenschaft| Beschreibung|
+## Eigenschaften
+|  Eigenschaft |  Beschreibung | 
 |---|---|
-| Name| Der Name der Service/Daemon konfigurieren.|
-| Controller| Der Typ des Dienst-Controllers beim Konfigurieren des Diensts verwendet werden soll.|
-| Aktiviert| Gibt an, ob der Dienst beim Systemstart gestartet wird.|
-| Status| Gibt an, ob der Dienst ausgeführt wird.Legen Sie diese Eigenschaft auf "Beendet", um sicherzustellen, dass der Dienst nicht ausgeführt wird.Legen sie auf "Ausführen", um sicherzustellen, dass der Dienst nicht ausgeführt wird.|
-| DependsOn| Gibt an, dass die Konfiguration von einer anderen Ressource ausgeführt werden muss, bevor diese Ressource konfiguriert wird.Z. B. wenn die **ID** der Ressource ist Configuration-Skriptblock, der ausgeführt werden soll zuerst **ResourceName** und der Typ ist **ResourceType**, die Syntax für die Verwendung dieser Eigenschaft ist `DependsOn = "[ResourceType] ResourceName"`.|
+| Name| Der Name des Diensts/Daemons, der konfiguriert werden soll.| 
+| Controller| Der Typ des Dienstcontrollers, der beim Konfigurieren des Diensts verwendet werden soll.| 
+| Enabled| Gibt an, ob der Dienst beim Systemstart gestartet wird.| 
+| State| Überprüfen, ob der Dienst ausgeführt wird. Legen Sie diese Eigenschaft auf „Stopped“ fest, um sicherzustellen, dass der Dienst nicht ausgeführt wird. Durch Festlegen auf „Running“ wird sichergestellt, dass der Dienst ausgeführt wird.| 
+| DependsOn | Gibt an, dass die Konfiguration einer anderen Ressource ausgeführt werden muss, bevor diese Ressource konfiguriert wird. Wenn beispielsweise die **ID** des Skriptblocks mit der Ressourcenkonfiguration, den Sie zuerst ausführen möchten, **ResourceName** und dessen Typ **ResourceType** ist, lautet die Syntax für das Verwenden dieser Eigenschaft `DependsOn = "[ResourceType]ResourceName"`.| 
 
 
-##Weitere Informationen
+## Weitere Informationen
 
-Die **NxService** Ressource wird nicht erstellt eine Dienstdefinition oder ein Skript für den Dienst ist nicht vorhanden. Können Sie die Konfiguration des PowerShell gewünscht **NxFile** Resource-Ressource, um die Existenz oder den Inhalt der Datei oder des Skripts verwalten.
+Die Ressource **nxService** erstellt keine Dienstdefinition bzw. kein Skript für den Dienst, falls er nicht vorhanden ist. Sie können die PowerShell DSC-Ressource **nxFile** verwenden, um das Vorhandensein oder den Inhalt der Dienstdefinitionsdatei oder des Skripts zu verwalten.
 
-##Beispiel
+## Beispiel
 
-Das folgende Beispiel zeigt die Konfiguration des Dienstes "Httpd" (für Apache HTTP Server), registriert das **SystemD** Dienstcontroller.
+Das folgende Beispiel zeigt die Konfiguration des Diensts „httpd“ (für Apache HTTP Server), der mit dem Dienstcontroller **SystemD** registriert wurde.
 
 ```
 Import-DSCResource -Module nx 
@@ -51,5 +65,8 @@ Controller = "systemd"
 ```
 
 
+
+
+<!--HONumber=Oct16_HO1-->
 
 

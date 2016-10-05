@@ -1,8 +1,23 @@
-#DSC für Linux NxFile Ressource
+---
+title: "DSC für Linux-Resource „nxFile“"
+ms.date: 2016-05-16
+keywords: powershell,DSC
+description: 
+ms.topic: article
+author: eslesar
+manager: dongill
+ms.prod: powershell
+translationtype: Human Translation
+ms.sourcegitcommit: a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b
+ms.openlocfilehash: 2ba44df5dd6c91371cbbfe95d48184a4ff4a7738
 
-Die **NxFile** Ressource in PowerShell gewünscht State Configuration (DSC) bietet einen Mechanismus, um Dateien und Verzeichnisse auf einem Linux-Knoten zu verwalten.
+---
 
-##Syntax
+# DSC für Linux-Resource „nxFile“
+
+Die Ressource **nxFile** in PowerShell DSC bietet einen Mechanismus zum Verwalten von Dateien und Verzeichnissen auf einem Linux-Knoten.
+
+## Syntax
 
 ```
 nxFile <string> #ResourceName
@@ -24,28 +39,29 @@ nxFile <string> #ResourceName
 }
 ```
 
-##Eigenschaften
+## Eigenschaften
 
-| Eigenschaft| Beschreibung|
+|  Eigenschaft |  Beschreibung | 
 |---|---|
-| Zielpfad| Gibt den Speicherort an, um sicherzustellen, dass den Status für eine Datei oder ein Verzeichnis werden soll.|
-| Quellpfad| Gibt den Pfad, aus dem die Ressource Datei oder einen Ordner kopiert.Dieser Pfad ist möglicherweise einen lokalen Pfad oder ein `http/Https/FTP-` URL.Remote `http/Https/FTP-` URLs sind nur unterstützt, wenn der Wert der **Typ** Eigenschaft ist die Datei.|
-| Stellen Sie sicher| Bestimmt, ob zum Überprüfen, ob die Datei vorhanden ist.Legen Sie diese Eigenschaft auf "Present", um sicherzustellen, dass die Datei vorhanden ist.Bei Einstellung auf "Abwesend", um sicherzustellen, dass die Datei nicht vorhanden ist.Der Standardwert ist "Present".|
-| Typ| Gibt an, ob die Ressource konfiguriert wird, ein Verzeichnis oder eine Datei ist.Legen Sie diese Eigenschaft auf "Verzeichnis", um anzugeben, dass die Ressource ein Verzeichnis ist.Legen sie "file", um anzugeben, dass es sich bei der Ressource um eine Datei handelt.Der Standardwert ist "file"|
-| Inhalt| Gibt den Inhalt einer Datei, z. B. eine bestimmte Zeichenfolge.|
-| Prüfsumme| Definiert den Typ zu verwenden, wenn Sie bestimmen, ob zwei Dateien identisch sind.Wenn **Checksum** nicht angegeben ist, werden nur die Datei- oder Verzeichnisnamens für den Vergleich verwendet.Werte sind: "Ctime", "Mtime", oder "md5".|
-| Rekursion| Gibt an, ob Unterverzeichnisse enthalten sind.Legen Sie diese Eigenschaft auf **$true** um anzugeben, dass die Unterverzeichnisse enthalten sein soll.Der Standardwert ist **$false**.**Hinweis:** dieser Eigenschaft ist nur gültig, wenn die **Typ** -Eigenschaft auf das Verzeichnis festgelegt ist.|
-| Force| Bestimmte Dateioperationen (z. B. eine Datei überschreiben oder Löschen eines Verzeichnisses, das nicht leer ist), führt zu einem Fehler.Mithilfe der **Kraft** Eigenschaft überschreibt diese Fehler.Der Standardwert ist **$false**.|
-| Links| Gibt das gewünschte Verhalten für symbolische Verknüpfungen.Legen Sie diese Eigenschaft auf "folgen" symbolische Verknüpfungen und fungiert für das Ziel des Links (z. b.Kopieren Sie die Datei anstelle des).Legen Sie diese Eigenschaft auf "verwalten" auf den Link fungieren, (z. b.Kopieren Sie den Link selbst).Legen Sie diese Eigenschaft auf "ignorieren", um die symbolische Verknüpfungen zu ignorieren.|
-| Gruppe| Der Name des der **Gruppe** für die Datei oder das Verzeichnis zu ändern.|
-| Modus| Gibt die gewünschten Berechtigungen für die Ressource im Oktal- oder symbolische Notation an.(z. B. 777 oder Rwxrwxrwx).Bei Verwendung von symbolischen Notation bieten Sie keine das erste Zeichen, das Verzeichnis oder eine Datei angibt.|
-| DependsOn| Gibt an, dass die Konfiguration von einer anderen Ressource ausgeführt werden muss, bevor diese Ressource konfiguriert wird.Z. B. wenn die **ID** der Ressource ist Configuration-Skriptblock, der ausgeführt werden soll zuerst **ResourceName** und der Typ ist **ResourceType**, die Syntax für die Verwendung dieser Eigenschaft ist `DependsOn = "[ResourceType] ResourceName"`.|
+| DestinationPath| Gibt den Speicherort an, an dem Sie den Zustand einer Datei oder eines Verzeichnisses sicherstellen möchten.| 
+| SourcePath| Gibt den Pfad an, aus dem die Datei- oder Ordnerressource kopiert werden soll. Dieser Pfad kann ein lokaler Pfad oder eine URL des Typs `http/https/ftp` sein. Remote-URLs des Typs `http/https/ftp` werden nur unterstützt, wenn der Wert der **Type**-Eigenschaft „file“ ist.| 
+| Ensure| Bestimmt, ob das Vorhandensein der Datei geprüft werden soll. Legen Sie diese Eigenschaft auf „Present“ fest, um sicherzustellen, dass die Datei vorhanden ist. Legen Sie sie auf „Absent“ fest, um sicherzustellen, dass die Datei nicht vorhanden ist. Der Standardwert ist „Present“.| 
+| Type| Gibt an, ob die zu konfigurierende Ressource ein Verzeichnis oder eine Datei ist. Legen Sie diese Eigenschaft auf „Directory“ fest, um anzugeben, dass die Ressource ein Verzeichnis ist. Legen Sie sie auf „file“ fest, um anzugeben, dass die Ressource eine Datei ist. Der Standardwert ist „file“.| 
+| Contents| Gibt den Inhalt einer Datei an, z. B. eine bestimmte Zeichenfolge.| 
+| Checksum| Definiert den zu verwendenden Typ, wenn bestimmt wird, ob zwei Dateien identisch sind. Wenn **Checksum** nicht angegeben ist, wird nur der Datei- oder Verzeichnisname für den Vergleich verwendet. Werte sind: „ctime“, „mtime“ oder „md5“.| 
+| Recurse| Gibt an, ob Unterverzeichnisse enthalten sind. Legen Sie diese Eigenschaft auf **$true** fest, um anzugeben, dass Unterverzeichnisse enthalten sein sollen. Der Standardwert ist **$false**. **Hinweis:** Diese Eigenschaft ist nur gültig, wenn die **Type**-Eigenschaft auf „directory“ festgelegt ist.| 
+| Force| Bestimmte Dateioperationen (z. B. das Überschreiben einer Datei oder Löschen eines Verzeichnisses, das nicht leer ist), führen zu einem Fehler. Bei Verwenden der **Force**-Eigenschaft werden solche Fehler überschrieben. Der Standardwert ist **$false**.| 
+| Links| Gibt das gewünschte Verhalten für symbolische Verknüpfungen an. Legen Sie diese Eigenschaft auf „follow“ fest, um symbolischen Verknüpfungen zu folgen und Aktionen auf das Ziel der Verknüpfung anzuwenden (z. B. die Datei statt der Verknüpfung kopieren). Legen Sie diese Eigenschaft auf „manage“ fest, um eine Aktion auf die Verknüpfung anzuwenden (z. B. die Verknüpfung selbst kopieren). Legen Sie diese Eigenschaft auf „ignore“ fest, um symbolische Verknüpfungen zu ignorieren.| 
+| Group| Der Name der **Gruppe**, die die Datei oder das Verzeichnis besitzen soll.| 
+| Mode| Gibt die gewünschten Berechtigungen für die Ressource in der Oktal- oder symbolischen Schreibweise an. (z. B. 777 oder rwxrwxrwx). Geben Sie bei Verwenden der symbolischen Schreibweise nicht das erste Zeichen an, welches Verzeichnis oder Datei angibt.| 
+| DependsOn | Gibt an, dass die Konfiguration einer anderen Ressource ausgeführt werden muss, bevor diese Ressource konfiguriert wird. Wenn beispielsweise die **ID** des Skriptblocks mit der Ressourcenkonfiguration, den Sie zuerst ausführen möchten, **ResourceName** und dessen Typ **ResourceType** ist, lautet die Syntax für das Verwenden dieser Eigenschaft `DependsOn = "[ResourceType]ResourceName"`.| 
 
-##Weitere Informationen
+## Weitere Informationen
 
-Linux und Windows verschiedene Zeilenumbruchzeichen in Textdateien wird standardmäßig verwendet, und dies kann zu unerwarteten Ergebnissen führen, wenn einige Dateien auf einem Linux-Computer mit konfigurieren __NxFile__. Es gibt mehrere Möglichkeiten, den Inhalt einer Datei Linux zu verwalten, während durch unerwartete Zeilenumbruchzeichen verursacht Probleme vermieden werden:
 
-Schritt 1: Kopieren Sie die Datei aus einer Remotequelle (http, Https oder ftp): eine Datei auf Linux mit dem gewünschten Inhalt zu erstellen und Bereitstellen er die Knoten, Sie konfigurieren, auf einem Web- oder FTP-Server zugegriffen werden kann. Definieren der __SourcePath__ -Eigenschaft in der __NxFile__ Ressource mit der Website oder FTP-URL für die Datei.
+Linux und Windows verwenden in Textdateien standardmäßig unterschiedliche Zeilenumbruchzeichen. Diese kann zu unerwarteten Ergebnissen führen, wenn einige Dateien mit __nxFile__ auf einem Linux-Computer konfiguriert werden. Es gibt mehrere Möglichkeiten, den Inhalt einer Linux-Datei zu verwalten, um durch unerwartete Zeilenumbruchzeichen verursachte Probleme zu vermeiden:
+
+Schritt 1: Kopieren Sie die Datei aus einer Remotequelle (HTTP, HTTPS oder FTP): Erstellen Sie eine Datei unter Linux mit dem gewünschten Inhalt, und stellen Sie sie auf einem Web- oder FTP-Server bereit, auf den die Knoten zugreifen können, die Sie konfigurieren. Legen Sie die __SourcePath__-Eigenschaft in der Ressource __nxFile__ auf die Web- oder FTP-URL zur Datei fest.
 
 ```
 Import-DSCResource -Module nx
@@ -57,14 +73,14 @@ nxFile resolvConf
     DestinationPath = "/etc/resolv.conf"
     Mode = "644"        
     Type = "file"
-
+    
 }
-
+        
 }
 ```
 
 
-Schritt 2: Lesen Sie den Inhalt der Datei in der PowerShell-Skript mit [Get-Content](https://technet.microsoft.com/en-us/library/hh849787.aspx) nach dem Festlegen der __$OFS__ Eigenschaft, die das Linux Zeilenumbruch Zeichen verwendet.
+Schritt 2: Lesen Sie den Inhalt der Datei im PowerShell-Skript mit [Get-Content](https://technet.microsoft.com/en-us/library/hh849787.aspx), nachdem Sie die __$OFS__-Eigenschaft auf das Verwenden des Linux-Zeilenumbruchzeichens festgelegt haben.
 
 
 ```
@@ -86,7 +102,7 @@ nxFile resolvConf
 ```
 
 
-Schritt 3: Verwenden einer PowerShell-Funktion, um Zeilenumbrüche für Windows mit Linux-Zeilenumbruchzeichen zu ersetzen.
+Schritt 3: Verwenden Sie eine PowerShell-Funktion, um Windows-Zeilenumbrüche durch Linux-Zeilenumbruchzeichen zu ersetzen.
 
 ```
 Function LinuxString($inputStr){
@@ -113,14 +129,14 @@ nxFile resolvConf
     Mode = "644"        
     Type = "file"
     Contents = $Contents
-
+    
 }
 }
 ```
 
-##Beispiel
+## Beispiel
 
-Im folgende Beispiel wird sichergestellt, dass das Verzeichnis `/opt/Mydir` vorhanden ist, und eine Datei mit dem angegebenen Inhalt dieses Verzeichnis vorhanden ist.
+Im folgende Beispiel wird sichergestellt, dass das Verzeichnis `/opt/mydir` vorhanden ist und dass eine Datei mit dem angegebenen Inhalt in diesem Verzeichnis vorhanden ist.
 
 ```
 Import-DSCResource -Module nx 
@@ -148,5 +164,7 @@ nxFile FileExample
 
 
 
+
+<!--HONumber=Oct16_HO1-->
 
 

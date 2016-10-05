@@ -1,8 +1,23 @@
-#DSC für Linux NxPackage Ressource
+---
+title: "DSC für Linux-Resource „nxPackage“"
+ms.date: 2016-05-16
+keywords: powershell,DSC
+description: 
+ms.topic: article
+author: eslesar
+manager: dongill
+ms.prod: powershell
+translationtype: Human Translation
+ms.sourcegitcommit: a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b
+ms.openlocfilehash: 31867cc7af96a3d8d527f5906d77bed5206940b4
 
-Die **NxPackage** Ressource in PowerShell gewünscht State Configuration (DSC) bietet einen Mechanismus zum Verwalten von Paketen auf einem Linux-Knoten.
+---
 
-##Syntax
+# DSC für Linux-Resource „nxPackage“
+
+Die Ressource **nxPackage** in PowerShell DSC bietet einen Mechanismus zum Verwalten von Paketen auf einem Linux-Knoten.
+
+## Syntax
 
 ```
 nxPackage <string> #ResourceName
@@ -15,26 +30,26 @@ nxPackage <string> #ResourceName
     [ ReturnCode = <uint32> ]
     [ LogPath = <string> ]
     [ DependsOn = <string[]> ]
-
+    
 }
 ```
 
-##Eigenschaften
+## Eigenschaften
 
-| Eigenschaft| Beschreibung|
+|  Eigenschaft |  Beschreibung | 
 |---|---|
-| Name| Der Name des Pakets zu einen bestimmten Zustand sichergestellt werden soll.|
-| Stellen Sie sicher| Bestimmt, ob zum Überprüfen, ob das Paket vorhanden ist.Legen Sie diese Eigenschaft auf "Present", um sicherzustellen, dass das Paket vorhanden ist.Bei Einstellung auf "Abwesend", um sicherzustellen, dass das Paket nicht vorhanden ist.Der Standardwert ist "Present".|
-| PackageManager| Unterstützte Werte sind "Yum", "apt" und "Zypper".Gibt den Paket-Manager beim Installieren von Paketen verwenden.Wenn **FilePath** angegeben ist, wird der angegebene Pfad zum Installieren des Pakets verwendet werden.Andernfalls wird ein Paket-Manager zum Installieren des Pakets aus einem vorab konfigurierten Repository verwendet.Wenn weder **PackageManager** noch **FilePath** werden bereitgestellt, die Standard-Paket-Manager für das System verwendet wird.|
-| FilePath| Der Pfad, in dem das Paket gespeichert ist|
-| PackageGroup| Wenn **$true**, den **Namen** wird erwartet, dass der Name einer Gruppe Paket für die Verwendung mit ist ein **PackageManager**.**PacakgeGroup** ist nicht gültig, wenn die Bereitstellung einer **FilePath**.|
-| Argumente| Eine Zeichenfolge von Argumenten, die das Paket genau wie angegeben übergeben wird.|
-| Rückgabecode| Der erwartete zurück Code.Wenn Sie den tatsächlichen Code zurück, entspricht nicht dem erwarteten Wert, finden Sie hier die Konfiguration einen Fehler zurück.|
-| DependsOn| Gibt an, dass die Konfiguration von einer anderen Ressource ausgeführt werden muss, bevor diese Ressource konfiguriert wird.Z. B. wenn die **ID** der Ressource ist Configuration-Skriptblock, der ausgeführt werden soll zuerst **ResourceName** und der Typ ist **ResourceType**, die Syntax für die Verwendung dieser Eigenschaft ist `DependsOn = "[ResourceType] ResourceName"`.|
+| Name| Der Name des Pakets, für das Sie einen bestimmten Zustand sicherstellen möchten.| 
+| Ensure| Bestimmt, ob das Vorhandensein des Pakets geprüft werden soll. Legen Sie diese Eigenschaft auf „Present“ fest, um sicherzustellen, dass das Paket vorhanden ist. Legen Sie sie auf „Absent“ fest, um sicherzustellen, dass das Paket nicht vorhanden ist. Der Standardwert ist „Present“.|  
+| PackageManager| Unterstützte Werte sind „yum“, „apt“ und „zypper“. Gibt den Paket-Manager an, der zum Installieren von Paketen verwendet werden soll. Wenn **FilePath** angegeben ist, dient der angegebene Pfad zum Installieren des Pakets. Andernfalls wird ein Paket-Manager zum Installieren des Pakets aus einem vorkonfigurierten Repository verwendet. Wenn weder **PackageManager** noch **FilePath** angegeben ist, wird der standardmäßige Paket-Manager für das System verwendet.| 
+| FilePath| Der Dateipfad, in dem das Paket gespeichert ist.| 
+| PackageGroup| Falls **$true**, soll **Name** dem Namen einer Paketgruppe für die Verwendung mit einem **PackageManager** entsprechen. **PackageGroup** ist ungültig, wenn **FilePath** angegeben wird.| 
+| Arguments| Eine Zeichenfolge mit Argumenten, die exakt wie angegeben an das Paket übergeben wird.| 
+| ReturnCode| Der erwartete Rückgabecode. Wenn der tatsächliche Rückgabecode nicht dem erwarteten Wert entspricht, gibt die Konfiguration einen Fehler zurück.| 
+| DependsOn | Gibt an, dass die Konfiguration einer anderen Ressource ausgeführt werden muss, bevor diese Ressource konfiguriert wird. Wenn beispielsweise die **ID** des Skriptblocks mit der Ressourcenkonfiguration, den Sie zuerst ausführen möchten, **ResourceName** und dessen Typ **ResourceType** ist, lautet die Syntax für das Verwenden dieser Eigenschaft `DependsOn = "[ResourceType]ResourceName"`.| 
 
-##Beispiel
+## Beispiel
 
-Im folgende Beispiel wird sichergestellt, dass das Paket mit dem Namen "Httpd" auf einem Linux-Computer mit dem "Yum" Paket-Manager installiert ist.
+Im folgende Beispiel wird sichergestellt, dass das Paket mit dem Namen „httpd“ mit dem Paket-Manager „Yum“ auf einem Linux-Computer installiert wird.
 
 ```
 Import-DSCResource -Module nx 
@@ -50,5 +65,8 @@ nxPackage httpd
 ```
 
 
+
+
+<!--HONumber=Oct16_HO1-->
 
 

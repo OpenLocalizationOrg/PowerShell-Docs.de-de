@@ -1,31 +1,54 @@
-#Einführung von Konfigurationen
+---
+title: Inkraftsetzung von Konfigurationen
+ms.date: 2016-05-16
+keywords: powershell,DSC
+description: 
+ms.topic: article
+author: eslesar
+manager: dongill
+ms.prod: powershell
+translationtype: Human Translation
+ms.sourcegitcommit: a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b
+ms.openlocfilehash: 4c802002c6a03a27d02221dd713677911a77c30b
 
-> Gilt für: WindowsPowerShell 4.0, WindowsPowerShell 5.0
+---
 
-Es gibt zwei Möglichkeiten, PowerShell gewünscht State Configuration (DSC) Konfigurationen umzusetzen: push und Pull Modus.
+# Inkraftsetzung von Konfigurationen
 
-##Push-Modus
+>Gilt für: Windows PowerShell 4.0, Windows PowerShell 5.0
 
-![Push-Modus](images/Push.png "How push mode works")
+Es gibt zwei Möglichkeiten, PowerShell DSC-Konfigurationen (Desired State Configuration) anzuwenden: Push- und Pullmodus.
 
-Push-Modus bezieht sich auf einen Benutzer, die aktiv eine Konfiguration mit einem Zielknoten anwenden, durch Aufrufen der [Start DscConfiguration](https://technet.microsoft.com/en-us/library/dn521623.aspx) Cmdlet.
+## Pushmodus
 
-Nach dem Erstellen und Kompilieren eine Konfiguration, Sie können in Gang zu setzen im Push-Modus durch Aufrufen der [Start DscConfiguration](https://technet.microsoft.com/en-us/library/dn521623.aspx) festlegen-Cmdlet - Path-Parameter des Cmdlets der Pfad, in dem die MOF-Konfiguration. Die MOF-Konfiguration beispielsweise Locted auf `C:\DSC\Configurations\localhost.mof`, würden Sie sie anwenden, auf dem lokalen Computer mit den folgenden Befehl aus:
-`Start DscConfiguration-Pfad 'C:\DSC\Configurations'`
+![Pushmodus](images/Push.png "How push mode works")
 
-> __Hinweis__: Standardmäßig wird DSC eine Konfiguration als Hintergrundauftrag ausgeführt. Rufen Sie zum interaktiven Ausführen die Konfiguration der [Start DscConfiguration](https://technet.microsoft.com/en-us/library/dn521623.aspx) mit der __-Warten__ Parameter.
+Der Pushmodus bezieht sich auf einen Benutzer, der eine Konfiguration durch Aufrufen des Cmdlets [Start-DscConfiguration](https://technet.microsoft.com/en-us/library/dn521623.aspx) aktiv auf einen Zielknoten anwendet.
 
-##Pull-Modus
+Nach dem Erstellen und Kompilieren einer Konfiguration können Sie sie im Pushmodus anwenden, indem Sie das Cmdlet [Start-DscConfiguration](https://technet.microsoft.com/en-us/library/dn521623.aspx) aufrufen und den Parameter „-Path“ des Cmdlets auf den Pfad festlegen, in dem sich die MOF-Konfigurationsdatei befindet. Beispielsweise, wenn die MOF-Konfiguration `C:\DSC\Configurations\localhost.mof`, würden Sie sie auf dem lokalen Computer mit dem folgenden Befehl anwenden: `Start-DscConfiguration -Path 'C:\DSC\Configurations'`
 
-![Pull-Modus](images/Pull.png "How pull mode works")
-Im Pull-Modus sind Pull-Clients erhalten die gewünschten Status Konfigurationen von einem remote-Pull-Server konfiguriert. Entsprechend der Pull-Server Dienst hosten die DSC eingerichtet wurde, und mit der Konfigurationen und Ressourcen, die von den Pull-Clients bereitgestellt wurde.
-Jede Pull-Clients verfügt über eine geplante Aufgabe, die eine Überprüfung regelmäßig für die Konfiguration des Knotens ausführt. Beim Auslösen des Ereignisses beim ersten wird die lokale Configuration Manager (LCM) auf dem Pull-Client, um die Konfiguration zu überprüfen. Wenn der Pull-Client, als konfiguriert ist die gewünschte, geschieht nichts. Andernfalls wird die LCM Anforderung an dem Pull-Server zu eine bestimmte Konfiguration zu erhalten. Wenn diese Konfiguration auf die Pull-Server vorhanden ist, und anfängliche Überprüfung wird übergibt, wird die Konfiguration an den Client Pull übertragen, wo sie dann durch den LCM ausgeführt wird.
+> __Hinweis__: DSC führt eine Konfiguration standardmäßig als Hintergrundauftrag aus. Um die Konfiguration interaktiv auszuführen, rufen Sie das Cmdlet [Start-DscConfiguration](https://technet.microsoft.com/en-us/library/dn521623.aspx) mit dem __-Wait__-Parameter auf.
 
-In den folgenden Themen wird erläutert, wie Pull-Servern und -Clients eingerichtet werden:
 
-- [Ein Pull-Webserver einrichten](pullServer.md)
-- [Ein SMB-Pull-Server einrichten](pullServerSMB.md)
-- [Konfigurieren eines Pull-Clients](pullClientConfigID.md)
+## Pullmodus
 
+![Pullmodus](images/Pull.png "How pull mode works")
+
+Im Pullmodus werden Pullclients so konfiguriert, dass sie ihre Konfigurationen des gewünschten Zustands von einem Remotepullserver erhalten. Der Pullserver muss so eingerichtet werden, dass er den DSC-Dienst hostet und mit den Konfigurationen und Ressourcen versehen wird, die von den Pullclients benötigt werden. Jeder der Pullclients weist einen geplanten Task auf, der für die Konfiguration auf dem Knoten eine regelmäßige Kompatibilitätsprüfung durchführt. Wenn das Ereignis erstmals ausgeführt wird, überprüft der lokale Konfigurations-Manager (LCM) auf dem Pullclient die Konfiguration. Wenn der Pullclient wie gewünscht konfiguriert ist, geschieht nichts. Andernfalls stellt der LCM an den Pullserver eine Anforderung zum Abrufen einer gegebenen Konfiguration. Wenn diese Konfiguration auf dem Pullserver vorhanden ist und anfängliche Überprüfungen besteht, wird die Konfiguration auf den Pullclient übertragen, auf dem sie vom LCM ausgeführt wird.
+
+Weitere Informationen zum Bereitstellen eines lokalen DSC-Pullservers finden Sie im Handbuch zur Planung und Konfiguration von DSC-Pullservern.
+
+Wenn Sie lieber einen Onlinedienst zum Hosten von Pullserverfunktionen nutzen möchten, sehen Sie sich den Dienst [Azure Automation DSC](https://azure.microsoft.com/en-us/documentation/articles/automation-dsc-overview/) an.
+
+In den folgenden Themen wird erläutert, wie Pullserver und -clients eingerichtet werden:
+
+- [Einrichten eines Webpullservers](pullServer.md)
+- [Einrichten eines SMB-Pullservers](pullServerSMB.md)
+- [Konfigurieren eines Pullclients](pullClientConfigID.md)
+
+
+
+
+<!--HONumber=Oct16_HO1-->
 
 

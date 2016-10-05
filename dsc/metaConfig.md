@@ -1,21 +1,36 @@
-#Konfigurieren des lokalen Konfigurations-Managers
+---
+title: Konfigurieren des lokalen Konfigurations-Managers
+ms.date: 2016-05-16
+keywords: powershell,DSC
+description: 
+ms.topic: article
+author: eslesar
+manager: dongill
+ms.prod: powershell
+translationtype: Human Translation
+ms.sourcegitcommit: a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b
+ms.openlocfilehash: 5d37938869a71bea0d8a6349e680411b7d0200d9
 
-> Gilt für: WindowsPowerShell 5.0
+---
 
-Die lokale Configuration Manager (LCM) ist das Modul von Windows PowerShell gewünscht State Configuration (DSC). LCM auf jedem Zielknoten ausgeführt wird, und ist verantwortlich für die Analyse und Umsetzung von Konfigurationen, die auf den Knoten gesendet werden. Es ist auch für eine Reihe von anderen Aspekten der DSC, einschließlich der folgenden verantwortlich.
+# Konfigurieren des lokalen Konfigurations-Managers
 
-* Bestimmen Aktualisierungsmodus (Push oder Pull).
-* Angabe, wie oft ein Knoten abruft und Konfigurationen werden.
-* Verknüpfen den Knoten mit Pull-Servern.
-* Angeben von partiellen Konfigurationen.
+> Gilt für: Windows PowerShell 5.0
 
-Sie verwenden eine spezielle Konfiguration so konfigurieren Sie den LCM um jedes dieser Verhalten anzugeben. In den folgenden Abschnitten wird beschrieben, wie den LCM konfigurieren.
+Die lokale Konfigurations-Manager (Local Configuration Manager, LCM) ist das Modul von Windows PowerShell DSC (Desired State Configuration, Konfiguration des gewünschten Zustands). Der LCM wird auf allen Zielknoten ausgeführt und ist zuständig für das Analysieren und Anwenden von Konfigurationen, die zum Knoten gesendet werden. Dieses Modul ist auch für verschiedene andere DSC-Aspekte zuständig, wie z. B. die folgenden.
 
-> **Hinweis**: Dieses Thema gilt für den LCM in Windows PowerShell 5.0 eingeführt. Informationen zum Konfigurieren der LCM in Windows PowerShell 4.0 finden Sie in der Windows PowerShell 4.0 Desired State Configuration lokale Configuration Manager.
+* Bestimmen des Aktualisierungsmodus (Push- oder Pullmodus).
+* Angeben, wie oft ein Knoten Konfigurationen abruft und anwendet.
+* Verknüpfen des Knotens mit Pullservern.
+* Angeben von Teilkonfigurationen.
 
-##Das Schreiben und Umsetzung einer LCM-Konfigurations
+Sie verwenden eine spezielle Art von Konfiguration zum Konfigurieren des LCM, um jedes dieser Verhalten anzugeben. In den folgenden Abschnitten wird beschrieben, wie der LCM konfiguriert wird.
 
-Zum Konfigurieren des LCM erstellen und führen Sie eine spezielle Konfiguration. Um eine LCM Konfiguration anzugeben, verwenden Sie das DscLocalConfigurationManager-Attribut. Das folgende Beispiel zeigt eine einfache Konfiguration, die den LCM Push-Modus festgelegt.
+> **Hinweis**: Dieses Thema gilt für den in Windows PowerShell 5.0 eingeführten LCM. Informationen zum Konfigurieren des LCM in Windows PowerShell 4.0 finden Sie unter [Windows PowerShell 4.0 DSC – Lokaler Konfigurations-Manager (LCM)](metaconfig4.md).
+
+## Schreiben und Anwenden einer LCM-Konfiguration
+
+Zum Konfigurieren des LCM müssen Sie einen besonderen Typ von Konfiguration erstellen und ausführen. Zum Angeben der LCM-Konfiguration verwenden Sie das „DscLocalConfigurationManager“-Attribut. Das folgende Beispiel zeigt eine einfache Konfiguration, die den LCM auf den Pushmodus festgelegt.
 
 ```powershell
 [DSCLocalConfigurationManager()]
@@ -31,123 +46,127 @@ configuration LCMConfig
 } 
 ```
 
-Rufen Sie und führen Sie die Konfiguration zum Erstellen der Konfiguration MOF, genauso wie eine normale Konfiguration (Informationen zum Erstellen der MOF-Konfigurations finden Sie unter Erste Schritte mit Windows PowerShell gewünschten Konfiguration). Im Gegensatz zu normalen Konfigurationen, Sie sind nicht in Gang zu setzen eine LCM Konfiguration durch Aufrufen der [Start DscConfiguration](https://technet.microsoft.com/en-us/library/dn521623.aspx) Cmdlet. Rufen Sie stattdessen das Cmdlet Set-DscLocalConfigurationManager Angabe des Pfads zur Konfiguration MOF als Parameter. Nachdem Sie die Konfiguration umzusetzen, Sie sehen die Eigenschaften des LCM durch Aufrufen der [Get-DscLocalConfigurationManager](https://technet.microsoft.com/en-us/library/dn407378.aspx) Cmdlet.
+Für die Erstellung der MOF-Konfigurationsdatei können Sie die Konfiguration wie eine normale Konfiguration aufrufen und ausführen. Weitere Informationen zum Erstellen der MOF-Konfigurationsdatei finden Sie unter [Kompilieren der Konfiguration](configurations.md#compiling-the-configuration). Im Gegensatz zu normalen Konfigurationen wird eine LCM-Konfiguration nicht durch Aufrufen des Cmdlets [Start-DscConfiguration](https://technet.microsoft.com/en-us/library/dn521623.aspx) angewendet. Stattdessen rufen Sie das Cmdlet [Set-DscLocalConfigurationManager](https://technet.microsoft.com/en-us/library/dn521621.aspx) auf und geben dabei den Pfad zur MOF-Konfigurationsdatei als Parameter an. Nach dem Anwenden der Konfiguration können Sie die Eigenschaften des LCM durch Aufrufen des Cmdlets [Get-DscLocalConfigurationManager](https://technet.microsoft.com/en-us/library/dn407378.aspx) anzeigen.
 
-Eine Konfiguration LCM kann Blöcke nur für eine begrenzte Anzahl von Ressourcen enthalten. Im vorherigen Beispiel ist die einzige Ressource namens **Settings**. Andere Ressourcen sind verfügbar:
+Eine LCM-Konfiguration kann nur Blöcke für eine begrenzte Menge von Ressourcen enthalten. Im vorherigen Beispiel ist **Settings** die einzige aufgerufene Ressource. Es folgen die anderen verfügbaren Ressourcen:
 
-* **ConfigurationRepositoryWeb**: Gibt einen HTTP-Pull-Server-Konfigurationen.
-* **ConfigurationRepositoryShare**: Gibt einen SMB-Pull-Server-Konfigurationen.
-* **ResourceRepositoryWeb**: Gibt einen HTTP-Pull-Server für Module.
-* **ResourceRepositoryShare**: Gibt einen SMB-Pull-Server für Module.
-* **ReportServerWeb**: Gibt einen HTTP-Pull-Server, die an die Berichte gesendet werden.
-* **PartialConfiguration**: teilweise Konfigurationen angibt.
+* **ConfigurationRepositoryWeb**: Gibt einen HTTP-Pullserver für Konfigurationen an. 
+* **ConfigurationRepositoryWeb**: Gibt einen SMB-Pullserver für Konfigurationen an.
+* **ResourceRepositoryWeb**: Gibt einen HTTP-Pullserver für Module an.
+* **ResourceRepositoryWeb**: Gibt einen SMB-Pullserver für Module an.
+* **ReportServerWeb**: Gibt einen HTTP-Pullserver an, an den Berichte gesendet werden.
+* **PartialConfiguration**: Gibt Teilkonfigurationen an.
 
-##Grundlegende Einstellungen
+## Grundlegende Einstellungen
 
-Als Pull-Servern und teilweise Konfigurationen angeben, werden alle Eigenschaften des LCM konfiguriert einem **Settings** Block. Die folgenden Eigenschaften stehen in einem **Settings** Block.
+Außer der Angabe von Pullservern und Teilkonfigurationen werden alle Eigenschaften des LCM in einem **Settings**-Block konfiguriert. Die folgenden Eigenschaften sind in einem **Settings**-Block verfügbar:
 
-| Eigenschaft| Typ| Beschreibung|
-|--- |--- |---|
-| ConfigurationModeFrequencyMins| UInt32| Häufigkeit in Minuten an, die aktuelle Konfiguration wird überprüft und angewendet.Diese Eigenschaft wird ignoriert, wenn die Eigenschaft ConfigurationMode auf ApplyOnly festgelegt ist.Der Standardwert ist 15.__Hinweis__: entweder der Wert dieser Eigenschaft muss ein Vielfaches des Werts der __RefreshFrequencyMins__ Eigenschaft oder den Wert des der __RefreshFrequencyMins__ -Eigenschaft muss ein Vielfaches des Werts dieser Eigenschaft sein.|
-| RebootNodeIfNeeded| bool| Legen Sie den __$true__ automatisch den Knoten nach einer Konfiguration neu gestartet, die erforderlich sind, Neustart angewendet wird.Andernfalls müssen Sie den Knoten für jede Konfiguration manuell neu starten, die erforderlich sind.Der Standardwert ist __$false__.|
-| ConfigurationMode| string| Gibt an, wie der LCM tatsächlich die Konfiguration der Zielknoten gilt.Dauert die folgenden Werte: __"ApplyOnly"__: DSC wendet die Konfiguration und keine weiteren Daten enthält, es sei denn, eine neue Konfiguration verschoben wird, auf dem Zielknoten, oder wenn eine neue Konfiguration von einem Server abgerufen werden.Nach der ersten Anwendung eine neue Konfiguration überprüft DSC Abweichung von einer zuvor konfigurierten Zustand nicht.__"ApplyAndMonitor"__: Dies ist der Standardwert.Der LCM gilt keine neuen Konfigurationen.Nach der ersten Anwendung einer neuen Konfiguration der Zielknoten aus den gewünschten Status, wandert DSC meldet die Abweichung in Protokollen __"ApplyAndAutoCorrect"__: DSC gilt keine neuen Konfigurationen.Nach der ersten Anwendung eine neue Konfiguration, wenn der Zielknoten aus den gewünschten Status, wandert DSC Berichte die Abweichung in Protokollen und wendet die aktuelle Konfiguration erneut.|
-| ActionAfterReboot| string| Gibt an, was nach einem Neustart während der Anwendung von einer Konfiguration ausgeführt werden.Die möglichen Werte sind wie folgt: __"ContuinueConfiguration"__: Anwenden der aktuellen Konfiguration.__" StopConfiguraiton"__: Beenden Sie die aktuelle Konfiguration.|
-| RefreshMode| string| Gibt an, wie der LCM Konfigurationen abruft.Die möglichen Werte sind wie folgt: __"Deaktiviert"__: DSC-Konfigurationen werden für diesen Knoten deaktiviert.__"Push"__: Konfigurationen werden durch Aufrufen des Start-DscConfiguration-Cmdlets initiiert.Die Konfiguration wird sofort auf den Knoten angewendet.Dies ist der Standardwert.__Pull:__ der Knoten ist so konfiguriert, dass Sie regelmäßig prüfen, ob Konfigurationen von einem Pull-Server.Wenn diese Eigenschaft auf Pull festgelegt ist, müssen Sie angeben, dass einen Pull-Server in einem __ConfigurationRepositoryWeb__ oder __ConfigurationRepositoryShare__ blockieren.Weitere Informationen zu Pull-Servern finden Sie unter [Einrichten eines DSC Pull-Servers](pullServer.md).|
-| CertificateID| string| Eine GUID, die ein Zertifikat zum Sichern der Anmeldeinformationen für den Zugriff auf die Konfiguration angibt.Weitere Informationen finden Sie unter [Anmeldeinformationen in Windows PowerShell gewünschten Konfiguration sichern möchten](http://blogs.msdn.com/b/powershell/archive/2014/01/31/want-to-secure-credentials-in-windows-powershell-desired-state-configuration.aspx)?|
-| ConfigurationID| string| Eine GUID, die Konfigurationsdatei beim Abrufen aus einem Pull-Server im Pull-Modus bezeichnet.Der Knoten mithilfe von pull-Konfigurationen auf die Pull-Server lautet der Name der MOF-Konfiguration ConfigurationID.mof ist.__Hinweis:__ wenn Sie diese Eigenschaft festlegen, können Sie den Knoten mit einem Pull-Server registrieren, mit __RegistryKeys__ und kann nicht verwendet werden.Weitere Informationen finden Sie unter [Einrichten eines Pull-Clients mit Konfigurationsnamen](pullClientConfigNames.md).|
-| RefreshFrequencyMins| UInt32| Das Zeitintervall in Minuten an, an denen der LCM einen Pull-Server zum Abrufen der aktualisierter Konfigurationen überprüft.Dieser Wert wird ignoriert, wenn der LCM nicht im Pull-Modus konfiguriert ist.Der Standardwert ist 30.__Hinweis:__  entweder der Wert dieser Eigenschaft muss ein Vielfaches des Werts der __ConfigurationModeFrequencyMins__ Eigenschaft oder den Wert des der __ConfigurationModeFrequencyMins__ -Eigenschaft muss ein Vielfaches des Werts dieser Eigenschaft sein.|
-| AllowModlueOverwrite| bool| __$TRUE__ Wenn neue Konfigurationen, die aus dem Konfigurationsserver heruntergeladene zulässig sind, überschreiben die alten auf dem Zielknoten.Andernfalls $FALSE.|
-| Debug-Modus| bool| Wenn auf festgelegt __$TRUE__, dadurch LCM, alle Ressourcen DSC erneut zu laden, auch wenn diese bereits zwischengespeichert wurden.Auf $FALSE festgelegt, zwischengespeicherte Ressourcen verwenden.In der Regel würden Sie diese Eigenschaft festlegen, um __$TRUE__ während des Debuggens einer Ressource, und klicken Sie auf __$FALSE__ für die Produktion.Der Standardwert ist __$FALSE__.|
-| ConfigurationDownloadManagers| CimInstance]| Veraltete.Verwendung __ConfigurationRepositoryWeb__ und __ConfigurationRepositoryShare__ Blöcke Pull Konfigurationsserver zu definieren.|
-| ResourceModuleManagers| CimInstance]| Veraltete.Verwendung __ResourceRepositoryWeb__ und __ResourceRepositoryShare__ Server pull-Blöcke, um die Ressource zu definieren.|
-| ReportManagers| CimInstance]| Veraltete.Verwendung __ReportServerWeb__ Server pull-Blöcke, um den Bericht zu definieren.|
-| PartialConfigurations| CimInstance| Nicht implementiert.Verwenden Sie nicht.|
-| StatusRetentionTimeInDays| UInt32| Die Anzahl der Tage, die der LCM den Status der aktuellen Konfiguration hält.|
+|  Eigenschaft  |  Typ  |  Beschreibung   | 
+|----------- |------- |--------------- | 
+| ConfigurationModeFrequencyMins| UInt32| Gibt (in Minuten) an, wie oft die aktuelle Konfiguration überprüft und angewendet wird. Diese Eigenschaft wird ignoriert, wenn die „ConfigurationMode“-Eigenschaft auf „ApplyOnly“ festgelegt ist. Der Standardwert ist 15. <br> __Hinweis__: Der Wert dieser Eigenschaft muss ein Vielfaches des Werts der __RefreshFrequencyMins__-Eigenschaft sein, oder der Wert der __RefreshFrequencyMins__-Eigenschaft muss ein Vielfaches des Werts dieser Eigenschaft sein.| 
+| RebootNodeIfNeeded| bool| Legen Sie diese Einstellung auf __$true__ fest, um den Knoten automatisch neu zu starten, nachdem eine Konfiguration angewendet wurde, die einen Neustart erfordert. Andernfalls müssen Sie den Knoten für jede Konfiguration manuell neu starten, die dies erfordert. Der Standardwert ist __$false__.| 
+| ConfigurationMode| string | Gibt an, wie der LCM die Konfiguration tatsächlich auf die Zielknoten anwendet. Mögliche Werte sind __ApplyOnly__, __ApplyandMonitor (Standard)__ und __ApplyandAutoCorrect__. <ul><li>__ApplyOnly__: DSC wendet die Konfiguration an und führt keine weiteren Schritte aus, es sei denn, eine neue Konfiguration wird per Push auf den Zielknoten übertragen oder per Pull von einem Server abgerufen. Nach der ersten Anwendung einer neuen Konfiguration überprüft DSC nicht auf Abweichungen von einem zuvor konfigurierten Status. Beachten Sie, dass DSC versucht, die Konfiguration anzuwenden, bis dies erfolgreich passiert ist, bevor __ApplyOnly__ wirksam wird. </li><li> __ApplyAndMonitor__: Dies ist der Standardwert. Der LCM wendet neue Konfigurationen an. Wenn der Zielknoten nach der ersten Anwendung einer neuen Konfiguration vom gewünschten Zustand abweicht, meldet DSC die Abweichung in Protokollen. Beachten Sie, dass DSC versucht, die Konfiguration anzuwenden, bis dies erfolgreich passiert ist, bevor __ApplyAndMonitor__ wirksam wird.</li><li>__ApplyAndAutoCorrect__: DSC wendet alle neuen Konfigurationen an. Wenn der Zielknoten nach der ersten Anwendung einer neuen Konfiguration vom gewünschten Zustand abweicht, meldet DSC die Abweichung in Protokollen und wendet dann die aktuelle Konfiguration an.</li></ul>| 
+| ActionAfterReboot| string| Gibt an, was nach einem Neustart während der Anwendung einer Konfiguration passiert. Die möglichen Werte sind __ContinueConfiguration (Standard)__ und __StopConfiguration__. <ul><li> __ContinueConfiguration__: Nach dem Neustart des Computers wird das Anwenden der aktuellen Konfiguration fortgesetzt.</li><li>__StopConfiguration__: Nach dem Neustart des Computers wird die aktuelle Konfiguration beendet.</li></ul>| 
+| RefreshMode| string| Gibt an, wie der LCM Konfigurationen abruft. Die möglichen Werte sind __Disabled__, __Push (Standard)__ und __Pull__. <ul><li>__Disabled__: DSC-Konfigurationen werden für diesen Knoten deaktiviert.</li><li> __Push__: Konfigurationen werden gestartet, indem das Cmdlet [Start-DscConfiguration](https://technet.microsoft.com/en-us/library/dn521623.aspx) aufgerufen wird. Die Konfiguration wird sofort auf den Knoten angewendet. Dies ist der Standardwert.</li><li>__Pull:__ Der Knoten ist so konfiguriert, dass regelmäßig eine Überprüfung auf Konfigurationen von einem Pullserver erfolgt. Wenn diese Eigenschaft auf __Pull__ festgelegt ist, müssen Sie in einem __ConfigurationRepositoryWeb__- oder __ConfigurationRepositoryShare__-Block einen Pullserver angeben. Weitere Informationen zu Pullservern finden Sie unter [Einrichten eines DSC-Pullservers](pullServer.md).</li></ul>| 
+| CertificateId| string| GUID, die ein Zertifikat zum Schützen der Anmeldeinformationen für den Zugriff auf die Konfiguration angibt. Weitere Informationen finden Sie unter [Möchten Sie Anmeldeinformationen in Windows PowerShell zum Konfigurieren des gewünschten Zustands schützen?](http://blogs.msdn.com/b/powershell/archive/2014/01/31/want-to-secure-credentials-in-windows-powershell-desired-state-configuration.aspx).| 
+| ConfigurationID| string| GUID, die die Konfigurationsdatei bestimmt, die im Pullmodus von einem Pullserver abgerufen wird. Der Knoten ruft Konfigurationen vom Pullserver ab, wenn der Name der MOF-Konfigurationsdatei „ConfigurationID.mof“ ist.<br> __Hinweis:__ Wenn Sie diese Eigenschaft festlegen, funktioniert das Registrieren des Knotens mit einem Pullserver mithilfe von __RegistrationKey__ nicht. Weitere Informationen finden Sie unter [Einrichten eines Pullclients mit Konfigurationsnamen](pullClientConfigNames.md).| 
+| RefreshFrequencyMins| UInt32| Zeitintervall (in Minuten), in dem der LCM einen Pullserver auf aktualisierte Konfigurationen abfragt. Dieser Wert wird ignoriert, wenn der LCM nicht im Pullmodus konfiguriert ist. Der Standardwert ist 30.<br> __Hinweis__: Der Wert dieser Eigenschaft muss ein Vielfaches des Werts der __ConfigurationModeFrequencyMins__-Eigenschaft sein, oder der Wert der __ConfigurationModeFrequencyMins__-Eigenschaft muss ein Vielfaches des Werts dieser Eigenschaft sein.| 
+| AllowModuleOverwrite| bool| __$TRUE__, wenn neue vom Konfigurationsserver heruntergeladene Konfigurationen die alten Konfigurationen auf dem Zielknoten überschreiben dürfen. Andernfalls „$FALSE“.| 
+| DebugMode| string| Mögliche Werte sind __None (Standard)__, __ForceModuleImport__ und __All__. <ul><li>Bei Festlegung auf __None__ werden zwischengespeicherte Ressourcen verwendet. Dies ist die Standardeinstellung, die in Produktionsszenarien verwendet werden sollte.</li><li>Das Festlegen auf __ForceModuleImport__ bewirkt, dass der LCM DSC-Ressourcenmodule erneut lädt, auch wenn sie zuvor bereits geladen und zwischengespeichert wurden. Dies beeinträchtigt die Leistung von DSC-Vorgängen, da jedes Modul bei Verwendung neu geladen wird. In der Regel wird dieser Wert beim Debuggen einer Ressource verwendet.</li><li>In dieser Version ist __All__ identisch mit __ForceModuleImport__.</li></ul> |
+| ConfigurationDownloadManagers| CimInstance[]| Veraltet. Verwenden Sie die Blöcke __ConfigurationRepositoryWeb__ und __ConfigurationRepositoryShare__ zum Definieren von Pullservern für Konfigurationen.| 
+| ResourceModuleManagers| CimInstance[]| Veraltet. Verwenden Sie die Blöcke __ResourceRepositoryWeb__ und __ResourceRepositoryShare__ zum Definieren von Pullservern für Ressourcen.| 
+| ReportManagers| CimInstance[]| Veraltet. Verwenden Sie Blöcke des Typs __ReportServerWeb__ zum Definieren von Pullservern für Berichte.| 
+| PartialConfigurations| CimInstance| Nicht implementiert. Nicht verwenden.| 
+| StatusRetentionTimeInDays | UInt32| Anzahl der Tage, die der LCM den Status der aktuellen Konfiguration beibehält.| 
 
-##Pull-Servern
+## Pullserver
 
-Ein Pull-Server ist ein OData-Webdienst oder eine SMB-Freigabe, die als zentraler Speicherort für DSC-Dateien verwendet wird. LCM Konfiguration unterstützt, definieren die folgenden Typen von Pull-Servern:
+Ein Pullserver ist entweder ein OData-Webdienst oder eine SMB-Freigabe, der/die als zentraler Speicherort für DSC-Dateien verwendet wird. Die LCM-Konfiguration unterstützt die folgenden Typen von Pullservern:
 
-* **Konfigurationsserver**: ein Repository für DSC-Konfigurationen. Definieren Konfiguration trennt mit **ConfigurationRepositoryWeb** (für Web-basierte Server) und **ConfigurationRepositoryShare** (für SMB-basierten Server) blockiert.
-* Ressourcenserver – ein Repository für DSC-Ressourcen, die als PowerShell-Module verpackt. Definieren Sie Ressource trennt, mit **ResourceRepositoryWeb** (für Web-basierte Server) und **ResourceRepositoryShare** (für SMB-basierten Server) blockiert.
-* Berichtsserver – ein Dienst, der DSC Berichtsdaten sendet. Definieren von Berichtsservern mit **ReportServerWeb** blockiert. Ein Berichtsserver muss es sich um einen Webdienst sein.
+* **Konfigurationsserver**: Repository für DSC-Konfigurationen. Definieren Sie Konfigurationsserver mithilfe der Blöcke **ConfigurationRepositoryWeb** (für webbasierte Server) und **ConfigurationRepositoryShare** (für SMB-basierte Server).
+* Ressourcenserver: Repository für DSC-Ressourcen, die als PowerShell-Module gepackt sind. Definieren Sie Ressourcenserver mithilfe der Blöcke **ResourceRepositoryWeb** (für webbasierte Server) und **ResourceRepositoryShare** (für SMB-basierte Server).
+* Berichtsserver: Dienst, an den DSC Berichtsdaten sendet. Definieren Sie Berichtsserver mithilfe von **ReportServerWeb**-Blöcken. Ein Berichtsserver muss ein Webdienst sein.
 
-Informationen zum Einrichten und Verwenden von Pull-Servern finden Sie unter [Einrichten eines DSC Pull-Servers](pullServer.md).
+Weitere Informationen zum Einrichten und Verwenden von Pullservern finden Sie unter [Einrichten eines DSC-Pullservers](pullServer.md).
 
-##Konfiguration Server Blöcke
+## Konfigurationsserverblöcke
 
-So definieren Sie eine webbasierte Konfiguration sever, erstellen Sie eine **ConfigurationRepositoryWeb** Block. Ein **ConfigurationRepositoryWeb** definiert die folgenden Eigenschaften.
+Zum Definieren eines webbasierten Konfigurationsservers erstellen Sie einen **ConfigurationRepositoryWeb**-Block. Ein **ConfigurationRepositoryWeb**-Block definiert die folgenden Eigenschaften.
 
-| Eigenschaft| Typ| Beschreibung|
+|Eigenschaft|Typ|Beschreibung|
+|---|---|---| 
+|AllowUnsecureConnection|bool|Legen Sie diese Einstellung auf **$TRUE** fest, um Verbindungen zwischen Knoten und Server ohne Authentifizierung zu erlauben. Bei Festlegung auf **$FALSE** ist eine Authentifizierung erforderlich.|
+|CertificateId|string|GUID, die das Zertifikat zur Authentifizierung beim Server darstellt.|
+|ConfigurationNames|String[]|Array der Namen von Konfigurationen, die per Pull vom Zielknoten abgerufen werden. Diese werden nur verwendet, wenn der Knoten mit einem **RegistrationKey** beim Pullserver registriert ist. Weitere Informationen finden Sie unter [Einrichten eines Pullclients mit Konfigurationsnamen](pullClientConfigNames.md).|
+|RegistrationKey|string|GUID, die den Knoten beim Pullserver registriert. Weitere Informationen finden Sie unter [Einrichten eines Pullclients mit Konfigurationsnamen](pullClientConfigNames.md).|
+|ServerURL|string|URL des Konfigurationsservers.|
+
+Zum Definieren eines SMB-basierten Konfigurationsservers erstellen Sie einen **ConfigurationRepositoryShare**-Block. Ein **ConfigurationRepositoryShare**-Block definiert die folgenden Eigenschaften.
+
+|Eigenschaft|Typ|Beschreibung|
 |---|---|---|
-| AllowUnsecureConnection| bool| Legen Sie auf **$TRUE** um Verbindungen über den Knoten mit dem Server ohne Authentifizierung zu ermöglichen.Legen Sie auf **$FALSE** Authentifizierung erforderlich ist.|
-| CertificateID| string| Eine GUID, die das Zertifikat zur Authentifizierung beim Server darstellt.|
-| ConfigurationNames| String[]| Ein Array der Namen von Konfigurationen, die von den Zielknoten abgerufen werden.Diese werden nur verwendet, wenn der Knoten mit dem Pull-Server registriert ist ein **RegistrationKey**.Weitere Informationen finden Sie unter [Einrichten eines Pull-Clients mit Konfigurationsnamen](pullClientConfigNames.md).|
-| RegistrationKey| string| Eine GUID, die den Knoten mit dem Pull-Server registriert.Weitere Informationen finden Sie unter [Einrichten eines Pull-Clients mit Konfigurationsnamen](pullClientConfigNames.md).|
-| Server-URL| string| Die URL des Servers Konfiguration.|
+|Credential|MSFT_Credential|Anmeldeinformationen zum Authentifizieren bei der SMB-Freigabe.|
+|SourcePath|string|Pfad der SMB-Freigabe.|
 
-Um eine SMB-basierten Konfigurationsserver zu definieren, erstellen Sie eine **ConfigurationRepositoryShare** blockieren. Ein **ConfigurationRepositoryShare** definiert die folgenden Eigenschaften.
+## Ressourcenserverblöcke
 
-| Eigenschaft| Typ| Beschreibung|
+Zum Definieren eines webbasierten Ressourcenservers erstellen Sie einen **ResourceRepositoryWeb**-Block. Ein **ResourceRepositoryWeb**-Block definiert die folgenden Eigenschaften.
+
+|Eigenschaft|Typ|Beschreibung|
 |---|---|---|
-| Credential| MSFT_Credential| Die Anmeldeinformationen zum Authentifizieren der SMB-Freigabe verwendet wird.|
-| Quellpfad| string| Der Pfad der SMB-Freigabe.|
+|AllowUnsecureConnection|bool|Legen Sie diese Einstellung auf **$TRUE** fest, um Verbindungen zwischen Knoten und Server ohne Authentifizierung zu erlauben. Bei Festlegung auf **$FALSE** ist eine Authentifizierung erforderlich.|
+|CertificateId|string|GUID, die das Zertifikat zur Authentifizierung beim Server darstellt.|
+|RegistrationKey|string|GUID, die den Knoten beim Pullserver identifiziert. Weitere Informationen finden Sie unter „Registrieren eines Knotens bei einem DSC-Pullserver“.|
+|ServerURL|string|URL des Konfigurationsservers.|
+ 
+Zum Definieren eines SMB-basierten Ressourcenservers erstellen Sie einen **ResourceRepositoryShare**-Block. Ein **ResourceRepositoryShare**-Block definiert die folgenden Eigenschaften.
 
-##Ressource Server Blöcke
-
-Definieren Sie eine webbasierte Ressource sever, erstellen Sie eine **ResourceRepositoryWeb** blockieren. Ein **ResourceRepositoryWeb** definiert die folgenden Eigenschaften.
-
-| Eigenschaft| Typ| Beschreibung|
+|Eigenschaft|Typ|Beschreibung|
 |---|---|---|
-| AllowUnsecureConnection| bool| Legen Sie auf **$TRUE** um Verbindungen über den Knoten mit dem Server ohne Authentifizierung zu ermöglichen.Legen Sie auf **$FALSE** Authentifizierung erforderlich ist.|
-| CertificateID| string| Eine GUID, die das Zertifikat zur Authentifizierung beim Server darstellt.|
-| RegistrationKey| string| Eine GUID, die den Knoten mit dem Pull-Server identifiziert.Weitere Informationen finden Sie unter einem Knoten mit einem DSC Pull-Server registrieren.|
-| Server-URL| string| Die URL des Servers Konfiguration.|
+|Credential|MSFT_Credential|Anmeldeinformationen zum Authentifizieren bei der SMB-Freigabe.|
+|SourcePath|string|Pfad der SMB-Freigabe.|
 
-Um eine SMB-basierten Server zu definieren, erstellen Sie eine **ResourceRepositoryShare** blockieren. **ResourceRepositoryShare** definiert die folgenden Eigenschaften.
+## Berichtsserverblöcke
 
-| Eigenschaft| Typ| Beschreibung|
-|---|---|---|
-| Credential| MSFT_Credential| Die Anmeldeinformationen zum Authentifizieren der SMB-Freigabe verwendet wird.|
-| Quellpfad| string| Der Pfad der SMB-Freigabe.|
+Ein Berichtsserver muss ein OData-Webdienst sein. Zum Definieren eines Berichtsservers erstellen Sie einen **ReportServerWeb**-Block. Ein **ReportServerWeb**-Block definiert die folgenden Eigenschaften.
 
-##Report Server-Blöcke
+|Eigenschaft|Typ|Beschreibung|
+|---|---|---| 
+|AllowUnsecureConnection|bool|Legen Sie diese Einstellung auf **$TRUE** fest, um Verbindungen zwischen Knoten und Server ohne Authentifizierung zu erlauben. Bei Festlegung auf **$FALSE** ist eine Authentifizierung erforderlich.|
+|CertificateId|string|GUID, die das Zertifikat zur Authentifizierung beim Server darstellt.|
+|RegistrationKey|string|GUID, die den Knoten beim Pullserver identifiziert. Weitere Informationen finden Sie unter „Registrieren eines Knotens bei einem DSC-Pullserver“.|
+|ServerURL|string|URL des Konfigurationsservers.|
 
-Ein Berichtsserver muss es sich um einen OData-Webdienst werden. Um einen Berichtsserver zu definieren, erstellen Sie eine **ReportServerWeb** blockieren. **ReportServerWeb** definiert die folgenden Eigenschaften.
+## Teilkonfigurationen
 
-| Eigenschaft| Typ| Beschreibung|
-|---|---|---|
-| AllowUnsecureConnection| bool| Legen Sie auf **$TRUE** um Verbindungen über den Knoten mit dem Server ohne Authentifizierung zu ermöglichen.Legen Sie auf **$FALSE** Authentifizierung erforderlich ist.|
-| CertificateID| string| Eine GUID, die das Zertifikat zur Authentifizierung beim Server darstellt.|
-| RegistrationKey| string| Eine GUID, die den Knoten mit dem Pull-Server identifiziert.Weitere Informationen finden Sie unter einem Knoten mit einem DSC Pull-Server registrieren.|
-| Server-URL| string| Die URL des Servers Konfiguration.|
+Zum Definieren von Teilkonfigurationen erstellen Sie einen **PartialConfiguration**-Block. Weitere Informationen zu Teilkonfigurationen finden Sie unter [DSC-Teilkonfigurationen](partialConfigs.md). Ein **PartialConfiguration**-Block definiert die folgenden Eigenschaften.
 
-##Teilweise Konfigurationen
+|Eigenschaft|Typ|Beschreibung|
+|---|---|---| 
+|ConfigurationSource|string[]|Array mit Namen von Konfigurationsservern, die zuvor in den Blöcken **ConfigurationRepositoryWeb** und **ConfigurationRepositoryShare** definiert wurden, aus denen die Teilkonfiguration per Pull abgerufen wird.|
+|DependsOn|string{}|Eine Liste der Namen anderer Konfigurationen, die abgeschlossen sein müssen, bevor diese Teilkonfiguration angewendet wird.|
+|Beschreibung|string|Text zum Beschreiben der Teilkonfiguration.|
+|ExclusiveResources|string[]|Array von Ressourcen, die ausschließlich für diese Teilkonfiguration gelten.|
+|RefreshMode|string|Gibt an, wie der LCM diese Teilkonfiguration abruft. Die möglichen Werte sind __Disabled__, __Push (Standard)__ und __Pull__. <ul><li>__Deaktiviert__: Diese Teilkonfiguration ist deaktiviert.</li><li> __Push__: Die Teilkonfiguration wird per Push auf den Knoten übertragen, indem das Cmdlet [Publish-DscConfiguration](https://technet.microsoft.com/en-us/library/mt517875.aspx) aufgerufen wird. Nachdem alle Teilkonfigurationen für den Knoten von einem Server per Push oder Pull abgerufen wurden, kann die Konfiguration durch Aufrufen von `Start-DscConfiguration –UseExisting` gestartet werden. Dies ist der Standardwert.</li><li>__Pull:__ Der Knoten ist so konfiguriert, dass regelmäßig eine Überprüfung auf Teilkonfigurationen auf einem Pullserver erfolgt. Wenn diese Eigenschaft auf __Pull__ festgelegt ist, müssen Sie einen Pullserver angeben, indem Sie die __ConfigurationSource__-Eigenschaft festlegen. Weitere Informationen zu Pullservern finden Sie unter [Einrichten eines DSC-Pullservers](pullServer.md).</li></ul>|
+|ResourceModuleSource|string[]|Array der Namen von Ressourcenservern, von denen erforderliche Ressourcen für diese Teilkonfiguration heruntergeladen werden. Diese Namen müssen auf Ressourcenserver verweisen, die zuvor in den Blöcken **ResourceRepositoryWeb** und **ResourceRepositoryShare** definiert wurden.|
 
-Um eine teilweise Konfigurationen zu definieren, erstellen Sie eine **PartialConfiguration** blockieren. Weitere Informationen zu partiellen Konfigurationen finden Sie unter [DSC teilweise Konfigurationen](partialConfigs.md). **PartialConfiguration** definiert die folgenden Eigenschaften.
+## Weitere Informationen 
 
-| Eigenschaft| Typ| Beschreibung|
-|---|---|---|
-| ConfigurationSource| string[]| Ein Array von Namen der Konfiguration, zuvor definierten **ConfiguratoinRepositoryWeb** und **ConfigurationRepositoryShare** -Blöcken, in denen die partielle Konfiguration abgerufen wird, aus.|
-| DependsOn| Zeichenfolge {}| Eine Liste der Namen von anderen Konfigurationen, die abgeschlossen sein müssen, bevor diese partiellen Konfiguration angewendet wird.|
-| Beschreibung| string| Text für die partielle Konfiguration beschrieben.|
-| ExclusiveResources| string[]| Eine Reihe von Ressourcen, die ausschließlich für diese partiellen Konfiguration.|
-| RefreshMode| string| Gibt an, wie die DCS diese partiellen Konfiguration abruft.Die möglichen Werte sind wie folgt: **deaktiviert**: diese partiellen Konfiguration deaktiviert ist.**Push**: teilweise Konfigurationen wird der Knoten verschoben, durch Aufrufen der [Veröffentlichen DscConfiguration](https://technet.microsoft.com/en-us/library/mt517875.aspx) Cmdlet.Nachdem alle partielle Konfigurationen für den Knoten entweder verschoben oder von einem Server angefordert, kann die Konfiguration durch den Aufruf gestartet werden `Start DscConfiguration – UseExisting`.Dies ist der Standardwert.**Pull**: der Knoten ist so konfiguriert, dass Sie regelmäßig prüfen, ob die partielle Konfiguration von einem Pull-Server.Wenn diese Eigenschaft auf "Pull" festgelegt ist, müssen Sie einen Pull-Server angeben, durch Festlegen der **ConfigurationSource** Eigenschaft.Weitere Informationen zu Pull-Servern finden Sie unter [Einrichten eines DSC Pull-Servers](pullServer.md).|
-| ResourceModlueSource| string[]| Ein Array der Namen von Ressourcenservern, von dem die erforderliche Ressourcen für diese Konfiguration teilweise heruntergeladen.Diese Namen müssen finden Sie in der zuvor im definierten Ressourcenserver **ResourceRepositoryWeb** und **ResourceRepositoryShare** blockiert.|
+### Konzepte
+[Windows PowerShell DSC – Übersicht](overview.md)
+ 
+[Einrichten eines DSC-Pullservers](pullServer.md) 
 
-##Weitere Informationen
+[WindowsPowerShell 4.0 DSC – Lokaler Konfigurations-Manager](metaConfig4.md) 
 
-###Konzepte
-
-Erste Schritte mit Windows PowerShell gewünschten Status-Konfiguration 
-[Einrichten eines DSC Pull-Servers](pullServer.md) 
-[WindowsPowerShell 4.0 gewünscht State Configuration lokale Configuration Manager](metaConfig4.md)
-
-###Weitere Ressourcen
-
+### Weitere Ressourcen
 [Set-DscLocalConfigurationManager](https://technet.microsoft.com/en-us/library/dn521621.aspx) 
-[Ein Pull-Client mit Konfigurationsnamen einrichten](pullClientConfigNames.md)
+
+[Einrichten eines Pullclients mit Konfigurationsnamen](pullClientConfigNames.md) 
 
 
+
+
+<!--HONumber=Oct16_HO1-->
 
 

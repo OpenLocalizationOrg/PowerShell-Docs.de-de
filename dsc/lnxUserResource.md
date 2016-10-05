@@ -1,8 +1,23 @@
-#DSC für Linux NxUser Ressource
+---
+title: "DSC für die Linux-Resource „nxUser“"
+ms.date: 2016-05-16
+keywords: powershell,DSC
+description: 
+ms.topic: article
+author: eslesar
+manager: dongill
+ms.prod: powershell
+translationtype: Human Translation
+ms.sourcegitcommit: a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b
+ms.openlocfilehash: 7813185313845b74e2a37dfa4ec6bb109f32f0eb
 
-Die **NxUser** Ressource in PowerShell gewünscht State Configuration (DSC) bietet einen Mechanismus, um lokale Benutzer auf einem Linux-Knoten zu verwalten.
+---
 
-##Syntax
+# DSC für die Linux-Resource „nxUser“
+
+Die Ressource **nxUser** in PowerShell DSC bietet einen Mechanismus zum Verwalten von Dateien und Verzeichnissen auf einem Linux-Knoten.
+
+## Syntax
 
 ```
 nxUser <string> #ResourceName
@@ -22,24 +37,24 @@ nxUser <string> #ResourceName
 }
 ```
 
-##Eigenschaften
+## Eigenschaften
 
-| Eigenschaft| Gibt den Kontonamen, der einen bestimmten Zustand sichergestellt werden soll.|
+|  Eigenschaft |  Gibt den Kontonamen an, für den Sie einen bestimmten Zustand sicherstellen möchten. | 
 |---|---|
-| UserName| Gibt den Speicherort an, um sicherzustellen, dass den Status für eine Datei oder ein Verzeichnis werden soll.|
-| Stellen Sie sicher| Gibt an, ob das Konto vorhanden ist.Legen Sie diese Eigenschaft auf "Present", um sicherzustellen, dass das Konto vorhanden ist, und legen Sie ihn auf "Abwesend", um sicherzustellen, dass das Konto nicht vorhanden ist.|
-| "FullName"| Eine Zeichenfolge, die den vollständigen Namen für das Benutzerkonto zu verwenden.|
-| Beschreibung| Die Beschreibung für das Benutzerkonto ein.|
-| Kennwort| Der Hash des Benutzerkennworts im entsprechenden Format für die Linux-Computer.Dies ist normalerweise eine Salt erstellten SHA-256 oder Hash SHA-512.Debian und Ubuntu Linux kann dieser Wert mit dem Befehl Mkpasswd generiert werden.Für andere Linux-Distributionen kann die Methode Crypt Python Crypt Bibliothek zum Generieren des Hash verwendet werden.|
-| Deaktiviert| Gibt an, ob das Konto aktiviert ist.Legen Sie diese Eigenschaft auf **$true** um sicherzustellen, dass dieses Konto deaktiviert ist, und legen Sie es auf **$false** um sicherzustellen, dass diese Option aktiviert ist.|
-| PasswordChangeRequired| Gibt an, ob der Benutzer das Kennwort ändern kann.Legen Sie diese Eigenschaft auf **$true** um sicherzustellen, dass der Benutzer das Kennwort ändern nicht, und legen Sie ihn auf **$false** ermöglicht es den Benutzer, das Kennwort zu ändern.Der Standardwert ist **$false**.Diese Eigenschaft wird nur ausgewertet, wenn das Benutzerkonto nicht zuvor vorhanden war und erstellt wird.|
-| HomeDirectory| Das Basisverzeichnis des Benutzers.|
-| Gruppen-ID| Die primäre Gruppen-ID für den Benutzer.|
-| DependsOn| Gibt an, dass die Konfiguration von einer anderen Ressource ausgeführt werden muss, bevor diese Ressource konfiguriert wird.Beispielsweise ist die ID des Ressource-Skriptblock Konfiguration, die Sie ausführen möchten, zuerst "Ressourcenname", und der Typ ist "ResourceType", die Syntax für die Verwendung dieser Eigenschaft ist `DependsOn = "[ResourceType] ResourceName"`.|
+| UserName| Gibt den Speicherort an, an dem Sie den Zustand einer Datei oder eines Verzeichnisses sicherstellen möchten.| 
+| Ensure| Gibt an, ob das Konto vorhanden ist. Legen Sie diese Eigenschaft auf „Present“ fest, um sicherzustellen, dass das Konto vorhanden ist. Legen Sie sie auf „Absent“ fest, um sicherzustellen, dass das Konto nicht vorhanden ist.| 
+| FullName| Eine Zeichenfolge, die den vollständigen Namen des Benutzerkontos enthält.| 
+| Description| Die Beschreibung des Benutzerkontos.| 
+| Password| Der Hash des Benutzerkennworts im entsprechenden Format für den Linux-Computer. Dies ist normalerweise ein nach dem Zufallsprinzip gewählter SHA-256- oder SHA-512-Hash. Unter Debian und Ubuntu Linux kann dieser Wert mit dem Befehl „mkpasswd“ generiert werden. Für andere Linux-Distributionen kann die „crypt“-Methode der Crypt-Bibliothek von Python zum Generieren des Hashes verwendet werden.| 
+| Disabled| Gibt an, ob das Konto aktiviert ist. Legen Sie diese Eigenschaft auf **$true** fest, um sicherzustellen, dass dieses Konto deaktiviert ist. Legen Sie sie auf **$false** fest, um sicherzustellen, dass es aktiviert ist.| 
+| PasswordChangeRequired| Gibt an, ob der Benutzer das Kennwort ändern kann. Legen Sie diese Eigenschaft auf **$true** fest, um sicherzustellen, dass der Benutzer das Kennwort nicht ändern kann. Legen Sie es auf **$false** fest, damit der Benutzer das Kennwort ändern kann. Der Standardwert ist **$false**. Diese Eigenschaft wird nur ausgewertet, wenn das Benutzerkonto zuvor nicht vorhanden war und erstellt wird.| 
+| HomeDirectory| Das Basisverzeichnis des Benutzers.| 
+| GroupID| Die primäre Gruppen-ID des Benutzers.| 
+| DependsOn | Gibt an, dass die Konfiguration einer anderen Ressource ausgeführt werden muss, bevor diese Ressource konfiguriert wird. Wenn beispielsweise die ID des Skriptblocks mit der Ressourcenkonfiguration, den Sie zuerst ausführen möchten, „ResourceName“ und dessen Typ „ResourceType“ ist, lautet die Syntax für das Verwenden dieser Eigenschaft `DependsOn = "[ResourceType]ResourceName"`.| 
 
-##Beispiel
+## Beispiel
 
-Im folgende Beispiel wird sichergestellt, dass der Benutzer "Monuser" vorhanden ist und ein der Gruppe "DBusers Mitglied".
+Im folgenden Beispiel wird sichergestellt, dass der Benutzer „monuser“ vorhanden und Mitglied der Gruppe „DBusers“ ist.
 
 ```
 Import-DSCResource -Module nx 
@@ -52,7 +67,7 @@ nxUser UserExample{
    Ensure = "Present"
    HomeDirectory = "/home/monuser"
 }
-
+ 
 nxGroup GroupExample{
    GroupName = "DBusers"
    Ensure = "Present"
@@ -63,5 +78,8 @@ nxGroup GroupExample{
 ```
 
 
+
+
+<!--HONumber=Oct16_HO1-->
 
 

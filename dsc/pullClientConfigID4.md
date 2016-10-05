@@ -1,10 +1,25 @@
-#Einrichten eines Pull-Clients mithilfe des Konfigurations-ID in PowerShell 4.0
+---
+title: Einrichten eines DSC-Pullclients mithilfe einer Konfigurations-ID in PowerShell 4.0
+ms.date: 2016-05-16
+keywords: powershell,DSC
+description: 
+ms.topic: article
+author: eslesar
+manager: dongill
+ms.prod: powershell
+translationtype: Human Translation
+ms.sourcegitcommit: a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b
+ms.openlocfilehash: 730f2f26e2811996e79cf0073a4ef65cad390687
 
-> Gilt für: WindowsPowerShell 4.0, WindowsPowerShell 5.0
+---
 
-Jede Zielknoten hat angewiesen, Pull-Modus zu verwenden und erhält die URL, in dem den Pull-Server abzurufenden Konfigurationen kontaktieren kann. Zu diesem Zweck müssen Sie die lokale Configuration Manager (LCM) mit den erforderlichen Informationen zu konfigurieren. Um den LCM zu konfigurieren, erstellen Sie eine besondere Art der Konfiguration einer "Metaconfiguration" genannt. Weitere Informationen zum Konfigurieren von LCM, finden Sie unter [Windows PowerShell 4.0 Desired State Configuration lokale Configuration Manager](metaConfig4.md)
+# Einrichten eines DSC-Pullclients mithilfe einer Konfigurations-ID in PowerShell 4.0
 
-Das folgende Skript konfiguriert den LCM Pull-Konfigurationen auf einem Server mit dem Namen "PullServer".
+>Gilt für: Windows PowerShell 4.0, Windows PowerShell 5.0
+
+Jeder Zielknoten muss angewiesen werden, den Pullmodus zu verwenden. Außerdem muss die URL angegeben werden, unter der der Pullserver zum Abrufen von Konfigurationen kontaktiert werden kann. Hierzu müssen Sie den lokalen Konfigurations-Manager (LCM) mit den benötigten Informationen konfigurieren. Zum Konfigurieren des LCM müssen Sie einen besonderen Typ von Konfiguration erstellen, die als „Metakonfiguration“ bezeichnet wird. Weitere Informationen zum Konfigurieren des LCM finden Sie unter [Windows PowerShell 4.0 DSC – Lokaler Konfigurations-Manager](metaConfig4.md).
+
+Das folgende Skript konfiguriert den LCM zum Abrufen von Konfigurationen von einem Pullserver namens „PullServer“:
 
 ```powershell
 Configuration SimpleMetaConfigurationForPull 
@@ -15,7 +30,7 @@ Configuration SimpleMetaConfigurationForPull
         RefreshMode = "PULL";
         DownloadManagerName = "WebDownloadManager";
         RebootNodeIfNeeded = $true;
-        RefreshFrequencyMins = 15;
+        RefreshFrequencyMins = 30;
         ConfigurationModeFrequencyMins = 30; 
         ConfigurationMode = "ApplyAndAutoCorrect";
         DownloadManagerCustomData = @{ServerUrl = "http://PullServer:8080/PSDSCPullServer/PSDSCPullServer.svc"; AllowUnsecureConnection = “TRUE”}
@@ -24,19 +39,49 @@ Configuration SimpleMetaConfigurationForPull
 SimpleMetaConfigurationForPull -Output "."
 ```
 
-Im Skript **DownloadManagerCustomData** übergibt die URL des Servers Pull und (für dieses Beispiel) ermöglicht eine unsichere Verbindung.
+Im Skript übergibt **DownloadManagerCustomData** die URL des Pullservers und lässt (bei diesem Beispiel) eine unsichere Verbindung zu. 
 
-Nach der Ausführung dieses Skripts erstellt einen neuen Ausgabeordner namens **SimpleMetaConfigurationForPull** und Metaconfiguration MOF-Datei vorhanden.
+Nachdem das Skript ausgeführt wurde, erstellt es einen neuen Ausgabeordner mit dem Namen **SimpleMetaConfigurationForPull**, der eine MOF-Datei mit der Metakonfiguration enthält.
 
-Verwenden Sie zum Anwenden der Konfigurations **Set DscLocalConfigurationManager** mit Parametern für **ComputerName** (verwenden Sie "Localhost") und **Pfad** (der Pfad zum Speicherort der Datei für den Zielknoten localhost.meta.mof). Beispiel:
+Um die Konfiguration anzuwenden, verwenden Sie das Cmdlet **Set DscLocalConfigurationManager** mit Parametern für **ComputerName** (verwenden Sie „localhost“) und **Path** (der Pfad zum Speicherort der Datei „localhost.meta.mof“ für den Zielknoten). Beispiel: 
 ```powershell
 Set-DSCLocalConfigurationManager –ComputerName localhost –Path . –Verbose.
 ```
 
-##Konfigurations-ID
+## Konfigurations-ID
+Das Skript legt die **ConfigurationID**-Eigenschaft des LCM auf eine GUID fest, die zuvor für diesen Zweck erstellt wurde (Sie können eine GUID mit dem Cmdlet **New-Guid** erstellen). Der LCM nutzt die **ConfigurationID** zum Auffinden der entsprechenden Konfiguration auf dem Pullserver. Die MOF-Konfigurationsdatei auf dem Pullserver muss den Namen `ConfigurationID.mof` haben, wobei *ConfigurationID* der Wert der **ConfigurationID**-Eigenschaft des LCM des Zielknotens ist.
 
-Im Skript wird das **ConfigurationID** -Eigenschaft des LCM auf eine GUID, die zuvor für diesen Zweck erstellten (erstellen Sie eine GUID, mit der **New Guid** Cmdlet). Die **ConfigurationID** wird der LCM verwendet wird, finden die entsprechende Konfiguration auf dem Server Pull. Die MOF-Konfigurationsdatei auf dem Pull-Server muss den Namen `ConfigurationID.mof`, wobei *ConfigurationID* ist der Wert der **ConfigurationID** Eigenschaft des Zielknotens LCM.
+## Abrufen per Pull von einem SMB-Server
+
+Wenn der Pullserver nicht als Webdienst, sondern als SMB-Dateifreigabe konfiguriert wurde, legen Sie **DscFileDownloadManager** anstelle von **WebDownLoadManager** fest.
+**DscFileDownloadManager** verwendet eine **SourcePath**-Eigenschaft anstelle von **ServerUrl**. Das folgende Skript konfiguriert den LCM zum Abrufen von Konfigurationen von einer SMB-Freigabe namens „SmbDscShare“ auf einem Server namens „CONTOSO-SERVER“:
+
+```powershell
+Configuration SimpleMetaConfigurationForPull 
+{ 
+    LocalConfigurationManager 
+    { 
+        ConfigurationID = "1C707B86-EF8E-4C29-B7C1-34DA2190AE24";
+        RefreshMode = "PULL";
+        DownloadManagerName = "DscFileDownloadManager";
+        RebootNodeIfNeeded = $true;
+        RefreshFrequencyMins = 30;
+        ConfigurationModeFrequencyMins = 30; 
+        ConfigurationMode = "ApplyAndAutoCorrect";
+        DownloadManagerCustomData = @{ServerUrl = "\\CONTOSO-SERVER\SmbDscShare"}
+    } 
+} 
+SimpleMetaConfigurationForPull -Output "."
+```
+
+## Weitere Informationen
+
+- [Einrichten eines DSC-Webpullservers](pullServer.md)
+- [Einrichten einer SMB DSC-Pull-server](pullServerSMB.md)
 
 
+
+
+<!--HONumber=Oct16_HO1-->
 
 

@@ -1,8 +1,23 @@
-#DSC für Linux NxScript Ressource
+---
+title: "DSC für Linux-Resource „nxScript“"
+ms.date: 2016-05-16
+keywords: powershell,DSC
+description: 
+ms.topic: article
+author: eslesar
+manager: dongill
+ms.prod: powershell
+translationtype: Human Translation
+ms.sourcegitcommit: a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b
+ms.openlocfilehash: 4c575bbf0e0553e19e56bcc6edd605e36586cb94
 
-Die **NxScript** Ressource in PowerShell gewünscht State Configuration (DSC) bietet einen Mechanismus zum Ausführen von Linux-Skripts auf einem Linux-Knoten.
+---
 
-##Syntax
+# DSC für Linux-Resource „nxScript“
+
+Die Ressource **nxScript** in PowerShell DSC bietet einen Mechanismus zum Ausführen von Linux-Skripts auf einem Linux-Knoten.
+
+## Syntax
 
 ```
 nxScript <string> #ResourceName
@@ -17,20 +32,20 @@ nxScript <string> #ResourceName
 }
 ```
 
-##Eigenschaften
+## Eigenschaften
 
-| Eigenschaft| Beschreibung|
+|  Eigenschaft |  Beschreibung | 
 |---|---|
-| GetScript| Stellt ein Skript, das ausgeführt, beim Aufrufen wird der [Get-DscConfiguration](https://technet.microsoft.com/en-us/library/dn521625.aspx) Cmdlet.Das Skript muss mit einem Shebang, z. B. # beginnen! / bin/bash.|
-| SetScript| Bietet ein Skript.Beim Aufrufen der [Start DscConfiguration](https://technet.microsoft.com/en-us/library/dn521623.aspx) -Cmdlet der **TestScript** zuerst ausgeführt.Wenn die **TestScript** Block gibt einen Exitcode ungleich 0, die **SetScript** Block ausgeführt wird.Wenn die **TestScript** gibt einen Exitcode von 0, die **SetScript** kann nicht ausgeführt werden.Das Skript muss mit einem Shebang beginnen, wie z. B. `#! / bin/bash`.|
-| TestScript| Bietet ein Skript.Beim Aufrufen der [Start DscConfiguration](https://technet.microsoft.com/en-us/library/dn521623.aspx) -Cmdlet dieses Skript ausgeführt wird.Wenn sie einen Exitcode ungleich 0 zurückgibt, wird der SetScript ausgeführt.Wenn es einen Exitcode von 0 ist, gibt die **SetScript** kann nicht ausgeführt werden.Die **TestScript** führt auch beim Aufrufen der [Test DscConfiguration](https://technet.microsoft.com/en-us/library/dn407382.aspx) Cmdlet.In diesem Fall die **SetScript** wird nicht ausgeführt, unabhängig davon, welche Beendigungscode aus der **TestScript**.Die **TestScript** müssen einen Exitcode von 0 zurückgegeben, wenn die tatsächliche Konfiguration entspricht der aktuellen Konfigurations für den gewünschten Status, einen Exitcode als 0, wenn er nicht übereinstimmt.(Die aktuelle Konfiguration für den gewünschten Status ist die letzte Konfiguration in Kraft gesetzt, auf den Knoten, der DSC verwendet).Das Skript muss mit einem Shebang, wie z. B. 1#!/bin/bash.1 beginnen.|
-| Benutzer| Der Benutzer zum Ausführen des Skripts als.|
-| Gruppe| Zum Ausführen des Skripts als Gruppe.|
-| DependsOn| Gibt an, dass die Konfiguration von einer anderen Ressource ausgeführt werden muss, bevor diese Ressource konfiguriert wird.Z. B. wenn die **ID** der Ressource ist Configuration-Skriptblock, der ausgeführt werden soll zuerst **ResourceName** und der Typ ist **ResourceType**, die Syntax für die Verwendung dieser Eigenschaft ist `DependsOn = "[ResourceType] ResourceName"`.|
+| GetScript| Bietet ein Skript, das beim Aufrufen des Cmdlets [Get-DscConfiguration](https://technet.microsoft.com/en-us/library/dn521625.aspx) ausgeführt wird. Das Skript muss mit einem Shebang, z. B. „#!/bin/bash“, beginnen.| 
+| SetScript| Stellt ein Skript bereit. Beim Aufruf des Cmdlets [Start-DscConfiguration](https://technet.microsoft.com/en-us/library/dn521623.aspx) wird **TestScript** zuerst ausgeführt. Wenn der **TestScript**-Block einen Exitcode ungleich 0 zurückgibt, wird der **SetScript**-Block ausgeführt. Wenn der **TestScript**-Block den Exitcode 0 zurückgibt, wird der **SetScript**-Block nicht ausgeführt. Das Skript muss mit einem Shebang, z. B. `#!/bin/bash`, beginnen.| 
+| TestScript| Stellt ein Skript bereit. Beim Aufruf des Cmdlets [Start-DscConfiguration](https://technet.microsoft.com/en-us/library/dn521623.aspx) wird dieses Skript ausgeführt. Wenn es einen Exitcode ungleich 0 zurückgibt, wird der „SetScript“-Block ausgeführt. Wenn es den Exitcode 0 zurückgibt, wird der **SetScript**-Block nicht ausgeführt. Der **TestScript**-Block wird auch ausgeführt, wenn Sie das Cmdlet[Test-DscConfiguration](https://technet.microsoft.com/en-us/library/dn407382.aspx) aufrufen. In diesem Fall wird der **SetScript**-Block jedoch nicht ausgeführt, ganz gleich, welcher Exitcode vom **TestScript**-Block zurückgegeben wird. Der **TestScript**-Block muss den Exitcode 0 zurückgeben, wenn die tatsächliche Konfiguration der aktuellen Konfiguration des gewünschten Zustands entspricht. Falls nicht, muss ein Exitcode ungleich 0 zurückgegeben werden. (Die aktuelle Konfiguration des gewünschten Zustands ist die letzte Konfiguration, die auf den Knoten angewendet wurde, der DSC verwendet.) Das Skript muss mit einem Shebang, z. B. „1#!/bin/bash.1“, beginnen.| 
+| User| Der Benutzer, der das Skript ausführt.| 
+| Group| Die Gruppe, die das Skript ausführt.| 
+| DependsOn | Gibt an, dass die Konfiguration einer anderen Ressource ausgeführt werden muss, bevor diese Ressource konfiguriert wird. Wenn beispielsweise die **ID** des Skriptblocks mit der Ressourcenkonfiguration, den Sie zuerst ausführen möchten, **ResourceName** und dessen Typ **ResourceType** ist, lautet die Syntax für das Verwenden dieser Eigenschaft `DependsOn = "[ResourceType]ResourceName"`.| 
 
-##Beispiel
+## Beispiel
 
-Das folgende Beispiel zeigt die Verwendung der **NxScript** Ressource zusätzliche Konfigurationsschritte ausführen.
+Das folgende Beispiel veranschaulicht die Verwendung der Ressource **nxScript**, um zusätzliche Konfigurationsschritte auszuführen.
 
 ```
 Import-DSCResource -Module nx 
@@ -63,5 +78,8 @@ fi
 ```
 
 
+
+
+<!--HONumber=Oct16_HO1-->
 
 

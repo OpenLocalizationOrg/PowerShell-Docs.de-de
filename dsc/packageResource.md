@@ -1,10 +1,25 @@
-#DSC Paketressource
+---
+title: "DSC-Ressource „Package“"
+ms.date: 2016-05-16
+keywords: powershell,DSC
+description: 
+ms.topic: article
+author: eslesar
+manager: dongill
+ms.prod: powershell
+translationtype: Human Translation
+ms.sourcegitcommit: a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b
+ms.openlocfilehash: d07b11c148dfa747b3f9c0157191b83efb6c65df
 
-> Gilt für: WindowsPowerShell 4.0, WindowsPowerShell 5.0
+---
 
-Die **Paket** Ressource in Windows PowerShell gewünscht State Configuration (DSC) bietet einen Mechanismus zum Installieren oder Deinstallieren von Paketen, wie z. B. Windows Installer und setup.exe-Pakete auf dem Zielknoten.
+# DSC-Ressource „Package“
 
-##Syntax
+> Gilt für: Windows PowerShell 4.0, Windows PowerShell 5.0
+
+Die Ressource **Package** in Windows PowerShell DSC bietet einen Mechanismus zum Installieren oder Deinstallieren von Paketen, wie z. B. Windows Installer und „Setup.exe“-Pakete, auf einem Zielknoten.
+
+## Syntax
 
 ```
 Package [string] #ResourceName
@@ -21,34 +36,39 @@ Package [string] #ResourceName
 }
 ```
 
-##Eigenschaften
+## Eigenschaften
+|  Eigenschaft  |  Beschreibung   | 
+|---|---| 
+| Name| Gibt den Namen des Pakets an, für das Sie einen bestimmten Zustand sicherstellen möchten.| 
+| Path| Gibt den Pfad an, in dem das Paket gespeichert ist.| 
+| ProductID| Gibt die Produkt-ID an, die das Paket eindeutig identifiziert.| 
+| Arguments| Führt eine Zeichenfolge mit Argumenten auf, die exakt wie angegeben an das Paket übergeben wird.| 
+| Credential| Ermöglicht den Zugriff auf das Paket für eine Remotequelle. Diese Eigenschaft wird nicht verwendet, um das Paket zu installieren. Das Paket wird immer auf dem lokalen System installiert.| 
+| Ensure| Gibt an, ob das Paket installiert ist. Legen Sie diese Eigenschaft auf „Absent“ fest, um sicherzustellen, dass das Paket nicht installiert wird (oder deinstalliert wird, wenn es installiert ist). Legen Sie sie auf „Present“ (den Standardwert) fest, um sicherzustellen, dass das Paket installiert wird.| 
+| LogPath| Gibt den vollständigen Pfad an, in dem der Anbieter eine Protokolldatei zum Installieren oder Deinstallieren des Pakets speichern soll.| 
+| DependsOn | Gibt an, dass die Konfiguration einer anderen Ressource ausgeführt werden muss, bevor diese Ressource konfiguriert wird. Wenn beispielsweise die ID des Skriptblocks mit der Ressourcenkonfiguration, den Sie zuerst ausführen möchten, **ResourceName** und dessen Typ **ResourceType** ist, lautet die Syntax für das Verwenden dieser Eigenschaft „DependsOn = „[ResourceType]ResourceName“.| 
+| ReturnCode| Gibt den erwarteten Rückgabecode an. Wenn der tatsächliche Rückgabecode nicht dem erwarteten Wert entspricht, gibt die Konfiguration einen Fehler zurück.| 
 
-| Eigenschaft| Beschreibung|
-|---|---|
-| Name| Gibt den Namen des Pakets zu einen bestimmten Zustand sichergestellt werden soll.|
-| Pfad| Gibt den Pfad, in dem das Paket gespeichert ist.|
-| ProductId| Gibt die Produkt-ID, die das Paket eindeutig identifiziert.|
-| Argumente| Führt eine Zeichenfolge von Argumenten, die das Paket genau wie angegeben übergeben wird.|
-| Credential| Ermöglicht den Zugriff auf das Paket auf einem remote-Quelle.Diese Eigenschaft wird nicht verwendet, um das Paket zu installieren.Das Paket wird immer auf dem lokalen System installiert.|
-| Stellen Sie sicher| Gibt an, ob das Paket installiert ist.Legen Sie diese Eigenschaft auf "Abwesend", um sicherzustellen, dass das Paket nicht installiert ist (oder Deinstallieren des Pakets, wenn es installiert ist).Legen Sie ihn (Standardwert) "vorhanden", um sicherzustellen, dass das Paket installiert ist.|
-| LogPath| Gibt den vollständigen Pfad, den Anbieter eine Protokolldatei zum Installieren oder deinstallieren das Paket gespeichert werden soll.|
-| DependsOn| Gibt an, dass die Konfiguration von einer anderen Ressource ausgeführt werden muss, bevor diese Ressource konfiguriert wird.Ist z. B. wenn die ID der Ressourcenkonfiguration Block Skripts, die Sie ausführen möchten zuerst **ResourceName** und der Typ ist **ResourceType**, die Syntax für die Verwendung dieser Eigenschaft ist "DependsOn ="[ResourceType] ResourceName"".|
-| Rückgabecode| Gibt den erwarteten Rückgabecode an.Wenn Sie den tatsächlichen Code zurück, entspricht nicht dem erwarteten Wert, finden Sie hier die Konfiguration einen Fehler zurück.|
+## Beispiel
 
-##Beispiel
-
-In diesem Beispiel wird das MSI-Installationsprogramm, das befindet sich unter dem angegebenen Pfad und die angegebenen Produkt-ID
+Bei diesem Beispiel wird das MSI-Installationsprogramm ausgeführt, das sich im angegebenen Pfad befindet und die angegebene Produkt-ID hat.
 
 ```powershell
-Package PackageExample
+Configuration PackageTest
 {
-    Ensure = "Present"  # You can also set Ensure to "Absent"
-    Path  = "$Env:SystemDrive\TestFolder\TestProject.msi"
-    Name = "TestPackage"
-    ProductId = "ACDDCDAF-80C6-41E6-A1B9-8ABD8A05027E"
-} 
+    Package PackageExample
+    {
+        Ensure      = "Present"  # You can also set Ensure to "Absent"
+        Path        = "$Env:SystemDrive\TestFolder\TestProject.msi"
+        Name        = "TestPackage"
+        ProductId   = "ACDDCDAF-80C6-41E6-A1B9-8ABD8A05027E"
+    } 
+}
 ```
 
 
+
+
+<!--HONumber=Oct16_HO1-->
 
 

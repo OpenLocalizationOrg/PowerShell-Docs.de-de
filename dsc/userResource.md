@@ -1,12 +1,28 @@
-#DSC User-Ressource
+---
+title: "DSC-Ressource „User“"
+ms.date: 2016-05-16
+keywords: powershell,DSC
+description: 
+ms.topic: article
+author: eslesar
+manager: dongill
+ms.prod: powershell
+translationtype: Human Translation
+ms.sourcegitcommit: a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b
+ms.openlocfilehash: 5c7878bdfc8a3f118b569a9e43be6c7e4333ad2c
 
-> Gilt für: WindowsPowerShell 4.0, WindowsPowerShell 5.0
+---
+
+#DSC-Ressource „User“#
+
+ 
+>Gilt für: Windows PowerShell 4.0, Windows PowerShell 5.0
 
 
-Die __Benutzer__ Ressource in Windows PowerShell gewünscht State Configuration (DSC) bietet einen Mechanismus zum Verwalten von lokalen Benutzerkonten auf dem Zielknoten.
+Die Ressource __User__ in Windows PowerShell DSC bietet einen Mechanismus zum Verwalten lokaler Benutzerkonten auf dem Zielknoten.
 
 
-##Syntax
+##Syntax##
 
 ```
 User [string] #ResourceName
@@ -24,22 +40,21 @@ User [string] #ResourceName
 }
 ```
 
-##Eigenschaften
+## Eigenschaften
+|  Eigenschaft  |  Beschreibung   | 
+|---|---| 
+| UserName| Gibt den Kontonamen an, für den Sie einen bestimmten Zustand sicherstellen möchten.| 
+| Beschreibung| Gibt die Beschreibung an, die Sie für das Benutzerkonto verwenden möchten.| 
+| Disabled| Gibt an, ob das Konto aktiviert ist. Legen Sie diese Eigenschaft auf __$true__ fest, um sicherzustellen, dass dieses Konto deaktiviert ist. Legen Sie sie auf __$false__ fest, um sicherzustellen, dass es aktiviert ist.| 
+| Ensure| Gibt an, ob das Konto vorhanden ist. Legen Sie diese Eigenschaft auf „Present“ fest, um sicherzustellen, dass das Konto vorhanden ist. Legen Sie sie auf „Absent“ fest, um sicherzustellen, dass das Konto nicht vorhanden ist.| 
+| FullName| Stellt eine Zeichenfolge mit dem vollständigen Namen dar, den Sie für das Benutzerkonto verwenden möchten.| 
+| Password| Gibt das Kennwort an, das Sie für dieses Konto verwenden möchten. | 
+| PasswordChangeNotAllowed| Gibt an, ob der Benutzer das Kennwort ändern kann. Legen Sie diese Eigenschaft auf __$true__ fest, um sicherzustellen, dass der Benutzer das Kennwort nicht ändern kann. Legen Sie es auf __$false__ fest, damit der Benutzer das Kennwort ändern kann. Der Standardwert ist __$false__.| 
+| PasswordChangeRequired| Gibt an, ob der Benutzer sein Kennwort bei der nächsten Anmeldung ändern muss. Legen Sie diese Eigenschaft auf __$true__ fest, wenn der Benutzer das Kennwort ändern muss. Der Standardwert ist __$true__.| 
+| PasswordNeverExpires| Gibt an, ob das Kennwort abläuft. Um sicherzustellen, dass das Kennwort für dieses Konto nicht abläuft, legen Sie diese Eigenschaft auf __$true__ fest. Legen Sie sie auf __$false__ fest, wenn das Kennwort abläuft. Der Standardwert ist __$false__.| 
+| DependsOn | Gibt an, dass die Konfiguration einer anderen Ressource ausgeführt werden muss, bevor diese Ressource konfiguriert wird. Wenn beispielsweise die ID des Skriptblocks mit der Ressourcenkonfiguration, den Sie zuerst ausführen möchten, __ResourceName__ und dessen Typ __ResourceType__ ist, lautet die Syntax für das Verwenden dieser Eigenschaft `DependsOn = "[ResourceType]ResourceName"`.| 
 
-| Eigenschaft| Beschreibung|
-|---|---|
-| UserName| Gibt den Kontonamen, der einen bestimmten Zustand sichergestellt werden soll.|
-| Beschreibung| Gibt die Beschreibung, die Sie für das Benutzerkonto verwenden möchten.|
-| Deaktiviert| Gibt an, ob das Konto aktiviert ist.Legen Sie diese Eigenschaft auf __$true__ um sicherzustellen, dass dieses Konto deaktiviert ist, und legen Sie es auf __$false__ um sicherzustellen, dass diese Option aktiviert ist.|
-| Stellen Sie sicher| Gibt an, ob das Konto vorhanden ist.Legen Sie diese Eigenschaft auf "Present", um sicherzustellen, dass das Konto vorhanden ist, und legen Sie ihn auf "Abwesend", um sicherzustellen, dass das Konto nicht vorhanden ist.|
-| "FullName"| Stellt eine Zeichenfolge mit dem vollständigen Namen, die, den Sie für das Benutzerkonto verwenden möchten.|
-| Kennwort| Gibt das Kennwort für dieses Konto verwenden möchten.|
-| PasswordChangeNotAllowed| Gibt an, ob der Benutzer das Kennwort ändern kann.Legen Sie diese Eigenschaft auf __$true__ um sicherzustellen, dass der Benutzer das Kennwort ändern nicht, und legen Sie ihn auf __$false__ ermöglicht es den Benutzer, das Kennwort zu ändern.Der Standardwert ist __$false__.|
-| PasswordChangeRequired| Gibt an, ob der Benutzer das Kennwort bei der nächsten Anmeldung ändern muss.Legen Sie diese Eigenschaft auf __$true__ wenn der Benutzer das Kennwort ändern muss.Der Standardwert ist __$true__.|
-| PasswordNeverExpires| Gibt an, ob das Kennwort abläuft.Um sicherzustellen, dass das Kennwort für dieses Konto nie abläuft, wird diese Eigenschaft festgelegt __$true__, und legen Sie es auf __$false__ wenn das Kennwort abläuft.Der Standardwert ist __$false__.|
-| DependsOn| Gibt an, dass die Konfiguration von einer anderen Ressource ausgeführt werden muss, bevor diese Ressource konfiguriert wird.Ist z. B. wenn die ID der Ressourcenkonfiguration Block Skripts, die Sie ausführen möchten zuerst __ResourceName__ und der Typ ist __ResourceType__, die Syntax für die Verwendung dieser Eigenschaft ist `DependsOn = "[ResourceType] ResourceName"`.|
-
-##Beispiel
+## Beispiel
 
 ```powershell
 User UserExample
@@ -52,5 +67,8 @@ User UserExample
 ```
 
 
+
+
+<!--HONumber=Oct16_HO1-->
 
 

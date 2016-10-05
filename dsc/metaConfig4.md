@@ -1,31 +1,45 @@
-#WindowsPowerShell 4.0 gewünscht State Configuration lokale Configuration Manager (LCM)
+---
+title: "Windows PowerShell 4.0 DSC – Lokaler Konfigurations-Manager (LCM)"
+ms.date: 2016-05-16
+keywords: powershell,DSC
+description: 
+ms.topic: article
+author: eslesar
+manager: dongill
+ms.prod: powershell
+translationtype: Human Translation
+ms.sourcegitcommit: a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b
+ms.openlocfilehash: 25195166f4d9dd668427d6bb5d748ef61273cdee
 
-> Gilt für: WindowsPowerShell 4.0, WindowsPowerShell 5.0
+---
 
-Lokale Configuration Manager ist das Modul für Windows PowerShell gewünscht State Configuration (DSC). Es alle Zielknoten ausgeführt wird, und ist verantwortlich für das Aufrufen der Configuration-Ressourcen, die in ein Konfigurationsskript DSC enthalten sind. In diesem Thema werden die Eigenschaften von lokalen Configuration Manager aufgelistet und beschreibt, wie Sie die lokale Configuration Manager-Einstellungen auf einem Zielknoten ändern können.
+# Windows PowerShell 4.0 DSC – Lokaler Konfigurations-Manager (LCM)
 
-##Lokale Configuration Manager-Eigenschaften
+>Gilt für: Windows PowerShell 4.0, Windows PowerShell 5.0
 
-Im folgenden werden die lokale Configuration Manager-Eigenschaften, die festgelegt oder abgerufen werden kann.
+Der lokale Konfigurations-Manager (Local Configuration Manager, LCM) ist das Windows PowerShell DSC-Modul (Desired State Configuration, Konfiguration des gewünschten Zustands). Dieses Modul wird auf allen Zielknoten ausgeführt und ist zuständig für das Aufrufen der Konfigurationsressourcen, die in einem DSC-Konfigurationsskript enthalten sind. In diesem Thema werden die Eigenschaften des lokalen Konfigurations-Managers (LCM) aufgelistet, und Sie erfahren, wie Sie die LCM-Einstellungen auf einem Zielknoten ändern können.
 
-* **AllowModuleOverwrite**: Steuerelemente, ob neue Konfigurationen aus dem Konfigurationsserver heruntergeladen sind, überschreiben die alten auf dem Zielknoten zulässig. Mögliche Werte sind True und False.
-* **CertificateID**: GUID ein Zertifikat verwendet, um die Anmeldeinformationen für den Zugriff auf die Konfiguration zu sichern. Weitere Informationen finden Sie unter [Anmeldeinformationen in Windows PowerShell gewünschten Konfiguration sichern möchten?](http://blogs.msdn.com/b/powershell/archive/2014/01/31/want-to-secure-credentials-in-windows-powershell-desired-state-configuration.aspx).
-* **ConfigurationID**: Gibt eine GUID, die zum Abrufen einer bestimmten Konfigurationsdatei von einem Server, der als "Pull"-Server einrichten. Die GUID wird sichergestellt, dass die richtige Konfigurationsdatei zugegriffen wird.
-* **ConfigurationMode**: Gibt an, wie lokale Configuration Manager tatsächlich die Konfiguration der Zielknoten gilt. Sie können die folgenden Werte annehmen:
-   - **ApplyOnly**: mit dieser Option DSC wendet die Konfiguration und keine weiteren Daten enthält, es sei denn, eine neue Konfiguration, entweder erkannt wird indem Sie eine neue Konfiguration direkt an das Ziel senden Knoten ("Push"), oder wenn Sie einen Server "pull" und die DSC konfiguriert haben ermittelt eine neue Konfiguration mit dem "Pull"-Server prüft. Wenn die Konfiguration des Zielknotens wandert ab, wird keine Aktion ausgeführt.
-   - **ApplyAndMonitor**: Diese Option (die Standardeinstellung), DSC gilt jede neuen Konfigurationen, ob Sie direkt an den Zielknoten gesendet oder auf einem "Pull"-Server ermittelt. Wenn die Konfiguration des Zielknotens aus der Konfigurationsdatei wandert ab, meldet DSC danach die Abweichung in Protokollen. Weitere Informationen zur Protokollierung von DSC finden Sie unter [mithilfe von Ereignisprotokollen zum Diagnostizieren von Fehlern in der gewünschten Konfiguration](http://blogs.msdn.com/b/powershell/archive/2014/01/03/using-event-logs-to-diagnose-errors-in-desired-state-configuration.aspx).
-   - **ApplyAndAutoCorrect**: mit dieser Option gilt DSC neuen Konfigurationen, ob Sie direkt an den Zielknoten gesendet oder auf einem "Pull"-Server ermittelt. Danach, wenn die Konfiguration des Zielknotens aus der Konfigurationsdatei wandert ab, DSC Berichte die Abweichung in Protokollen und versucht dann, passen Sie die Knoten Zielkonfiguration, in Übereinstimmung mit der Konfigurationsdatei anzuzeigen.
-* **ConfigurationModeFrequencyMins**: Gibt die Frequenz (in Minuten), an dem die hintergrundanwendung im DSC versucht, die aktuelle Konfiguration auf dem Zielknoten zu implementieren. Der Standardwert ist 15. Dieser Wert kann in Verbindung mit RefreshMode festgelegt werden. Wenn RefreshMode PULL festgelegt ist, der Zielknoten aus den Konfigurationsserver in einem Intervall festlegen, indem Sie RefreshFrequencyMins und downloads für die aktuelle Konfiguration. Unabhängig vom Wert RefreshMode wendet das Modul Konsistenz in dem Intervall von ConfigurationModeFrequencyMins, die aktuelle Konfiguration, die auf dem Zielknoten heruntergeladen wurde. RefreshFrequencyMins sollte festgelegt werden, um eine ganze Zahl Vielfaches von ConfigurationModeFrequencyMins.
-* **Anmeldeinformationen**: (mit Get-Credential) steht für Anmeldeinformationen erforderlich sind, remote Zugriff auf Ressourcen, wie z. B. den Konfigurationsserver zu kontaktieren.
-* **DownloadManagerCustomData**: Stellt ein Array mit benutzerdefinierten Daten für den Download-Manager.
-* **DownloadManagerName**: Gibt den Namen der Konfiguration und Modul Download-Manager.
-* **RebootNodeIfNeeded**: bestimmte Änderungen auf dem Zielknoten erforderlich sein, neu gestartet werden, damit die Änderungen übernommen werden. Mit dem Wert **True**, diese Eigenschaft wird den Knoten neu gestartet, sobald die Konfiguration wurde vollständig ohne Warnung gilt. Wenn **False** (Standardwert), wird die Konfiguration abgeschlossen, aber der Knoten muss manuell neu gestartet werden damit die Änderungen wirksam werden.
-* **RefreshFrequencyMins**: verwendet, wenn Sie eine "Pull"-Server eingerichtet haben. Gibt die Frequenz (in Minuten) an der lokalen Konfigurations-Manager einen "Pull"-Server zum Herunterladen der aktuellen Konfigurations beauftragt. Dieser Wert kann in Verbindung mit ConfigurationModeFrequencyMins festgelegt werden. Wenn RefreshMode PULL festgelegt ist, wird der Zielknoten kontaktiert den "Pull"-Server in einem Intervall festlegen, indem Sie RefreshFrequencyMins und downloads für die aktuelle Konfiguration. In dem Intervall ConfigurationModeFrequencyMins gilt das Modul Konsistenz die aktuelle Konfiguration, die auf dem Zielknoten heruntergeladen wurde. Wenn RefreshFrequencyMins nicht, in eine ganze Zahl festgelegt ist Vielfaches von ConfigurationModeFrequencyMins, das System wird aufgerundet werden kann. Der Standardwert ist 30.
-* **RefreshMode**: Mögliche Werte sind **Push** (Standard) und **abrufen**. In der Konfiguration "Push" müssen Sie eine Konfigurationsdatei auf jedem Zielknoten Platzieren von jedem Clientcomputer. Im Modus "Pull" müssen Sie festlegen, einen "Pull"-Server für lokale Configuration Manager für die Kontaktaufnahme und die Konfigurationsdateien zugreifen.
+## Eigenschaften des lokalen Konfigurations-Managers
+Nachstehend sind die LCM-Eigenschaften aufgelistet, die Sie festlegen oder abrufen können.
+ 
+* **AllowModuleOverwrite**: Bestimmt, ob neue vom Konfigurationsserver heruntergeladene Konfigurationen die alten Konfigurationen auf dem Zielknoten überschreiben dürfen. Mögliche Werte sind „True“ und „False“.
+* **CertificateID**: GUID, die ein Zertifikat zum Schützen der Anmeldeinformationen für den Zugriff auf die Konfiguration angibt. Weitere Informationen finden Sie unter [Möchten Sie Anmeldeinformationen in Windows PowerShell DSC schützen?](http://blogs.msdn.com/b/powershell/archive/2014/01/31/want-to-secure-credentials-in-windows-powershell-desired-state-configuration.aspx).
+* **ConfigurationID**: Eine GUID, die zum Abrufen einer bestimmten Konfigurationsdatei von einem Server dient, der als Pullserver eingerichtet ist. Die GUID stellt sicher, dass auf die richtige Konfigurationsdatei zugegriffen wird.
+* **ConfigurationMode**: Gibt an, wie der lokale Konfigurations-Manager tatsächlich die Konfiguration auf die Zielknoten anwendet. Die folgenden Werte sind möglich:
+    - **ApplyOnly**: Bei dieser Option wendet DSC die Konfiguration an und macht ansonsten nichts, es sei denn, eine neue Konfiguration wird erkannt – entweder durch Sie, indem Sie eine neue Konfiguration direkt an den Zielknoten senden (per Push), oder indem Sie einen Pullserver konfiguriert haben, und DSC eine neue Konfiguration erkennt, wenn eine Abfrage des Pullservers erfolgt. Wenn die Konfiguration des Zielknotens abweicht, erfolgt keine Aktion.
+    - **ApplyAndMonitor**: Bei dieser Standardoption wendet DSC neue Konfigurationen unabhängig davon an, ob diese von Ihnen direkt zum Zielknoten gesendet oder auf einem Pullserver erkannt werden. Wenn sich im Anschluss die Konfiguration des Zielknotens von der Konfigurationsdatei unterscheidet, meldet DSC die Diskrepanz in Protokollen. Weitere Informationen zur DSC-Protokollierung finden Sie unter [Verwenden von Ereignisprotokollen zum Untersuchen von Fehlern in DSC](http://blogs.msdn.com/b/powershell/archive/2014/01/03/using-event-logs-to-diagnose-errors-in-desired-state-configuration.aspx).
+    - **ApplyAndAutoCorrect**: Bei dieser Option wendet DSC neue Konfigurationen unabhängig davon an, ob diese von Ihnen direkt zum Zielknoten gesendet oder auf einem Pullserver erkannt werden. Wenn sich im Anschluss die Konfiguration des Zielknotens von der Konfigurationsdatei unterscheidet, meldet DSC die Diskrepanz in Protokollen. Anschließend wird versucht, die Zielknotenkonfiguration in Übereinstimmung mit der Konfigurationsdatei zu bringen.
+* **ConfigurationModeFrequencyMins**: Stellt die Häufigkeit (in Minuten) dar, mit der die Hintergrundanwendung von DSC versucht, die aktuelle Konfiguration auf dem Zielknoten zu implementieren. Der Standardwert ist 15. Dieser Wert kann in Verbindung mit „RefreshMode“ festgelegt werden. Wenn „RefreshMode“ auf PULL festgelegt ist, kontaktiert der Zielknoten den Konfigurationsserver in einem von „RefreshFrequencyMins“ festgelegten Intervall und lädt die aktuelle Konfiguration herunter. Unabhängig vom Wert von „RefreshMode“ wendet das Konsistenzmodul im von „ConfigurationModeFrequencyMins“ festgelegten Intervall die neueste Konfiguration an, die auf den Zielknoten heruntergeladen wurde. „RefreshFrequencyMins“ muss auf ein Vielfaches in Form einer ganzen Zahl von „ConfigurationModeFrequencyMins“ festgelegt werden.
+* **Credential**: Gibt (z. B. mit „Get-Credential“) erforderliche Anmeldeinformationen für den Zugriff auf Remoteressourcen an, um z. B. den Konfigurationsserver zu kontaktieren.
+* **DownloadManagerCustomData**: Stellt ein Array mit benutzerdefinierten Daten dar, die spezifisch für den Download-Manager sind.
+* **DownloadManagerName**: Gibt den Namen der Konfiguration und des Moduls des Download-Managers an.
+* **RebootNodeIfNeeded**: Bestimmte Konfigurationsänderungen auf einem Zielknoten erfordern ggf. einen Neustart, damit die Änderungen übernommen werden. Bei Festlegen auf **True** startet diese Eigenschaft den Knoten ohne vorherige Warnung neu, sobald die Konfiguration vollständig angewendet wurde. Falls **False** (Standardwert), wird die Konfiguration abgeschlossen, aber der Knoten muss manuell neu gestartet werden, damit die Änderungen wirksam werden.
+* **RefreshFrequencyMins**: Wird verwendet, wenn Sie einen Pullserver eingerichtet haben. Stellt die Häufigkeit (in Minuten) dar, mit der der lokale Konfigurations-Manager einen Pullserver kontaktiert, um die aktuelle Konfiguration herunterzuladen. Dieser Wert kann in Verbindung mit „ConfigurationModeFrequencyMins“ festgelegt werden. Wenn „RefreshMode“ auf PULL festgelegt ist, kontaktiert der Zielknoten den Pullserver in einem von „RefreshFrequencyMins“ festgelegten Intervall und lädt die aktuelle Konfiguration herunter. Das Konsistenzmodul wendet im von „ConfigurationModeFrequencyMins“ festgelegten Intervall die neueste Konfiguration an, die auf den Zielknoten heruntergeladen wurde. Wenn „RefreshFrequencyMins“ nicht in Form einer ganzen Zahl auf ein Vielfaches von „ConfigurationModeFrequencyMins“ festgelegt wurde, rundet das System den Wert auf. Der Standardwert ist 30.
+* **RefreshMode**: Mögliche Werte sind **Push** (Standard) und **Pull**. Bei der Pushkonfiguration müssen Sie mithilfe eines beliebigen Clientcomputers eine Konfigurationsdatei auf jedem Zielknoten ablegen. Im Pullmodus müssen Sie einen Pullserver für den lokalen Konfigurations-Manager einrichten, der für den Zugriff auf die Konfigurationsdateien kontaktiert werden muss.
 
-###Beispiel für lokale Configuration Manager-Einstellungen aktualisieren
+### Beispiel der Aktualisierung der Einstellungen des lokalen Konfigurations-Managers
 
-Können Sie die lokale Configuration Manager-Einstellungen der Zielknoten aktualisieren, indem Sie z. B. eine **LocalConfigurationManager** innerhalb des Blocks auf Knoten in einem Konfigurationsskript zu blockieren, wie im folgenden Beispiel gezeigt.
+Sie können die Einstellungen des lokalen Konfigurations-Managers auf einem Zielknoten aktualisieren, indem Sie einen **LocalConfigurationManager**-Block dem „node“-Block in einem Konfigurationsskript hinzufügen (siehe das folgende Beispiel).
 
 ```powershell
 Configuration ExampleConfig
@@ -54,15 +68,19 @@ Configuration ExampleConfig
 ExampleConfig -OutputPath "c:\users\public\dsc"  
 ```
 
-Ausführen des Skripts im vorherigen Beispiel generiert eine MOF-Datei, die angibt, und speichert die gewünschten Einstellungen. Um die Einstellungen zu übernehmen, können Sie die **Set DscLocalConfigurationManager** Cmdlets, wie im folgenden Beispiel gezeigt.
+Bei Ausführen des Skripts im vorherigen Beispiel wird eine MOF-Datei generiert, die die gewünschten Einstellungen angibt und speichert. Um die Einstellungen zu übernehmen, können Sie das Cmdlet **Set DscLocalConfigurationManager** verwenden (siehe das folgende Beispiel).
 
 ```powershell
 Set-DscLocalConfigurationManager -Path "c:\users\public\dsc"
 ```
 
-> **Hinweis**: für die **Pfad** Parameter, geben Sie denselben Pfad, die Sie für die **OutputPath** Parameter, wenn Sie die Konfiguration im vorherigen Beispiel aufgerufen.
+> **Hinweis**: Für den **Path**-Parameter müssen Sie den Pfad angeben, den Sie für den **OutputPath**-Parameter angegeben haben, als Sie die Konfiguration im vorherigen Beispiel aufgerufen haben.
 
-Um die aktuelle lokale Configuration Manager-Einstellungen anzuzeigen, können Sie die **Get-DscLocalConfigurationManager** Cmdlet. Wenn Sie dieses Cmdlet ohne Parameter aufrufen, wird standardmäßig es die lokale Configuration Manager-Einstellungen für den Knoten erhalten auf dem er ausgeführt wird. Um einen anderen Knoten anzugeben, verwenden Sie die **CimSession** Parameter mit diesem Cmdlet.
+Mit dem Cmdlet **Get-DscLocalConfigurationManager** können Sie die aktuellen Einstellungen des lokalen Konfigurations-Managers anzeigen. Wenn Sie dieses Cmdlet ohne Parameter aufrufen, werden standardmäßig die Einstellungen des lokalen Konfigurations-Manager für den Knoten abgerufen, auf dem er ausgeführt wird. Um einen anderen Knoten anzugeben, verwenden Sie mit diesem Cmdlet den **CimSession**-Parameter.
 
+
+
+
+<!--HONumber=Oct16_HO1-->
 
 

@@ -1,8 +1,27 @@
-#Ziehen Sie die best Practices für server
+---
+title: "Bewährte Methoden für Pullserver"
+ms.date: 2016-05-16
+keywords: powershell,DSC
+description: 
+ms.topic: article
+author: eslesar
+manager: dongill
+ms.prod: powershell
+translationtype: Human Translation
+ms.sourcegitcommit: a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b
+ms.openlocfilehash: 94944d7bd265aa788b77359ad44721f79870bfa0
 
-> Gilt für: WindowsPowerShell 4.0, WindowsPowerShell 5.0
+---
 
-Die Beispiele in dieser Dokumentation sollen wird erläutert, wie PowerShell gewünscht State Configuration (DSC) pull-Servern und sind nicht in den meisten realen Fällen geeignet. Eine ausführlichere Erläuterung zum Einrichten eines Pull-Servers in einer echten Bereitstellung, finden Sie unter [Konfiguration planen und Installationshandbuch](https://github.com/PowerShell/Whitepapers/blob/master/PullServerCPIG/PullServerCPIG.md).
+# Bewährte Methoden für Pullserver
 
+>Gilt für: Windows PowerShell 4.0, Windows PowerShell 5.0
+
+In den Beispielen in dieser Dokumentation soll erläutert werden, wie PowerShell DSC-Pullserver funktionieren. Die Beispiele sind in den meisten realen praktischen Fällen nicht geeignet. Ausführlichere Informationen zum Einrichten eines Pullservers in einer realen Bereitstellung finden Sie im [Konfigurationsplanungs- und Installationshandbuch](https://github.com/PowerShell/Whitepapers/blob/master/PullServerCPIG/PullServerCPIG.md).
+
+
+
+
+<!--HONumber=Oct16_HO1-->
 
 

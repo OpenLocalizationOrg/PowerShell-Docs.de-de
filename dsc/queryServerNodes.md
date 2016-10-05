@@ -1,4 +1,19 @@
-#DSC-Funktion, die Informationen zum Knoten von Pull-Server.
+---
+title: DSC-Funktion zum Abfragen von Knoteninformationen vom Pullserver
+ms.date: 2016-05-16
+keywords: powershell,DSC
+description: 
+ms.topic: article
+author: eslesar
+manager: dongill
+ms.prod: powershell
+translationtype: Human Translation
+ms.sourcegitcommit: a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b
+ms.openlocfilehash: 02bb8458796d60991a05a8250f3bf8f3261ffce1
+
+---
+
+# DSC-Funktion zum Abfragen von Knoteninformationen vom Pullserver
 
 ```powershell
 function QueryNodeInformation
@@ -27,9 +42,9 @@ Param (
 }
 ```
 
-Ersetzen Sie die `Uri` Parameter mit dem URI für den Pull-Server. Legen Sie ggf. die Knoteninformationen im XML-Format `ContentType` auf `Application/Xml`.
+Ersetzen Sie den `Uri`-Parameter durch den URI Ihres Pullservers. Wenn Sie die Knoteninformationen im XML-Format wünschen, legen Sie `ContentType` auf `application/xml` fest.
 
-Zum Abrufen der Knoteninformationen aus der `$json` Parameter mithilfe der folgenden:
+Zum Abrufen von Knoteninformationen aus dem `$json`-Parameter verwenden Sie Folgendes:
 
 ```powershell
 $json = QueryNodeInformation –Uri http://localhost:7070/PSDSCComplianceServer.svc/Status 
@@ -38,5 +53,8 @@ $json.value | Format-Table TargetName, ConfigurationId, ServerChecksum, NodeComp
 ```
 
 
+
+
+<!--HONumber=Oct16_HO1-->
 
 

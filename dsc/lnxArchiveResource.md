@@ -1,8 +1,23 @@
-#DSC für Linux NxArchive Ressource
+---
+title: "DSC für Linux-Resource „nxArchive“"
+ms.date: 2016-05-16
+keywords: powershell,DSC
+description: 
+ms.topic: article
+author: eslesar
+manager: dongill
+ms.prod: powershell
+translationtype: Human Translation
+ms.sourcegitcommit: a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b
+ms.openlocfilehash: 2edbc1d11dfc7c84369430688a8b0d773277e864
 
-Die **NxArchive** Ressource in PowerShell gewünscht State Configuration (DSC) bietet einen Mechanismus zum Entpacken (TAR, ZIP) Archivdateien an einen bestimmten Pfad auf einem Linux-Knoten.
+---
 
-##Syntax
+# DSC für Linux-Resource „nxArchive“
+
+Die Ressource **nxArchive** in PowerShell DSC bietet einen Mechanismus zum Entpacken von Archivdateien (.tar, .zip) in einem bestimmten Pfad auf einem Linux-Knoten.
+
+## Syntax
 
 ```
 nxArchive <string> #ResourceName
@@ -16,20 +31,20 @@ nxArchive <string> #ResourceName
 }
 ```
 
-##Eigenschaften
+## Eigenschaften
 
-| Eigenschaft| Beschreibung|
+|  Eigenschaft |  Beschreibung | 
 |---|---|
-| Quellpfad| Gibt den Quellpfad der Archivdatei.Dies dürfte eine .tar ZIP- oder. weswegen-Datei.|
-| Zielpfad| Gibt den Speicherort an, wobei Sie sicherstellen möchten, dass der Archiv-Inhalt extrahiert werden.|
-| Prüfsumme| Definiert den Typ zu verwenden, wenn Sie feststellen, ob das Archiv Quelle aktualisiert wurde.Werte sind: "Ctime", "Mtime", oder "md5".Der Standardwert ist "md5".|
-| Force| Bestimmte Dateioperationen (z. B. eine Datei überschreiben oder Löschen eines Verzeichnisses, das nicht leer ist), führt zu einem Fehler.Mithilfe der **Kraft** Eigenschaft überschreibt diese Fehler.Der Standardwert ist **$false**.|
-| DependsOn| Gibt an, dass die Konfiguration von einer anderen Ressource ausgeführt werden muss, bevor diese Ressource konfiguriert wird.Z. B. wenn die **ID** der Ressource ist Configuration-Skriptblock, der ausgeführt werden soll zuerst **ResourceName** und der Typ ist **ResourceType**, die Syntax für die Verwendung dieser Eigenschaft ist `DependsOn = "[ResourceType] ResourceName"`.|
-| Stellen Sie sicher| Bestimmt, ob zum Überprüfen, ob der Inhalt des Archivs auf vorhanden ist die **Ziel**.Legen Sie diese Eigenschaft auf "Present", um sicherzustellen, dass der Inhalt vorhanden sein.Bei Einstellung auf "Abwesend", um sicherzustellen, dass sie nicht vorhanden sind.Der Standardwert ist "Present".|
+| SourcePath| Gibt den Quellpfad der Archivdatei an. Dies muss eine Datei des Typs „.tar“, „.zip“ oder „.tar.gz“ sein. | 
+| DestinationPath| Gibt den Speicherort an, an dem der Archivinhalt einer Datei extrahiert werden soll.| 
+| Checksum| Definiert den zu verwendenden Typ, wenn bestimmt wird, ob das Quellarchiv aktualisiert wurde. Werte sind: „ctime“, „mtime“ oder „md5“. Der Standardwert ist „md5“.| 
+| Force| Bestimmte Dateioperationen (z. B. das Überschreiben einer Datei oder Löschen eines Verzeichnisses, das nicht leer ist), führen zu einem Fehler. Bei Verwenden der **Force**-Eigenschaft werden solche Fehler überschrieben. Der Standardwert ist **$false**.| 
+| DependsOn | Gibt an, dass die Konfiguration einer anderen Ressource ausgeführt werden muss, bevor diese Ressource konfiguriert wird. Wenn beispielsweise die **ID** des Skriptblocks mit der Ressourcenkonfiguration, den Sie zuerst ausführen möchten, **ResourceName** und dessen Typ **ResourceType** ist, lautet die Syntax für das Verwenden dieser Eigenschaft `DependsOn = "[ResourceType]ResourceName"`.| 
+| Ensure| Bestimmt, ob geprüft wird, ob der Inhalt der Archivdatei am **Ziel** vorhanden ist. Legen Sie diese Eigenschaft auf „Present“ fest, um sicherzustellen, dass der Inhalt vorhanden ist. Legen Sie sie auf „Absent“ fest, um sicherzustellen, dass der Inhalt nicht vorhanden ist. Der Standardwert ist „Present“.| 
 
-##Beispiel
+## Beispiel
 
-Das folgende Beispiel zeigt, wie Sie die **NxArchive** Ressource, um sicherzustellen, dass der Inhalt einer Archivdatei aufgerufen `website.tar` vorhanden und werden an ein bestimmtes Ziel extrahiert.
+Im folgenden Beispiel wird veranschaulicht, wie Sie die Ressource **nxArchive** verwenden, um sicherzustellen, dass der Inhalt einer Archivdatei mit dem Namen `website.tar` vorhanden ist und an ein bestimmtes Ziel extrahiert wird.
 
 ```
 Import-DSCResource -Module nx 
@@ -53,5 +68,8 @@ nxArchive SyncWebDir
 ```
 
 
+
+
+<!--HONumber=Oct16_HO1-->
 
 
