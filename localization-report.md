@@ -588,6 +588,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [readme.c819820f6c0c5977f6238fc1bf8c76ffe64464ec.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/readme.c819820f6c0c5977f6238fc1bf8c76ffe64464ec.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [readme.c819820f6c0c5977f6238fc1bf8c76ffe64464ec.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/readme.c819820f6c0c5977f6238fc1bf8c76ffe64464ec.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='c3b8854dbecd4ab03e46c51a23ac00461bdd70147'></a> Source: [CONTRIBUTING.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/b9602cbbae4e194c33a3983e83909f21c2c53766/CONTRIBUTING.md)
@@ -849,7 +851,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [enactingConfigurations.5949c3926cc7d368fa49b0ba340a078984794e5d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/enactingConfigurations.5949c3926cc7d368fa49b0ba340a078984794e5d.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
-* Bilingual Error:[bilingual_uploading_failed](#4c802002c6a03a27d02221dd713677911a77c30b25bilingual_uploading_failed)
+* Bilingual File: [enactingConfigurations.5949c3926cc7d368fa49b0ba340a078984794e5d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/enactingConfigurations.5949c3926cc7d368fa49b0ba340a078984794e5d.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='20a7711604033b5ff1484dbb526df2642a9a173826'></a> Source: [dsc\environmentResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/environmentResource.md)
@@ -862,7 +865,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [environmentResource.eb91ffd4cd8bdb9476e5a83de1a20d3b7b502a56.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/environmentResource.eb91ffd4cd8bdb9476e5a83de1a20d3b7b502a56.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
-* Bilingual Error:[bilingual_uploading_failed](#20a7711604033b5ff1484dbb526df2642a9a173826bilingual_uploading_failed)
+* Bilingual File: [environmentResource.eb91ffd4cd8bdb9476e5a83de1a20d3b7b502a56.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/environmentResource.eb91ffd4cd8bdb9476e5a83de1a20d3b7b502a56.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='8c8fb7a40c066b048e1a54a741f4953e6b5a47b627'></a> Source: [dsc\fileResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/fileResource.md)
@@ -875,7 +879,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [fileResource.ad0d9bba41b615db808e5dfc814b50945863b3da.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/fileResource.ad0d9bba41b615db808e5dfc814b50945863b3da.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
-* Bilingual Error:[bilingual_uploading_failed](#8c8fb7a40c066b048e1a54a741f4953e6b5a47b627bilingual_uploading_failed)
+* Bilingual File: [fileResource.ad0d9bba41b615db808e5dfc814b50945863b3da.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/fileResource.ad0d9bba41b615db808e5dfc814b50945863b3da.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='c5ee7f7e7678b60700edb1ab1b66139791ea67c628'></a> Source: [dsc\gettingStarted.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/gettingStarted.md)
@@ -888,6 +893,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [gettingStarted.92e02d8bd273df5c304475a9b4fa251c22a7ea19.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/gettingStarted.92e02d8bd273df5c304475a9b4fa251c22a7ea19.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [gettingStarted.92e02d8bd273df5c304475a9b4fa251c22a7ea19.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/gettingStarted.92e02d8bd273df5c304475a9b4fa251c22a7ea19.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='446c9036989c47c03664d978a1dea4e0234ada8d29'></a> Source: [dsc\groupResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/groupResource.md)
@@ -900,7 +907,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [groupResource.d19d416269795c92566b62c36b9782062dcea43e.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/groupResource.d19d416269795c92566b62c36b9782062dcea43e.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
-* Bilingual Error:[bilingual_uploading_failed](#446c9036989c47c03664d978a1dea4e0234ada8d29bilingual_uploading_failed)
+* Bilingual File: [groupResource.d19d416269795c92566b62c36b9782062dcea43e.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/groupResource.d19d416269795c92566b62c36b9782062dcea43e.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='45fe96c43a834566d398820e3d94e3be923bb38530'></a> Source: [dsc\groupSetResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/groupSetResource.md)
@@ -913,6 +921,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [groupSetResource.afbe75c035e9c395928b5bef2a440b1aa43df798.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/groupSetResource.afbe75c035e9c395928b5bef2a440b1aa43df798.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [groupSetResource.afbe75c035e9c395928b5bef2a440b1aa43df798.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/groupSetResource.afbe75c035e9c395928b5bef2a440b1aa43df798.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='d9f53a805041164f5070845c0fd216b63d17ae5831'></a> Source: [dsc\images\CredentialEncryptionDiagram1.png](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/images/CredentialEncryptionDiagram1.png)
@@ -1000,6 +1010,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [index.087529cd8972c61293d437c5b3a72507e4d1e1d9.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/index.087529cd8972c61293d437c5b3a72507e4d1e1d9.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [index.087529cd8972c61293d437c5b3a72507e4d1e1d9.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/index.087529cd8972c61293d437c5b3a72507e4d1e1d9.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='2edbc1d11dfc7c84369430688a8b0d773277e86438'></a> Source: [dsc\lnxArchiveResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/lnxArchiveResource.md)
@@ -1012,7 +1024,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [lnxArchiveResource.095aab7d23720fd394f2573c30223a6bbcc0a4ef.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/lnxArchiveResource.095aab7d23720fd394f2573c30223a6bbcc0a4ef.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
-* Bilingual Error:[bilingual_uploading_failed](#2edbc1d11dfc7c84369430688a8b0d773277e86438bilingual_uploading_failed)
+* Bilingual File: [lnxArchiveResource.095aab7d23720fd394f2573c30223a6bbcc0a4ef.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/lnxArchiveResource.095aab7d23720fd394f2573c30223a6bbcc0a4ef.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='6b001c12885022006003ef3ffe91b7aede07bd1739'></a> Source: [dsc\lnxBuiltInResources.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/lnxBuiltInResources.md)
@@ -1025,7 +1038,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [lnxBuiltInResources.12cc0e2a7d17afe6b1e1b9c928760080863926f9.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/lnxBuiltInResources.12cc0e2a7d17afe6b1e1b9c928760080863926f9.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
-* Bilingual Error:[bilingual_uploading_failed](#6b001c12885022006003ef3ffe91b7aede07bd1739bilingual_uploading_failed)
+* Bilingual File: [lnxBuiltInResources.12cc0e2a7d17afe6b1e1b9c928760080863926f9.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/lnxBuiltInResources.12cc0e2a7d17afe6b1e1b9c928760080863926f9.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='0a7ab24ff278defd7fc0a80f1dbd45bfa0e1642740'></a> Source: [dsc\lnxEnvironmentResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/lnxEnvironmentResource.md)
@@ -1038,7 +1052,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [lnxEnvironmentResource.60c6523b1d06708f748c9039105a2042fa341552.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/lnxEnvironmentResource.60c6523b1d06708f748c9039105a2042fa341552.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
-* Bilingual Error:[bilingual_uploading_failed](#0a7ab24ff278defd7fc0a80f1dbd45bfa0e1642740bilingual_uploading_failed)
+* Bilingual File: [lnxEnvironmentResource.60c6523b1d06708f748c9039105a2042fa341552.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/lnxEnvironmentResource.60c6523b1d06708f748c9039105a2042fa341552.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='9196129e79272d8bee717ef8a5d42fb590760a0f41'></a> Source: [dsc\lnxFileLineResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/lnxFileLineResource.md)
@@ -1051,7 +1066,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [lnxFileLineResource.d91fc802a4c6cdbff5a2e35f92b34c36c6dbf5eb.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/lnxFileLineResource.d91fc802a4c6cdbff5a2e35f92b34c36c6dbf5eb.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
-* Bilingual Error:[bilingual_uploading_failed](#9196129e79272d8bee717ef8a5d42fb590760a0f41bilingual_uploading_failed)
+* Bilingual File: [lnxFileLineResource.d91fc802a4c6cdbff5a2e35f92b34c36c6dbf5eb.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/lnxFileLineResource.d91fc802a4c6cdbff5a2e35f92b34c36c6dbf5eb.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='2ba44df5dd6c91371cbbfe95d48184a4ff4a773842'></a> Source: [dsc\lnxFileResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/lnxFileResource.md)
@@ -1064,7 +1080,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [lnxFileResource.1f67ed46e7bb4ac04f73143e1d7ab7e9199d3191.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/lnxFileResource.1f67ed46e7bb4ac04f73143e1d7ab7e9199d3191.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
-* Bilingual Error:[bilingual_uploading_failed](#2ba44df5dd6c91371cbbfe95d48184a4ff4a773842bilingual_uploading_failed)
+* Bilingual File: [lnxFileResource.1f67ed46e7bb4ac04f73143e1d7ab7e9199d3191.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/lnxFileResource.1f67ed46e7bb4ac04f73143e1d7ab7e9199d3191.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='2283e797275f426b624119bd1191e58080780c0943'></a> Source: [dsc\lnxGettingStarted.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/lnxGettingStarted.md)
@@ -1077,7 +1094,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [lnxGettingStarted.1601cf6d0eb8b4f7343575c8fbf2106bfaad8b65.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/lnxGettingStarted.1601cf6d0eb8b4f7343575c8fbf2106bfaad8b65.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
-* Bilingual Error:[bilingual_uploading_failed](#2283e797275f426b624119bd1191e58080780c0943bilingual_uploading_failed)
+* Bilingual File: [lnxGettingStarted.1601cf6d0eb8b4f7343575c8fbf2106bfaad8b65.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/lnxGettingStarted.1601cf6d0eb8b4f7343575c8fbf2106bfaad8b65.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='2139e4462c0568c30b118ef6cb3ceef1717b52e644'></a> Source: [dsc\lnxGroupResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/lnxGroupResource.md)
@@ -1090,7 +1108,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [lnxGroupResource.0cedb684d797032bd47cdb852629c36da0884567.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/lnxGroupResource.0cedb684d797032bd47cdb852629c36da0884567.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
-* Bilingual Error:[bilingual_uploading_failed](#2139e4462c0568c30b118ef6cb3ceef1717b52e644bilingual_uploading_failed)
+* Bilingual File: [lnxGroupResource.0cedb684d797032bd47cdb852629c36da0884567.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/lnxGroupResource.0cedb684d797032bd47cdb852629c36da0884567.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='31867cc7af96a3d8d527f5906d77bed5206940b445'></a> Source: [dsc\lnxPackageResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/lnxPackageResource.md)
@@ -1103,7 +1122,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [lnxPackageResource.db35ab938bbfbb38cae53fe9ae98fd22b5f18009.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/lnxPackageResource.db35ab938bbfbb38cae53fe9ae98fd22b5f18009.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
-* Bilingual Error:[bilingual_uploading_failed](#31867cc7af96a3d8d527f5906d77bed5206940b445bilingual_uploading_failed)
+* Bilingual File: [lnxPackageResource.db35ab938bbfbb38cae53fe9ae98fd22b5f18009.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/lnxPackageResource.db35ab938bbfbb38cae53fe9ae98fd22b5f18009.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='4c575bbf0e0553e19e56bcc6edd605e36586cb9446'></a> Source: [dsc\lnxScriptResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/lnxScriptResource.md)
@@ -1116,7 +1136,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [lnxScriptResource.1344a5d5b807ee53705e93842d9ef5e25a883359.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/lnxScriptResource.1344a5d5b807ee53705e93842d9ef5e25a883359.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
-* Bilingual Error:[bilingual_uploading_failed](#4c575bbf0e0553e19e56bcc6edd605e36586cb9446bilingual_uploading_failed)
+* Bilingual File: [lnxScriptResource.1344a5d5b807ee53705e93842d9ef5e25a883359.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/lnxScriptResource.1344a5d5b807ee53705e93842d9ef5e25a883359.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='3835495705297616a41329bcfdaad42b464115d847'></a> Source: [dsc\lnxServiceResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/lnxServiceResource.md)
@@ -1129,7 +1150,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [lnxServiceResource.e637c7f7b18939ec8c16eadf2c42ab00e236fb7b.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/lnxServiceResource.e637c7f7b18939ec8c16eadf2c42ab00e236fb7b.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
-* Bilingual Error:[bilingual_uploading_failed](#3835495705297616a41329bcfdaad42b464115d847bilingual_uploading_failed)
+* Bilingual File: [lnxServiceResource.e637c7f7b18939ec8c16eadf2c42ab00e236fb7b.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/lnxServiceResource.e637c7f7b18939ec8c16eadf2c42ab00e236fb7b.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='edc906b4e9c925320c4ed00c5ab295189066ccb948'></a> Source: [dsc\lnxSshAuthorizedKeysResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/lnxSshAuthorizedKeysResource.md)
@@ -1142,7 +1164,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [lnxSshAuthorizedKeysResource.9a647ff238cd38a2fc7da58f3cc5682acf7d3346.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/lnxSshAuthorizedKeysResource.9a647ff238cd38a2fc7da58f3cc5682acf7d3346.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
-* Bilingual Error:[bilingual_uploading_failed](#edc906b4e9c925320c4ed00c5ab295189066ccb948bilingual_uploading_failed)
+* Bilingual File: [lnxSshAuthorizedKeysResource.9a647ff238cd38a2fc7da58f3cc5682acf7d3346.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/lnxSshAuthorizedKeysResource.9a647ff238cd38a2fc7da58f3cc5682acf7d3346.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='7813185313845b74e2a37dfa4ec6bb109f32f0eb49'></a> Source: [dsc\lnxUserResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/lnxUserResource.md)
@@ -1155,7 +1178,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [lnxUserResource.2376554a25dd8dfad6a78a6180b7c7166e4817e1.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/lnxUserResource.2376554a25dd8dfad6a78a6180b7c7166e4817e1.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
-* Bilingual Error:[bilingual_uploading_failed](#7813185313845b74e2a37dfa4ec6bb109f32f0eb49bilingual_uploading_failed)
+* Bilingual File: [lnxUserResource.2376554a25dd8dfad6a78a6180b7c7166e4817e1.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/lnxUserResource.2376554a25dd8dfad6a78a6180b7c7166e4817e1.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='60085295fa7df6179a81cd98859cd33e6923150f50'></a> Source: [dsc\logResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/logResource.md)
@@ -1168,7 +1192,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [logResource.07af9dfcf6076ef19059178c3b404762677920f0.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/logResource.07af9dfcf6076ef19059178c3b404762677920f0.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
-* Bilingual Error:[bilingual_uploading_failed](#60085295fa7df6179a81cd98859cd33e6923150f50bilingual_uploading_failed)
+* Bilingual File: [logResource.07af9dfcf6076ef19059178c3b404762677920f0.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/logResource.07af9dfcf6076ef19059178c3b404762677920f0.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='755db60abb7859af5065e2c5ddfbfc6cfb7aeeda51'></a> Source: [dsc\md.style](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/md.style)
@@ -1193,7 +1218,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [metaConfig.915dba9ed66671e4a41c35a16d5248bb4c94e3d6.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/metaConfig.915dba9ed66671e4a41c35a16d5248bb4c94e3d6.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
-* Bilingual Error:[bilingual_uploading_failed](#5d37938869a71bea0d8a6349e680411b7d0200d952bilingual_uploading_failed)
+* Bilingual File: [metaConfig.915dba9ed66671e4a41c35a16d5248bb4c94e3d6.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/metaConfig.915dba9ed66671e4a41c35a16d5248bb4c94e3d6.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='25195166f4d9dd668427d6bb5d748ef61273cdee53'></a> Source: [dsc\metaConfig4.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/metaConfig4.md)
@@ -1206,7 +1232,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [metaConfig4.4ec702d458e6574099cead724f0e57c3c5d262df.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/metaConfig4.4ec702d458e6574099cead724f0e57c3c5d262df.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
-* Bilingual Error:[bilingual_uploading_failed](#25195166f4d9dd668427d6bb5d748ef61273cdee53bilingual_uploading_failed)
+* Bilingual File: [metaConfig4.4ec702d458e6574099cead724f0e57c3c5d262df.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/metaConfig4.4ec702d458e6574099cead724f0e57c3c5d262df.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='5ccc3e7d7e0616822fead2254b5393cba068803954'></a> Source: [dsc\move\rename_troubleshooting.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/2b0179b34bb657e8969c3ce902c006a38c6372a6/dsc/move/rename_troubleshooting.md)
@@ -1219,6 +1246,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [rename_troubleshooting.4c130a5165c494568ef17f0cc6e7c9fc0caf31bc.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/rename_troubleshooting.4c130a5165c494568ef17f0cc6e7c9fc0caf31bc.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [rename_troubleshooting.4c130a5165c494568ef17f0cc6e7c9fc0caf31bc.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/rename_troubleshooting.4c130a5165c494568ef17f0cc6e7c9fc0caf31bc.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='2e2a24000cdb57fcd77fb1c9816300e3c6114f5a74'></a> Source: [dsc\msft-dsclocalconfigurationmanager.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/msft-dsclocalconfigurationmanager.md)
@@ -1447,6 +1476,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [msft-dsclocalconfigurationmanager-stopconfiguration.be28209b8b0b7015bd9b68775697d0adbb5e5ebe.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/msft-dsclocalconfigurationmanager-stopconfiguration.be28209b8b0b7015bd9b68775697d0adbb5e5ebe.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [msft-dsclocalconfigurationmanager-stopconfiguration.be28209b8b0b7015bd9b68775697d0adbb5e5ebe.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/msft-dsclocalconfigurationmanager-stopconfiguration.be28209b8b0b7015bd9b68775697d0adbb5e5ebe.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='6ee6189132ff435d3e8a3c93d154bbf301d893c173'></a> Source: [dsc\msft-dsclocalconfigurationmanager-testconfiguration.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/msft-dsclocalconfigurationmanager-testconfiguration.md)
@@ -1459,6 +1490,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [msft-dsclocalconfigurationmanager-testconfiguration.86165c8b291aa1284c070a010d1c5c22018e0c91.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/msft-dsclocalconfigurationmanager-testconfiguration.86165c8b291aa1284c070a010d1c5c22018e0c91.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [msft-dsclocalconfigurationmanager-testconfiguration.86165c8b291aa1284c070a010d1c5c22018e0c91.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/msft-dsclocalconfigurationmanager-testconfiguration.86165c8b291aa1284c070a010d1c5c22018e0c91.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='962941ba946a67256baf141bd195361c94a68f9075'></a> Source: [dsc\nanoDsc.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/nanoDsc.md)
@@ -1471,6 +1504,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [nanoDsc.aab436599c769befa85e33015714db23e0d73ae6.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/nanoDsc.aab436599c769befa85e33015714db23e0d73ae6.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [nanoDsc.aab436599c769befa85e33015714db23e0d73ae6.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/nanoDsc.aab436599c769befa85e33015714db23e0d73ae6.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='1a796658eb30bdf5c37ea3677f94767260a34b4576'></a> Source: [dsc\overview.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/overview.md)
@@ -1483,7 +1518,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [overview.8cc85dd99239e10c76baa6006d906abfd6122c3f.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/overview.8cc85dd99239e10c76baa6006d906abfd6122c3f.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
-* Bilingual Error:[bilingual_uploading_failed](#1a796658eb30bdf5c37ea3677f94767260a34b4576bilingual_uploading_failed)
+* Bilingual File: [overview.8cc85dd99239e10c76baa6006d906abfd6122c3f.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/overview.8cc85dd99239e10c76baa6006d906abfd6122c3f.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='d07b11c148dfa747b3f9c0157191b83efb6c65df77'></a> Source: [dsc\packageResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/packageResource.md)
@@ -1496,7 +1532,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [packageResource.132c4949cee174dc0dc324456d220436cb9884e6.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/packageResource.132c4949cee174dc0dc324456d220436cb9884e6.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
-* Bilingual Error:[bilingual_uploading_failed](#d07b11c148dfa747b3f9c0157191b83efb6c65df77bilingual_uploading_failed)
+* Bilingual File: [packageResource.132c4949cee174dc0dc324456d220436cb9884e6.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/packageResource.132c4949cee174dc0dc324456d220436cb9884e6.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='c5d3cb1045e67d4913fbbad13938e8f95a43cacf78'></a> Source: [dsc\partialConfigs.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/partialConfigs.md)
@@ -1509,7 +1546,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [partialConfigs.f483ab7fa1511b557780a02b5b807245f730c1b6.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/partialConfigs.f483ab7fa1511b557780a02b5b807245f730c1b6.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
-* Bilingual Error:[bilingual_uploading_failed](#c5d3cb1045e67d4913fbbad13938e8f95a43cacf78bilingual_uploading_failed)
+* Bilingual File: [partialConfigs.f483ab7fa1511b557780a02b5b807245f730c1b6.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/partialConfigs.f483ab7fa1511b557780a02b5b807245f730c1b6.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='012a0e5c4f2a1f60ecea869d588b9c54e0567ced79'></a> Source: [dsc\processSetResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/processSetResource.md)
@@ -1522,6 +1560,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [processSetResource.60397e2d80d932d8cfef1ca14f3491e355349d09.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/processSetResource.60397e2d80d932d8cfef1ca14f3491e355349d09.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [processSetResource.60397e2d80d932d8cfef1ca14f3491e355349d09.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/processSetResource.60397e2d80d932d8cfef1ca14f3491e355349d09.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='95f49fecdf13a54049caf27345d2a48c98b8f09b80'></a> Source: [dsc\pullClient.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/pullClient.md)
@@ -1534,7 +1574,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [pullClient.4844144e7d40a6e8b1be2cfaa80a5307f19f47f9.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/pullClient.4844144e7d40a6e8b1be2cfaa80a5307f19f47f9.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
-* Bilingual Error:[bilingual_uploading_failed](#95f49fecdf13a54049caf27345d2a48c98b8f09b80bilingual_uploading_failed)
+* Bilingual File: [pullClient.4844144e7d40a6e8b1be2cfaa80a5307f19f47f9.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/pullClient.4844144e7d40a6e8b1be2cfaa80a5307f19f47f9.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='f6569220fbafdba49bac9ac9dca3e6036a7aad0881'></a> Source: [dsc\pullClientConfigID.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/pullClientConfigID.md)
@@ -1547,7 +1588,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [pullClientConfigID.1b955603d220e49bbe52711bacf74c46feec04cc.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/pullClientConfigID.1b955603d220e49bbe52711bacf74c46feec04cc.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
-* Bilingual Error:[bilingual_uploading_failed](#f6569220fbafdba49bac9ac9dca3e6036a7aad0881bilingual_uploading_failed)
+* Bilingual File: [pullClientConfigID.1b955603d220e49bbe52711bacf74c46feec04cc.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/pullClientConfigID.1b955603d220e49bbe52711bacf74c46feec04cc.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='730f2f26e2811996e79cf0073a4ef65cad39068782'></a> Source: [dsc\pullClientConfigID4.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/pullClientConfigID4.md)
@@ -1560,7 +1602,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [pullClientConfigID4.3556f8028eee8a539990f2895506bcbafb14a012.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/pullClientConfigID4.3556f8028eee8a539990f2895506bcbafb14a012.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
-* Bilingual Error:[bilingual_uploading_failed](#730f2f26e2811996e79cf0073a4ef65cad39068782bilingual_uploading_failed)
+* Bilingual File: [pullClientConfigID4.3556f8028eee8a539990f2895506bcbafb14a012.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/pullClientConfigID4.3556f8028eee8a539990f2895506bcbafb14a012.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='02721f0f6f68cc78ae0430205d06f079e3e7465a83'></a> Source: [dsc\pullClientConfigNames.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/pullClientConfigNames.md)
@@ -1573,7 +1616,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [pullClientConfigNames.90531abb3b29bfd751ad2f3a115a4ba02024827e.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/pullClientConfigNames.90531abb3b29bfd751ad2f3a115a4ba02024827e.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
-* Bilingual Error:[bilingual_uploading_failed](#02721f0f6f68cc78ae0430205d06f079e3e7465a83bilingual_uploading_failed)
+* Bilingual File: [pullClientConfigNames.90531abb3b29bfd751ad2f3a115a4ba02024827e.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/pullClientConfigNames.90531abb3b29bfd751ad2f3a115a4ba02024827e.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='7bbfc31fdebdde83ac1784373b51af40b1dc949284'></a> Source: [dsc\pullServer.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/pullServer.md)
@@ -1586,7 +1630,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [pullServer.4b925b277da29998394af746bdbdd508fda48909.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/pullServer.4b925b277da29998394af746bdbdd508fda48909.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
-* Bilingual Error:[bilingual_uploading_failed](#7bbfc31fdebdde83ac1784373b51af40b1dc949284bilingual_uploading_failed)
+* Bilingual File: [pullServer.4b925b277da29998394af746bdbdd508fda48909.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/pullServer.4b925b277da29998394af746bdbdd508fda48909.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='6ab0c155299b2baaf901646f4fdd69133e9ed0ca85'></a> Source: [dsc\pullServerSMB.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/pullServerSMB.md)
@@ -1599,6 +1644,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [pullServerSMB.772aec5ae27ccb19ced78e3eb665a4e16db1c4df.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/pullServerSMB.772aec5ae27ccb19ced78e3eb665a4e16db1c4df.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [pullServerSMB.772aec5ae27ccb19ced78e3eb665a4e16db1c4df.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/pullServerSMB.772aec5ae27ccb19ced78e3eb665a4e16db1c4df.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='02bb8458796d60991a05a8250f3bf8f3261ffce186'></a> Source: [dsc\queryServerNodes.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/queryServerNodes.md)
@@ -1611,7 +1658,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [queryServerNodes.bb63da39c46de8db127c93721dcbec9b10f73d2d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/queryServerNodes.bb63da39c46de8db127c93721dcbec9b10f73d2d.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
-* Bilingual Error:[bilingual_uploading_failed](#02bb8458796d60991a05a8250f3bf8f3261ffce186bilingual_uploading_failed)
+* Bilingual File: [queryServerNodes.bb63da39c46de8db127c93721dcbec9b10f73d2d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/queryServerNodes.bb63da39c46de8db127c93721dcbec9b10f73d2d.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='48b68a99baa489dad38e7072b171db10ee0f738687'></a> Source: [dsc\registryResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/registryResource.md)
@@ -1624,7 +1672,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [registryResource.7e5e3fabff013c107bd112ac774a50c9cab7c90a.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/registryResource.7e5e3fabff013c107bd112ac774a50c9cab7c90a.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
-* Bilingual Error:[bilingual_uploading_failed](#48b68a99baa489dad38e7072b171db10ee0f738687bilingual_uploading_failed)
+* Bilingual File: [registryResource.7e5e3fabff013c107bd112ac774a50c9cab7c90a.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/registryResource.7e5e3fabff013c107bd112ac774a50c9cab7c90a.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='70e0256691416427538ec7e03aa13b739d70bec788'></a> Source: [dsc\reportServer.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/reportServer.md)
@@ -1637,6 +1686,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [reportServer.53df4bc8b7b80c0a19c11434bdf5f4304e8248f7.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/reportServer.53df4bc8b7b80c0a19c11434bdf5f4304e8248f7.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [reportServer.53df4bc8b7b80c0a19c11434bdf5f4304e8248f7.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/reportServer.53df4bc8b7b80c0a19c11434bdf5f4304e8248f7.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='b2900987b1102cf41880e5af0a0cc44bc6499ef589'></a> Source: [dsc\resourceAuthoringChecklist.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/resourceAuthoringChecklist.md)
@@ -1649,6 +1700,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [resourceAuthoringChecklist.3b9ae254d826cc45519d37d06044f28a69bdfa69.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/resourceAuthoringChecklist.3b9ae254d826cc45519d37d06044f28a69bdfa69.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [resourceAuthoringChecklist.3b9ae254d826cc45519d37d06044f28a69bdfa69.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/resourceAuthoringChecklist.3b9ae254d826cc45519d37d06044f28a69bdfa69.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='0a27a40b995393c41f0496a5f7fa3f56fbd865dd90'></a> Source: [dsc\resources.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/resources.md)
@@ -1661,7 +1714,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [resources.41990b4bc17648676f43a9aedfa72aa3db455ca3.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/resources.41990b4bc17648676f43a9aedfa72aa3db455ca3.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
-* Bilingual Error:[bilingual_uploading_failed](#0a27a40b995393c41f0496a5f7fa3f56fbd865dd90bilingual_uploading_failed)
+* Bilingual File: [resources.41990b4bc17648676f43a9aedfa72aa3db455ca3.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/resources.41990b4bc17648676f43a9aedfa72aa3db455ca3.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='dbe2c1ca2fb7dd65b49876f3bee6752ec9a24d6b91'></a> Source: [dsc\runAsUser.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/runAsUser.md)
@@ -1674,6 +1728,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [runAsUser.d2b90b6bc42ef965e454f9c9f5fd19bc7b488b34.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/runAsUser.d2b90b6bc42ef965e454f9c9f5fd19bc7b488b34.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [runAsUser.d2b90b6bc42ef965e454f9c9f5fd19bc7b488b34.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/runAsUser.d2b90b6bc42ef965e454f9c9f5fd19bc7b488b34.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='6b060d17fb106089528b0737ab03cc7d592d412a92'></a> Source: [dsc\scriptResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/scriptResource.md)
@@ -1686,7 +1742,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [scriptResource.086a4e23c7f1950435cf115060757fcd9b7f7f5d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/scriptResource.086a4e23c7f1950435cf115060757fcd9b7f7f5d.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
-* Bilingual Error:[bilingual_uploading_failed](#6b060d17fb106089528b0737ab03cc7d592d412a92bilingual_uploading_failed)
+* Bilingual File: [scriptResource.086a4e23c7f1950435cf115060757fcd9b7f7f5d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/scriptResource.086a4e23c7f1950435cf115060757fcd9b7f7f5d.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='f0aed5bb627825b74fe4df29cbe2f0bc53f90c2393'></a> Source: [dsc\secureMOF.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/secureMOF.md)
@@ -1699,7 +1756,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [secureMOF.84bae90620632fc30568f4afa595e2b86e8aa6d1.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/secureMOF.84bae90620632fc30568f4afa595e2b86e8aa6d1.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
-* Bilingual Error:[bilingual_uploading_failed](#f0aed5bb627825b74fe4df29cbe2f0bc53f90c2393bilingual_uploading_failed)
+* Bilingual File: [secureMOF.84bae90620632fc30568f4afa595e2b86e8aa6d1.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/secureMOF.84bae90620632fc30568f4afa595e2b86e8aa6d1.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='94944d7bd265aa788b77359ad44721f79870bfa094'></a> Source: [dsc\secureServer.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/secureServer.md)
@@ -1712,7 +1770,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [secureServer.ce207607010d18109152742ba23c923cd3cddba2.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/secureServer.ce207607010d18109152742ba23c923cd3cddba2.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
-* Bilingual Error:[bilingual_uploading_failed](#94944d7bd265aa788b77359ad44721f79870bfa094bilingual_uploading_failed)
+* Bilingual File: [secureServer.ce207607010d18109152742ba23c923cd3cddba2.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/secureServer.ce207607010d18109152742ba23c923cd3cddba2.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='10123359213df7180388d9251e032c2bbb67314395'></a> Source: [dsc\serviceResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/serviceResource.md)
@@ -1725,7 +1784,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [serviceResource.17d839ef9952ec1a45ba971fcff47a80c41593cf.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/serviceResource.17d839ef9952ec1a45ba971fcff47a80c41593cf.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
-* Bilingual Error:[bilingual_uploading_failed](#10123359213df7180388d9251e032c2bbb67314395bilingual_uploading_failed)
+* Bilingual File: [serviceResource.17d839ef9952ec1a45ba971fcff47a80c41593cf.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/serviceResource.17d839ef9952ec1a45ba971fcff47a80c41593cf.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='871d697626a0376e8f1f27bdbbf16d8612a56a7996'></a> Source: [dsc\serviceSetResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/serviceSetResource.md)
@@ -1738,6 +1798,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [serviceSetResource.c1edeeade2463ce743d694544d750debeebfdccd.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/serviceSetResource.c1edeeade2463ce743d694544d750debeebfdccd.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [serviceSetResource.c1edeeade2463ce743d694544d750debeebfdccd.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/serviceSetResource.c1edeeade2463ce743d694544d750debeebfdccd.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='7c7b9e473dfda7bd56be5b569fdde5b8575417fd97'></a> Source: [dsc\singleInstance.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/singleInstance.md)
@@ -1750,6 +1812,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [singleInstance.4f8933068a5f26b35ccecf08382837dc04056f86.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/singleInstance.4f8933068a5f26b35ccecf08382837dc04056f86.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [singleInstance.4f8933068a5f26b35ccecf08382837dc04056f86.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/singleInstance.4f8933068a5f26b35ccecf08382837dc04056f86.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='b94ed3942916030f8c3115c0f7c5baf217dbae4c98'></a> Source: [dsc\Sonja_in_dsc_folder.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/4d7c513d661eecaff9ae3435358d6fc66dc420ce/dsc/Sonja_in_dsc_folder.md)
@@ -1762,6 +1826,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Sonja_in_dsc_folder.9fced11a4d3bd93bff93f7067a2b176a308a36ce.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Sonja_in_dsc_folder.9fced11a4d3bd93bff93f7067a2b176a308a36ce.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [Sonja_in_dsc_folder.9fced11a4d3bd93bff93f7067a2b176a308a36ce.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Sonja_in_dsc_folder.9fced11a4d3bd93bff93f7067a2b176a308a36ce.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='716ecd9b14976dd70b69a740850ab5367038795699'></a> Source: [dsc\sxsResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/sxsResource.md)
@@ -1774,6 +1840,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [sxsResource.835258073c6738946b31509359c72fa70af35ce2.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/sxsResource.835258073c6738946b31509359c72fa70af35ce2.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [sxsResource.835258073c6738946b31509359c72fa70af35ce2.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/sxsResource.835258073c6738946b31509359c72fa70af35ce2.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='e60976865fe9b1b0115509c66b9973dea16992ec100'></a> Source: [dsc\Test1\MoraviaDemo.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/b55a68d179ab003b414a0ab6459fdd2923ab108c/dsc/Test1/MoraviaDemo.md)
@@ -1798,6 +1866,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [OpenLoc ROCKS.ac3ecff61703b5a6c0e8f6ae2b1e10c3a845cc67.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/OpenLoc%20ROCKS.ac3ecff61703b5a6c0e8f6ae2b1e10c3a845cc67.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [OpenLoc ROCKS.ac3ecff61703b5a6c0e8f6ae2b1e10c3a845cc67.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/OpenLoc%20ROCKS.ac3ecff61703b5a6c0e8f6ae2b1e10c3a845cc67.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='a659f12ae049937714da659dd95d40ea9774222c102'></a> Source: [dsc\Test1\SonjaFileToo.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/2b1b0b4a9a3f8d40903c732762b4dbd74bf69673/dsc/Test1/SonjaFileToo.md)
@@ -1810,6 +1880,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [SonjaFileToo.200fe5c96e02b06bc5f8a666c8090d57bedd4415.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/SonjaFileToo.200fe5c96e02b06bc5f8a666c8090d57bedd4415.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [SonjaFileToo.200fe5c96e02b06bc5f8a666c8090d57bedd4415.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/SonjaFileToo.200fe5c96e02b06bc5f8a666c8090d57bedd4415.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='d4e485c4e2461db1b7cca67d12d1a7dd331996a6103'></a> Source: [dsc\testmove2\overview-test2.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/bd0dec04ca7fac2de45f4b0e2e61ab395586aaaf/dsc/testmove2/overview-test2.md)
@@ -1822,6 +1894,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [overview-test2.b82580217442d4533cc66897b1a1a51a6f090168.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/overview-test2.b82580217442d4533cc66897b1a1a51a6f090168.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [overview-test2.b82580217442d4533cc66897b1a1a51a6f090168.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/overview-test2.b82580217442d4533cc66897b1a1a51a6f090168.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='924d5878a6d93e846adbd9cb4c69bea79e104bcd104'></a> Source: [dsc\TOC.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/TOC.md)
@@ -1834,7 +1908,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [TOC.b2a7935bce42ebc7e43bfe65f3058900e2942427.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/TOC.b2a7935bce42ebc7e43bfe65f3058900e2942427.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
-* Bilingual Error:[bilingual_uploading_failed](#924d5878a6d93e846adbd9cb4c69bea79e104bcd104bilingual_uploading_failed)
+* Bilingual File: [TOC.b2a7935bce42ebc7e43bfe65f3058900e2942427.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/TOC.b2a7935bce42ebc7e43bfe65f3058900e2942427.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='4830be14b105485c50446f06e9d36491b4c4fe44105'></a> Source: [dsc\troubleshooting.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/troubleshooting.md)
@@ -1850,7 +1925,8 @@
 * Current Target File: [dsc\troubleshooting.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs.de-de/blob/29047b489527448917393f3232693dface49b370/dsc/troubleshooting.md)
 * Current Handback File: [rename_troubleshooting.4c130a5165c494568ef17f0cc6e7c9fc0caf31bc.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/rename_troubleshooting.4c130a5165c494568ef17f0cc6e7c9fc0caf31bc.de-de.xlf)
 * Current Handback Datetime: 2016-10-05 16:29:21
-* Bilingual Error:[bilingual_uploading_failed](#4830be14b105485c50446f06e9d36491b4c4fe44105bilingual_uploading_failed)
+* Bilingual File: [rename_troubleshooting.4c130a5165c494568ef17f0cc6e7c9fc0caf31bc.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/rename_troubleshooting.4c130a5165c494568ef17f0cc6e7c9fc0caf31bc.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='5c7878bdfc8a3f118b569a9e43be6c7e4333ad2c106'></a> Source: [dsc\userResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/userResource.md)
@@ -1863,7 +1939,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [userResource.5de4fbe03e9e06934442ba451eb0564931863f45.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/userResource.5de4fbe03e9e06934442ba451eb0564931863f45.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
-* Bilingual Error:[bilingual_uploading_failed](#5c7878bdfc8a3f118b569a9e43be6c7e4333ad2c106bilingual_uploading_failed)
+* Bilingual File: [userResource.5de4fbe03e9e06934442ba451eb0564931863f45.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/userResource.5de4fbe03e9e06934442ba451eb0564931863f45.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='434ebc17f2bc7b7ee868788e87dc5b34cef61529107'></a> Source: [dsc\whitepapers.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/whitepapers.md)
@@ -1876,6 +1953,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [whitepapers.40273d6b9e10f219b68cfb2a8802aec2c9f891cc.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/whitepapers.40273d6b9e10f219b68cfb2a8802aec2c9f891cc.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [whitepapers.40273d6b9e10f219b68cfb2a8802aec2c9f891cc.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/whitepapers.40273d6b9e10f219b68cfb2a8802aec2c9f891cc.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='522dbea958a60f76e98abe32e11e6491ea6d457c108'></a> Source: [dsc\windowsfeatureResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/windowsfeatureResource.md)
@@ -1888,7 +1967,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [windowsfeatureResource.07b968eb71ba947a4bf5fa25add8a0e2c25bcadf.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/windowsfeatureResource.07b968eb71ba947a4bf5fa25add8a0e2c25bcadf.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
-* Bilingual Error:[bilingual_uploading_failed](#522dbea958a60f76e98abe32e11e6491ea6d457c108bilingual_uploading_failed)
+* Bilingual File: [windowsfeatureResource.07b968eb71ba947a4bf5fa25add8a0e2c25bcadf.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/windowsfeatureResource.07b968eb71ba947a4bf5fa25add8a0e2c25bcadf.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='df6869cdf1d1f6c823704e4de2882e90cb672ad2109'></a> Source: [dsc\windowsFeatureSetResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/windowsFeatureSetResource.md)
@@ -1901,6 +1981,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [windowsFeatureSetResource.19493960ded52f96e5dc63665e19551966b90c07.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/windowsFeatureSetResource.19493960ded52f96e5dc63665e19551966b90c07.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [windowsFeatureSetResource.19493960ded52f96e5dc63665e19551966b90c07.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/windowsFeatureSetResource.19493960ded52f96e5dc63665e19551966b90c07.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='1254037b655a3160c90e69971c9faf061f205917110'></a> Source: [dsc\windowsOptionalFeatureResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/windowsOptionalFeatureResource.md)
@@ -1913,6 +1995,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [windowsOptionalFeatureResource.40ddc395f8879ed2dc4dcabb138c55bf390ba606.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/windowsOptionalFeatureResource.40ddc395f8879ed2dc4dcabb138c55bf390ba606.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [windowsOptionalFeatureResource.40ddc395f8879ed2dc4dcabb138c55bf390ba606.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/windowsOptionalFeatureResource.40ddc395f8879ed2dc4dcabb138c55bf390ba606.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='52eb958e59ecb1d5ae3faf268933bbd544410d47111'></a> Source: [dsc\windowsOptionalFeatureSetResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/windowsOptionalFeatureSetResource.md)
@@ -1925,6 +2009,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [windowsOptionalFeatureSetResource.225a3214b6ca44eb5e7a48cfa85be1030d97b84c.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/windowsOptionalFeatureSetResource.225a3214b6ca44eb5e7a48cfa85be1030d97b84c.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [windowsOptionalFeatureSetResource.225a3214b6ca44eb5e7a48cfa85be1030d97b84c.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/windowsOptionalFeatureSetResource.225a3214b6ca44eb5e7a48cfa85be1030d97b84c.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='0fe5e7d9679d44bb50c897badf8c6517b95049e2112'></a> Source: [dsc\windowsProcessResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/windowsProcessResource.md)
@@ -1937,7 +2023,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [windowsProcessResource.d5014f2fde06deea365cd1e64a3587c037999fa7.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/windowsProcessResource.d5014f2fde06deea365cd1e64a3587c037999fa7.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
-* Bilingual Error:[bilingual_uploading_failed](#0fe5e7d9679d44bb50c897badf8c6517b95049e2112bilingual_uploading_failed)
+* Bilingual File: [windowsProcessResource.d5014f2fde06deea365cd1e64a3587c037999fa7.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/windowsProcessResource.d5014f2fde06deea365cd1e64a3587c037999fa7.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='3276c3869fe976285a2c1b6321a02a0440bc304b113'></a> Source: [gallery\docfx.json](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/gallery/docfx.json)
@@ -1962,6 +2049,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [index.fb851c60ffb7fc30c83dbadbcac26716f6e1f16d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/index.fb851c60ffb7fc30c83dbadbcac26716f6e1f16d.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [index.fb851c60ffb7fc30c83dbadbcac26716f6e1f16d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/index.fb851c60ffb7fc30c83dbadbcac26716f6e1f16d.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='443d343d6f5c79c562e36ba59cd822d990de8715115'></a> Source: [gallery\psgallery\contributing_to_psgallery_documentation.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/gallery/psgallery/contributing_to_psgallery_documentation.md)
@@ -2076,6 +2165,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Item-Conventions.0b4ea1accc4e55f573635809d84bd7ff26d817bb.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Item-Conventions.0b4ea1accc4e55f573635809d84bd7ff26d817bb.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [Item-Conventions.0b4ea1accc4e55f573635809d84bd7ff26d817bb.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Item-Conventions.0b4ea1accc4e55f573635809d84bd7ff26d817bb.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='07164bab5e12283899be2453e644bba1b2d3b40f124'></a> Source: [gallery\psgallery\Managing-Item-Owners.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/gallery/psgallery/Managing-Item-Owners.md)
@@ -2088,6 +2179,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Managing-Item-Owners.20ba127bece18032f9becaca9900f96afe54a89f.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Managing-Item-Owners.20ba127bece18032f9becaca9900f96afe54a89f.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [Managing-Item-Owners.20ba127bece18032f9becaca9900f96afe54a89f.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Managing-Item-Owners.20ba127bece18032f9becaca9900f96afe54a89f.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='de3ce3368ffbeb93bbead9d3665009c0a847feac125'></a> Source: [gallery\psgallery\PackageManagement_Architecture .md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/gallery/psgallery/PackageManagement_Architecture%20.md)
@@ -2100,6 +2193,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [PackageManagement_Architecture .342c41f221a468f60c1ece4ef6d32b4005ca3c94.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/PackageManagement_Architecture%20.342c41f221a468f60c1ece4ef6d32b4005ca3c94.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [PackageManagement_Architecture .342c41f221a468f60c1ece4ef6d32b4005ca3c94.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/PackageManagement_Architecture%20.342c41f221a468f60c1ece4ef6d32b4005ca3c94.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='4f32e7549f71f17125d758704776e75f0ffaaaf1126'></a> Source: [gallery\psgallery\psgallery_contacting_administrators.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/gallery/psgallery/psgallery_contacting_administrators.md)
@@ -2112,6 +2207,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psgallery_contacting_administrators.41f40e7fb08ba4dd79a654acff84cf3c9dfa58ba.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psgallery_contacting_administrators.41f40e7fb08ba4dd79a654acff84cf3c9dfa58ba.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [psgallery_contacting_administrators.41f40e7fb08ba4dd79a654acff84cf3c9dfa58ba.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psgallery_contacting_administrators.41f40e7fb08ba4dd79a654acff84cf3c9dfa58ba.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='84732e3f6e27904ae4cafae155c10c9eb0851be1127'></a> Source: [gallery\psgallery\psgallery_contacting_item_owners.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/gallery/psgallery/psgallery_contacting_item_owners.md)
@@ -2124,6 +2221,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psgallery_contacting_item_owners.879cc50a48f278046286c3aa1d93362e5de5487c.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psgallery_contacting_item_owners.879cc50a48f278046286c3aa1d93362e5de5487c.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [psgallery_contacting_item_owners.879cc50a48f278046286c3aa1d93362e5de5487c.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psgallery_contacting_item_owners.879cc50a48f278046286c3aa1d93362e5de5487c.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='ee43e20b0f83cef6940e2fb05eae6c1eea9597d6128'></a> Source: [gallery\psgallery\psgallery_deploy_to_azure_automation.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/gallery/psgallery/psgallery_deploy_to_azure_automation.md)
@@ -2136,6 +2235,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psgallery_deploy_to_azure_automation.e2979f4b7a0b957862c90510816406977e8c9b76.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psgallery_deploy_to_azure_automation.e2979f4b7a0b957862c90510816406977e8c9b76.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [psgallery_deploy_to_azure_automation.e2979f4b7a0b957862c90510816406977e8c9b76.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psgallery_deploy_to_azure_automation.e2979f4b7a0b957862c90510816406977e8c9b76.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='0870a1ab7d5ce1e2f9fc2896e9078e6eec019850129'></a> Source: [gallery\psgallery\psgallery_dispute_resolution.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/gallery/psgallery/psgallery_dispute_resolution.md)
@@ -2148,6 +2249,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psgallery_dispute_resolution.ba69142619a5afc5edcb5b709129031b83c160f1.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psgallery_dispute_resolution.ba69142619a5afc5edcb5b709129031b83c160f1.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [psgallery_dispute_resolution.ba69142619a5afc5edcb5b709129031b83c160f1.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psgallery_dispute_resolution.ba69142619a5afc5edcb5b709129031b83c160f1.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='754f044d585332a008e2c09a1cba466937f22c59130'></a> Source: [gallery\psgallery\psgallery_faqs.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/gallery/psgallery/psgallery_faqs.md)
@@ -2160,6 +2263,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psgallery_faqs.9936554d7bbcd962f197ee765347ad8d8229fc8e.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psgallery_faqs.9936554d7bbcd962f197ee765347ad8d8229fc8e.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [psgallery_faqs.9936554d7bbcd962f197ee765347ad8d8229fc8e.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psgallery_faqs.9936554d7bbcd962f197ee765347ad8d8229fc8e.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='f6f6e5a827e4cd86538d30bd003bca805a1b77eb131'></a> Source: [gallery\psgallery\psgallery_filelist_feature.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/gallery/psgallery/psgallery_filelist_feature.md)
@@ -2172,6 +2277,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psgallery_filelist_feature.c8733fb578a6ace43988accf420d565d48e328c1.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psgallery_filelist_feature.c8733fb578a6ace43988accf420d565d48e328c1.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [psgallery_filelist_feature.c8733fb578a6ace43988accf420d565d48e328c1.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psgallery_filelist_feature.c8733fb578a6ace43988accf420d565d48e328c1.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='0047438f30836ed0e0a365c3536803655b5b7f15132'></a> Source: [gallery\psgallery\psgallery_gettingstarted.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/gallery/psgallery/psgallery_gettingstarted.md)
@@ -2184,6 +2291,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psgallery_gettingstarted.a7579de98fd8f80af14a1190c18e388a9f1b7b5d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psgallery_gettingstarted.a7579de98fd8f80af14a1190c18e388a9f1b7b5d.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [psgallery_gettingstarted.a7579de98fd8f80af14a1190c18e388a9f1b7b5d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psgallery_gettingstarted.a7579de98fd8f80af14a1190c18e388a9f1b7b5d.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='5dfe29ae2e7d78e014f19b77f65c998bf51ff7eb133'></a> Source: [gallery\psgallery\psgallery_items_tab.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/gallery/psgallery/psgallery_items_tab.md)
@@ -2196,6 +2305,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psgallery_items_tab.0ac50d5feec810e8ee6144dc338c29ecef03b21c.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psgallery_items_tab.0ac50d5feec810e8ee6144dc338c29ecef03b21c.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [psgallery_items_tab.0ac50d5feec810e8ee6144dc338c29ecef03b21c.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psgallery_items_tab.0ac50d5feec810e8ee6144dc338c29ecef03b21c.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='b0e587f6951e31a17fc6c6b32cf935471cd1ebf1134'></a> Source: [gallery\psgallery\psgallery_pseditions.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/gallery/psgallery/psgallery_pseditions.md)
@@ -2208,6 +2319,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psgallery_pseditions.47eae496f0d2e1a8a89cdc1b5e162b06537c49f2.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psgallery_pseditions.47eae496f0d2e1a8a89cdc1b5e162b06537c49f2.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [psgallery_pseditions.47eae496f0d2e1a8a89cdc1b5e162b06537c49f2.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psgallery_pseditions.47eae496f0d2e1a8a89cdc1b5e162b06537c49f2.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='f8d750bc1cbb14385a72863b4f9755f202be7e19135'></a> Source: [gallery\psgallery\psgallery_report_abuse.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/gallery/psgallery/psgallery_report_abuse.md)
@@ -2220,6 +2333,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psgallery_report_abuse.3f860a2396f730d382f058a733388b2f335474ed.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psgallery_report_abuse.3f860a2396f730d382f058a733388b2f335474ed.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [psgallery_report_abuse.3f860a2396f730d382f058a733388b2f335474ed.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psgallery_report_abuse.3f860a2396f730d382f058a733388b2f335474ed.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='125d3c7fc9a4035f3b6788bd373a4816fcfde671136'></a> Source: [gallery\psgallery\psgallery_scriptanalyzer_rule_profile.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/gallery/psgallery/psgallery_scriptanalyzer_rule_profile.md)
@@ -2232,6 +2347,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psgallery_scriptanalyzer_rule_profile.98c3a6dcf8fe89c995556d884ceab6f6c6b3248b.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psgallery_scriptanalyzer_rule_profile.98c3a6dcf8fe89c995556d884ceab6f6c6b3248b.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [psgallery_scriptanalyzer_rule_profile.98c3a6dcf8fe89c995556d884ceab6f6c6b3248b.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psgallery_scriptanalyzer_rule_profile.98c3a6dcf8fe89c995556d884ceab6f6c6b3248b.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='9a858cfc303cac6f9f2f23c01c1d8a753a69dc7c137'></a> Source: [gallery\psgallery\psgallery_search_syntax.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/gallery/psgallery/psgallery_search_syntax.md)
@@ -2244,6 +2361,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psgallery_search_syntax.2ad9cca6d84dc286f08b0d6be94f966fa217d374.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psgallery_search_syntax.2ad9cca6d84dc286f08b0d6be94f966fa217d374.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [psgallery_search_syntax.2ad9cca6d84dc286f08b0d6be94f966fa217d374.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psgallery_search_syntax.2ad9cca6d84dc286f08b0d6be94f966fa217d374.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='a2c0b6a6ec4f10808734b38e9806cf3d0a730fbf138'></a> Source: [gallery\psgallery\psgallery_status.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/gallery/psgallery/psgallery_status.md)
@@ -2256,6 +2375,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psgallery_status.43e5d34bc9b2d2226db15076a08fe9fe163295bb.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psgallery_status.43e5d34bc9b2d2226db15076a08fe9fe163295bb.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [psgallery_status.43e5d34bc9b2d2226db15076a08fe9fe163295bb.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psgallery_status.43e5d34bc9b2d2226db15076a08fe9fe163295bb.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='fb5220e909dfc76583ab4834f4297b34cf990736139'></a> Source: [gallery\psgallery\psgallery_unlist_items.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/gallery/psgallery/psgallery_unlist_items.md)
@@ -2268,6 +2389,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psgallery_unlist_items.c79b85956c8d0a667dcbd8267f56bd1ff22c2495.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psgallery_unlist_items.c79b85956c8d0a667dcbd8267f56bd1ff22c2495.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [psgallery_unlist_items.c79b85956c8d0a667dcbd8267f56bd1ff22c2495.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psgallery_unlist_items.c79b85956c8d0a667dcbd8267f56bd1ff22c2495.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='41905ee6ef4c6b0afc41b1c68c84db27e19df2fd140'></a> Source: [gallery\psgallery\psgalleryint_status.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/gallery/psgallery/psgalleryint_status.md)
@@ -2280,6 +2403,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psgalleryint_status.9eaa96ce82dbb222fe7efca3f89ae756378ba02c.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psgalleryint_status.9eaa96ce82dbb222fe7efca3f89ae756378ba02c.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [psgalleryint_status.9eaa96ce82dbb222fe7efca3f89ae756378ba02c.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psgalleryint_status.9eaa96ce82dbb222fe7efca3f89ae756378ba02c.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='57218c316b6921e2cd61027a2387edc31a2d9471141'></a> Source: [gallery\psgallery\Setting-Up-Local-Gallery.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/gallery/psgallery/Setting-Up-Local-Gallery.md)
@@ -2292,6 +2417,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Item-Conventions.0b4ea1accc4e55f573635809d84bd7ff26d817bb.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Item-Conventions.0b4ea1accc4e55f573635809d84bd7ff26d817bb.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [Item-Conventions.0b4ea1accc4e55f573635809d84bd7ff26d817bb.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Item-Conventions.0b4ea1accc4e55f573635809d84bd7ff26d817bb.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='57218c316b6921e2cd61027a2387edc31a2d9471142'></a> Source: [gallery\psget\module\Dependency_Versioning.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/gallery/psget/module/Dependency_Versioning.md)
@@ -2304,6 +2431,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Item-Conventions.0b4ea1accc4e55f573635809d84bd7ff26d817bb.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Item-Conventions.0b4ea1accc4e55f573635809d84bd7ff26d817bb.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [Item-Conventions.0b4ea1accc4e55f573635809d84bd7ff26d817bb.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Item-Conventions.0b4ea1accc4e55f573635809d84bd7ff26d817bb.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='57218c316b6921e2cd61027a2387edc31a2d9471143'></a> Source: [gallery\psget\module\Module_Versioning.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/gallery/psget/module/Module_Versioning.md)
@@ -2316,6 +2445,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Item-Conventions.0b4ea1accc4e55f573635809d84bd7ff26d817bb.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Item-Conventions.0b4ea1accc4e55f573635809d84bd7ff26d817bb.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [Item-Conventions.0b4ea1accc4e55f573635809d84bd7ff26d817bb.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Item-Conventions.0b4ea1accc4e55f573635809d84bd7ff26d817bb.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='57218c316b6921e2cd61027a2387edc31a2d9471144'></a> Source: [gallery\psget\module\ModuleManifest-Reference.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/gallery/psget/module/ModuleManifest-Reference.md)
@@ -2328,6 +2459,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Item-Conventions.0b4ea1accc4e55f573635809d84bd7ff26d817bb.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Item-Conventions.0b4ea1accc4e55f573635809d84bd7ff26d817bb.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [Item-Conventions.0b4ea1accc4e55f573635809d84bd7ff26d817bb.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Item-Conventions.0b4ea1accc4e55f573635809d84bd7ff26d817bb.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='7b8d135889378be56d0d6d5b9dc89c55f2b1e68f145'></a> Source: [gallery\psget\module\modulewithpseditionsupport.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/gallery/psget/module/modulewithpseditionsupport.md)
@@ -2352,6 +2485,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psget_find-command.b3356b5b6a79b1ff49d91d1f792d3b4ef87eaf81.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_find-command.b3356b5b6a79b1ff49d91d1f792d3b4ef87eaf81.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [psget_find-command.b3356b5b6a79b1ff49d91d1f792d3b4ef87eaf81.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_find-command.b3356b5b6a79b1ff49d91d1f792d3b4ef87eaf81.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='37a68f593be6b7b6b97656f84ff7dac034b12a32147'></a> Source: [gallery\psget\module\psget_find-dscresource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/gallery/psget/module/psget_find-dscresource.md)
@@ -2364,6 +2499,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psget_find-dscresource.74434d77ca442df5fc85ed3f7a15e515ff7023d8.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_find-dscresource.74434d77ca442df5fc85ed3f7a15e515ff7023d8.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [psget_find-dscresource.74434d77ca442df5fc85ed3f7a15e515ff7023d8.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_find-dscresource.74434d77ca442df5fc85ed3f7a15e515ff7023d8.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='169c83a1b2af2131b8c52e36d03563b8ed2bc8fb148'></a> Source: [gallery\psget\module\psget_find-module.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/gallery/psget/module/psget_find-module.md)
@@ -2376,6 +2513,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psget_find-module.270b9c3fc401673cea5fc23ad87e32deca5817d2.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_find-module.270b9c3fc401673cea5fc23ad87e32deca5817d2.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [psget_find-module.270b9c3fc401673cea5fc23ad87e32deca5817d2.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_find-module.270b9c3fc401673cea5fc23ad87e32deca5817d2.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='34220e3fcf97066fc3c2a1253d98ab5dead14441149'></a> Source: [gallery\psget\module\psget_find-rolecapability.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/gallery/psget/module/psget_find-rolecapability.md)
@@ -2388,6 +2527,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psget_find-rolecapability.08b15c1f2b389d54fae8fb0887ac941bef802fb5.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_find-rolecapability.08b15c1f2b389d54fae8fb0887ac941bef802fb5.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [psget_find-rolecapability.08b15c1f2b389d54fae8fb0887ac941bef802fb5.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_find-rolecapability.08b15c1f2b389d54fae8fb0887ac941bef802fb5.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='53873c0071914bb833bce476a9436a07308ddcf1150'></a> Source: [gallery\psget\module\psget_get-installedmodule.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/gallery/psget/module/psget_get-installedmodule.md)
@@ -2400,6 +2541,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psget_get-installedmodule.7abdd8248f452c923fa8ef8700f392ca4b23f5d9.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_get-installedmodule.7abdd8248f452c923fa8ef8700f392ca4b23f5d9.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [psget_get-installedmodule.7abdd8248f452c923fa8ef8700f392ca4b23f5d9.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_get-installedmodule.7abdd8248f452c923fa8ef8700f392ca4b23f5d9.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='f61d83c2cc12babccbdb75e6ae334b1f90de1bd6151'></a> Source: [gallery\psget\module\psget_install-module.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/gallery/psget/module/psget_install-module.md)
@@ -2412,6 +2555,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psget_install-module.f4cfd4f184f0eeebe860da9212ff967e277e21a5.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_install-module.f4cfd4f184f0eeebe860da9212ff967e277e21a5.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [psget_install-module.f4cfd4f184f0eeebe860da9212ff967e277e21a5.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_install-module.f4cfd4f184f0eeebe860da9212ff967e277e21a5.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='8187835b0b24800dd11656f3d37809d6774985ae152'></a> Source: [gallery\psget\module\psget_module_creation.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/gallery/psget/module/psget_module_creation.md)
@@ -2424,6 +2569,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psget_module_creation.a16430a8d4ade02e72b89546dcaee0c50e2786a0.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_module_creation.a16430a8d4ade02e72b89546dcaee0c50e2786a0.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [psget_module_creation.a16430a8d4ade02e72b89546dcaee0c50e2786a0.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_module_creation.a16430a8d4ade02e72b89546dcaee0c50e2786a0.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='16a29f1802b653a2eb7daa4ef8cf3f0c0bf4e7b8153'></a> Source: [gallery\psget\module\psget_moduledependencypopulation.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/gallery/psget/module/psget_moduledependencypopulation.md)
@@ -2436,6 +2583,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psget_moduledependencypopulation.5da558eb97752d04da4fcb52e2fc38ce86c8b234.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_moduledependencypopulation.5da558eb97752d04da4fcb52e2fc38ce86c8b234.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [psget_moduledependencypopulation.5da558eb97752d04da4fcb52e2fc38ce86c8b234.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_moduledependencypopulation.5da558eb97752d04da4fcb52e2fc38ce86c8b234.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='e28f84eefbd5ec1636f93ad736c5a90922c7ed69154'></a> Source: [gallery\psget\module\psget_publish-module.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/gallery/psget/module/psget_publish-module.md)
@@ -2448,6 +2597,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psget_publish-module.6078c450e3d6bd80e07eee8519e3c0235a08fb71.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_publish-module.6078c450e3d6bd80e07eee8519e3c0235a08fb71.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [psget_publish-module.6078c450e3d6bd80e07eee8519e3c0235a08fb71.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_publish-module.6078c450e3d6bd80e07eee8519e3c0235a08fb71.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='07ccbc92a07736d183f22d909031dc21239f5fb0155'></a> Source: [gallery\psget\module\psget_save-module.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/gallery/psget/module/psget_save-module.md)
@@ -2460,6 +2611,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psget_save-module.2b8da60d8f6dd2c31ebd70b8e36fa3643c0d61b2.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_save-module.2b8da60d8f6dd2c31ebd70b8e36fa3643c0d61b2.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [psget_save-module.2b8da60d8f6dd2c31ebd70b8e36fa3643c0d61b2.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_save-module.2b8da60d8f6dd2c31ebd70b8e36fa3643c0d61b2.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='fd8fb43d6b84930b2f8ed2b38ce624c7c56741f3156'></a> Source: [gallery\psget\module\psget_uninstall-module.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/gallery/psget/module/psget_uninstall-module.md)
@@ -2472,6 +2625,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psget_uninstall-module.2ff9b56344a8980b87b97c370ff24d4c6a73252b.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_uninstall-module.2ff9b56344a8980b87b97c370ff24d4c6a73252b.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [psget_uninstall-module.2ff9b56344a8980b87b97c370ff24d4c6a73252b.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_uninstall-module.2ff9b56344a8980b87b97c370ff24d4c6a73252b.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='e626a05a595a39936fa328ad0ddc750c6626e385157'></a> Source: [gallery\psget\module\psget_update-module.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/gallery/psget/module/psget_update-module.md)
@@ -2484,6 +2639,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psget_update-module.2d0282a36df18dbd3a59a1dc1599cc6b387e8937.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_update-module.2d0282a36df18dbd3a59a1dc1599cc6b387e8937.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [psget_update-module.2d0282a36df18dbd3a59a1dc1599cc6b387e8937.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_update-module.2d0282a36df18dbd3a59a1dc1599cc6b387e8937.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='967d85a99256f5f4347aeec1b5f9dad3eca7a939158'></a> Source: [gallery\psget\module\psget_update-modulemanifest.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/gallery/psget/module/psget_update-modulemanifest.md)
@@ -2496,6 +2653,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psget_update-modulemanifest.2981886a11920629e4c99defd10eab3d58bedbca.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_update-modulemanifest.2981886a11920629e4c99defd10eab3d58bedbca.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [psget_update-modulemanifest.2981886a11920629e4c99defd10eab3d58bedbca.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_update-modulemanifest.2981886a11920629e4c99defd10eab3d58bedbca.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='fa82b0da9834e0e9b4f75a1c92cbcbe831a392e3159'></a> Source: [gallery\psget\oneget\PackageManagement_cmdlets.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/gallery/psget/oneget/PackageManagement_cmdlets.md)
@@ -2508,6 +2667,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [PackageManagement_cmdlets.9f11db2263b0255a17ca299d2a07bfdbd7aa5009.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/PackageManagement_cmdlets.9f11db2263b0255a17ca299d2a07bfdbd7aa5009.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [PackageManagement_cmdlets.9f11db2263b0255a17ca299d2a07bfdbd7aa5009.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/PackageManagement_cmdlets.9f11db2263b0255a17ca299d2a07bfdbd7aa5009.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='924dbaea9725bed776c7802a78968aafe21b33b8160'></a> Source: [gallery\psget\overview.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/gallery/psget/overview.md)
@@ -2520,6 +2681,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [overview.a9e55060e0d4875447746863a472c8b87caaccf3.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/overview.a9e55060e0d4875447746863a472c8b87caaccf3.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [overview.a9e55060e0d4875447746863a472c8b87caaccf3.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/overview.a9e55060e0d4875447746863a472c8b87caaccf3.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='7c86beac71d47aa2da11691f8c325c3c80d9923d161'></a> Source: [gallery\psget\psget_cmdlets_reference.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/gallery/psget/psget_cmdlets_reference.md)
@@ -2532,6 +2695,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psget_cmdlets_reference.b98d552e04e87ba9d7de0a9de4a051310b8b5d6a.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_cmdlets_reference.b98d552e04e87ba9d7de0a9de4a051310b8b5d6a.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [psget_cmdlets_reference.b98d552e04e87ba9d7de0a9de4a051310b8b5d6a.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_cmdlets_reference.b98d552e04e87ba9d7de0a9de4a051310b8b5d6a.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='6c4cdfdb05233d407d273562eaa751563458a9f8162'></a> Source: [gallery\psget\psget_cmdlets_troubleshooting.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/gallery/psget/psget_cmdlets_troubleshooting.md)
@@ -2544,6 +2709,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psget_cmdlets_troubleshooting.d9c18494b8d800c47375d9b3b54afd5a739502dc.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_cmdlets_troubleshooting.d9c18494b8d800c47375d9b3b54afd5a739502dc.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [psget_cmdlets_troubleshooting.d9c18494b8d800c47375d9b3b54afd5a739502dc.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_cmdlets_troubleshooting.d9c18494b8d800c47375d9b3b54afd5a739502dc.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='7e2566a7874904e90f6cab47d03d5817a4653ee2163'></a> Source: [gallery\psget\psget_oneget_integration.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/gallery/psget/psget_oneget_integration.md)
@@ -2556,6 +2723,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psget_oneget_integration.a104ace8864006f02ed49c7fc5c0ede2455b1268.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_oneget_integration.a104ace8864006f02ed49c7fc5c0ede2455b1268.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [psget_oneget_integration.a104ace8864006f02ed49c7fc5c0ede2455b1268.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_oneget_integration.a104ace8864006f02ed49c7fc5c0ede2455b1268.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='5396621599aea3316ac6d32d137ed114db68bbb3164'></a> Source: [gallery\psget\repository\bootstrapping_nuget_proivder_and_exe.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/gallery/psget/repository/bootstrapping_nuget_proivder_and_exe.md)
@@ -2582,6 +2751,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psget_get-psrepository.84c614618b4b8d1d5f3058df413b4e846580cc3e.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_get-psrepository.84c614618b4b8d1d5f3058df413b4e846580cc3e.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [psget_get-psrepository.84c614618b4b8d1d5f3058df413b4e846580cc3e.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_get-psrepository.84c614618b4b8d1d5f3058df413b4e846580cc3e.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='da4ab9afac51ec73c80c21bc207726ffb68055d4166'></a> Source: [gallery\psget\repository\psget_register-psrepository.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/gallery/psget/repository/psget_register-psrepository.md)
@@ -2594,6 +2765,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psget_register-psrepository.e9625ac414f939b17e1998c81fe0915f350841c1.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_register-psrepository.e9625ac414f939b17e1998c81fe0915f350841c1.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [psget_register-psrepository.e9625ac414f939b17e1998c81fe0915f350841c1.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_register-psrepository.e9625ac414f939b17e1998c81fe0915f350841c1.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='7bf1f63b00e52837ee0a07f8a2e5b48c9153dd8f167'></a> Source: [gallery\psget\repository\psget_set-psrepository.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/gallery/psget/repository/psget_set-psrepository.md)
@@ -2606,6 +2779,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psget_set-psrepository.1385a63d0402bdc776ac418bd3de36b4f50fd7a8.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_set-psrepository.1385a63d0402bdc776ac418bd3de36b4f50fd7a8.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [psget_set-psrepository.1385a63d0402bdc776ac418bd3de36b4f50fd7a8.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_set-psrepository.1385a63d0402bdc776ac418bd3de36b4f50fd7a8.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='193ea4ff8323f6be045639edfd39b792c1a145ea168'></a> Source: [gallery\psget\repository\psget_unregister-psrepository.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/gallery/psget/repository/psget_unregister-psrepository.md)
@@ -2618,6 +2793,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psget_unregister-psrepository.0f923e0f6b1666748ef963c061687b1ae29e29a7.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_unregister-psrepository.0f923e0f6b1666748ef963c061687b1ae29e29a7.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [psget_unregister-psrepository.0f923e0f6b1666748ef963c061687b1ae29e29a7.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_unregister-psrepository.0f923e0f6b1666748ef963c061687b1ae29e29a7.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='ad412fd3480d98e660562a27963b45d42afc5737169'></a> Source: [gallery\psget\script\psget_find-script.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/gallery/psget/script/psget_find-script.md)
@@ -2630,6 +2807,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psget_find-script.e0a1670bccf8867e60db7b34fff80b47f6e7fd4f.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_find-script.e0a1670bccf8867e60db7b34fff80b47f6e7fd4f.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [psget_find-script.e0a1670bccf8867e60db7b34fff80b47f6e7fd4f.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_find-script.e0a1670bccf8867e60db7b34fff80b47f6e7fd4f.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='a96100d0395c6ade2b62951f60c4723a20ae06f6170'></a> Source: [gallery\psget\script\psget_get-installedscript.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/gallery/psget/script/psget_get-installedscript.md)
@@ -2642,6 +2821,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psget_get-installedscript.4e0856e04d9e25f336269baaebac998dea024640.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_get-installedscript.4e0856e04d9e25f336269baaebac998dea024640.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [psget_get-installedscript.4e0856e04d9e25f336269baaebac998dea024640.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_get-installedscript.4e0856e04d9e25f336269baaebac998dea024640.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='bb0f0dc2ad9bafd7ad8a69e93eaf5b187aeb22d7171'></a> Source: [gallery\psget\script\psget_install-script.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/gallery/psget/script/psget_install-script.md)
@@ -2654,6 +2835,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psget_install-script.35109c88b7ae5c9e099c33967e4c0113ca2e8577.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_install-script.35109c88b7ae5c9e099c33967e4c0113ca2e8577.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [psget_install-script.35109c88b7ae5c9e099c33967e4c0113ca2e8577.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_install-script.35109c88b7ae5c9e099c33967e4c0113ca2e8577.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='dea23041a92ce6082b210bc16f7b765d9e4a424d172'></a> Source: [gallery\psget\script\psget_new-scriptfileinfo.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/gallery/psget/script/psget_new-scriptfileinfo.md)
@@ -2666,6 +2849,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psget_new-scriptfileinfo.7473f780f5848d94bfcb90cf28464e219ac63a82.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_new-scriptfileinfo.7473f780f5848d94bfcb90cf28464e219ac63a82.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [psget_new-scriptfileinfo.7473f780f5848d94bfcb90cf28464e219ac63a82.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_new-scriptfileinfo.7473f780f5848d94bfcb90cf28464e219ac63a82.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='e31e2957c1c1ed7b7e72613186a8e4584120ca06173'></a> Source: [gallery\psget\script\psget_publish-script.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/gallery/psget/script/psget_publish-script.md)
@@ -2678,6 +2863,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psget_publish-script.b8f12da13f2e5852c5c4058400000df3fae860e7.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_publish-script.b8f12da13f2e5852c5c4058400000df3fae860e7.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [psget_publish-script.b8f12da13f2e5852c5c4058400000df3fae860e7.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_publish-script.b8f12da13f2e5852c5c4058400000df3fae860e7.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='7f96cee98a933df456df6dda0b6a20a2491bd5bf174'></a> Source: [gallery\psget\script\psget_save-script.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/gallery/psget/script/psget_save-script.md)
@@ -2690,6 +2877,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psget_save-script.a6c7b11160045eb99afc9886d29a0f4c254f0fba.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_save-script.a6c7b11160045eb99afc9886d29a0f4c254f0fba.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [psget_save-script.a6c7b11160045eb99afc9886d29a0f4c254f0fba.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_save-script.a6c7b11160045eb99afc9886d29a0f4c254f0fba.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='e36caac37a9d8ebb05fb62cc56054fe2cdc69b0b175'></a> Source: [gallery\psget\script\psget_test-scriptfileinfo.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/gallery/psget/script/psget_test-scriptfileinfo.md)
@@ -2702,6 +2891,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psget_test-scriptfileinfo.2e2105c6717304422e98a888cdbd5acbaef91540.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_test-scriptfileinfo.2e2105c6717304422e98a888cdbd5acbaef91540.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [psget_test-scriptfileinfo.2e2105c6717304422e98a888cdbd5acbaef91540.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_test-scriptfileinfo.2e2105c6717304422e98a888cdbd5acbaef91540.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='204b597e19433aeeeef26640ae7b20ed8ad1aa98176'></a> Source: [gallery\psget\script\psget_uninstall-script.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/gallery/psget/script/psget_uninstall-script.md)
@@ -2714,6 +2905,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psget_uninstall-script.33ef7393d64973992f8dc91ba8977379e2a958a0.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_uninstall-script.33ef7393d64973992f8dc91ba8977379e2a958a0.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [psget_uninstall-script.33ef7393d64973992f8dc91ba8977379e2a958a0.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_uninstall-script.33ef7393d64973992f8dc91ba8977379e2a958a0.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='bd31f7cdc1d49ec4eff947545625be6eb822e807177'></a> Source: [gallery\psget\script\psget_update-script.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/gallery/psget/script/psget_update-script.md)
@@ -2726,6 +2919,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psget_update-script.b4c51feaaaf8f64998ba733b0113c0f912e4761f.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_update-script.b4c51feaaaf8f64998ba733b0113c0f912e4761f.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [psget_update-script.b4c51feaaaf8f64998ba733b0113c0f912e4761f.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_update-script.b4c51feaaaf8f64998ba733b0113c0f912e4761f.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='6da59dbf6f98bb30ae9d57ecb3bace2f42cdf76b178'></a> Source: [gallery\psget\script\psget_update-scriptfileinfo.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/gallery/psget/script/psget_update-scriptfileinfo.md)
@@ -2738,6 +2933,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psget_update-scriptfileinfo.7a7421caf985be979343cdfd91302e23cc83a5cd.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_update-scriptfileinfo.7a7421caf985be979343cdfd91302e23cc83a5cd.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [psget_update-scriptfileinfo.7a7421caf985be979343cdfd91302e23cc83a5cd.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_update-scriptfileinfo.7a7421caf985be979343cdfd91302e23cc83a5cd.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='57218c316b6921e2cd61027a2387edc31a2d9471179'></a> Source: [gallery\psget\script\Script_Versioning.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/gallery/psget/script/Script_Versioning.md)
@@ -2750,6 +2947,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Item-Conventions.0b4ea1accc4e55f573635809d84bd7ff26d817bb.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Item-Conventions.0b4ea1accc4e55f573635809d84bd7ff26d817bb.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [Item-Conventions.0b4ea1accc4e55f573635809d84bd7ff26d817bb.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Item-Conventions.0b4ea1accc4e55f573635809d84bd7ff26d817bb.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='8c47b455227ebdc4b955cd0c83c0283781339192180'></a> Source: [gallery\psget\script\scriptwithpseditionsupport.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/gallery/psget/script/scriptwithpseditionsupport.md)
@@ -2762,6 +2961,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [scriptwithpseditionsupport.46e2bd8cb0285ec8da7d2aa4a47ec9340d3d509a.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/scriptwithpseditionsupport.46e2bd8cb0285ec8da7d2aa4a47ec9340d3d509a.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [scriptwithpseditionsupport.46e2bd8cb0285ec8da7d2aa4a47ec9340d3d509a.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/scriptwithpseditionsupport.46e2bd8cb0285ec8da7d2aa4a47ec9340d3d509a.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='1407b4d2c8c6c246b51ef447284e729811823688181'></a> Source: [gallery\readme.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/gallery/readme.md)
@@ -2774,6 +2975,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [readme.fb87aa3d692e5c482ff052bee34f7899bbf75a2a.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/readme.fb87aa3d692e5c482ff052bee34f7899bbf75a2a.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [readme.fb87aa3d692e5c482ff052bee34f7899bbf75a2a.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/readme.fb87aa3d692e5c482ff052bee34f7899bbf75a2a.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='6b33f2d05724ff888f48219135f8d8b88ccb4bc7182'></a> Source: [gallery\TOC.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/gallery/TOC.md)
@@ -2786,6 +2989,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [TOC.8c64df72d95d4bd53637941319526dd80056a223.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/TOC.8c64df72d95d4bd53637941319526dd80056a223.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [TOC.8c64df72d95d4bd53637941319526dd80056a223.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/TOC.8c64df72d95d4bd53637941319526dd80056a223.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='2b2dfd9c39fe5d7bf4a52032653108729715e6bf183'></a> Source: [jea\common-role-capability-pitfalls.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/jea/common-role-capability-pitfalls.md)
@@ -2852,6 +3057,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [end-to-end---active-directory.3ad98916a8ab304f831ad3b5b15c64e1b086b1f5.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/end-to-end---active-directory.3ad98916a8ab304f831ad3b5b15c64e1b086b1f5.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [end-to-end---active-directory.3ad98916a8ab304f831ad3b5b15c64e1b086b1f5.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/end-to-end---active-directory.3ad98916a8ab304f831ad3b5b15c64e1b086b1f5.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='865258c0b403d4e7979d7ee32d3f87b63a349f08188'></a> Source: [jea\index.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/jea/index.md)
@@ -2864,6 +3071,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [index.087529cd8972c61293d437c5b3a72507e4d1e1d9.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/index.087529cd8972c61293d437c5b3a72507e4d1e1d9.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [index.087529cd8972c61293d437c5b3a72507e4d1e1d9.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/index.087529cd8972c61293d437c5b3a72507e4d1e1d9.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='00d568234b1453b9161b60d20117374ee4111ab3189'></a> Source: [jea\introduction.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/jea/introduction.md)
@@ -2876,6 +3085,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [introduction.2a4123ad7daaab75b6f7151a8cf0e41bd634f4da.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/introduction.2a4123ad7daaab75b6f7151a8cf0e41bd634f4da.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [introduction.2a4123ad7daaab75b6f7151a8cf0e41bd634f4da.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/introduction.2a4123ad7daaab75b6f7151a8cf0e41bd634f4da.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='178fea44987b0c457b8e5d23fbe851ee12f03b31190'></a> Source: [jea\key-concepts-used-throughout-this-guide.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/jea/key-concepts-used-throughout-this-guide.md)
@@ -2888,6 +3099,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [key-concepts-used-throughout-this-guide.eeae4004227673667762c01ddd04d19b5c6f9c39.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/key-concepts-used-throughout-this-guide.eeae4004227673667762c01ddd04d19b5c6f9c39.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [key-concepts-used-throughout-this-guide.eeae4004227673667762c01ddd04d19b5c6f9c39.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/key-concepts-used-throughout-this-guide.eeae4004227673667762c01ddd04d19b5c6f9c39.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='784806197a64eb30af1ecea4af55575434ce7b87191'></a> Source: [jea\multi-machine-deployment-and-maintenance.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/jea/multi-machine-deployment-and-maintenance.md)
@@ -2900,6 +3113,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [multi-machine-deployment-and-maintenance.32608fd7371edc69c27c934c12cb704b31023002.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/multi-machine-deployment-and-maintenance.32608fd7371edc69c27c934c12cb704b31023002.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [multi-machine-deployment-and-maintenance.32608fd7371edc69c27c934c12cb704b31023002.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/multi-machine-deployment-and-maintenance.32608fd7371edc69c27c934c12cb704b31023002.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='8892e5e08a763fbc66d782bbc9252d1f3a7dcfcf192'></a> Source: [jea\on-blacklisting.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/jea/on-blacklisting.md)
@@ -2912,6 +3127,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [on-blacklisting.a0a3a6a7999f27e486c2bb0a14d88792ee94f927.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/on-blacklisting.a0a3a6a7999f27e486c2bb0a14d88792ee94f927.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [on-blacklisting.a0a3a6a7999f27e486c2bb0a14d88792ee94f927.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/on-blacklisting.a0a3a6a7999f27e486c2bb0a14d88792ee94f927.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='ac9231a475ba84e9051bbd06a65f3f20c9e49846193'></a> Source: [jea\prerequisites.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/jea/prerequisites.md)
@@ -2924,6 +3141,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [prerequisites.c7c64787c6d6d670a4d099b82dfa08e0cdc17727.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/prerequisites.c7c64787c6d6d670a4d099b82dfa08e0cdc17727.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [prerequisites.c7c64787c6d6d670a4d099b82dfa08e0cdc17727.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/prerequisites.c7c64787c6d6d670a4d099b82dfa08e0cdc17727.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='7bb5635832e912b39ec387e8ac93ada24a434ff8194'></a> Source: [jea\README.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/jea/README.md)
@@ -2936,6 +3155,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [README.21b5f679157a942d8da32daf52be349e47cf03ae.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/README.21b5f679157a942d8da32daf52be349e47cf03ae.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [README.21b5f679157a942d8da32daf52be349e47cf03ae.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/README.21b5f679157a942d8da32daf52be349e47cf03ae.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='acd2cfbd038250a26236c875d0e8b03a32cd84f9195'></a> Source: [jea\remake-the-demo-endpoint.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/jea/remake-the-demo-endpoint.md)
@@ -2948,6 +3169,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [remake-the-demo-endpoint.b73e14db6512c128ca4b53500097a6d93e4c7ab5.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/remake-the-demo-endpoint.b73e14db6512c128ca4b53500097a6d93e4c7ab5.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [remake-the-demo-endpoint.b73e14db6512c128ca4b53500097a6d93e4c7ab5.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/remake-the-demo-endpoint.b73e14db6512c128ca4b53500097a6d93e4c7ab5.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='d867a6462e9fa8b6e16c8c2103899c72b380116c196'></a> Source: [jea\reporting-on-jea.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/jea/reporting-on-jea.md)
@@ -2960,6 +3183,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [reporting-on-jea.bddc041646039d665fa8128f14aa51f80efbf4bc.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/reporting-on-jea.bddc041646039d665fa8128f14aa51f80efbf4bc.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [reporting-on-jea.bddc041646039d665fa8128f14aa51f80efbf4bc.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/reporting-on-jea.bddc041646039d665fa8128f14aa51f80efbf4bc.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='a3dd4a217f5b1fd80e97adf802c65073ca015bbc197'></a> Source: [jea\role-capabilities.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/jea/role-capabilities.md)
@@ -2972,6 +3197,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [role-capabilities.f5d3ffdf33f9043c1ffa50f8a35842c90ffd6c71.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/role-capabilities.f5d3ffdf33f9043c1ffa50f8a35842c90ffd6c71.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [role-capabilities.f5d3ffdf33f9043c1ffa50f8a35842c90ffd6c71.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/role-capabilities.f5d3ffdf33f9043c1ffa50f8a35842c90ffd6c71.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='fc3b6d859bf3842a857d9519516ea4e275fa1876198'></a> Source: [jea\TOC.MD](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/jea/TOC.MD)
@@ -2984,6 +3211,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [TOC.728fa1d71de264a8b3f5c4d3db2895c29df6ac9f.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/TOC.728fa1d71de264a8b3f5c4d3db2895c29df6ac9f.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [TOC.728fa1d71de264a8b3f5c4d3db2895c29df6ac9f.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/TOC.728fa1d71de264a8b3f5c4d3db2895c29df6ac9f.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='9db7a5a91d25d459313117da34af63016f03c241199'></a> Source: [jea\using-jea.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/jea/using-jea.md)
@@ -2996,6 +3225,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [using-jea.e82fbae736b114be732408d0730fe1a34568d079.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/using-jea.e82fbae736b114be732408d0730fe1a34568d079.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [using-jea.e82fbae736b114be732408d0730fe1a34568d079.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/using-jea.e82fbae736b114be732408d0730fe1a34568d079.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='d76d15500a9cc7363a3fa3bbf23962af505f3f07200'></a> Source: [OsmondTest.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/OsmondTest.md)
@@ -3044,6 +3275,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [PowerShell.exe-Command-Line-Help.40e957a31e9460d52f195b5f1ce8890c354d85ca.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/PowerShell.exe-Command-Line-Help.40e957a31e9460d52f195b5f1ce8890c354d85ca.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [PowerShell.exe-Command-Line-Help.40e957a31e9460d52f195b5f1ce8890c354d85ca.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/PowerShell.exe-Command-Line-Help.40e957a31e9460d52f195b5f1ce8890c354d85ca.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='fd950429d80972b6025e67ea727aa49ef195e882205'></a> Source: [scripting\core-powershell\console\Using-Tab-Expansion.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/core-powershell/console/Using-Tab-Expansion.md)
@@ -3056,6 +3289,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Using-Tab-Expansion.bc99dbdfe7cc5b731756781a1885f77560e0b23a.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Using-Tab-Expansion.bc99dbdfe7cc5b731756781a1885f77560e0b23a.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [Using-Tab-Expansion.bc99dbdfe7cc5b731756781a1885f77560e0b23a.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Using-Tab-Expansion.bc99dbdfe7cc5b731756781a1885f77560e0b23a.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='074f3570e9354f2186be8690744640ea4739ef6e203'></a> Source: [scripting\core-powershell\console-guide.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/core-powershell/console-guide.md)
@@ -3096,6 +3331,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Microsoft.PowerShell.Archive-Module.35a97b0f85544e34956bcf404a27c283c00df088.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Microsoft.PowerShell.Archive-Module.35a97b0f85544e34956bcf404a27c283c00df088.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [Microsoft.PowerShell.Archive-Module.35a97b0f85544e34956bcf404a27c283c00df088.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Microsoft.PowerShell.Archive-Module.35a97b0f85544e34956bcf404a27c283c00df088.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='da1ec55f88ece496b8a55d1c1d0ad9bf0052c8fa208'></a> Source: [scripting\core-powershell\core-modules\Microsoft.PowerShell.Core-Module.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/core-powershell/core-modules/Microsoft.PowerShell.Core-Module.md)
@@ -3108,6 +3345,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Microsoft.PowerShell.Core-Module.76340b0d71587564fa20820318a10a07233be59b.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Microsoft.PowerShell.Core-Module.76340b0d71587564fa20820318a10a07233be59b.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [Microsoft.PowerShell.Core-Module.76340b0d71587564fa20820318a10a07233be59b.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Microsoft.PowerShell.Core-Module.76340b0d71587564fa20820318a10a07233be59b.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='15ffabd2e8c9385990e08ac7311449f000b1302e209'></a> Source: [scripting\core-powershell\core-modules\Microsoft.PowerShell.Diagnostics-Module.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/core-powershell/core-modules/Microsoft.PowerShell.Diagnostics-Module.md)
@@ -3120,6 +3359,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Microsoft.PowerShell.Diagnostics-Module.43631b8500d21df241721a0fa0a6490a42176055.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Microsoft.PowerShell.Diagnostics-Module.43631b8500d21df241721a0fa0a6490a42176055.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [Microsoft.PowerShell.Diagnostics-Module.43631b8500d21df241721a0fa0a6490a42176055.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Microsoft.PowerShell.Diagnostics-Module.43631b8500d21df241721a0fa0a6490a42176055.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='10dff4577e717b2c74604515f7fa696dc7fb996b210'></a> Source: [scripting\core-powershell\core-modules\Microsoft.PowerShell.Host-Module.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/core-powershell/core-modules/Microsoft.PowerShell.Host-Module.md)
@@ -3132,6 +3373,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Microsoft.PowerShell.Host-Module.f7e8e946a81fe0f0747b2ed86d068b078f2bdad1.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Microsoft.PowerShell.Host-Module.f7e8e946a81fe0f0747b2ed86d068b078f2bdad1.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [Microsoft.PowerShell.Host-Module.f7e8e946a81fe0f0747b2ed86d068b078f2bdad1.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Microsoft.PowerShell.Host-Module.f7e8e946a81fe0f0747b2ed86d068b078f2bdad1.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='d62bf183f2b80c8ff7bc279124dc10ef72fdf5ff211'></a> Source: [scripting\core-powershell\core-modules\Microsoft.PowerShell.Management-Module.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/core-powershell/core-modules/Microsoft.PowerShell.Management-Module.md)
@@ -3144,6 +3387,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Microsoft.PowerShell.Management-Module.a21ffb1493afa615f7bd2efea3e1621f77a29dc5.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Microsoft.PowerShell.Management-Module.a21ffb1493afa615f7bd2efea3e1621f77a29dc5.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [Microsoft.PowerShell.Management-Module.a21ffb1493afa615f7bd2efea3e1621f77a29dc5.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Microsoft.PowerShell.Management-Module.a21ffb1493afa615f7bd2efea3e1621f77a29dc5.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='ad4433d14277a6e10906ee74a765504cede12587212'></a> Source: [scripting\core-powershell\core-modules\Microsoft.PowerShell.ODataUtils-Module.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/core-powershell/core-modules/Microsoft.PowerShell.ODataUtils-Module.md)
@@ -3156,6 +3401,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Microsoft.PowerShell.ODataUtils-Module.dc19ab8c5ee930ea60ec6394ae2bf5f1476d792f.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Microsoft.PowerShell.ODataUtils-Module.dc19ab8c5ee930ea60ec6394ae2bf5f1476d792f.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [Microsoft.PowerShell.ODataUtils-Module.dc19ab8c5ee930ea60ec6394ae2bf5f1476d792f.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Microsoft.PowerShell.ODataUtils-Module.dc19ab8c5ee930ea60ec6394ae2bf5f1476d792f.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='215d1e2d0eb17967552143635a5413681907fc50213'></a> Source: [scripting\core-powershell\core-modules\Microsoft.PowerShell.Utility-Module.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/core-powershell/core-modules/Microsoft.PowerShell.Utility-Module.md)
@@ -3168,6 +3415,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Microsoft.PowerShell.Utility-Module.136a5519bb173bc576d56d4bddae47328ce7126a.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Microsoft.PowerShell.Utility-Module.136a5519bb173bc576d56d4bddae47328ce7126a.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [Microsoft.PowerShell.Utility-Module.136a5519bb173bc576d56d4bddae47328ce7126a.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Microsoft.PowerShell.Utility-Module.136a5519bb173bc576d56d4bddae47328ce7126a.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='de6a4fcc1b07ed1bd41f4b2f6b6cd68e2cd66f84214'></a> Source: [scripting\core-powershell\core-modules\Microsoft.WSMan.Management-Module.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/core-powershell/core-modules/Microsoft.WSMan.Management-Module.md)
@@ -3192,6 +3441,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [PackageManagement-Module.db63e59b8c60034c7f6a864670d6f919655aa107.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/PackageManagement-Module.db63e59b8c60034c7f6a864670d6f919655aa107.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [PackageManagement-Module.db63e59b8c60034c7f6a864670d6f919655aa107.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/PackageManagement-Module.db63e59b8c60034c7f6a864670d6f919655aa107.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='130368e634668b7229f1c1423c946ae4b0a65466216'></a> Source: [scripting\core-powershell\core-modules\PSLocalAccount5-Module.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/core-powershell/core-modules/PSLocalAccount5-Module.md)
@@ -3204,6 +3455,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [PSLocalAccount5-Module.a7e83f58ab929ab35f35df26d85766b5d8e6846d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/PSLocalAccount5-Module.a7e83f58ab929ab35f35df26d85766b5d8e6846d.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [PSLocalAccount5-Module.a7e83f58ab929ab35f35df26d85766b5d8e6846d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/PSLocalAccount5-Module.a7e83f58ab929ab35f35df26d85766b5d8e6846d.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='483d96a5df9a1bbbbdaa0cb76657a4aba0dafe80217'></a> Source: [scripting\core-powershell\core-modules\PSReadline-Module.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/core-powershell/core-modules/PSReadline-Module.md)
@@ -3216,6 +3469,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [PSReadline-Module.b9c1f6d98794d369cbcffb57ed137937ea9593f3.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/PSReadline-Module.b9c1f6d98794d369cbcffb57ed137937ea9593f3.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [PSReadline-Module.b9c1f6d98794d369cbcffb57ed137937ea9593f3.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/PSReadline-Module.b9c1f6d98794d369cbcffb57ed137937ea9593f3.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='1583fba47d9a709500e3cd678e2e0c27b2777a7d218'></a> Source: [scripting\core-powershell\core-modules\PSScheduledJob-Module.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/core-powershell/core-modules/PSScheduledJob-Module.md)
@@ -3228,6 +3483,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [PSScheduledJob-Module.e29be58211e466eab7c8e97c6c20cabe6ab4a201.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/PSScheduledJob-Module.e29be58211e466eab7c8e97c6c20cabe6ab4a201.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [PSScheduledJob-Module.e29be58211e466eab7c8e97c6c20cabe6ab4a201.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/PSScheduledJob-Module.e29be58211e466eab7c8e97c6c20cabe6ab4a201.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='3e9ba43162afb7b689bf92883f2347c2c8551ea2219'></a> Source: [scripting\core-powershell\core-modules\PSScriptAnalyzer-Module.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/core-powershell/core-modules/PSScriptAnalyzer-Module.md)
@@ -3240,6 +3497,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [PSScriptAnalyzer-Module.daa11005454fffd8b6ed60eca71fcea4c800c4d3.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/PSScriptAnalyzer-Module.daa11005454fffd8b6ed60eca71fcea4c800c4d3.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [PSScriptAnalyzer-Module.daa11005454fffd8b6ed60eca71fcea4c800c4d3.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/PSScriptAnalyzer-Module.daa11005454fffd8b6ed60eca71fcea4c800c4d3.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='8adf724740b2f09bff6d5cafb822566f4747780c220'></a> Source: [scripting\core-powershell\core-modules\Windows-PowerShell-5.0.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/core-powershell/core-modules/Windows-PowerShell-5.0.md)
@@ -3252,6 +3511,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Windows-PowerShell-5.0.af9ec34f7af19f97e9c2299972cbfcfc182580a2.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Windows-PowerShell-5.0.af9ec34f7af19f97e9c2299972cbfcfc182580a2.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [Windows-PowerShell-5.0.af9ec34f7af19f97e9c2299972cbfcfc182580a2.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Windows-PowerShell-5.0.af9ec34f7af19f97e9c2299972cbfcfc182580a2.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='4d33ebe2a067781d708ca3b0f8dc4dd2848ba4d4221'></a> Source: [scripting\core-powershell\core-modules\Windows-PowerShell-Core-About-Topics.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/core-powershell/core-modules/Windows-PowerShell-Core-About-Topics.md)
@@ -3264,6 +3525,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Windows-PowerShell-Core-About-Topics.2a5d5e1d8931655ca501f33cf2e7cce9dd120e9d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Windows-PowerShell-Core-About-Topics.2a5d5e1d8931655ca501f33cf2e7cce9dd120e9d.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [Windows-PowerShell-Core-About-Topics.2a5d5e1d8931655ca501f33cf2e7cce9dd120e9d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Windows-PowerShell-Core-About-Topics.2a5d5e1d8931655ca501f33cf2e7cce9dd120e9d.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='f6b1ca1a3253c941c76826c6644079a14f19ddcf222'></a> Source: [scripting\core-powershell\core-modules\Windows-PowerShell-Core-Providers.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/core-powershell/core-modules/Windows-PowerShell-Core-Providers.md)
@@ -3276,6 +3539,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Windows-PowerShell-Core-Providers.bcff2b847a340e422ebfc93deb36b35a46b009ad.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Windows-PowerShell-Core-Providers.bcff2b847a340e422ebfc93deb36b35a46b009ad.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [Windows-PowerShell-Core-Providers.bcff2b847a340e422ebfc93deb36b35a46b009ad.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Windows-PowerShell-Core-Providers.bcff2b847a340e422ebfc93deb36b35a46b009ad.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='c8f97c3b565e0718b38a8e62a2b9cb9558451fc5223'></a> Source: [scripting\core-powershell\core-powershell.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/core-powershell/core-powershell.md)
@@ -3302,6 +3567,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [How-to-Create-a-PowerShell-Tab-in-Windows-PowerShell-ISE.19fa26d960530a6380ba6696826a19c8b09eea47.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/How-to-Create-a-PowerShell-Tab-in-Windows-PowerShell-ISE.19fa26d960530a6380ba6696826a19c8b09eea47.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [How-to-Create-a-PowerShell-Tab-in-Windows-PowerShell-ISE.19fa26d960530a6380ba6696826a19c8b09eea47.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/How-to-Create-a-PowerShell-Tab-in-Windows-PowerShell-ISE.19fa26d960530a6380ba6696826a19c8b09eea47.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='30cc1671518fe5f134556443dca7ae46e9be3fea226'></a> Source: [scripting\core-powershell\ise\How-to-Debug-Scripts-in-Windows-PowerShell-ISE.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/core-powershell/ise/How-to-Debug-Scripts-in-Windows-PowerShell-ISE.md)
@@ -3314,6 +3581,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [How-to-Debug-Scripts-in-Windows-PowerShell-ISE.fe1e91b6be8b768d0e36f102791ffd867cff9b45.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/How-to-Debug-Scripts-in-Windows-PowerShell-ISE.fe1e91b6be8b768d0e36f102791ffd867cff9b45.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [How-to-Debug-Scripts-in-Windows-PowerShell-ISE.fe1e91b6be8b768d0e36f102791ffd867cff9b45.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/How-to-Debug-Scripts-in-Windows-PowerShell-ISE.fe1e91b6be8b768d0e36f102791ffd867cff9b45.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='3543503655cc506c4c0f8a7f3d1056c05a66ecba227'></a> Source: [scripting\core-powershell\ise\How-to-Use-Profiles-in-Windows-PowerShell-ISE.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/core-powershell/ise/How-to-Use-Profiles-in-Windows-PowerShell-ISE.md)
@@ -3326,6 +3595,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [How-to-Use-Profiles-in-Windows-PowerShell-ISE.72f3b348070f83aa4291e40ad45a895af4a48018.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/How-to-Use-Profiles-in-Windows-PowerShell-ISE.72f3b348070f83aa4291e40ad45a895af4a48018.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [How-to-Use-Profiles-in-Windows-PowerShell-ISE.72f3b348070f83aa4291e40ad45a895af4a48018.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/How-to-Use-Profiles-in-Windows-PowerShell-ISE.72f3b348070f83aa4291e40ad45a895af4a48018.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='290d9237e20b35ec603f0967854b1e0d193e6cbb228'></a> Source: [scripting\core-powershell\ise\How-to-Use-Tab-Completion-in-the-Script-Pane-and-Console-Pane.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/core-powershell/ise/How-to-Use-Tab-Completion-in-the-Script-Pane-and-Console-Pane.md)
@@ -3338,6 +3609,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [How-to-Use-Tab-Completion-in-the-Script-Pane-and-Console-Pane.33735d08440a6ad0e66cf16476a6ff6987b8776d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/How-to-Use-Tab-Completion-in-the-Script-Pane-and-Console-Pane.33735d08440a6ad0e66cf16476a6ff6987b8776d.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [How-to-Use-Tab-Completion-in-the-Script-Pane-and-Console-Pane.33735d08440a6ad0e66cf16476a6ff6987b8776d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/How-to-Use-Tab-Completion-in-the-Script-Pane-and-Console-Pane.33735d08440a6ad0e66cf16476a6ff6987b8776d.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='4588577c0c05fadee6b443e2fa4c32049cf99ac3229'></a> Source: [scripting\core-powershell\ise\How-to-Use-the-Console-Pane-in-the-Windows-PowerShell-ISE.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/core-powershell/ise/How-to-Use-the-Console-Pane-in-the-Windows-PowerShell-ISE.md)
@@ -3350,6 +3623,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [How-to-Use-the-Console-Pane-in-the-Windows-PowerShell-ISE.707b5b9278be52fc9edd2981f9b53b4e186be908.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/How-to-Use-the-Console-Pane-in-the-Windows-PowerShell-ISE.707b5b9278be52fc9edd2981f9b53b4e186be908.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [How-to-Use-the-Console-Pane-in-the-Windows-PowerShell-ISE.707b5b9278be52fc9edd2981f9b53b4e186be908.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/How-to-Use-the-Console-Pane-in-the-Windows-PowerShell-ISE.707b5b9278be52fc9edd2981f9b53b4e186be908.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='6e58c298725254a84819856070b9702340fcf81d230'></a> Source: [scripting\core-powershell\ise\How-to-Write-and-Run-Scripts-in-the-Windows-PowerShell-ISE.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/core-powershell/ise/How-to-Write-and-Run-Scripts-in-the-Windows-PowerShell-ISE.md)
@@ -3362,6 +3637,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [How-to-Write-and-Run-Scripts-in-the-Windows-PowerShell-ISE.1d5273a3389d28903b210dd8461757538ccbbad2.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/How-to-Write-and-Run-Scripts-in-the-Windows-PowerShell-ISE.1d5273a3389d28903b210dd8461757538ccbbad2.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [How-to-Write-and-Run-Scripts-in-the-Windows-PowerShell-ISE.1d5273a3389d28903b210dd8461757538ccbbad2.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/How-to-Write-and-Run-Scripts-in-the-Windows-PowerShell-ISE.1d5273a3389d28903b210dd8461757538ccbbad2.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='07ec87200c8cc2db2c4d5695a2ca32a63bc470c8231'></a> Source: [scripting\core-powershell\ise\Introducing-the-Windows-PowerShell-ISE.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/core-powershell/ise/Introducing-the-Windows-PowerShell-ISE.md)
@@ -3374,6 +3651,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Introducing-the-Windows-PowerShell-ISE.aa528d6859bffd1cebcaab0ca6b3d98103f3a0ca.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Introducing-the-Windows-PowerShell-ISE.aa528d6859bffd1cebcaab0ca6b3d98103f3a0ca.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [Introducing-the-Windows-PowerShell-ISE.aa528d6859bffd1cebcaab0ca6b3d98103f3a0ca.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Introducing-the-Windows-PowerShell-ISE.aa528d6859bffd1cebcaab0ca6b3d98103f3a0ca.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='272371dba97e62f51e352886aa9d33ef22569935232'></a> Source: [scripting\core-powershell\ise\ISE-Module.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/core-powershell/ise/ISE-Module.md)
@@ -3386,6 +3665,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [ISE-Module.4b5489bbbd41c45ee6b994a4c2c42bddbd5551a4.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/ISE-Module.4b5489bbbd41c45ee6b994a4c2c42bddbd5551a4.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [ISE-Module.4b5489bbbd41c45ee6b994a4c2c42bddbd5551a4.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/ISE-Module.4b5489bbbd41c45ee6b994a4c2c42bddbd5551a4.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='852b927ba0f5edffa5c7943b45e0e7b1bdd273f5233'></a> Source: [scripting\core-powershell\ise\Keyboard-Shortcuts-for-the-Windows-PowerShell-ISE.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/core-powershell/ise/Keyboard-Shortcuts-for-the-Windows-PowerShell-ISE.md)
@@ -3398,6 +3679,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Keyboard-Shortcuts-for-the-Windows-PowerShell-ISE.fafa427058ad68f27ad38041d5743b74ff894bd6.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Keyboard-Shortcuts-for-the-Windows-PowerShell-ISE.fafa427058ad68f27ad38041d5743b74ff894bd6.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [Keyboard-Shortcuts-for-the-Windows-PowerShell-ISE.fafa427058ad68f27ad38041d5743b74ff894bd6.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Keyboard-Shortcuts-for-the-Windows-PowerShell-ISE.fafa427058ad68f27ad38041d5743b74ff894bd6.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='63ea621ed8eb31a3be8394d99fd05dc8f663769f234'></a> Source: [scripting\core-powershell\ise\Purpose-of-the-Windows-PowerShell-ISE-Scripting-Object-Model.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/core-powershell/ise/Purpose-of-the-Windows-PowerShell-ISE-Scripting-Object-Model.md)
@@ -3410,6 +3693,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Purpose-of-the-Windows-PowerShell-ISE-Scripting-Object-Model.0b72c76c2a89652b43b66f9e87694dc03c4a27cd.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Purpose-of-the-Windows-PowerShell-ISE-Scripting-Object-Model.0b72c76c2a89652b43b66f9e87694dc03c4a27cd.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [Purpose-of-the-Windows-PowerShell-ISE-Scripting-Object-Model.0b72c76c2a89652b43b66f9e87694dc03c4a27cd.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Purpose-of-the-Windows-PowerShell-ISE-Scripting-Object-Model.0b72c76c2a89652b43b66f9e87694dc03c4a27cd.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='0a8f19693085b9b878fae60953a2cdc358ba8f4c237'></a> Source: [scripting\core-powershell\ise\The-ISEAddOnToolCollection-Object.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/core-powershell/ise/The-ISEAddOnToolCollection-Object.md)
@@ -3422,6 +3707,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [The-ISEAddOnToolCollection-Object.a3f1b3c62b9fdabc22f8b0eecd511c74b8556c6d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/The-ISEAddOnToolCollection-Object.a3f1b3c62b9fdabc22f8b0eecd511c74b8556c6d.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [The-ISEAddOnToolCollection-Object.a3f1b3c62b9fdabc22f8b0eecd511c74b8556c6d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/The-ISEAddOnToolCollection-Object.a3f1b3c62b9fdabc22f8b0eecd511c74b8556c6d.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='e63809763808836af9f468c2ac55ede42836d6b2236'></a> Source: [scripting\core-powershell\ise\The-ISEAddOnTool-Object.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/core-powershell/ise/The-ISEAddOnTool-Object.md)
@@ -3434,6 +3721,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [The-ISEAddOnTool-Object.9b326bc85b97fb7333173a891c0c321072fb7f28.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/The-ISEAddOnTool-Object.9b326bc85b97fb7333173a891c0c321072fb7f28.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [The-ISEAddOnTool-Object.9b326bc85b97fb7333173a891c0c321072fb7f28.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/The-ISEAddOnTool-Object.9b326bc85b97fb7333173a891c0c321072fb7f28.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='020c94511ab5c0b4a19611967071e071242fadad238'></a> Source: [scripting\core-powershell\ise\The-ISEEditor-Object.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/core-powershell/ise/The-ISEEditor-Object.md)
@@ -3446,6 +3735,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [The-ISEEditor-Object.723c3ba4fe972736507c0e35656406bb8dd96b01.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/The-ISEEditor-Object.723c3ba4fe972736507c0e35656406bb8dd96b01.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [The-ISEEditor-Object.723c3ba4fe972736507c0e35656406bb8dd96b01.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/The-ISEEditor-Object.723c3ba4fe972736507c0e35656406bb8dd96b01.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='c334a38d6686be45101f4569f38411e9703c8fea240'></a> Source: [scripting\core-powershell\ise\The-ISEFileCollection-Object.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/core-powershell/ise/The-ISEFileCollection-Object.md)
@@ -3458,6 +3749,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [The-ISEFileCollection-Object.9e3c57287642456ae02b8c57dfbc4b4a98261726.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/The-ISEFileCollection-Object.9e3c57287642456ae02b8c57dfbc4b4a98261726.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [The-ISEFileCollection-Object.9e3c57287642456ae02b8c57dfbc4b4a98261726.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/The-ISEFileCollection-Object.9e3c57287642456ae02b8c57dfbc4b4a98261726.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='c1744841e23aa9c2fedf3eb92230ef422c36f0cd239'></a> Source: [scripting\core-powershell\ise\The-ISEFile-Object.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/core-powershell/ise/The-ISEFile-Object.md)
@@ -3470,6 +3763,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [The-ISEFile-Object.a7b880ceb4f7e2dfbfcfaa86c3044310e3fd7d46.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/The-ISEFile-Object.a7b880ceb4f7e2dfbfcfaa86c3044310e3fd7d46.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [The-ISEFile-Object.a7b880ceb4f7e2dfbfcfaa86c3044310e3fd7d46.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/The-ISEFile-Object.a7b880ceb4f7e2dfbfcfaa86c3044310e3fd7d46.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='563bfc58e545a9e67eb9dd89d8d28e1aa2a33f1c242'></a> Source: [scripting\core-powershell\ise\The-ISEMenuItemCollection-Object.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/core-powershell/ise/The-ISEMenuItemCollection-Object.md)
@@ -3482,6 +3777,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [The-ISEMenuItemCollection-Object.8a411d565a2a9f4e068e86158280da6251f33aee.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/The-ISEMenuItemCollection-Object.8a411d565a2a9f4e068e86158280da6251f33aee.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [The-ISEMenuItemCollection-Object.8a411d565a2a9f4e068e86158280da6251f33aee.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/The-ISEMenuItemCollection-Object.8a411d565a2a9f4e068e86158280da6251f33aee.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='e067519d58ca381fc4e5c746fe9bbd16bdc68c60241'></a> Source: [scripting\core-powershell\ise\The-ISEMenuItem-Object.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/core-powershell/ise/The-ISEMenuItem-Object.md)
@@ -3494,6 +3791,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [The-ISEMenuItem-Object.14fd39d94a609a4d0fe1a1e747bc1b5b00a2c526.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/The-ISEMenuItem-Object.14fd39d94a609a4d0fe1a1e747bc1b5b00a2c526.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [The-ISEMenuItem-Object.14fd39d94a609a4d0fe1a1e747bc1b5b00a2c526.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/The-ISEMenuItem-Object.14fd39d94a609a4d0fe1a1e747bc1b5b00a2c526.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='12a47e57d461f1e57cd9c7b20365627378d7e87a235'></a> Source: [scripting\core-powershell\ise\The-ISE-Object-Model-Hierarchy.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/core-powershell/ise/The-ISE-Object-Model-Hierarchy.md)
@@ -3506,6 +3805,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [The-ISE-Object-Model-Hierarchy.f74241c9b9e43821335ec834d39bcd25105102a5.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/The-ISE-Object-Model-Hierarchy.f74241c9b9e43821335ec834d39bcd25105102a5.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [The-ISE-Object-Model-Hierarchy.f74241c9b9e43821335ec834d39bcd25105102a5.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/The-ISE-Object-Model-Hierarchy.f74241c9b9e43821335ec834d39bcd25105102a5.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='1aee849dd8b89492a641560ed4ef163c3cb96da4243'></a> Source: [scripting\core-powershell\ise\The-ISEOptions-Object.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/core-powershell/ise/The-ISEOptions-Object.md)
@@ -3518,6 +3819,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [The-ISEOptions-Object.c3be3e584cddf0fbee4dc195cc7dc8959113e07b.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/The-ISEOptions-Object.c3be3e584cddf0fbee4dc195cc7dc8959113e07b.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [The-ISEOptions-Object.c3be3e584cddf0fbee4dc195cc7dc8959113e07b.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/The-ISEOptions-Object.c3be3e584cddf0fbee4dc195cc7dc8959113e07b.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='d7debb2ca5560839f7fdb986d26255dba930d8f5244'></a> Source: [scripting\core-powershell\ise\The-ISESnippetCollection-Object.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/core-powershell/ise/The-ISESnippetCollection-Object.md)
@@ -3530,6 +3833,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [The-ISESnippetCollection-Object.4366858d555daebfa9f274764bbadc76be4fb650.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/The-ISESnippetCollection-Object.4366858d555daebfa9f274764bbadc76be4fb650.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [The-ISESnippetCollection-Object.4366858d555daebfa9f274764bbadc76be4fb650.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/The-ISESnippetCollection-Object.4366858d555daebfa9f274764bbadc76be4fb650.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='4f244b21454c2db929688d11cdf3f46d474ce0db245'></a> Source: [scripting\core-powershell\ise\The-ISESnippetObject.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/core-powershell/ise/The-ISESnippetObject.md)
@@ -3542,6 +3847,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [The-ISESnippetObject.c4aa2a1924463ad9ff3b0499bb03f9ab5cb5c114.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/The-ISESnippetObject.c4aa2a1924463ad9ff3b0499bb03f9ab5cb5c114.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [The-ISESnippetObject.c4aa2a1924463ad9ff3b0499bb03f9ab5cb5c114.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/The-ISESnippetObject.c4aa2a1924463ad9ff3b0499bb03f9ab5cb5c114.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='5d9b2492dbcade15c91d2b7687f5fc64998e2a9a246'></a> Source: [scripting\core-powershell\ise\The-ObjectModelRoot-Object.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/core-powershell/ise/The-ObjectModelRoot-Object.md)
@@ -3554,6 +3861,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [The-ObjectModelRoot-Object.a169b6b5ad03bb7bd4958b09a1583849d2d65179.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/The-ObjectModelRoot-Object.a169b6b5ad03bb7bd4958b09a1583849d2d65179.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [The-ObjectModelRoot-Object.a169b6b5ad03bb7bd4958b09a1583849d2d65179.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/The-ObjectModelRoot-Object.a169b6b5ad03bb7bd4958b09a1583849d2d65179.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='4456b1e165130fd52249ffdbd7c22ff591061a8e248'></a> Source: [scripting\core-powershell\ise\The-PowerShellTabCollection-Object.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/core-powershell/ise/The-PowerShellTabCollection-Object.md)
@@ -3566,6 +3875,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [The-PowerShellTabCollection-Object.a2b2b49a9b0542cb693b54f1dc6b5f4602d24cbc.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/The-PowerShellTabCollection-Object.a2b2b49a9b0542cb693b54f1dc6b5f4602d24cbc.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [The-PowerShellTabCollection-Object.a2b2b49a9b0542cb693b54f1dc6b5f4602d24cbc.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/The-PowerShellTabCollection-Object.a2b2b49a9b0542cb693b54f1dc6b5f4602d24cbc.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='f3f2d27c3c82406f8e8967fd1784a6e07579c1fa247'></a> Source: [scripting\core-powershell\ise\The-PowerShellTab-Object.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/core-powershell/ise/The-PowerShellTab-Object.md)
@@ -3578,6 +3889,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [The-PowerShellTab-Object.28780da3ac85cf2c90fa2d7f96db0039e0b7ee4b.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/The-PowerShellTab-Object.28780da3ac85cf2c90fa2d7f96db0039e0b7ee4b.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [The-PowerShellTab-Object.28780da3ac85cf2c90fa2d7f96db0039e0b7ee4b.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/The-PowerShellTab-Object.28780da3ac85cf2c90fa2d7f96db0039e0b7ee4b.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='e1c4da3865f8c9dd7d2f73b243ac0b0216bd9631249'></a> Source: [scripting\core-powershell\ise\The-Windows-PowerShell-ISE-Scripting-Object-Model.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/core-powershell/ise/The-Windows-PowerShell-ISE-Scripting-Object-Model.md)
@@ -3590,6 +3903,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [The-Windows-PowerShell-ISE-Scripting-Object-Model.e5b38a274e46dba6a67a774d46f155e992160694.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/The-Windows-PowerShell-ISE-Scripting-Object-Model.e5b38a274e46dba6a67a774d46f155e992160694.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [The-Windows-PowerShell-ISE-Scripting-Object-Model.e5b38a274e46dba6a67a774d46f155e992160694.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/The-Windows-PowerShell-ISE-Scripting-Object-Model.e5b38a274e46dba6a67a774d46f155e992160694.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='117a7a3e031ffde70ebcbcb5d180c2d7b822ac76250'></a> Source: [scripting\core-powershell\ise\Using-the-Windows-PowerShell-ISE.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/core-powershell/ise/Using-the-Windows-PowerShell-ISE.md)
@@ -3602,6 +3917,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Using-the-Windows-PowerShell-ISE.88e5c7c38e58fe4a132fd25a09265d8c01620f82.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Using-the-Windows-PowerShell-ISE.88e5c7c38e58fe4a132fd25a09265d8c01620f82.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [Using-the-Windows-PowerShell-ISE.88e5c7c38e58fe4a132fd25a09265d8c01620f82.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Using-the-Windows-PowerShell-ISE.88e5c7c38e58fe4a132fd25a09265d8c01620f82.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='9bfb74ba438dd27fc2799263fc12a20edd2bb8cb251'></a> Source: [scripting\core-powershell\ise\Windows-PowerShell-ISE-Object-Model-Reference.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/core-powershell/ise/Windows-PowerShell-ISE-Object-Model-Reference.md)
@@ -3614,6 +3931,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Windows-PowerShell-ISE-Object-Model-Reference.b7881a7d0cd485d731d26e1fc83eab2823736ab8.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Windows-PowerShell-ISE-Object-Model-Reference.b7881a7d0cd485d731d26e1fc83eab2823736ab8.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [Windows-PowerShell-ISE-Object-Model-Reference.b7881a7d0cd485d731d26e1fc83eab2823736ab8.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Windows-PowerShell-ISE-Object-Model-Reference.b7881a7d0cd485d731d26e1fc83eab2823736ab8.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='053a4fd734b1e86c5f8ca22c8197ce4e80b6fce6224'></a> Source: [scripting\core-powershell\ise-guide.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/core-powershell/ise-guide.md)
@@ -3626,6 +3945,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [ise-guide.e255e30893594b93657175b8567eda7793f2f503.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/ise-guide.e255e30893594b93657175b8567eda7793f2f503.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [ise-guide.e255e30893594b93657175b8567eda7793f2f503.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/ise-guide.e255e30893594b93657175b8567eda7793f2f503.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='d36a862d27ed4bb8a4bed2ae58f9479ba1b29d21252'></a> Source: [scripting\core-powershell\Running-Remote-Commands.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/core-powershell/Running-Remote-Commands.md)
@@ -3638,6 +3959,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Running-Remote-Commands.625cb4f9a4da4433a285f1820cb5aa2ba4546438.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Running-Remote-Commands.625cb4f9a4da4433a285f1820cb5aa2ba4546438.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [Running-Remote-Commands.625cb4f9a4da4433a285f1820cb5aa2ba4546438.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Running-Remote-Commands.625cb4f9a4da4433a285f1820cb5aa2ba4546438.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='bdd57c989f4787e402b0334782db3ab9f5b42161253'></a> Source: [scripting\core-powershell\web-access.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/core-powershell/web-access.md)
@@ -3650,6 +3973,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [web-access.cc28379acd511e9a2eb7c2bc80bfa5db0218e22d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/web-access.cc28379acd511e9a2eb7c2bc80bfa5db0218e22d.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [web-access.cc28379acd511e9a2eb7c2bc80bfa5db0218e22d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/web-access.cc28379acd511e9a2eb7c2bc80bfa5db0218e22d.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='dc50a729855a71d61c187da9d698bd294f740546254'></a> Source: [scripting\core-powershell\web-access\authorization-rules-and-security-features-of-windows-powershell-web-access.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/core-powershell/web-access/authorization-rules-and-security-features-of-windows-powershell-web-access.md)
@@ -3676,6 +4001,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [install-and-use-windows-powershell-web-access.b0ab653c895ebd67ec078d852bf20804e9c72a1c.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/install-and-use-windows-powershell-web-access.b0ab653c895ebd67ec078d852bf20804e9c72a1c.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [install-and-use-windows-powershell-web-access.b0ab653c895ebd67ec078d852bf20804e9c72a1c.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/install-and-use-windows-powershell-web-access.b0ab653c895ebd67ec078d852bf20804e9c72a1c.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='df935247806f108705c9528e4c5454ce499becef256'></a> Source: [scripting\core-powershell\web-access\troubleshooting-access-problems-in-windows-powershell-web-access.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/core-powershell/web-access/troubleshooting-access-problems-in-windows-powershell-web-access.md)
@@ -3688,6 +4015,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [troubleshooting-access-problems-in-windows-powershell-web-access.1c7875e668a4ef265134d93052c69465d51413d7.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/troubleshooting-access-problems-in-windows-powershell-web-access.1c7875e668a4ef265134d93052c69465d51413d7.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [troubleshooting-access-problems-in-windows-powershell-web-access.1c7875e668a4ef265134d93052c69465d51413d7.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/troubleshooting-access-problems-in-windows-powershell-web-access.1c7875e668a4ef265134d93052c69465d51413d7.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='d54139714552943901f565a8525bb478ed308f09257'></a> Source: [scripting\core-powershell\web-access\uninstall-windows-powershell-web-access.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/core-powershell/web-access/uninstall-windows-powershell-web-access.md)
@@ -3700,6 +4029,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [uninstall-windows-powershell-web-access.95bac7bf293e2b8b9e3aecf2e955c5e893499e71.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/uninstall-windows-powershell-web-access.95bac7bf293e2b8b9e3aecf2e955c5e893499e71.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [uninstall-windows-powershell-web-access.95bac7bf293e2b8b9e3aecf2e955c5e893499e71.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/uninstall-windows-powershell-web-access.95bac7bf293e2b8b9e3aecf2e955c5e893499e71.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='9c633d457db9d15621285b2662244c4190550f63258'></a> Source: [scripting\core-powershell\web-access\use-the-web-based-windows-powershell-console.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/core-powershell/web-access/use-the-web-based-windows-powershell-console.md)
@@ -3712,6 +4043,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [use-the-web-based-windows-powershell-console.a8b4c6032c977748f5d93f5365f50e8e8c8fc1ee.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/use-the-web-based-windows-powershell-console.a8b4c6032c977748f5d93f5365f50e8e8c8fc1ee.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [use-the-web-based-windows-powershell-console.a8b4c6032c977748f5d93f5365f50e8e8c8fc1ee.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/use-the-web-based-windows-powershell-console.a8b4c6032c977748f5d93f5365f50e8e8c8fc1ee.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='1e30424797ee285e9e4eeae990979e8a1329fd74260'></a> Source: [scripting\core-powershell\workflows\PSWorkflow-Module.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/core-powershell/workflows/PSWorkflow-Module.md)
@@ -3724,6 +4057,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [PSWorkflow-Module.921d75cae6b7a7d92b6ecea5e55ba16e085b9ec6.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/PSWorkflow-Module.921d75cae6b7a7d92b6ecea5e55ba16e085b9ec6.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [PSWorkflow-Module.921d75cae6b7a7d92b6ecea5e55ba16e085b9ec6.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/PSWorkflow-Module.921d75cae6b7a7d92b6ecea5e55ba16e085b9ec6.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='62cb6e90637373791e66ad1f94af085de00e4666261'></a> Source: [scripting\core-powershell\workflows\PSWorkflowUtility-Module.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/core-powershell/workflows/PSWorkflowUtility-Module.md)
@@ -3736,6 +4071,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [PSWorkflowUtility-Module.8481930e48267ee01309cb3e5f01579dfdfcf0af.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/PSWorkflowUtility-Module.8481930e48267ee01309cb3e5f01579dfdfcf0af.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [PSWorkflowUtility-Module.8481930e48267ee01309cb3e5f01579dfdfcf0af.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/PSWorkflowUtility-Module.8481930e48267ee01309cb3e5f01579dfdfcf0af.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='4cdd2c913eb33d29e9734c3845994d7e776db2b1259'></a> Source: [scripting\core-powershell\workflows-guide.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/core-powershell/workflows-guide.md)
@@ -3748,6 +4085,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [workflows-guide.774a9bad6a29d3525f16f422554b8dd339d761b1.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/workflows-guide.774a9bad6a29d3525f16f422554b8dd339d761b1.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [workflows-guide.774a9bad6a29d3525f16f422554b8dd339d761b1.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/workflows-guide.774a9bad6a29d3525f16f422554b8dd339d761b1.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='9c38507d64e79807091da129978f4ef71091d946262'></a> Source: [scripting\docfx.json](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/docfx.json)
@@ -3898,6 +4237,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Getting-WMI-Objects--Get-WmiObject-.98f932cc6852fdaaeb236ada231cdf834b9b4ab6.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Getting-WMI-Objects--Get-WmiObject-.98f932cc6852fdaaeb236ada231cdf834b9b4ab6.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [Getting-WMI-Objects--Get-WmiObject-.98f932cc6852fdaaeb236ada231cdf834b9b4ab6.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Getting-WMI-Objects--Get-WmiObject-.98f932cc6852fdaaeb236ada231cdf834b9b4ab6.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='97bdd8ed6278fc5d45b34adf50ef8a194966ef0c273'></a> Source: [scripting\getting-started\cookbooks\Managing-Current-Location.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/getting-started/cookbooks/Managing-Current-Location.md)
@@ -3910,6 +4251,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Managing-Current-Location.d3cc0638ed635f92822a2f7ba0e1a1b92de3ad78.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Managing-Current-Location.d3cc0638ed635f92822a2f7ba0e1a1b92de3ad78.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [Managing-Current-Location.d3cc0638ed635f92822a2f7ba0e1a1b92de3ad78.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Managing-Current-Location.d3cc0638ed635f92822a2f7ba0e1a1b92de3ad78.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='5a635485387bb367f4e43982085f9d36765a95e5274'></a> Source: [scripting\getting-started\cookbooks\Managing-Processes-with-Process-Cmdlets.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/getting-started/cookbooks/Managing-Processes-with-Process-Cmdlets.md)
@@ -3922,6 +4265,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Managing-Processes-with-Process-Cmdlets.2aca3fe3fa4f78f4a6dbd0ee075adf5a4a97b498.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Managing-Processes-with-Process-Cmdlets.2aca3fe3fa4f78f4a6dbd0ee075adf5a4a97b498.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [Managing-Processes-with-Process-Cmdlets.2aca3fe3fa4f78f4a6dbd0ee075adf5a4a97b498.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Managing-Processes-with-Process-Cmdlets.2aca3fe3fa4f78f4a6dbd0ee075adf5a4a97b498.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='66c2a8c8afab49f16e8ef7d0b5ba3a2a65c92490275'></a> Source: [scripting\getting-started\cookbooks\Managing-Services.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/getting-started/cookbooks/Managing-Services.md)
@@ -3934,6 +4279,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Managing-Services.6af555cdf1bed42d8fbea56b1540ab3d1472685c.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Managing-Services.6af555cdf1bed42d8fbea56b1540ab3d1472685c.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [Managing-Services.6af555cdf1bed42d8fbea56b1540ab3d1472685c.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Managing-Services.6af555cdf1bed42d8fbea56b1540ab3d1472685c.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='d266a109b1acd97c03594f988ce2fab3c697b80c276'></a> Source: [scripting\getting-started\cookbooks\Managing-Windows-PowerShell-Drives.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/getting-started/cookbooks/Managing-Windows-PowerShell-Drives.md)
@@ -3946,6 +4293,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Managing-Windows-PowerShell-Drives.e4a89d5ddea015589544b7739863adfb3aea6b71.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Managing-Windows-PowerShell-Drives.e4a89d5ddea015589544b7739863adfb3aea6b71.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [Managing-Windows-PowerShell-Drives.e4a89d5ddea015589544b7739863adfb3aea6b71.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Managing-Windows-PowerShell-Drives.e4a89d5ddea015589544b7739863adfb3aea6b71.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='b21af4711cc5a846517c3e286c9e90f858612ccb277'></a> Source: [scripting\getting-started\cookbooks\Manipulating-Items-Directly.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/getting-started/cookbooks/Manipulating-Items-Directly.md)
@@ -3958,6 +4307,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Manipulating-Items-Directly.555f7b1c862dcd9242ab20f5755ded2039933823.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Manipulating-Items-Directly.555f7b1c862dcd9242ab20f5755ded2039933823.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [Manipulating-Items-Directly.555f7b1c862dcd9242ab20f5755ded2039933823.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Manipulating-Items-Directly.555f7b1c862dcd9242ab20f5755ded2039933823.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='1adae567893fb5dfcf5b5f675ca587a1d437d39a278'></a> Source: [scripting\getting-started\cookbooks\Multiple-selection-List-Boxes.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/getting-started/cookbooks/Multiple-selection-List-Boxes.md)
@@ -3970,6 +4321,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Multiple-selection-List-Boxes.a647f0bae5e61f570951792f4be945b14d21dc9a.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Multiple-selection-List-Boxes.a647f0bae5e61f570951792f4be945b14d21dc9a.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [Multiple-selection-List-Boxes.a647f0bae5e61f570951792f4be945b14d21dc9a.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Multiple-selection-List-Boxes.a647f0bae5e61f570951792f4be945b14d21dc9a.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='83aa2ceb63497c7a12ec80d4b1472327284acf5b279'></a> Source: [scripting\getting-started\cookbooks\Other-Useful-Scripting-Objects.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/getting-started/cookbooks/Other-Useful-Scripting-Objects.md)
@@ -3982,6 +4335,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Other-Useful-Scripting-Objects.459706091ef015585d8b721094a9c46e2e9926b5.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Other-Useful-Scripting-Objects.459706091ef015585d8b721094a9c46e2e9926b5.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [Other-Useful-Scripting-Objects.459706091ef015585d8b721094a9c46e2e9926b5.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Other-Useful-Scripting-Objects.459706091ef015585d8b721094a9c46e2e9926b5.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='39266e1e4ae2101de26277c20a98596f62cf223d280'></a> Source: [scripting\getting-started\cookbooks\Performing-Networking-Tasks.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/getting-started/cookbooks/Performing-Networking-Tasks.md)
@@ -3994,6 +4349,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Performing-Networking-Tasks.8fb5e0306e65ac69813c68c34345bd110f038067.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Performing-Networking-Tasks.8fb5e0306e65ac69813c68c34345bd110f038067.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [Performing-Networking-Tasks.8fb5e0306e65ac69813c68c34345bd110f038067.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Performing-Networking-Tasks.8fb5e0306e65ac69813c68c34345bd110f038067.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='3093c4c307ff61151946c417d18cde8fe56278bc281'></a> Source: [scripting\getting-started\cookbooks\PowerShellGet-Module.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/getting-started/cookbooks/PowerShellGet-Module.md)
@@ -4006,6 +4363,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [PowerShellGet-Module.ac51526ac1d58e30a623a4d259ded86670804b8e.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/PowerShellGet-Module.ac51526ac1d58e30a623a4d259ded86670804b8e.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [PowerShellGet-Module.ac51526ac1d58e30a623a4d259ded86670804b8e.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/PowerShellGet-Module.ac51526ac1d58e30a623a4d259ded86670804b8e.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='e62ae14e4d7334d0cd42681c7e2591692c089187282'></a> Source: [scripting\getting-started\cookbooks\Redirecting-Data-with-Out---Cmdlets.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/getting-started/cookbooks/Redirecting-Data-with-Out---Cmdlets.md)
@@ -4018,6 +4377,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Redirecting-Data-with-Out---Cmdlets.f00d2b27f4adf3fcfcd30fe93cc31d62302c5a43.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Redirecting-Data-with-Out---Cmdlets.f00d2b27f4adf3fcfcd30fe93cc31d62302c5a43.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [Redirecting-Data-with-Out---Cmdlets.f00d2b27f4adf3fcfcd30fe93cc31d62302c5a43.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Redirecting-Data-with-Out---Cmdlets.f00d2b27f4adf3fcfcd30fe93cc31d62302c5a43.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='94117fcf337ecf550d6df1d167e608ba64582c03283'></a> Source: [scripting\getting-started\cookbooks\Removing-Objects-from-the-Pipeline--Where-Object-.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/getting-started/cookbooks/Removing-Objects-from-the-Pipeline--Where-Object-.md)
@@ -4030,6 +4391,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Removing-Objects-from-the-Pipeline--Where-Object-.c50bea5ef122e7a14cee83616746ae2679a551cb.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Removing-Objects-from-the-Pipeline--Where-Object-.c50bea5ef122e7a14cee83616746ae2679a551cb.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [Removing-Objects-from-the-Pipeline--Where-Object-.c50bea5ef122e7a14cee83616746ae2679a551cb.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Removing-Objects-from-the-Pipeline--Where-Object-.c50bea5ef122e7a14cee83616746ae2679a551cb.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='8dd7904611fb697f9b398161e12765454b4f3441284'></a> Source: [scripting\getting-started\cookbooks\Repeating-a-Task-for-Multiple-Objects--ForEach-Object-.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/getting-started/cookbooks/Repeating-a-Task-for-Multiple-Objects--ForEach-Object-.md)
@@ -4042,6 +4405,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Repeating-a-Task-for-Multiple-Objects--ForEach-Object-.128d80b157278425d37c4d451fbb8198a8bf1304.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Repeating-a-Task-for-Multiple-Objects--ForEach-Object-.128d80b157278425d37c4d451fbb8198a8bf1304.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [Repeating-a-Task-for-Multiple-Objects--ForEach-Object-.128d80b157278425d37c4d451fbb8198a8bf1304.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Repeating-a-Task-for-Multiple-Objects--ForEach-Object-.128d80b157278425d37c4d451fbb8198a8bf1304.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='7e8fd05cfedd500c51f2d7e4f6adbb7d1f27cb00285'></a> Source: [scripting\getting-started\cookbooks\Selecting-Items-from-a-List-Box.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/getting-started/cookbooks/Selecting-Items-from-a-List-Box.md)
@@ -4054,6 +4419,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Selecting-Items-from-a-List-Box.afbdc6b6a2c0471cc31c7a41f3dcb7f0911919c5.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Selecting-Items-from-a-List-Box.afbdc6b6a2c0471cc31c7a41f3dcb7f0911919c5.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [Selecting-Items-from-a-List-Box.afbdc6b6a2c0471cc31c7a41f3dcb7f0911919c5.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Selecting-Items-from-a-List-Box.afbdc6b6a2c0471cc31c7a41f3dcb7f0911919c5.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='463eaa5d27eeb03f232239bc6810ab00d4a1eaf4286'></a> Source: [scripting\getting-started\cookbooks\Selecting-Parts-of-Objects--Select-Object-.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/getting-started/cookbooks/Selecting-Parts-of-Objects--Select-Object-.md)
@@ -4066,6 +4433,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Selecting-Parts-of-Objects--Select-Object-.029fe5304d0df3fa774092ba01aea4088df1b626.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Selecting-Parts-of-Objects--Select-Object-.029fe5304d0df3fa774092ba01aea4088df1b626.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [Selecting-Parts-of-Objects--Select-Object-.029fe5304d0df3fa774092ba01aea4088df1b626.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Selecting-Parts-of-Objects--Select-Object-.029fe5304d0df3fa774092ba01aea4088df1b626.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='88753c43124cfce3581af2259449be5f01579ae8287'></a> Source: [scripting\getting-started\cookbooks\Sorting-Objects.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/getting-started/cookbooks/Sorting-Objects.md)
@@ -4078,6 +4447,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Sorting-Objects.756929e616c834f3f60e351c4478aeb3fe04ecd5.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Sorting-Objects.756929e616c834f3f60e351c4478aeb3fe04ecd5.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [Sorting-Objects.756929e616c834f3f60e351c4478aeb3fe04ecd5.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Sorting-Objects.756929e616c834f3f60e351c4478aeb3fe04ecd5.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='4d8c2392c6a9f59dc5e601308bc08db8c653760e288'></a> Source: [scripting\getting-started\cookbooks\Using-Format-Commands-to-Change-Output-View.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/getting-started/cookbooks/Using-Format-Commands-to-Change-Output-View.md)
@@ -4090,6 +4461,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Using-Format-Commands-to-Change-Output-View.2137f36cb5d1b6954de7ab8d2a6eedc4bfd21aa7.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Using-Format-Commands-to-Change-Output-View.2137f36cb5d1b6954de7ab8d2a6eedc4bfd21aa7.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [Using-Format-Commands-to-Change-Output-View.2137f36cb5d1b6954de7ab8d2a6eedc4bfd21aa7.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Using-Format-Commands-to-Change-Output-View.2137f36cb5d1b6954de7ab8d2a6eedc4bfd21aa7.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='28bc665c3ffb1b74a2ff922584c31a8657842a0f289'></a> Source: [scripting\getting-started\cookbooks\Using-Static-Classes-and-Methods.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/getting-started/cookbooks/Using-Static-Classes-and-Methods.md)
@@ -4102,6 +4475,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Using-Static-Classes-and-Methods.040e055ba5ec9e3a6d642990063a18388cce271f.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Using-Static-Classes-and-Methods.040e055ba5ec9e3a6d642990063a18388cce271f.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [Using-Static-Classes-and-Methods.040e055ba5ec9e3a6d642990063a18388cce271f.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Using-Static-Classes-and-Methods.040e055ba5ec9e3a6d642990063a18388cce271f.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='acd52c1271013320dafa7f7bf5c72b752e07574b290'></a> Source: [scripting\getting-started\cookbooks\Viewing-Object-Structure--Get-Member-.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/getting-started/cookbooks/Viewing-Object-Structure--Get-Member-.md)
@@ -4114,6 +4489,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Viewing-Object-Structure--Get-Member-.f4fabd9bed3d26cc1f7fb0224aadf75a78376b73.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Viewing-Object-Structure--Get-Member-.f4fabd9bed3d26cc1f7fb0224aadf75a78376b73.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [Viewing-Object-Structure--Get-Member-.f4fabd9bed3d26cc1f7fb0224aadf75a78376b73.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Viewing-Object-Structure--Get-Member-.f4fabd9bed3d26cc1f7fb0224aadf75a78376b73.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='c3f7c226fcb496e5bb51ba601429c54b43de9d52291'></a> Source: [scripting\getting-started\cookbooks\Working-with-Files-and-Folders.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/getting-started/cookbooks/Working-with-Files-and-Folders.md)
@@ -4126,6 +4503,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Working-with-Files-and-Folders.438b7eef46d04a40a0358fc73edef4c7b0599d09.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Working-with-Files-and-Folders.438b7eef46d04a40a0358fc73edef4c7b0599d09.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [Working-with-Files-and-Folders.438b7eef46d04a40a0358fc73edef4c7b0599d09.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Working-with-Files-and-Folders.438b7eef46d04a40a0358fc73edef4c7b0599d09.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='3e1bf444d7657b66422dab3eb8dbeef5e4d581b4292'></a> Source: [scripting\getting-started\cookbooks\Working-With-Files-Folders-and-Registry-Keys.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/getting-started/cookbooks/Working-With-Files-Folders-and-Registry-Keys.md)
@@ -4138,6 +4517,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Working-With-Files-Folders-and-Registry-Keys.853b8e9b48e80efcbf9ed04d21be570df93cae82.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Working-With-Files-Folders-and-Registry-Keys.853b8e9b48e80efcbf9ed04d21be570df93cae82.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [Working-With-Files-Folders-and-Registry-Keys.853b8e9b48e80efcbf9ed04d21be570df93cae82.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Working-With-Files-Folders-and-Registry-Keys.853b8e9b48e80efcbf9ed04d21be570df93cae82.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='e7069571249447bffc587d3665ffdb8f75bd9c25293'></a> Source: [scripting\getting-started\cookbooks\Working-with-Objects.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/getting-started/cookbooks/Working-with-Objects.md)
@@ -4150,6 +4531,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Working-with-Objects.b9d0a3ad133a85d90825e330449e244ca0a2613d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Working-with-Objects.b9d0a3ad133a85d90825e330449e244ca0a2613d.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [Working-with-Objects.b9d0a3ad133a85d90825e330449e244ca0a2613d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Working-with-Objects.b9d0a3ad133a85d90825e330449e244ca0a2613d.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='c013124d12a551245152c1703e5f1d8a3f8f5f70294'></a> Source: [scripting\getting-started\cookbooks\Working-with-Printers.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/getting-started/cookbooks/Working-with-Printers.md)
@@ -4162,6 +4545,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Working-with-Printers.5f47c7acf0cbe2a6824abd01c2e75fec38389375.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Working-with-Printers.5f47c7acf0cbe2a6824abd01c2e75fec38389375.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [Working-with-Printers.5f47c7acf0cbe2a6824abd01c2e75fec38389375.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Working-with-Printers.5f47c7acf0cbe2a6824abd01c2e75fec38389375.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='cdc7f45c9fa8a6bf748a52b460a1ac190d283971295'></a> Source: [scripting\getting-started\cookbooks\Working-with-Registry-Entries.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/getting-started/cookbooks/Working-with-Registry-Entries.md)
@@ -4174,6 +4559,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Working-with-Registry-Entries.976d36732cc6108f0778e6a62a7464c45e1118bc.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Working-with-Registry-Entries.976d36732cc6108f0778e6a62a7464c45e1118bc.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [Working-with-Registry-Entries.976d36732cc6108f0778e6a62a7464c45e1118bc.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Working-with-Registry-Entries.976d36732cc6108f0778e6a62a7464c45e1118bc.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='4809eb60ba1a5529343c2ab3c88493bf2c32389b296'></a> Source: [scripting\getting-started\cookbooks\Working-with-Registry-Keys.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/getting-started/cookbooks/Working-with-Registry-Keys.md)
@@ -4186,6 +4573,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Working-with-Registry-Keys.fe931e6eb1dd48b4f801957624d1bf4a223e18f7.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Working-with-Registry-Keys.fe931e6eb1dd48b4f801957624d1bf4a223e18f7.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [Working-with-Registry-Keys.fe931e6eb1dd48b4f801957624d1bf4a223e18f7.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Working-with-Registry-Keys.fe931e6eb1dd48b4f801957624d1bf4a223e18f7.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='13fdac5369d70289d7a0b5115a04879f707e47fc297'></a> Source: [scripting\getting-started\cookbooks\Working-with-Software-Installations.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/getting-started/cookbooks/Working-with-Software-Installations.md)
@@ -4198,6 +4587,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Working-with-Software-Installations.cfe92ac3d26a8caf4190b39d99c30cf5af9264a1.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Working-with-Software-Installations.cfe92ac3d26a8caf4190b39d99c30cf5af9264a1.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [Working-with-Software-Installations.cfe92ac3d26a8caf4190b39d99c30cf5af9264a1.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Working-with-Software-Installations.cfe92ac3d26a8caf4190b39d99c30cf5af9264a1.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='548cb522ecf8f8f5e82fb43e709c6b8bf3a05096299'></a> Source: [scripting\getting-started\fundamental\About-Windows-PowerShell.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/getting-started/fundamental/About-Windows-PowerShell.md)
@@ -4224,6 +4615,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Exploring-the-Windows-PowerShell-ISE.a3f992702bf0a10e452f02c0ce43f75d90f185dc.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Exploring-the-Windows-PowerShell-ISE.a3f992702bf0a10e452f02c0ce43f75d90f185dc.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [Exploring-the-Windows-PowerShell-ISE.a3f992702bf0a10e452f02c0ce43f75d90f185dc.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Exploring-the-Windows-PowerShell-ISE.a3f992702bf0a10e452f02c0ce43f75d90f185dc.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='423be0f76788fa8f45356ca8446bad6754d38e1a301'></a> Source: [scripting\getting-started\fundamental\Getting-Detailed-Help-Information.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/getting-started/fundamental/Getting-Detailed-Help-Information.md)
@@ -4236,6 +4629,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Getting-Detailed-Help-Information.b1023914b4f9ec878e49ae91b3ddcc90e5a2f70f.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Getting-Detailed-Help-Information.b1023914b4f9ec878e49ae91b3ddcc90e5a2f70f.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [Getting-Detailed-Help-Information.b1023914b4f9ec878e49ae91b3ddcc90e5a2f70f.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Getting-Detailed-Help-Information.b1023914b4f9ec878e49ae91b3ddcc90e5a2f70f.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='c60f0f63b0d64c82a3ae0716743087ee2b8740c0302'></a> Source: [scripting\getting-started\fundamental\Getting-Information-About-Commands.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/getting-started/fundamental/Getting-Information-About-Commands.md)
@@ -4248,6 +4643,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Getting-Information-About-Commands.dba9a060e6bfa8bc1ecb0a835f23f5a66e3984e1.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Getting-Information-About-Commands.dba9a060e6bfa8bc1ecb0a835f23f5a66e3984e1.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [Getting-Information-About-Commands.dba9a060e6bfa8bc1ecb0a835f23f5a66e3984e1.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Getting-Information-About-Commands.dba9a060e6bfa8bc1ecb0a835f23f5a66e3984e1.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='1dd7dade688b56e3ac544c0562ad6bad4a4284a7303'></a> Source: [scripting\getting-started\fundamental\Learning-Windows-PowerShell-Names.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/getting-started/fundamental/Learning-Windows-PowerShell-Names.md)
@@ -4260,6 +4657,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Learning-Windows-PowerShell-Names.fc1b82ec398316e9fb38af6a070070e1e3773976.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Learning-Windows-PowerShell-Names.fc1b82ec398316e9fb38af6a070070e1e3773976.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [Learning-Windows-PowerShell-Names.fc1b82ec398316e9fb38af6a070070e1e3773976.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Learning-Windows-PowerShell-Names.fc1b82ec398316e9fb38af6a070070e1e3773976.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='7f4cafad8854c19f733a2672ba6b40834d93aac0304'></a> Source: [scripting\getting-started\fundamental\Object-Pipeline.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/getting-started/fundamental/Object-Pipeline.md)
@@ -4272,6 +4671,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Object-Pipeline.c54b9454055c11d1724d28868c454225b4ecbf01.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Object-Pipeline.c54b9454055c11d1724d28868c454225b4ecbf01.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [Object-Pipeline.c54b9454055c11d1724d28868c454225b4ecbf01.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Object-Pipeline.c54b9454055c11d1724d28868c454225b4ecbf01.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='0148f4631e34e65a4336c5d1d50e313fb6639748305'></a> Source: [scripting\getting-started\fundamental\Scripting-with-Windows-PowerShell.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/getting-started/fundamental/Scripting-with-Windows-PowerShell.md)
@@ -4284,6 +4685,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Scripting-with-Windows-PowerShell.2db569b949f9f41122774e4819582e471a7b8657.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Scripting-with-Windows-PowerShell.2db569b949f9f41122774e4819582e471a7b8657.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [Scripting-with-Windows-PowerShell.2db569b949f9f41122774e4819582e471a7b8657.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Scripting-with-Windows-PowerShell.2db569b949f9f41122774e4819582e471a7b8657.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='89634d992eb59650e1f1a6cf89064b477ac4fea9306'></a> Source: [scripting\getting-started\fundamental\Understanding-Important-Windows-PowerShell-Concepts.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/getting-started/fundamental/Understanding-Important-Windows-PowerShell-Concepts.md)
@@ -4296,6 +4699,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Understanding-Important-Windows-PowerShell-Concepts.e57bc7ae4c2f359978fe7616e99a6f6106ed365a.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Understanding-Important-Windows-PowerShell-Concepts.e57bc7ae4c2f359978fe7616e99a6f6106ed365a.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [Understanding-Important-Windows-PowerShell-Concepts.e57bc7ae4c2f359978fe7616e99a6f6106ed365a.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Understanding-Important-Windows-PowerShell-Concepts.e57bc7ae4c2f359978fe7616e99a6f6106ed365a.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='d90bf940a1047b629f7b59d239aab50a78748251307'></a> Source: [scripting\getting-started\fundamental\Understanding-the-Windows-PowerShell-Pipeline.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/getting-started/fundamental/Understanding-the-Windows-PowerShell-Pipeline.md)
@@ -4308,6 +4713,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Understanding-the-Windows-PowerShell-Pipeline.5006e128bc4994cdd31323aee54ddf13a776c1da.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Understanding-the-Windows-PowerShell-Pipeline.5006e128bc4994cdd31323aee54ddf13a776c1da.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [Understanding-the-Windows-PowerShell-Pipeline.5006e128bc4994cdd31323aee54ddf13a776c1da.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Understanding-the-Windows-PowerShell-Pipeline.5006e128bc4994cdd31323aee54ddf13a776c1da.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='b567510b9a39bfa62e64e62752a1a7d2002cf6b9308'></a> Source: [scripting\getting-started\fundamental\Using-Familiar-Command-Names.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/getting-started/fundamental/Using-Familiar-Command-Names.md)
@@ -4320,6 +4727,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Using-Familiar-Command-Names.8a60fa9c7acab4b8d258a854a67fc88365a64e18.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Using-Familiar-Command-Names.8a60fa9c7acab4b8d258a854a67fc88365a64e18.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [Using-Familiar-Command-Names.8a60fa9c7acab4b8d258a854a67fc88365a64e18.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Using-Familiar-Command-Names.8a60fa9c7acab4b8d258a854a67fc88365a64e18.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='6216f3e1a766c57a7549a3e3b4fbe76d043a8a41309'></a> Source: [scripting\getting-started\fundamental\Using-Variables-to-Store-Objects.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/getting-started/fundamental/Using-Variables-to-Store-Objects.md)
@@ -4332,6 +4741,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Using-Variables-to-Store-Objects.18165e54af473f3b203e56ff6805e411c4cebf96.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Using-Variables-to-Store-Objects.18165e54af473f3b203e56ff6805e411c4cebf96.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [Using-Variables-to-Store-Objects.18165e54af473f3b203e56ff6805e411c4cebf96.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Using-Variables-to-Store-Objects.18165e54af473f3b203e56ff6805e411c4cebf96.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='994e6c89f6fc20b95691f010deb3c48062cef310311'></a> Source: [scripting\getting-started\fundamental\Using-Windows-PowerShell.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/getting-started/fundamental/Using-Windows-PowerShell.md)
@@ -4344,6 +4755,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Using-Windows-PowerShell.d23924c5ab8baff992c4dcc78d5d8a95c48ac773.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Using-Windows-PowerShell.d23924c5ab8baff992c4dcc78d5d8a95c48ac773.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [Using-Windows-PowerShell.d23924c5ab8baff992c4dcc78d5d8a95c48ac773.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Using-Windows-PowerShell.d23924c5ab8baff992c4dcc78d5d8a95c48ac773.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='904aff841a50f1599ac29c0408a0af6fa43fe794310'></a> Source: [scripting\getting-started\fundamental\Using-Windows-PowerShell-for-Administration.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/getting-started/fundamental/Using-Windows-PowerShell-for-Administration.md)
@@ -4356,6 +4769,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Using-Windows-PowerShell-for-Administration.3209ac0b3fcb066fa560cb0dfb438e0727585644.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Using-Windows-PowerShell-for-Administration.3209ac0b3fcb066fa560cb0dfb438e0727585644.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [Using-Windows-PowerShell-for-Administration.3209ac0b3fcb066fa560cb0dfb438e0727585644.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Using-Windows-PowerShell-for-Administration.3209ac0b3fcb066fa560cb0dfb438e0727585644.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='6b35f2dd3cf441daa1a92d52435ed0ae350c138a312'></a> Source: [scripting\getting-started\fundamental\Windows-PowerShell-Basics.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/getting-started/fundamental/Windows-PowerShell-Basics.md)
@@ -4368,6 +4783,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Windows-PowerShell-Basics.45ea07959671c017eb400e283d061349dab0c336.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Windows-PowerShell-Basics.45ea07959671c017eb400e283d061349dab0c336.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [Windows-PowerShell-Basics.45ea07959671c017eb400e283d061349dab0c336.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Windows-PowerShell-Basics.45ea07959671c017eb400e283d061349dab0c336.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='061e22c26853664c89adc023d43802628859b9a6313'></a> Source: [scripting\getting-started\fundamental\Windows-PowerShell-Integrated-Scripting-Environment--ISE-.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/getting-started/fundamental/Windows-PowerShell-Integrated-Scripting-Environment--ISE-.md)
@@ -4380,6 +4797,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Windows-PowerShell-Integrated-Scripting-Environment--ISE-.e04b905878b8b2ba1a7a20acc1d05db96a71a631.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Windows-PowerShell-Integrated-Scripting-Environment--ISE-.e04b905878b8b2ba1a7a20acc1d05db96a71a631.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [Windows-PowerShell-Integrated-Scripting-Environment--ISE-.e04b905878b8b2ba1a7a20acc1d05db96a71a631.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Windows-PowerShell-Integrated-Scripting-Environment--ISE-.e04b905878b8b2ba1a7a20acc1d05db96a71a631.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='b3b97b9dcf01094fe1fadbac355c92df35feaee2298'></a> Source: [scripting\getting-started\fundamental-concepts.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/getting-started/fundamental-concepts.md)
@@ -4392,6 +4811,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [fundamental-concepts.8d6219b42c9bbb2735aa45fc3604c76da06b0f1e.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/fundamental-concepts.8d6219b42c9bbb2735aa45fc3604c76da06b0f1e.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [fundamental-concepts.8d6219b42c9bbb2735aa45fc3604c76da06b0f1e.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/fundamental-concepts.8d6219b42c9bbb2735aa45fc3604c76da06b0f1e.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='52d55ff10a9118bea2a34a53452fd252d1e17580314'></a> Source: [scripting\getting-started\Getting-Ready-to-Use-Windows-PowerShell.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/getting-started/Getting-Ready-to-Use-Windows-PowerShell.md)
@@ -4404,6 +4825,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Getting-Ready-to-Use-Windows-PowerShell.672757f96d6f3590bcbf857fbd689a13c0162f82.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Getting-Ready-to-Use-Windows-PowerShell.672757f96d6f3590bcbf857fbd689a13c0162f82.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [Getting-Ready-to-Use-Windows-PowerShell.672757f96d6f3590bcbf857fbd689a13c0162f82.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Getting-Ready-to-Use-Windows-PowerShell.672757f96d6f3590bcbf857fbd689a13c0162f82.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='a031bad99e8aca1d7598f99e157723bf4360cf56315'></a> Source: [scripting\getting-started\Getting-Started-with-Windows-PowerShell.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/getting-started/Getting-Started-with-Windows-PowerShell.md)
@@ -4416,6 +4839,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Getting-Started-with-Windows-PowerShell.a63e6424e1216675a9fb5a347b8bffe414db98cb.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Getting-Started-with-Windows-PowerShell.a63e6424e1216675a9fb5a347b8bffe414db98cb.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [Getting-Started-with-Windows-PowerShell.a63e6424e1216675a9fb5a347b8bffe414db98cb.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Getting-Started-with-Windows-PowerShell.a63e6424e1216675a9fb5a347b8bffe414db98cb.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='05205ff8fcf0a3b23e66a6ac756be0d9a5055bd2316'></a> Source: [scripting\getting-started\more-powershell-learning.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/getting-started/more-powershell-learning.md)
@@ -4440,6 +4865,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [understanding-concepts-reference.afbedb7cd05f0cdbf50deb95f51ded6db98670cb.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/understanding-concepts-reference.afbedb7cd05f0cdbf50deb95f51ded6db98670cb.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [understanding-concepts-reference.afbedb7cd05f0cdbf50deb95f51ded6db98670cb.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/understanding-concepts-reference.afbedb7cd05f0cdbf50deb95f51ded6db98670cb.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='755db60abb7859af5065e2c5ddfbfc6cfb7aeeda318'></a> Source: [scripting\md.style](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/md.style)
@@ -4464,6 +4891,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [PowerShell-Scripting.8f5d79e74e333fb9812de946411a1b4ef2060582.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/PowerShell-Scripting.8f5d79e74e333fb9812de946411a1b4ef2060582.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [PowerShell-Scripting.8f5d79e74e333fb9812de946411a1b4ef2060582.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/PowerShell-Scripting.8f5d79e74e333fb9812de946411a1b4ef2060582.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='b4d97b1c96a99bcfc43fb20ce9a4ecfa528ea024320'></a> Source: [scripting\setup\Accessibility-in-Windows-PowerShell-ISE.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/setup/Accessibility-in-Windows-PowerShell-ISE.md)
@@ -4490,6 +4919,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Installing-the-Windows-PowerShell-2.0-Engine.190b56ee17b5135bba49f697312b896e5c3755dd.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Installing-the-Windows-PowerShell-2.0-Engine.190b56ee17b5135bba49f697312b896e5c3755dd.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [Installing-the-Windows-PowerShell-2.0-Engine.190b56ee17b5135bba49f697312b896e5c3755dd.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Installing-the-Windows-PowerShell-2.0-Engine.190b56ee17b5135bba49f697312b896e5c3755dd.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='7af27dc9bd8e93d1df5258b0d8df8af12726f568322'></a> Source: [scripting\setup\Installing-the-Windows-PowerShell-SDK.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/setup/Installing-the-Windows-PowerShell-SDK.md)
@@ -4502,6 +4933,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Installing-the-Windows-PowerShell-SDK.bfd31a5fc654dd34236aff66cf62844476672b64.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Installing-the-Windows-PowerShell-SDK.bfd31a5fc654dd34236aff66cf62844476672b64.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [Installing-the-Windows-PowerShell-SDK.bfd31a5fc654dd34236aff66cf62844476672b64.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Installing-the-Windows-PowerShell-SDK.bfd31a5fc654dd34236aff66cf62844476672b64.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='00249ec98e1624a949fe11fee8be9e93018578a9323'></a> Source: [scripting\setup\Installing-Windows-PowerShell.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/setup/Installing-Windows-PowerShell.md)
@@ -4514,6 +4947,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Installing-Windows-PowerShell.c225d4b5172b3b37e8ac8bff29aa92025a05b723.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Installing-Windows-PowerShell.c225d4b5172b3b37e8ac8bff29aa92025a05b723.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [Installing-Windows-PowerShell.c225d4b5172b3b37e8ac8bff29aa92025a05b723.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Installing-Windows-PowerShell.c225d4b5172b3b37e8ac8bff29aa92025a05b723.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='6bdf3f658ed75b48be6df217b6a0b4ad5951c935324'></a> Source: [scripting\setup\security.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/setup/security.md)
@@ -4526,6 +4961,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [security.7b91becb693d5fdadf48da31d0f88030d89c66e9.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/security.7b91becb693d5fdadf48da31d0f88030d89c66e9.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [security.7b91becb693d5fdadf48da31d0f88030d89c66e9.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/security.7b91becb693d5fdadf48da31d0f88030d89c66e9.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='63f7597ba91fb839252de451c6c9380b5b19c0ec325'></a> Source: [scripting\setup\setup-reference.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/setup/setup-reference.md)
@@ -4538,6 +4975,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [setup-reference.a03249de1bfe6b8b6b0ea03c359d494f9ed9537d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/setup-reference.a03249de1bfe6b8b6b0ea03c359d494f9ed9537d.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [setup-reference.a03249de1bfe6b8b6b0ea03c359d494f9ed9537d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/setup-reference.a03249de1bfe6b8b6b0ea03c359d494f9ed9537d.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='310f898a471ca60da4d9ebe5234ee86a636e44b5326'></a> Source: [scripting\setup\Starting-the-32-Bit-Version-of-Windows-PowerShell.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/setup/Starting-the-32-Bit-Version-of-Windows-PowerShell.md)
@@ -4550,6 +4989,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Starting-the-32-Bit-Version-of-Windows-PowerShell.4a4eaf664caff353459bbcc3d81a3756ede97b7f.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Starting-the-32-Bit-Version-of-Windows-PowerShell.4a4eaf664caff353459bbcc3d81a3756ede97b7f.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [Starting-the-32-Bit-Version-of-Windows-PowerShell.4a4eaf664caff353459bbcc3d81a3756ede97b7f.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Starting-the-32-Bit-Version-of-Windows-PowerShell.4a4eaf664caff353459bbcc3d81a3756ede97b7f.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='094c3c9f240457fc884031e7d82dcdc1e81e582d327'></a> Source: [scripting\setup\Starting-the-Windows-PowerShell-2.0-Engine.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/setup/Starting-the-Windows-PowerShell-2.0-Engine.md)
@@ -4562,6 +5003,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Starting-the-Windows-PowerShell-2.0-Engine.0df3c4544d747196fba6c23b324ae9b0a2731dbf.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Starting-the-Windows-PowerShell-2.0-Engine.0df3c4544d747196fba6c23b324ae9b0a2731dbf.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [Starting-the-Windows-PowerShell-2.0-Engine.0df3c4544d747196fba6c23b324ae9b0a2731dbf.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Starting-the-Windows-PowerShell-2.0-Engine.0df3c4544d747196fba6c23b324ae9b0a2731dbf.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='f8406a2066ef54ea0fdaaff6e612bb0d43b12ab6329'></a> Source: [scripting\setup\Starting-Windows-PowerShell.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/setup/Starting-Windows-PowerShell.md)
@@ -4574,6 +5017,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Starting-Windows-PowerShell.a3dcf25852cd345b654f8612f2d32861f0ccad4f.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Starting-Windows-PowerShell.a3dcf25852cd345b654f8612f2d32861f0ccad4f.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [Starting-Windows-PowerShell.a3dcf25852cd345b654f8612f2d32861f0ccad4f.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Starting-Windows-PowerShell.a3dcf25852cd345b654f8612f2d32861f0ccad4f.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='6cdb6bb5d901c9bc7d2b7f5051e372337bbb69f9328'></a> Source: [scripting\setup\Starting-Windows-PowerShell-on-Earlier-Versions-of-Windows.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/setup/Starting-Windows-PowerShell-on-Earlier-Versions-of-Windows.md)
@@ -4586,6 +5031,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Starting-Windows-PowerShell-on-Earlier-Versions-of-Windows.ac47511df5f424676dbef5b674ac8c6defb39896.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Starting-Windows-PowerShell-on-Earlier-Versions-of-Windows.ac47511df5f424676dbef5b674ac8c6defb39896.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [Starting-Windows-PowerShell-on-Earlier-Versions-of-Windows.ac47511df5f424676dbef5b674ac8c6defb39896.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Starting-Windows-PowerShell-on-Earlier-Versions-of-Windows.ac47511df5f424676dbef5b674ac8c6defb39896.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='b5b797ed09f9f43bfd0259e4af8b3754655d7c84330'></a> Source: [scripting\setup\Windows-PowerShell-System-Requirements.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/setup/Windows-PowerShell-System-Requirements.md)
@@ -4598,6 +5045,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Windows-PowerShell-System-Requirements.90a72e00f7c321f4c9ff85e3a9ac215639266c9c.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Windows-PowerShell-System-Requirements.90a72e00f7c321f4c9ff85e3a9ac215639266c9c.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [Windows-PowerShell-System-Requirements.90a72e00f7c321f4c9ff85e3a9ac215639266c9c.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Windows-PowerShell-System-Requirements.90a72e00f7c321f4c9ff85e3a9ac215639266c9c.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='b1addddd50368fadcbb2581673d3ebc7cad8e32a331'></a> Source: [scripting\setup\WinRMSecurity.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/setup/WinRMSecurity.md)
@@ -4610,6 +5059,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [WinRMSecurity.255765f15bf2d6a4b9d093e2c9eada2cd613afe0.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/WinRMSecurity.255765f15bf2d6a4b9d093e2c9eada2cd613afe0.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [WinRMSecurity.255765f15bf2d6a4b9d093e2c9eada2cd613afe0.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/WinRMSecurity.255765f15bf2d6a4b9d093e2c9eada2cd613afe0.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='7aa350784025dcf92526e50a22daa369c6cd4483332'></a> Source: [scripting\TOC.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/TOC.md)
@@ -4622,6 +5073,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [TOC.94c88eadcdc1b167fb0a17837d186c734f84dea9.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/TOC.94c88eadcdc1b167fb0a17837d186c734f84dea9.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [TOC.94c88eadcdc1b167fb0a17837d186c734f84dea9.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/TOC.94c88eadcdc1b167fb0a17837d186c734f84dea9.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='207792452c563ec6cca5c17fbcd122372442d8ac333'></a> Source: [scripting\topic\WinRMSecurity.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/topic/WinRMSecurity.md)
@@ -4634,6 +5087,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [WinRMSecurity.bed416d948611138eff822ac11c040f02ce812b9.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/WinRMSecurity.bed416d948611138eff822ac11c040f02ce812b9.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [WinRMSecurity.bed416d948611138eff822ac11c040f02ce812b9.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/WinRMSecurity.bed416d948611138eff822ac11c040f02ce812b9.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='ababa1b3ce913528a3ac7089d91ef74c5eb27737334'></a> Source: [scripting\whats-new\What-s-New-in-the-PowerShell-50-ISE.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/whats-new/What-s-New-in-the-PowerShell-50-ISE.md)
@@ -4646,6 +5101,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [What-s-New-in-the-PowerShell-50-ISE.bd27df5ede4241a8e6b57d0582112056984b68c8.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/What-s-New-in-the-PowerShell-50-ISE.bd27df5ede4241a8e6b57d0582112056984b68c8.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [What-s-New-in-the-PowerShell-50-ISE.bd27df5ede4241a8e6b57d0582112056984b68c8.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/What-s-New-in-the-PowerShell-50-ISE.bd27df5ede4241a8e6b57d0582112056984b68c8.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='666590df32157a7477d385961dd5665094275868335'></a> Source: [scripting\whats-new\What-s-New-in-Windows-PowerShell-50.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/whats-new/What-s-New-in-Windows-PowerShell-50.md)
@@ -4658,6 +5115,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [What-s-New-in-Windows-PowerShell-50.c86af26f5e83de3e47d3ac33f24919d8e93982d7.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/What-s-New-in-Windows-PowerShell-50.c86af26f5e83de3e47d3ac33f24919d8e93982d7.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [What-s-New-in-Windows-PowerShell-50.c86af26f5e83de3e47d3ac33f24919d8e93982d7.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/What-s-New-in-Windows-PowerShell-50.c86af26f5e83de3e47d3ac33f24919d8e93982d7.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='edb3be980d23cafb8c9b9923a7153308481e6c67336'></a> Source: [scripting\whats-new\What-s-New-With-PowerShell.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/whats-new/What-s-New-With-PowerShell.md)
@@ -4670,6 +5129,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [What-s-New-With-PowerShell.8b0e86271984e828077d39559df46f794de87d12.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/What-s-New-With-PowerShell.8b0e86271984e828077d39559df46f794de87d12.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [What-s-New-With-PowerShell.8b0e86271984e828077d39559df46f794de87d12.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/What-s-New-With-PowerShell.8b0e86271984e828077d39559df46f794de87d12.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='5c6f660f9de9039355f3a991da440b75e97275eb337'></a> Source: [scripting\Windows-PowerShell-Glossary.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/Windows-PowerShell-Glossary.md)
@@ -4682,6 +5143,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Windows-PowerShell-Glossary.77221263d6ea0c1622b940853c173bf68bf4ee7c.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Windows-PowerShell-Glossary.77221263d6ea0c1622b940853c173bf68bf4ee7c.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [Windows-PowerShell-Glossary.77221263d6ea0c1622b940853c173bf68bf4ee7c.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Windows-PowerShell-Glossary.77221263d6ea0c1622b940853c173bf68bf4ee7c.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='2160a4b932075c98df6806c61d263d30f650b9f4338'></a> Source: [wmf\5.0\audit_cms.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/wmf/5.0/audit_cms.md)
@@ -5268,6 +5731,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [feedback.143816a6c4b84d9da34b8073d5cc6c72a028e551.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/feedback.143816a6c4b84d9da34b8073d5cc6c72a028e551.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [feedback.143816a6c4b84d9da34b8073d5cc6c72a028e551.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/feedback.143816a6c4b84d9da34b8073d5cc6c72a028e551.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='e2d8147c6a85b59f5289f64e068c56593acc0cfc380'></a> Source: [wmf\5.0\feedback_archive.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/wmf/5.0/feedback_archive.md)
@@ -5280,6 +5745,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [feedback_archive.3381bea4a70c6c2b6f28cb1c554c19b458f13d1b.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/feedback_archive.3381bea4a70c6c2b6f28cb1c554c19b458f13d1b.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [feedback_archive.3381bea4a70c6c2b6f28cb1c554c19b458f13d1b.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/feedback_archive.3381bea4a70c6c2b6f28cb1c554c19b458f13d1b.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='51e7169b4b8a80bc5df81e4336171eb9cb2ab8e4381'></a> Source: [wmf\5.0\feedback_clipboard.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/wmf/5.0/feedback_clipboard.md)
@@ -5292,6 +5759,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [feedback_clipboard.84e163db6285a65adaadcceb579060323e57f5c1.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/feedback_clipboard.84e163db6285a65adaadcceb579060323e57f5c1.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [feedback_clipboard.84e163db6285a65adaadcceb579060323e57f5c1.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/feedback_clipboard.84e163db6285a65adaadcceb579060323e57f5c1.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='2e8c46c95663135229a189f4d9c07da362aec299382'></a> Source: [wmf\5.0\feedback_cmdlets.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/wmf/5.0/feedback_cmdlets.md)
@@ -5304,6 +5773,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [feedback_cmdlets.b67689cce17c378dad22880611f703622d92b4ad.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/feedback_cmdlets.b67689cce17c378dad22880611f703622d92b4ad.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [feedback_cmdlets.b67689cce17c378dad22880611f703622d92b4ad.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/feedback_cmdlets.b67689cce17c378dad22880611f703622d92b4ad.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='09741289743ef276e3e94753dcce136193304c65383'></a> Source: [wmf\5.0\feedback_convertfromString.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/wmf/5.0/feedback_convertfromString.md)
@@ -5316,6 +5787,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [feedback_convertfromString.109a190f24e69d8fe8d9b7d1fb090ce4f9a5267d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/feedback_convertfromString.109a190f24e69d8fe8d9b7d1fb090ce4f9a5267d.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [feedback_convertfromString.109a190f24e69d8fe8d9b7d1fb090ce4f9a5267d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/feedback_convertfromString.109a190f24e69d8fe8d9b7d1fb090ce4f9a5267d.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='71e9f46958b59abce912278677217cd632629439384'></a> Source: [wmf\5.0\feedback_convertstring.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/wmf/5.0/feedback_convertstring.md)
@@ -5328,6 +5801,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [feedback_convertstring.bc59fc0bc4dcce51a1f6f58584cc6a8fc654bd47.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/feedback_convertstring.bc59fc0bc4dcce51a1f6f58584cc6a8fc654bd47.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [feedback_convertstring.bc59fc0bc4dcce51a1f6f58584cc6a8fc654bd47.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/feedback_convertstring.bc59fc0bc4dcce51a1f6f58584cc6a8fc654bd47.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='aa0991efc9ca39cc0aae39516d4b6cac03c4501a385'></a> Source: [wmf\5.0\feedback_fileinfo.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/wmf/5.0/feedback_fileinfo.md)
@@ -5340,6 +5815,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [feedback_fileinfo.e03f597cbd149812b9f543125711d0c2ac066301.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/feedback_fileinfo.e03f597cbd149812b9f543125711d0c2ac066301.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [feedback_fileinfo.e03f597cbd149812b9f543125711d0c2ac066301.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/feedback_fileinfo.e03f597cbd149812b9f543125711d0c2ac066301.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='81803dcb8d5f0fac392cf13883b9240da3321f53386'></a> Source: [wmf\5.0\feedback_formathex.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/wmf/5.0/feedback_formathex.md)
@@ -5352,6 +5829,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [feedback_formathex.b7985634766247ec982733c5aa0a82e79780d00e.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/feedback_formathex.b7985634766247ec982733c5aa0a82e79780d00e.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [feedback_formathex.b7985634766247ec982733c5aa0a82e79780d00e.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/feedback_formathex.b7985634766247ec982733c5aa0a82e79780d00e.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='c3f3f9a8b16731dd1483eb65386ba0422b04370c387'></a> Source: [wmf\5.0\feedback_getchilditem.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/wmf/5.0/feedback_getchilditem.md)
@@ -5364,6 +5843,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [feedback_getchilditem.799596155029a30f1298c5144b0cb113af2b2bed.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/feedback_getchilditem.799596155029a30f1298c5144b0cb113af2b2bed.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [feedback_getchilditem.799596155029a30f1298c5144b0cb113af2b2bed.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/feedback_getchilditem.799596155029a30f1298c5144b0cb113af2b2bed.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='f2f968b1cd304009b3b29cdc793b61461e605812388'></a> Source: [wmf\5.0\feedback_moduleversionranges.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/wmf/5.0/feedback_moduleversionranges.md)
@@ -5376,6 +5857,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [feedback_moduleversionranges.6fba6bc01ecc078ab098b4cca47890fc7d1c3e36.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/feedback_moduleversionranges.6fba6bc01ecc078ab098b4cca47890fc7d1c3e36.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [feedback_moduleversionranges.6fba6bc01ecc078ab098b4cca47890fc7d1c3e36.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/feedback_moduleversionranges.6fba6bc01ecc078ab098b4cca47890fc7d1c3e36.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='5de946e13169ba772ae445fe9d0b73d213fff397389'></a> Source: [wmf\5.0\feedback_newguid.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/wmf/5.0/feedback_newguid.md)
@@ -5388,6 +5871,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [feedback_newguid.56818e4e062722ce589308307f208042aa0f493d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/feedback_newguid.56818e4e062722ce589308307f208042aa0f493d.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [feedback_newguid.56818e4e062722ce589308307f208042aa0f493d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/feedback_newguid.56818e4e062722ce589308307f208042aa0f493d.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='24969d20cd4500db4e8dc27c16cac84c0f3dc696390'></a> Source: [wmf\5.0\feedback_nonewline.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/wmf/5.0/feedback_nonewline.md)
@@ -5400,6 +5885,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [feedback_nonewline.011fc617cd5977a94aba667ba59ba06e9121de5f.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/feedback_nonewline.011fc617cd5977a94aba667ba59ba06e9121de5f.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [feedback_nonewline.011fc617cd5977a94aba667ba59ba06e9121de5f.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/feedback_nonewline.011fc617cd5977a94aba667ba59ba06e9121de5f.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='fcafa99f4a7b9cefcb98a7e159a5adf03e7ac17f391'></a> Source: [wmf\5.0\feedback_symbolic.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/wmf/5.0/feedback_symbolic.md)
@@ -5412,6 +5899,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [feedback_symbolic.2a9a5acdc77b4047244ecc185a2d34209c6a9ca7.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/feedback_symbolic.2a9a5acdc77b4047244ecc185a2d34209c6a9ca7.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [feedback_symbolic.2a9a5acdc77b4047244ecc185a2d34209c6a9ca7.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/feedback_symbolic.2a9a5acdc77b4047244ecc185a2d34209c6a9ca7.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='2741204c16027d7e8e8f785b90b9cc301880a262392'></a> Source: [wmf\5.0\feedback_tempfile.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/wmf/5.0/feedback_tempfile.md)
@@ -5424,6 +5913,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [feedback_tempfile.ae7dfa32b29a84b34de0ca2cbad4b7a147828ca7.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/feedback_tempfile.ae7dfa32b29a84b34de0ca2cbad4b7a147828ca7.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [feedback_tempfile.ae7dfa32b29a84b34de0ca2cbad4b7a147828ca7.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/feedback_tempfile.ae7dfa32b29a84b34de0ca2cbad4b7a147828ca7.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='20254315c2503d46e6160593fb822391c5db2dd4393'></a> Source: [wmf\5.0\informationstream_overview.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/wmf/5.0/informationstream_overview.md)
@@ -5436,6 +5927,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [informationstream_overview.2a7cf6cc8c38f66d757db9737aba17961b59dd48.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/informationstream_overview.2a7cf6cc8c38f66d757db9737aba17961b59dd48.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [informationstream_overview.2a7cf6cc8c38f66d757db9737aba17961b59dd48.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/informationstream_overview.2a7cf6cc8c38f66d757db9737aba17961b59dd48.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='91d23a0045c6d7a1200caae6df64368dd8f3ecee394'></a> Source: [wmf\5.0\install.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/wmf/5.0/install.md)
@@ -5448,6 +5941,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [install.299002dd28808701e6fba3662bcf3fa7bfd0afcd.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/install.299002dd28808701e6fba3662bcf3fa7bfd0afcd.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [install.299002dd28808701e6fba3662bcf3fa7bfd0afcd.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/install.299002dd28808701e6fba3662bcf3fa7bfd0afcd.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='061fb3a39191f7aaf3f5e51b12f56cac84031f49395'></a> Source: [wmf\5.0\jea_endpoint.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/wmf/5.0/jea_endpoint.md)
@@ -5460,6 +5955,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [jea_endpoint.cb08c9d0f8049659e6507d3de1d0a8c36b60990f.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/jea_endpoint.cb08c9d0f8049659e6507d3de1d0a8c36b60990f.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [jea_endpoint.cb08c9d0f8049659e6507d3de1d0a8c36b60990f.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/jea_endpoint.cb08c9d0f8049659e6507d3de1d0a8c36b60990f.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='811596d4ad7994a12987ff172e626eac534bdf4d396'></a> Source: [wmf\5.0\jea_overview.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/wmf/5.0/jea_overview.md)
@@ -5472,6 +5969,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [jea_overview.658a52745f6cffa61c193add5b15d6ed92ae05f2.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/jea_overview.658a52745f6cffa61c193add5b15d6ed92ae05f2.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [jea_overview.658a52745f6cffa61c193add5b15d6ed92ae05f2.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/jea_overview.658a52745f6cffa61c193add5b15d6ed92ae05f2.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='a91b675a4f19306481bb87dc3f3b8cb32ab07e8c397'></a> Source: [wmf\5.0\jea_report.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/wmf/5.0/jea_report.md)
@@ -5484,6 +5983,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [jea_report.fbb80f728acef34b319fa10333051f0c1fbe68f3.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/jea_report.fbb80f728acef34b319fa10333051f0c1fbe68f3.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [jea_report.fbb80f728acef34b319fa10333051f0c1fbe68f3.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/jea_report.fbb80f728acef34b319fa10333051f0c1fbe68f3.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='ad262a8f38b79f748757c1503a5e7173a1010923398'></a> Source: [wmf\5.0\limitation_dsc.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/wmf/5.0/limitation_dsc.md)
@@ -5496,6 +5997,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [limitation_dsc.84393b9f829dc3ec01781af7ab4702c88eefacce.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/limitation_dsc.84393b9f829dc3ec01781af7ab4702c88eefacce.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [limitation_dsc.84393b9f829dc3ec01781af7ab4702c88eefacce.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/limitation_dsc.84393b9f829dc3ec01781af7ab4702c88eefacce.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='35cdbfab22a0fa00480012fed0a2cf32ffa11f8d399'></a> Source: [wmf\5.0\limitation_overview.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/wmf/5.0/limitation_overview.md)
@@ -5508,6 +6011,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [limitation_overview.4c88716fba1165ec8c8f879705c3e1ac3be95c3b.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/limitation_overview.4c88716fba1165ec8c8f879705c3e1ac3be95c3b.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [limitation_overview.4c88716fba1165ec8c8f879705c3e1ac3be95c3b.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/limitation_overview.4c88716fba1165ec8c8f879705c3e1ac3be95c3b.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='9a9e69d384ffd92e0c26904a176f9954c5815f9a400'></a> Source: [wmf\5.0\networkswitch_overview.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/wmf/5.0/networkswitch_overview.md)
@@ -5520,6 +6025,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [networkswitch_overview.f76fbd99321e35e96ca483cf3029400cffc3cbbb.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/networkswitch_overview.f76fbd99321e35e96ca483cf3029400cffc3cbbb.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [networkswitch_overview.f76fbd99321e35e96ca483cf3029400cffc3cbbb.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/networkswitch_overview.f76fbd99321e35e96ca483cf3029400cffc3cbbb.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='8849fb46853f12318dd34781d07085419737d196401'></a> Source: [wmf\5.0\odata_overview.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/wmf/5.0/odata_overview.md)
@@ -5532,6 +6039,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [odata_overview.8e2a9a6439fd99d29ee8bbf95227a47facf1d339.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/odata_overview.8e2a9a6439fd99d29ee8bbf95227a47facf1d339.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [odata_overview.8e2a9a6439fd99d29ee8bbf95227a47facf1d339.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/odata_overview.8e2a9a6439fd99d29ee8bbf95227a47facf1d339.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='75b6354fb83002602ec3d6276246cfa00ce0746a402'></a> Source: [wmf\5.0\oneget_cmdlets.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/wmf/5.0/oneget_cmdlets.md)
@@ -5544,6 +6053,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [oneget_cmdlets.c8461a017b340ba6823a21ea09e5526755f42d8e.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/oneget_cmdlets.c8461a017b340ba6823a21ea09e5526755f42d8e.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [oneget_cmdlets.c8461a017b340ba6823a21ea09e5526755f42d8e.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/oneget_cmdlets.c8461a017b340ba6823a21ea09e5526755f42d8e.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='967366156ab58d16b085a97f9a08169d3bff75c2403'></a> Source: [wmf\5.0\oneget_overview.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/wmf/5.0/oneget_overview.md)
@@ -5556,6 +6067,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [oneget_overview.faa23864a561cf547935d85ec8b89e6f418a9d84.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/oneget_overview.faa23864a561cf547935d85ec8b89e6f418a9d84.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [oneget_overview.faa23864a561cf547935d85ec8b89e6f418a9d84.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/oneget_overview.faa23864a561cf547935d85ec8b89e6f418a9d84.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='5998288f1a82980b5988eb6d4fff1833ba5067e1404'></a> Source: [wmf\5.0\productincompat.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/wmf/5.0/productincompat.md)
@@ -5568,6 +6081,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [productincompat.0a6cf726af5908329b3844a4dac896cc5058dc98.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/productincompat.0a6cf726af5908329b3844a4dac896cc5058dc98.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [productincompat.0a6cf726af5908329b3844a4dac896cc5058dc98.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/productincompat.0a6cf726af5908329b3844a4dac896cc5058dc98.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='4dfab3c01259382cb4a7ecfb9954d2fa7eb07aed405'></a> Source: [wmf\5.0\psget_module_overview.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/wmf/5.0/psget_module_overview.md)
@@ -5580,6 +6095,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psget_module_overview.d0f01deb0c90b20ae7155756cfab78da00060dcf.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_module_overview.d0f01deb0c90b20ae7155756cfab78da00060dcf.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [psget_module_overview.d0f01deb0c90b20ae7155756cfab78da00060dcf.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_module_overview.d0f01deb0c90b20ae7155756cfab78da00060dcf.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='809547e4b84077de47f8e9cb8d252b37a26a35e2406'></a> Source: [wmf\5.0\psget_modulecmdlets.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/wmf/5.0/psget_modulecmdlets.md)
@@ -5592,6 +6109,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psget_modulecmdlets.78c6b2d8b0135ba8453b9ae6962c8e814209c764.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_modulecmdlets.78c6b2d8b0135ba8453b9ae6962c8e814209c764.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [psget_modulecmdlets.78c6b2d8b0135ba8453b9ae6962c8e814209c764.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_modulecmdlets.78c6b2d8b0135ba8453b9ae6962c8e814209c764.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='f723a03aa04ea613f28d31c019b0c4d7e8af7f00407'></a> Source: [wmf\5.0\psget_moduledependency.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/wmf/5.0/psget_moduledependency.md)
@@ -5604,6 +6123,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psget_moduledependency.b230bb725b1be8352ddbb06879144284e90d1972.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_moduledependency.b230bb725b1be8352ddbb06879144284e90d1972.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [psget_moduledependency.b230bb725b1be8352ddbb06879144284e90d1972.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_moduledependency.b230bb725b1be8352ddbb06879144284e90d1972.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='644781a07bed2df5464d8090155522ae7477a11e408'></a> Source: [wmf\5.0\psget_modulesxsinstall.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/wmf/5.0/psget_modulesxsinstall.md)
@@ -5616,6 +6137,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psget_modulesxsinstall.71b85a56e418b7a114d7c8203c6786139ab70334.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_modulesxsinstall.71b85a56e418b7a114d7c8203c6786139ab70334.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [psget_modulesxsinstall.71b85a56e418b7a114d7c8203c6786139ab70334.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_modulesxsinstall.71b85a56e418b7a114d7c8203c6786139ab70334.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='972f011c3c9f98b54fb5cc270281cd146eb9ac71409'></a> Source: [wmf\5.0\psget_psrepository.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/wmf/5.0/psget_psrepository.md)
@@ -5628,6 +6151,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psget_psrepository.27f467ad15827a2688770cde9903a76243c9c757.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_psrepository.27f467ad15827a2688770cde9903a76243c9c757.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [psget_psrepository.27f467ad15827a2688770cde9903a76243c9c757.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_psrepository.27f467ad15827a2688770cde9903a76243c9c757.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='0569c3ce579db17c228c3410ca6db8a668919b19410'></a> Source: [wmf\5.0\psget_script_overview.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/wmf/5.0/psget_script_overview.md)
@@ -5640,6 +6165,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psget_script_overview.4be11aa863936c9d1e99cc85da3635bbb3108ba6.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_script_overview.4be11aa863936c9d1e99cc85da3635bbb3108ba6.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [psget_script_overview.4be11aa863936c9d1e99cc85da3635bbb3108ba6.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_script_overview.4be11aa863936c9d1e99cc85da3635bbb3108ba6.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='91a4ed1e8912f77e274d64db7873ad56edbbd17b411'></a> Source: [wmf\5.0\psget_scriptcmdlets.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/wmf/5.0/psget_scriptcmdlets.md)
@@ -5652,6 +6179,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psget_scriptcmdlets.4171680ef59ddc646eaa180bd30d8394276c46a3.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_scriptcmdlets.4171680ef59ddc646eaa180bd30d8394276c46a3.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [psget_scriptcmdlets.4171680ef59ddc646eaa180bd30d8394276c46a3.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_scriptcmdlets.4171680ef59ddc646eaa180bd30d8394276c46a3.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='37ba02e8b09b56312fbcf8b031b9ef49a53e5436412'></a> Source: [wmf\5.0\releasenotes.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/wmf/5.0/releasenotes.md)
@@ -5664,6 +6193,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [releasenotes.6b2452476cc52d490ab786e75fe7920d8690e7c0.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/releasenotes.6b2452476cc52d490ab786e75fe7920d8690e7c0.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [releasenotes.6b2452476cc52d490ab786e75fe7920d8690e7c0.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/releasenotes.6b2452476cc52d490ab786e75fe7920d8690e7c0.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='02ce3d08b01e58d6d9506f90142f92cc16304e64413'></a> Source: [wmf\5.0\requirements.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/wmf/5.0/requirements.md)
@@ -5676,6 +6207,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [requirements.599400d9bdc5e69c1c16cb37cbc687bae515c330.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/requirements.599400d9bdc5e69c1c16cb37cbc687bae515c330.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [requirements.599400d9bdc5e69c1c16cb37cbc687bae515c330.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/requirements.599400d9bdc5e69c1c16cb37cbc687bae515c330.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='edc1a0383cebfbe89b18b0238a13bb28e4d25c5a414'></a> Source: [wmf\5.0\sil_overview.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/wmf/5.0/sil_overview.md)
@@ -5688,6 +6221,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [sil_overview.1e7d998d82630c51f69b098a2c2b893451c419e5.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/sil_overview.1e7d998d82630c51f69b098a2c2b893451c419e5.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [sil_overview.1e7d998d82630c51f69b098a2c2b893451c419e5.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/sil_overview.1e7d998d82630c51f69b098a2c2b893451c419e5.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='f97722883acccd0addb49cc473fc1cce5300c184415'></a> Source: [wmf\5.0\uninstall.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/wmf/5.0/uninstall.md)
@@ -5700,6 +6235,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [uninstall.98be0e2c383d10711000c737c3984097ed45c695.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/uninstall.98be0e2c383d10711000c737c3984097ed45c695.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [uninstall.98be0e2c383d10711000c737c3984097ed45c695.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/uninstall.98be0e2c383d10711000c737c3984097ed45c695.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='8a7774b36f15ff790c31d4c1a8bc69be257b8508416'></a> Source: [wmf\5.1\bugfixes.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/wmf/5.1/bugfixes.md)
@@ -5768,8 +6305,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [DSC-improvements.34bcd4169d438016a90bb7d385251ff174844f98.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/DSC-improvements.34bcd4169d438016a90bb7d385251ff174844f98.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
-* Bilingual File: [DSC-improvements.34bcd4169d438016a90bb7d385251ff174844f98.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/DSC-improvements.34bcd4169d438016a90bb7d385251ff174844f98.de-de.xlf)
-* Bilingual Datetime: 2016-10-04 23:09:03
+* Bilingual File: [DSC-improvements.34bcd4169d438016a90bb7d385251ff174844f98.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/DSC-improvements.34bcd4169d438016a90bb7d385251ff174844f98.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='bb7efc55b1c948c349aa778b700e5cb1277b9762421'></a> Source: [wmf\5.1\engine-improvements.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/wmf/5.1/engine-improvements.md)
@@ -5782,6 +6319,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [engine-improvements.c5dd46175ad980e169540bcebd2cac560021ece6.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/engine-improvements.c5dd46175ad980e169540bcebd2cac560021ece6.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [engine-improvements.c5dd46175ad980e169540bcebd2cac560021ece6.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/engine-improvements.c5dd46175ad980e169540bcebd2cac560021ece6.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='3e5d5e93231b772b65d1913a4dbafc86d4edb950422'></a> Source: [wmf\5.1\features-scenarios-cache\analysis_cache.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/wmf/5.1/features-scenarios-cache/analysis_cache.md)
@@ -5847,8 +6386,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [DSCPartialConfigNaming.0fa686a40e3e562fa831fc87a2ac2b8b81cfba33.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/DSCPartialConfigNaming.0fa686a40e3e562fa831fc87a2ac2b8b81cfba33.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
-* Bilingual File: [DSCPartialConfigNaming.0fa686a40e3e562fa831fc87a2ac2b8b81cfba33.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/DSCPartialConfigNaming.0fa686a40e3e562fa831fc87a2ac2b8b81cfba33.de-de.xlf)
-* Bilingual Datetime: 2016-10-04 23:09:03
+* Bilingual File: [DSCPartialConfigNaming.0fa686a40e3e562fa831fc87a2ac2b8b81cfba33.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/DSCPartialConfigNaming.0fa686a40e3e562fa831fc87a2ac2b8b81cfba33.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='7505e063fad84999af786f2af0602d204ed973b7427'></a> Source: [wmf\5.1\features-scenarios-cache\DSCRunAsCredentialCompositeResources.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/wmf/5.1/features-scenarios-cache/DSCRunAsCredentialCompositeResources.md)
@@ -5874,8 +6413,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [DSCSigningValidations.9fb5f7c90060737d46691c9c29429a9e500a99db.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/DSCSigningValidations.9fb5f7c90060737d46691c9c29429a9e500a99db.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
-* Bilingual File: [DSCSigningValidations.9fb5f7c90060737d46691c9c29429a9e500a99db.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/DSCSigningValidations.9fb5f7c90060737d46691c9c29429a9e500a99db.de-de.xlf)
-* Bilingual Datetime: 2016-10-04 23:09:03
+* Bilingual File: [DSCSigningValidations.9fb5f7c90060737d46691c9c29429a9e500a99db.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/DSCSigningValidations.9fb5f7c90060737d46691c9c29429a9e500a99db.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='b24e70c1e1aaf71487b00fbccaf6edb0f375b888429'></a> Source: [wmf\5.1\features-scenarios-cache\Improved-dsc-classresource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/wmf/5.1/features-scenarios-cache/Improved-dsc-classresource.md)
@@ -5888,6 +6427,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Improved-dsc-classresource.2098c3839949d3dc2fb34849ee53df99fdeaf052.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Improved-dsc-classresource.2098c3839949d3dc2fb34849ee53df99fdeaf052.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [Improved-dsc-classresource.2098c3839949d3dc2fb34849ee53df99fdeaf052.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Improved-dsc-classresource.2098c3839949d3dc2fb34849ee53df99fdeaf052.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='33c3fcffdeb281b205ecc48f7cdd470b79e9e068430'></a> Source: [wmf\5.1\features-scenarios-cache\Improved-dsc-resourcedebugging.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/wmf/5.1/features-scenarios-cache/Improved-dsc-resourcedebugging.md)
@@ -5900,6 +6441,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Improved-dsc-resourcedebugging.0f92046f690e1bab0e838d53b3c92087667cbfa9.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Improved-dsc-resourcedebugging.0f92046f690e1bab0e838d53b3c92087667cbfa9.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [Improved-dsc-resourcedebugging.0f92046f690e1bab0e838d53b3c92087667cbfa9.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Improved-dsc-resourcedebugging.0f92046f690e1bab0e838d53b3c92087667cbfa9.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='8bb3f7173559c349d033d175f5784d80b7a16ed0431'></a> Source: [wmf\5.1\features-scenarios-cache\improved-pullclient-security.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/wmf/5.1/features-scenarios-cache/improved-pullclient-security.md)
@@ -5925,6 +6468,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Improved-PullServer-Registration.d7a4fcccff45351d621c096800df507ce7913764.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Improved-PullServer-Registration.d7a4fcccff45351d621c096800df507ce7913764.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [Improved-PullServer-Registration.d7a4fcccff45351d621c096800df507ce7913764.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Improved-PullServer-Registration.d7a4fcccff45351d621c096800df507ce7913764.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='1d0bd545b52ef56045f2ec740b05c4e0fd93bb67433'></a> Source: [wmf\5.1\features-scenarios-cache\improvements-oneget.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/wmf/5.1/features-scenarios-cache/improvements-oneget.md)
@@ -5937,6 +6482,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [improvements-oneget.c8c4d33b77e464fe53344366059ee41c9a3b5fce.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/improvements-oneget.c8c4d33b77e464fe53344366059ee41c9a3b5fce.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [improvements-oneget.c8c4d33b77e464fe53344366059ee41c9a3b5fce.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/improvements-oneget.c8c4d33b77e464fe53344366059ee41c9a3b5fce.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='7d2f293f000d3d82f4a227d3b3760988d9f02be7434'></a> Source: [wmf\5.1\features-scenarios-cache\jea-improvements.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/wmf/5.1/features-scenarios-cache/jea-improvements.md)
@@ -5949,6 +6496,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [jea-improvements.7d497b331a525c0e4042c5417438af356075d0e5.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/jea-improvements.7d497b331a525c0e4042c5417438af356075d0e5.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [jea-improvements.7d497b331a525c0e4042c5417438af356075d0e5.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/jea-improvements.7d497b331a525c0e4042c5417438af356075d0e5.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='bb1129e6aa20b64e94ddb6d7b7cf7b51b1df9ca3435'></a> Source: [wmf\5.1\features-scenarios-cache\oneget-improvement.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/wmf/5.1/features-scenarios-cache/oneget-improvement.md)
@@ -5961,6 +6510,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [oneget-improvement.5f280305f3daa37cb51ab01097cd9282a4fef551.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/oneget-improvement.5f280305f3daa37cb51ab01097cd9282a4fef551.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [oneget-improvement.5f280305f3daa37cb51ab01097cd9282a4fef551.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/oneget-improvement.5f280305f3daa37cb51ab01097cd9282a4fef551.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='dd7905bfd221201919d028ec158cd5ef349335e2436'></a> Source: [wmf\5.1\features-scenarios-cache\PesterUpdates.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/wmf/5.1/features-scenarios-cache/PesterUpdates.md)
@@ -5986,6 +6537,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [PowerShellGet-Enhancements.cd4664568a0aea25a6d3edac2f9934255e20fc3d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/PowerShellGet-Enhancements.cd4664568a0aea25a6d3edac2f9934255e20fc3d.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [PowerShellGet-Enhancements.cd4664568a0aea25a6d3edac2f9934255e20fc3d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/PowerShellGet-Enhancements.cd4664568a0aea25a6d3edac2f9934255e20fc3d.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='1b35a25312b44d14ec8771be9e17aaa43e270b61438'></a> Source: [wmf\5.1\features-scenarios-cache\ps-engine-enhancements.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/wmf/5.1/features-scenarios-cache/ps-engine-enhancements.md)
@@ -5998,6 +6551,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [ps-engine-enhancements.51ba717e1fb1db2a8fb647083ba968b9f58c4a82.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/ps-engine-enhancements.51ba717e1fb1db2a8fb647083ba968b9f58c4a82.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [ps-engine-enhancements.51ba717e1fb1db2a8fb647083ba968b9f58c4a82.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/ps-engine-enhancements.51ba717e1fb1db2a8fb647083ba968b9f58c4a82.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='dfba55f1eae5468df95309e14b3ee256511badf4439'></a> Source: [wmf\5.1\features-scenarios-cache\template.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/wmf/5.1/features-scenarios-cache/template.md)
@@ -6010,6 +6565,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [template.041b21bf6b803f46c15437198c5b452c28cfb564.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/template.041b21bf6b803f46c15437198c5b452c28cfb564.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [template.041b21bf6b803f46c15437198c5b452c28cfb564.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/template.041b21bf6b803f46c15437198c5b452c28cfb564.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='e09cfe0994ac523fd10658955731a93b6c176c88440'></a> Source: [wmf\5.1\features-scenarios-cache\using-module.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/wmf/5.1/features-scenarios-cache/using-module.md)
@@ -6022,6 +6579,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [using-module.dfdedb618ec7d188918f7f3f705c8c39bbb26521.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/using-module.dfdedb618ec7d188918f7f3f705c8c39bbb26521.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [using-module.dfdedb618ec7d188918f7f3f705c8c39bbb26521.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/using-module.dfdedb618ec7d188918f7f3f705c8c39bbb26521.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='30445aecee478d4fceb6cd446f26f00fe2ecc3d8441'></a> Source: [wmf\5.1\install-configure.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/wmf/5.1/install-configure.md)
@@ -6034,6 +6593,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [install-configure.d23935c7edf43234f7208217daa4ff7870a16d7c.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/install-configure.d23935c7edf43234f7208217daa4ff7870a16d7c.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [install-configure.d23935c7edf43234f7208217daa4ff7870a16d7c.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/install-configure.d23935c7edf43234f7208217daa4ff7870a16d7c.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='d4c9e88ddd6cfaec611527d19d00cbd4db9f5d1d444'></a> Source: [wmf\5.1\known-issues.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/wmf/5.1/known-issues.md)
@@ -6046,6 +6607,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [known-issues.7fc7aa932b574dc3cc428850a7fbc702d58225ff.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/known-issues.7fc7aa932b574dc3cc428850a7fbc702d58225ff.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [known-issues.7fc7aa932b574dc3cc428850a7fbc702d58225ff.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/known-issues.7fc7aa932b574dc3cc428850a7fbc702d58225ff.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='180158033e0c960f73dba66a3d77b15765e3e382442'></a> Source: [wmf\5.1\known-issues-cache\NetworkingSwitchCmdletInput.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/wmf/5.1/known-issues-cache/NetworkingSwitchCmdletInput.md)
@@ -6058,6 +6621,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [NetworkingSwitchCmdletInput.eed91b2188e6217c0c49c260c2510c33d4434177.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/NetworkingSwitchCmdletInput.eed91b2188e6217c0c49c260c2510c33d4434177.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [NetworkingSwitchCmdletInput.eed91b2188e6217c0c49c260c2510c33d4434177.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/NetworkingSwitchCmdletInput.eed91b2188e6217c0c49c260c2510c33d4434177.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='cfe0a6562743f1df81acb81e33c120cb67f9042c443'></a> Source: [wmf\5.1\known-issues-cache\template.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/wmf/5.1/known-issues-cache/template.md)
@@ -6070,6 +6635,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [template.f5eecaf481ada681f07bf33f2cc24cafd45f0083.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/template.f5eecaf481ada681f07bf33f2cc24cafd45f0083.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [template.f5eecaf481ada681f07bf33f2cc24cafd45f0083.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/template.f5eecaf481ada681f07bf33f2cc24cafd45f0083.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='615bdf1a82dc5078ee2f37eec70a64e25b42bda2445'></a> Source: [wmf\5.1\package-management-improvements.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/wmf/5.1/package-management-improvements.md)
@@ -6082,6 +6649,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [package-management-improvements.81c1bcda67908dcb003110be1bfb73a016cee225.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/package-management-improvements.81c1bcda67908dcb003110be1bfb73a016cee225.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [package-management-improvements.81c1bcda67908dcb003110be1bfb73a016cee225.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/package-management-improvements.81c1bcda67908dcb003110be1bfb73a016cee225.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='83061e651b190bab3e5914bb6270a5857f7aa7a5446'></a> Source: [wmf\5.1\release-notes.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/wmf/5.1/release-notes.md)
@@ -6094,6 +6663,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [release-notes.218509b1bab21c093b32cb5d4953c42d1cb90cb4.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/release-notes.218509b1bab21c093b32cb5d4953c42d1cb90cb4.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [release-notes.218509b1bab21c093b32cb5d4953c42d1cb90cb4.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/release-notes.218509b1bab21c093b32cb5d4953c42d1cb90cb4.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='9611a7da48a849b52821ac2890e1ea60441a75e3447'></a> Source: [wmf\5.1\scenarios-features.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/wmf/5.1/scenarios-features.md)
@@ -6106,6 +6677,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [scenarios-features.88cb2bdf7b7e45a4af286640d319a76b1f602647.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/scenarios-features.88cb2bdf7b7e45a4af286640d319a76b1f602647.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [scenarios-features.88cb2bdf7b7e45a4af286640d319a76b1f602647.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/scenarios-features.88cb2bdf7b7e45a4af286640d319a76b1f602647.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='90e6537c69b63c19d38e53440bb0982e01600134448'></a> Source: [wmf\docfx.json](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/wmf/docfx.json)
@@ -6310,6 +6883,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [index.087529cd8972c61293d437c5b3a72507e4d1e1d9.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/index.087529cd8972c61293d437c5b3a72507e4d1e1d9.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [index.087529cd8972c61293d437c5b3a72507e4d1e1d9.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/index.087529cd8972c61293d437c5b3a72507e4d1e1d9.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='755db60abb7859af5065e2c5ddfbfc6cfb7aeeda465'></a> Source: [wmf\md.style](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/wmf/md.style)
@@ -6334,6 +6909,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [README.3f33d618813a6a11bfd02271ad6bb9c112763721.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/README.3f33d618813a6a11bfd02271ad6bb9c112763721.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [README.3f33d618813a6a11bfd02271ad6bb9c112763721.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/README.3f33d618813a6a11bfd02271ad6bb9c112763721.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 ##### <a name='274c6dcc36b3baa64d01b5518444c7de3dcc00ee467'></a> Source: [wmf\TOC.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/wmf/TOC.md)
@@ -6346,6 +6923,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [TOC.60497266061c38453b3db893ec675eb65584af89.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/TOC.60497266061c38453b3db893ec675eb65584af89.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [TOC.60497266061c38453b3db893ec675eb65584af89.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/TOC.60497266061c38453b3db893ec675eb65584af89.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
 
 
