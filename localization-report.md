@@ -5,12 +5,12 @@
  -------- | ----- 
  Total Files | 468
 [ Handoff Failed Files ](#handoff-failed-list)| 0
-[ Handoff Success Files ](#handoff-success-list)| 27
+[ Handoff Success Files ](#handoff-success-list)| 26
 [ Archive Failed Files ](#archive-failed-list)| 0
 [ Archive Success Files ](#archive-success-list)| 0
 [ Handback Failed Files ](#handback-failed-list)| 5
 [ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 0
-[ In Sync Handback Files ](#insync-handback-success-list)| 395
+[ In Sync Handback Files ](#insync-handback-success-list)| 396
 [ Ignored Files ](#ignored-list)| 41
 
 ## <a name='handoff-failed-list'></a> Handoff Failed File List
@@ -41,7 +41,6 @@
  [dsc\msft-dsclocalconfigurationmanager-sendconfigurationapplyasync.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/msft-dsclocalconfigurationmanager-sendconfigurationapplyasync.md) | HandedOffSuccess | [Details](#9cf01693a668228561c999942b8e66942bfac5fa70)
  [dsc\msft-dsclocalconfigurationmanager-sendmetaconfigurationapply.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/msft-dsclocalconfigurationmanager-sendmetaconfigurationapply.md) | HandedOffSuccess | [Details](#4cf6b6be55140cfc3013821a69abcad4b3f68e8671)
  [dsc\Test1\MoraviaDemo.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/b55a68d179ab003b414a0ab6459fdd2923ab108c/dsc/Test1/MoraviaDemo.md) | HandedOffSuccess | [Details](#e60976865fe9b1b0115509c66b9973dea16992ec100)
- [dsc\troubleshooting.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/troubleshooting.md) | HandedOffSuccess | [Details](#4830be14b105485c50446f06e9d36491b4c4fe44105)
  [gallery\psget\module\modulewithpseditionsupport.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/gallery/psget/module/modulewithpseditionsupport.md) | HandedOffSuccess | [Details](#7b8d135889378be56d0d6d5b9dc89c55f2b1e68f145)
  [scripting\core-powershell\core-modules\Microsoft.WSMan.Management-Module.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/core-powershell/core-modules/Microsoft.WSMan.Management-Module.md) | HandedOffSuccess | [Details](#de6a4fcc1b07ed1bd41f4b2f6b6cd68e2cd66f84214)
  [scripting\getting-started\more-powershell-learning.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/getting-started/more-powershell-learning.md) | HandedOffSuccess | [Details](#05205ff8fcf0a3b23e66a6ac756be0d9a5055bd2316)
@@ -134,6 +133,7 @@
  [dsc\Test1\SonjaFileToo.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/2b1b0b4a9a3f8d40903c732762b4dbd74bf69673/dsc/Test1/SonjaFileToo.md) | InSyncHandedBackSuccess | [Details](#a659f12ae049937714da659dd95d40ea9774222c102)
  [dsc\testmove2\overview-test2.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/bd0dec04ca7fac2de45f4b0e2e61ab395586aaaf/dsc/testmove2/overview-test2.md) | InSyncHandedBackSuccess | [Details](#d4e485c4e2461db1b7cca67d12d1a7dd331996a6103)
  [dsc\TOC.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/TOC.md) | InSyncHandedBackSuccess | [Details](#924d5878a6d93e846adbd9cb4c69bea79e104bcd104)
+ [dsc\troubleshooting.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/troubleshooting.md) | InSyncHandedBackSuccess | [Details](#4830be14b105485c50446f06e9d36491b4c4fe44105)
  [dsc\userResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/userResource.md) | InSyncHandedBackSuccess | [Details](#5c7878bdfc8a3f118b569a9e43be6c7e4333ad2c106)
  [dsc\whitepapers.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/whitepapers.md) | InSyncHandedBackSuccess | [Details](#434ebc17f2bc7b7ee868788e87dc5b34cef61529107)
  [dsc\windowsfeatureResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/windowsfeatureResource.md) | InSyncHandedBackSuccess | [Details](#522dbea958a60f76e98abe32e11e6491ea6d457c108)
@@ -1913,18 +1913,15 @@
 * [Back to Top](#report-top)
 
 ##### <a name='4830be14b105485c50446f06e9d36491b4c4fe44105'></a> Source: [dsc\troubleshooting.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/troubleshooting.md)
-* Status: HandedOffSuccess
-* Target File: 
+* Status: InSyncHandedBackSuccess
+* Target File: [dsc\troubleshooting.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs.de-de/blob/1b92f3a5e7b6e9e91ae2920eadaaa191d582ae6e/dsc/troubleshooting.md)
 * Handoff File: [troubleshooting.bcb1039de4ec46bfb0ab2d224be50829d0891e7d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/troubleshooting.bcb1039de4ec46bfb0ab2d224be50829d0891e7d.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* Current Target File: [dsc\troubleshooting.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs.de-de/blob/29047b489527448917393f3232693dface49b370/dsc/troubleshooting.md)
-* Current Handback File: [rename_troubleshooting.4c130a5165c494568ef17f0cc6e7c9fc0caf31bc.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/rename_troubleshooting.4c130a5165c494568ef17f0cc6e7c9fc0caf31bc.de-de.xlf)
-* Current Handback Datetime: 2016-10-05 16:29:21
+* Handback File: [troubleshooting.bcb1039de4ec46bfb0ab2d224be50829d0891e7d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/84e024c909e18c131bb6b20fbd3e1dc1e26ad8ed/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/troubleshooting.bcb1039de4ec46bfb0ab2d224be50829d0891e7d.de-de.xlf)
+* Handback Datetime: 2016-10-05 16:38:39
 * Bilingual File: [rename_troubleshooting.4c130a5165c494568ef17f0cc6e7c9fc0caf31bc.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/rename_troubleshooting.4c130a5165c494568ef17f0cc6e7c9fc0caf31bc.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)

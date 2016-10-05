@@ -5998,7 +5998,7 @@
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\4830be14b105485c50446f06e9d36491b4c4fe44.77050b115740c699be0996f5e439490dcdb70ad2.xml",
       "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\troubleshooting.bcb1039de4ec46bfb0ab2d224be50829d0891e7d.de-de.xlf",
-      "LocXliffCommit": "6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3"
+      "LocXliffCommit": "84e024c909e18c131bb6b20fbd3e1dc1e26ad8ed"
     },
     "scripting\\core-powershell\\ise\\The-PowerShellTabCollection-Object.md.0daaa40cb3c99b37e84c478bf5827d8d1912b6a5.HT": {
       "SourceFilename": "scripting\\core-powershell\\ise\\The-PowerShellTabCollection-Object.md",
