@@ -1,15 +1,12 @@
 #PowerShell-Dokumentation
 
-Willkommen bei der offiziellen Dokumentation von PowerShell mit PowerShell-Dokumentation Repository [auf MSDN verfügbaren](https://msdn.microsoft.com/powershell/dsc/overview).
+Willkommen beim Repository PowerShell-Docs, das die offizielle PowerShell-Dokumentation enthält, die [auf MSDN verfügbar](https://msdn.microsoft.com/powershell/dsc/overview) ist.
 
-> **Hinweis**: jetzt dieses Repository ist lediglich für den Inhalt von PowerShell gewünscht State Configuration (DSC). 
-> In Zukunft kann erweitert werden, um eine größere Anzahl von PowerShell-Dokumentation enthalten.
+> **Hinweis**: Zurzeit ist dieses Repository nur für Inhalte bezüglich der PowerShell Desired State Configuration (DSC) gedacht.
+Es kann zukünftig auf weitere Bereiche der PowerShell-Dokumentation erweitert werden.
 
-##Beitragen.
+## Beitragen
 
-Wir werden Beiträge aktiv in diesem Repository per Pull-Anforderung zusammengeführt werden. 
-Beachten Sie, dass vor dem beigetragen haben, Sie müssen [Signieren eines Lizenzvertrags Beitrag](https://cla.microsoft.com/) um sicherzustellen, dass die Community frei, Ihre Beiträge zu verwenden ist.
-Weitere Informationen dazu beitragen, finden Sie in unserer [Beiträge Handbuch](CONTRIBUTING.md).
-
-
-
+Wir werden Beiträge zu diesem Repository aktiv per Pull Requests zusammenführen. 
+Beachten Sie, dass Sie vor dem Beitragen eine [Beitrags-Lizenzvereinbarung unterzeichnen](https://cla.microsoft.com/) müssen, damit die Community Ihre Beiträge nutzen darf.
+Weitere Informationen über Beiträge finden Sie in unserem [Beitrags-Leitfaden](CONTRIBUTING.md).
