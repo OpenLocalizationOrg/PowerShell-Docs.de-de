@@ -1,8 +1,8 @@
 #  Allgemeine Module in PowerShell
 
-"Common" PowerShell-Module bieten die grundlegende Funktionen von PowerShell.
+"Common" PowerShell-Module stellen grundlegende Funktionen von PowerShell bereit.
 
-Die folgende Tabelle zeigt die Entwicklung der allgemeinen Module durch veröffentlichte Version:
+Die folgende Tabelle zeigt die Entwicklung der allgemeinen Module nach veröffentlichter Version:
 
 V 3.0 | V 4.0 | V 5.0 | V 5.1
 ------- | ------- | ------- | -------
