@@ -46,7 +46,7 @@ Möchten Sie mehrere Elemente in ein einzelnes Listen-Element aufnehmen, formati
 
     Bei weiteren Elementen (wie bei diesem) fügen Sie einen Zeilenumbruch nach dem ersten Element ein und gleichen Sie den Einzug aus.
 ```
-to get this output:
+Dadurch erzielen Sie folgende Ausgabe:
 
 1.  Beim ersten Listen-Element (wie bei diesem) fügen Sie einen Tabstopp nach der 1. ein.
 
