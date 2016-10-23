@@ -39,7 +39,7 @@ Dies ist momentan nicht im gesamten Repository PowerShell-Docs der Fall, wir arb
 * **Fett:** Das HTML-Element `<strong>Text-Beispiel</strong>` wird als `**Text-Beispiel**` geschrieben.
 * **Überschriften:** HTML-Überschriften werden durch `#`-Zeichen am Zeilenanfang kenntlich gemacht. 
 Dabei entspricht die Anzahl der `#`-Zeichen der hierarchischen Ebene der Überschrift (beispielsweise steht `#` für `<h1>` und `###` für `<h3>`).
-* **Nummerierung:** Zur Erstellung einer Nummerierung (nummerierten Liste) beginnen Sie die Zeile mit `1. `.
+* **Nummerierungen:** Zur Erstellung einer Nummerierung (nummerierten Liste) beginnen Sie die Zeile mit `1. `.
 Möchten Sie mehrere Elemente in ein einzelnes Listen-Element aufnehmen, formatieren Sie die Liste wie folgt:
 ```      
 1.  Beim ersten Listen-Element (wie bei diesem) fügen Sie einen Tabstopp nach der 1. ein.
