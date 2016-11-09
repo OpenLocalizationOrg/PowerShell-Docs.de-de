@@ -1,96 +1,97 @@
-# [(Übersicht)](overview.md)
+# <a name="overviewoverviewmd"></a>Overview
+# <a name="testtestmd"></a>测试
 
-# [Konfigurationen](configurations.md)
-## [Inkraftsetzung von Konfigurationen](enactingConfigurations.md)
-## [Verwenden von Ressourcen mit mehreren Versionen](sxsResource.md)
-## [Ausführen von DSC mit Benutzeranmeldeinformationen](runAsUser.md)
-## [Die knotenübergreifende Abhängigkeiten angeben](crossNodeDependencies.md)
-## [Konfigurationsdaten](configData.md)
-### [Optionen für Anmeldeinformationen in der Konfigurationsdaten](configDataCredentials.md)
-## [Sichern die MOF-Konfigurationsdatei](secureMOF.md)
-## [Teilweise Konfigurationen](partialConfigs.md)
-## [Das Schreiben von Hilfe für DSC-Konfigurationen](configHelp.md)
+# <a name="configurationsconfigurationsmd"></a>Configurations
+## <a name="enacting-configurationsenactingconfigurationsmd"></a>Enacting configurations
+## <a name="using-resources-with-multiple-versionssxsresourcemd"></a>Using resources with multiple versions
+## <a name="running-dsc-with-user-credentialsrunasusermd"></a>Running DSC with user credentials
+## <a name="specifying-crossnode-dependenciescrossnodedependenciesmd"></a>Specifying cross-node dependencies
+## <a name="configuration-dataconfigdatamd"></a>Configuration data
+### <a name="credential-options-in-configuration-dataconfigdatacredentialsmd"></a>Credential options in configuration data
+## <a name="securing-the-configuration-mof-filesecuremofmd"></a>Securing the configuration MOF file
+## <a name="partial-configurationspartialconfigsmd"></a>Partial Configurations
+## <a name="writing-help-for-dsc-configurationsconfighelpmd"></a>Writing help for DSC configurations
 
-# [Ressourcen](resources.md)
-## [Integrierte Ressourcen](builtInResource.md)
-### [Archive-Ressource](archiveResource.md)
-### [Environment-Ressource](environmentResource.md)
-### [File-Ressource](fileResource.md)
-### [Group-Ressource](groupResource.md)
-### [Log-Ressource](logResource.md)
-### [Package-Ressource](packageResource.md)
-### [Registry-Ressource](registryResource.md)
-### [Script-Ressource](scriptResource.md)
-### [Service-Ressource](serviceResource.md)
-### [User-Ressource](userResource.md)
-### [WindowsFeature-Ressource](windowsfeatureResource.md)
-### [WindowsProcess-Ressourcen](windowsProcessResource.md)
-## [Erstellen von benutzerdefinierten Ressourcen](authoringResource.md) 
-### [MOF-basierte benutzerdefinierte Ressourcen](authoringResourceMOF.md)
-#### [MOF-basierte Ressourcen in c#](authoringResourceMofCS.md)
-### [Auf Klassen basierende benutzerdefinierte Ressourcen](authoringResourceClass.md)
-### [Zusammengesetzte Ressourcen](authoringResourceComposite.md)
-### [Schreiben eine Einzelinstanz-DSC-Ressource (empfohlen)](singleInstance.md)
-### [Checkliste für die Ressource erstellen](resourceAuthoringChecklist.md)
-## [Debuggen von DSC-Ressourcen](debugResource.md)
-## [DSC-Ressourcen-Methoden aufrufen (direkt)](directCallResource.md)
+# <a name="resourcesresourcesmd"></a>Resources
+## <a name="builtin-resourcesbuiltinresourcemd"></a>Built-in resources
+### <a name="archive-resourcearchiveresourcemd"></a>Archive Resource
+### <a name="environment-resourceenvironmentresourcemd"></a>Environment Resource
+### <a name="file-resourcefileresourcemd"></a>File Resource
+### <a name="group-resourcegroupresourcemd"></a>Group Resource
+### <a name="log-resourcelogresourcemd"></a>Log Resource
+### <a name="package-resourcepackageresourcemd"></a>Package Resource
+### <a name="registry-resourceregistryresourcemd"></a>Registry Resource
+### <a name="script-resourcescriptresourcemd"></a>Script Resource
+### <a name="service-resourceserviceresourcemd"></a>Service Resource
+### <a name="user-resourceuserresourcemd"></a>User Resource
+### <a name="windowsfeature-resourcewindowsfeatureresourcemd"></a>WindowsFeature Resource
+### <a name="windowsprocess-resourcewindowsprocessresourcemd"></a>WindowsProcess Resource
+## <a name="authoring-custom-resourcesauthoringresourcemd"></a>Authoring custom resources 
+### <a name="mofbased-custom-resourcesauthoringresourcemofmd"></a>MOF-based custom resources
+#### <a name="mofbased-resource-in-cauthoringresourcemofcsmd"></a>MOF-based resource in C
+### <a name="classbased-custom-resoucesauthoringresourceclassmd"></a>Class-based custom resouces
+### <a name="composite-resourcesauthoringresourcecompositemd"></a>Composite resources
+### <a name="writing-a-singleinstance-dsc-resource-best-practicesingleinstancemd"></a>Writing a single-instance DSC resource (best practice)
+### <a name="resource-authoring-checklistresourceauthoringchecklistmd"></a>Resource authoring checklist
+## <a name="debugging-dsc-resourcesdebugresourcemd"></a>Debugging DSC resources
+## <a name="calling-dsc-resource-methods-directlydirectcallresourcemd"></a>Calling DSC resource methods directly
 
-# [Konfigurieren des lokalen Konfigurations-Managers (KGV)](metaConfig.md)
-## [Konfigurieren die KGV in PowerShell 4.0](metaConfig4.md)
+# <a name="configuring-the-local-configuration-manager-lcmmetaconfigmd"></a>Configuring the Local Configuration Manager (LCM)
+## <a name="configuring-the-lcm-in-powershell-40metaconfig4md"></a>Configuring the LCM in PowerShell 4.0
 
-# Das DSC-Pullmodell
-## [Einrichten eines Webpullservers](pullServer.md)
-## [Einrichten einer SMB DSC-Pull-server](pullServerSMB.md)
-## [Einrichten eines Pull-Clients](pullClient.md)
-### [Einrichten eines Pullclients mithilfe von Konfigurationsnamen](pullClientConfigNames.md)
-### [Einrichten eines Pullclients mithilfe einer Konfigurations-ID](pullClientConfigID.md)
-## [Verwenden einen Berichtsserver DSC](reportServer.md)
-## [Ziehen Sie best Practices für server](secureServer.md)
+# <a name="the-dsc-pull-model"></a>The DSC pull model
+## <a name="setting-up-a-web-pull-serverpullservermd"></a>Setting up a web pull server
+## <a name="setting-up-a-dsc-smb-pull-serverpullserversmbmd"></a>Setting up a DSC SMB pull server
+## <a name="setting-up-a-pull-clientpullclientmd"></a>Setting up a pull client
+### <a name="setting-up-a-pull-client-using-configuration-namespullclientconfignamesmd"></a>Setting up a pull client using configuration names
+### <a name="setting-up-a-pull-client-using-configuration-idpullclientconfigidmd"></a>Setting up a pull client using configuration ID
+## <a name="using-a-dsc-report-serverreportservermd"></a>Using a DSC report server
+## <a name="pull-server-best-practicessecureservermd"></a>Pull server best practices
 
-# [Problembehandlung bei DSC](troubleshooting.md)
+# <a name="troubleshooting-dsctroubleshootingmd"></a>Troubleshooting DSC
 
-# [Verwenden von DSC auf Nano Server](nanoDsc.md)
+# <a name="using-dsc-on-nano-servernanodscmd"></a>Using DSC on Nano Server
 
-# DSC für Linux
-## [Erste Schritte mit DSC für Linux](lnxGettingStarted.md)
-## [Integrierte Ressourcen für Linux](lnxBuiltInResources.md)
-### [NxArchive Ressourcen](lnxArchiveResource.md)
-### [NxEnvironment Ressourcen](lnxEnvironmentResource.md)
-### [NxFile Ressourcen](lnxFileResource.md)
-### [NxFileLine Ressourcen](lnxFileLineResource.md)
-### [NxGroup Ressourcen](lnxGroupResource.md)
-### [NxPackage Ressourcen](lnxPackageResource.md)
-### [NxService Ressourcen](lnxServiceResource.md)
-### [NxSshAuthorizedKeys Ressourcen](lnxSshAuthorizedKeysResource.md)
-### [NxUser Ressourcen](lnxUserResource.md)
+# <a name="dsc-on-linux"></a>DSC on Linux
+## <a name="getting-started-with-dsc-for-linuxlnxgettingstartedmd"></a>Getting started with DSC for Linux
+## <a name="builtin-resorces-for-linuxlnxbuiltinresourcesmd"></a>Built-in resorces for Linux
+### <a name="nxarchive-resourcelnxarchiveresourcemd"></a>nxArchive Resource
+### <a name="nxenvironment-resourcelnxenvironmentresourcemd"></a>nxEnvironment Resource
+### <a name="nxfile-resourcelnxfileresourcemd"></a>nxFile Resource
+### <a name="nxfileline-resourcelnxfilelineresourcemd"></a>nxFileLine Resource
+### <a name="nxgroup-resourcelnxgroupresourcemd"></a>nxGroup Resource
+### <a name="nxpackage-resourcelnxpackageresourcemd"></a>nxPackage Resource
+### <a name="nxservice-resourcelnxserviceresourcemd"></a>nxService Resource
+### <a name="nxsshauthorizedkeys-resourcelnxsshauthorizedkeysresourcemd"></a>nxSshAuthorizedKeys Resource
+### <a name="nxuser-resourcelnxuserresourcemd"></a>nxUser Resource
 
-# DSC MOF-Referenz
-## [MSFT_DSCLocalConfigurationManager-Klasse](msft-dsclocalconfigurationmanager.md)
-### [ApplyConfiguration-Methode der MSFT_DSCLocalConfigurationManager-Klasse](msft-dsclocalconfigurationmanager-applyconfiguration.md)
-### [DisableDebugConfiguration-Methode der MSFT_DSCLocalConfigurationManager-Klasse](msft-dsclocalconfigurationmanager-disabledebugconfiguration.md)
-### [EnableDebugConfiguration-Methode der MSFT_DSCLocalConfigurationManager-Klasse](msft-dsclocalconfigurationmanager-enabledebugconfiguration.md)
-### [GetConfiguration-Methode der MSFT_DSCLocalConfigurationManager-Klasse](msft-dsclocalconfigurationmanager-getconfiguration.md)
-### [GetConfigurationResultOutput-Methode der MSFT_DSCLocalConfigurationManager-Klasse](msft-dsclocalconfigurationmanager-getconfigurationresultoutput.md)
-### [GetConfigurationStatus-Methode der MSFT_DSCLocalConfigurationManager-Klasse](msft-dsclocalconfigurationmanager-getconfigurationstatus.md)
-### [GetMetaConfiguration-Methode der MSFT_DSCLocalConfigurationManager-Klasse](msft-dsclocalconfigurationmanager-getmetaconfiguration.md)
-### [PerformRequiredConfigurationChecks-Methode der MSFT_DSCLocalConfigurationManager-Klasse](msft-dsclocalconfigurationmanager-performrequiredconfigurationchecks.md)
-### [RemoveConfiguration-Methode der MSFT_DSCLocalConfigurationManager-Klasse](msft-dsclocalconfigurationmanager-removeconfiguration.md)
-### [ResourceGet-Methode der MSFT_DSCLocalConfigurationManager-Klasse](msft-dsclocalconfigurationmanager-resourceget.md)
-### [ResourceSet-Methode der MSFT_DSCLocalConfigurationManager-Klasse](msft-dsclocalconfigurationmanager-resourceset.md)
-### [ResourceTest-Methode der MSFT_DSCLocalConfigurationManager-Klasse](msft-dsclocalconfigurationmanager-resourcetest.md)
-### [RollBack-Methode der MSFT_DSCLocalConfigurationManager-Klasse](msft-dsclocalconfigurationmanager-rollback.md)
-### [SendConfiguration-Methode der MSFT_DSCLocalConfigurationManager-Klasse](msft-dsclocalconfigurationmanager-sendconfiguration.md)
-### [SendConfigurationApply-Methode der MSFT_DSCLocalConfigurationManager-Klasse](msft-dsclocalconfigurationmanager-sendconfigurationapply.md)
-### [SendConfigurationApplyAsync-Methode der MSFT_DSCLocalConfigurationManager-Klasse](msft-dsclocalconfigurationmanager-sendconfigurationapplyasync.md)
-### [SendMetaConfigurationApply-Methode der MSFT_DSCLocalConfigurationManager-Klasse](msft-dsclocalconfigurationmanager-sendmetaconfigurationapply.md)
-### [StopConfiguration-Methode der MSFT_DSCLocalConfigurationManager-Klasse](msft-dsclocalconfigurationmanager-stopconfiguration.md)
-### [TestConfiguration-Methode der MSFT_DSCLocalConfigurationManager-Klasse](msft-dsclocalconfigurationmanager-testconfiguration.md)
+# <a name="dsc-mof-reference"></a>DSC MOF Reference
+## <a name="msftdsclocalconfigurationmanager-classmsftdsclocalconfigurationmanagermd"></a>MSFT_DSCLocalConfigurationManager class
+### <a name="applyconfiguration-method-of-the-msftdsclocalconfigurationmanager-classmsftdsclocalconfigurationmanagerapplyconfigurationmd"></a>ApplyConfiguration method of the MSFT_DSCLocalConfigurationManager class
+### <a name="disabledebugconfiguration-method-of-the-msftdsclocalconfigurationmanager-classmsftdsclocalconfigurationmanagerdisabledebugconfigurationmd"></a>DisableDebugConfiguration method of the MSFT_DSCLocalConfigurationManager class
+### <a name="enabledebugconfiguration-method-of-the-msftdsclocalconfigurationmanager-classmsftdsclocalconfigurationmanagerenabledebugconfigurationmd"></a>EnableDebugConfiguration method of the MSFT_DSCLocalConfigurationManager class
+### <a name="getconfiguration-method-of-the-msftdsclocalconfigurationmanager-classmsftdsclocalconfigurationmanagergetconfigurationmd"></a>GetConfiguration method of the MSFT_DSCLocalConfigurationManager class
+### <a name="getconfigurationresultoutput-method-of-the-msftdsclocalconfigurationmanager-classmsftdsclocalconfigurationmanagergetconfigurationresultoutputmd"></a>GetConfigurationResultOutput method of the MSFT_DSCLocalConfigurationManager class
+### <a name="getconfigurationstatus-method-of-the-msftdsclocalconfigurationmanager-classmsftdsclocalconfigurationmanagergetconfigurationstatusmd"></a>GetConfigurationStatus method of the MSFT_DSCLocalConfigurationManager class
+### <a name="getmetaconfiguration-method-of-the-msftdsclocalconfigurationmanager-classmsftdsclocalconfigurationmanagergetmetaconfigurationmd"></a>GetMetaConfiguration method of the MSFT_DSCLocalConfigurationManager class
+### <a name="performrequiredconfigurationchecks-method-of-the-msftdsclocalconfigurationmanager-classmsftdsclocalconfigurationmanagerperformrequiredconfigurationchecksmd"></a>PerformRequiredConfigurationChecks method of the MSFT_DSCLocalConfigurationManager class
+### <a name="removeconfiguration-method-of-the-msftdsclocalconfigurationmanager-classmsftdsclocalconfigurationmanagerremoveconfigurationmd"></a>RemoveConfiguration method of the MSFT_DSCLocalConfigurationManager class
+### <a name="resourceget-method-of-the-msftdsclocalconfigurationmanager-classmsftdsclocalconfigurationmanagerresourcegetmd"></a>ResourceGet method of the MSFT_DSCLocalConfigurationManager class
+### <a name="resourceset-method-of-the-msftdsclocalconfigurationmanager-classmsftdsclocalconfigurationmanagerresourcesetmd"></a>ResourceSet method of the MSFT_DSCLocalConfigurationManager class
+### <a name="resourcetest-method-of-the-msftdsclocalconfigurationmanager-classmsftdsclocalconfigurationmanagerresourcetestmd"></a>ResourceTest method of the MSFT_DSCLocalConfigurationManager class
+### <a name="rollback-method-of-the-msftdsclocalconfigurationmanager-classmsftdsclocalconfigurationmanagerrollbackmd"></a>RollBack method of the MSFT_DSCLocalConfigurationManager class
+### <a name="sendconfiguration-method-of-the-msftdsclocalconfigurationmanager-classmsftdsclocalconfigurationmanagersendconfigurationmd"></a>SendConfiguration method of the MSFT_DSCLocalConfigurationManager class
+### <a name="sendconfigurationapply-method-of-the-msftdsclocalconfigurationmanager-classmsftdsclocalconfigurationmanagersendconfigurationapplymd"></a>SendConfigurationApply method of the MSFT_DSCLocalConfigurationManager class
+### <a name="sendconfigurationapplyasync-method-of-the-msftdsclocalconfigurationmanager-classmsftdsclocalconfigurationmanagersendconfigurationapplyasyncmd"></a>SendConfigurationApplyAsync method of the MSFT_DSCLocalConfigurationManager class
+### <a name="sendmetaconfigurationapply-method-of-the-msftdsclocalconfigurationmanager-classmsftdsclocalconfigurationmanagersendmetaconfigurationapplymd"></a>SendMetaConfigurationApply method of the MSFT_DSCLocalConfigurationManager class
+### <a name="stopconfiguration-method-of-the-msftdsclocalconfigurationmanager-classmsftdsclocalconfigurationmanagerstopconfigurationmd"></a>StopConfiguration method of the MSFT_DSCLocalConfigurationManager class
+### <a name="testconfiguration-method-of-the-msftdsclocalconfigurationmanager-classmsftdsclocalconfigurationmanagertestconfigurationmd"></a>TestConfiguration method of the MSFT_DSCLocalConfigurationManager class
 
-# Weitere Ressourcen
-## [Whitepapers](whitepapers.md)
+# <a name="more-resources"></a>More Resources
+## <a name="whitepaperswhitepapersmd"></a>Whitepapers
 
 
 
-<!--HONumber=Oct16_HO1-->
+<!--HONumber=Nov16_HO2-->
 
 
