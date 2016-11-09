@@ -36,7 +36,7 @@
       "ArchiveException": null,
       "BilingualFilePath": null,
       "BilingualFileCommit": null,
-      "BilingualDateTime": "2016-11-09T10:25:06.7644949Z",
+      "BilingualDateTime": "2016-11-09T11:34:28.1896905Z",
       "BilingualException": {
         "internal_error_code": "bilingual_uploading_failed",
         "internal_error_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\CONTRIBUTING.3f454a98e586d1aa0d322e19afd5e67e08f2d3c8.de-de.xlf with commit: 89efa27c194af8bac868adffc070a2c35069ac27 failed.",
@@ -188,7 +188,7 @@
       "ArchiveException": null,
       "BilingualFilePath": null,
       "BilingualFileCommit": null,
-      "BilingualDateTime": "2016-11-09T10:25:06.7644949Z",
+      "BilingualDateTime": "2016-11-09T11:34:28.1896905Z",
       "BilingualException": {
         "internal_error_code": "bilingual_uploading_failed",
         "internal_error_message": "Bilingual file: ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\authoringResourceComposite.6d5d1e53e83e25cfc63e26078da390a4fa6737f2.de-de.xlf with commit: 89efa27c194af8bac868adffc070a2c35069ac27 failed.",
@@ -26419,8 +26419,8 @@
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
       "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\TOC.b2a7935bce42ebc7e43bfe65f3058900e2942427.de-de.xlf",
-      "BilingualFileCommit": "b9c7922a11b4414b8ff077db3dacb5c42a6dfcd4",
-      "BilingualDateTime": "2016-11-09T10:25:06.7644949Z",
+      "BilingualFileCommit": "a23af0a974eac945310ed24f7ffce95b136b320f",
+      "BilingualDateTime": "2016-11-09T11:34:28.1896905Z",
       "BilingualException": null
     }
   }

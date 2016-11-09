@@ -1923,8 +1923,8 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [TOC.b2a7935bce42ebc7e43bfe65f3058900e2942427.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a23af0a974eac945310ed24f7ffce95b136b320f/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/TOC.b2a7935bce42ebc7e43bfe65f3058900e2942427.de-de.xlf)
 * Handback Datetime: 2016-11-09 11:34:13
-* Bilingual File: [TOC.b2a7935bce42ebc7e43bfe65f3058900e2942427.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/b9c7922a11b4414b8ff077db3dacb5c42a6dfcd4/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/TOC.b2a7935bce42ebc7e43bfe65f3058900e2942427.de-de.xlf)
-* Bilingual Datetime: 2016-11-09 10:25:06
+* Bilingual File: [TOC.b2a7935bce42ebc7e43bfe65f3058900e2942427.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a23af0a974eac945310ed24f7ffce95b136b320f/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/TOC.b2a7935bce42ebc7e43bfe65f3058900e2942427.de-de.xlf)
+* Bilingual Datetime: 2016-11-09 11:34:28
 * [Back to Top](#report-top)
 
 ##### <a name='4830be14b105485c50446f06e9d36491b4c4fe44106'></a> Source: [dsc\troubleshooting.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/troubleshooting.md)
