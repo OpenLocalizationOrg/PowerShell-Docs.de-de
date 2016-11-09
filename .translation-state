@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "565fa792c0ec30d9c35536b25d6336c905f7af66",
-  "LastTranslatedCommit": "8de42a7854b369f7b056657c0650bf6e334d8781",
+  "LastTranslatedCommit": "49d983faaf091cba2b5994c85bb8815f93994fd2",
   "LastTansformerVersion": null,
   "Items": {
     "c3b8854dbecd4ab03e46c51a23ac00461bdd7014": {
@@ -26406,14 +26406,14 @@
       "HandoffPriority": "",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
-      "TargetFileCommit": "8de42a7854b369f7b056657c0650bf6e334d8781",
+      "TargetFileCommit": "49d983faaf091cba2b5994c85bb8815f93994fd2",
       "TargetFilePath": "dsc\\TOC.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\TOC.b2a7935bce42ebc7e43bfe65f3058900e2942427.de-de.xlf",
-      "HandbackFileCommit": "590f1a2e9997082486fef57e990d371532dd5170",
-      "HandbackDateTime": "2016-11-09T09:22:11.7928844Z",
+      "HandbackFileCommit": "b9c7922a11b4414b8ff077db3dacb5c42a6dfcd4",
+      "HandbackDateTime": "2016-11-09T10:24:50.5970139Z",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "2016-11-09T09:22:11.7928844Z",
+      "UpdatedDateTime": "2016-11-09T10:24:50.5970139Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
