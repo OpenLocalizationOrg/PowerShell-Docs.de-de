@@ -6324,8 +6324,8 @@
       "SourceFilename": "dsc\\Jason_in_dsc_folder.md",
       "XliffHash": "8e523b46461943759d3bced79bc826450a68586d",
       "TranslationType": 1,
-      "IsArchived": false,
-      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "IsArchived": true,
+      "ArchivedDateTime": "2016-11-23T22:34:23.1275531Z",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\05c43e68978034622fab8e2b0c8bab1291130a83.341c0b7a38ea1b0c15ac15c7ed32e02e41c880d0.xml",
       "LocXliff": null,
       "LocXliffCommit": null

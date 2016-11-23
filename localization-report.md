@@ -5,9 +5,9 @@
  -------- | ----- 
  Total Files | 471
 [ Handoff Failed Files ](#handoff-failed-list)| 0
-[ Handoff Success Files ](#handoff-success-list)| 5
+[ Handoff Success Files ](#handoff-success-list)| 4
 [ Archive Failed Files ](#archive-failed-list)| 0
-[ Archive Success Files ](#archive-success-list)| 32
+[ Archive Success Files ](#archive-success-list)| 33
 [ Handback Failed Files ](#handback-failed-list)| 0
 [ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 0
 [ In Sync Handback Files ](#insync-handback-success-list)| 393
@@ -22,7 +22,6 @@
  [dsc\images\PartialConfig1.jpg](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/46ecc054c2a848e8c31a156b55f298e6b4984750/dsc/images/PartialConfig1.jpg) | HandedOffSuccess | [Details](#3e61149f7b05f74d662d3038233013ffdcbed1a332)
  [dsc\images\PartialConfigPullServer.jpg](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/46ecc054c2a848e8c31a156b55f298e6b4984750/dsc/images/PartialConfigPullServer.jpg) | HandedOffSuccess | [Details](#1ba842005c2b1ce80a3670429b3e010c7b1c1f5933)
  [dsc\images\Pull1.png](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/d8673d1d50c12395eab9b9aff5bc57189f5ce80b/dsc/images/Pull1.png) | HandedOffSuccess | [Details](#a20dd5927999cbb3c1125bd4ff8944954abc84a935)
- [dsc\Jason_in_dsc_folder.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/565fa792c0ec30d9c35536b25d6336c905f7af66/dsc/Jason_in_dsc_folder.md) | HandedOffSuccess | [Details](#05c43e68978034622fab8e2b0c8bab1291130a8338)
 
 ## <a name='archive-failed-list'></a> Archive Failed File List
 
@@ -30,6 +29,7 @@
  Source File | Status | Details 
  ----------- | ------ | ------- 
  [dsc\authoringResourceComposite.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/authoringResourceComposite.md) | ArchivedSuccess | [Details](#6631d60d7d82e71c315c26a0196aa3e4c1b60b1511)
+ [dsc\Jason_in_dsc_folder.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/565fa792c0ec30d9c35536b25d6336c905f7af66/dsc/Jason_in_dsc_folder.md) | ArchivedSuccess | [Details](#05c43e68978034622fab8e2b0c8bab1291130a8338)
  [dsc\move\rename_troubleshooting.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/2b0179b34bb657e8969c3ce902c006a38c6372a6/dsc/move/rename_troubleshooting.md) | ArchivedSuccess | [Details](#5ccc3e7d7e0616822fead2254b5393cba068803955)
  [dsc\msft-dsclocalconfigurationmanager.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/msft-dsclocalconfigurationmanager.md) | ArchivedSuccess | [Details](#2e2a24000cdb57fcd77fb1c9816300e3c6114f5a75)
  [dsc\msft-dsclocalconfigurationmanager-applyconfiguration.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/msft-dsclocalconfigurationmanager-applyconfiguration.md) | ArchivedSuccess | [Details](#9fad1b321c56d57e2671636511a15b7ccc640f9c56)
@@ -1018,13 +1018,13 @@
 * [Back to Top](#report-top)
 
 ##### <a name='05c43e68978034622fab8e2b0c8bab1291130a8338'></a> Source: [dsc\Jason_in_dsc_folder.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/565fa792c0ec30d9c35536b25d6336c905f7af66/dsc/Jason_in_dsc_folder.md)
-* Status: HandedOffSuccess
+* Status: ArchivedSuccess
 * Target File: 
 * Handoff File: [Jason_in_dsc_folder.44b508b72458543d467873ed4f58e9679bd069d1.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/1f7331d72864fcb429abf025a6fe5f0861272e86/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Jason_in_dsc_folder.44b508b72458543d467873ed4f58e9679bd069d1.de-de.xlf)
 * Handoff Datetime: 2016-11-09 07:41:55
 * Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
+* Archive File: [Jason_in_dsc_folder.44b508b72458543d467873ed4f58e9679bd069d1.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/3fd142126f7465150296b0fff78817b64d5b07b2/ol-archive/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Jason_in_dsc_folder.44b508b72458543d467873ed4f58e9679bd069d1.de-de.xlf)
+* Archive Datetime: 2016-11-23 22:34:23
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
