@@ -515,10 +515,12 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
 * [Back to Top](#report-top)
 
 ##### <a name='68abe973d27e8fa3b38f6db5fe613f7eea31aa121'></a> Source: [.localization-config](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/565fa792c0ec30d9c35536b25d6336c905f7af66/.localization-config)
@@ -527,10 +529,12 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
 * [Back to Top](#report-top)
 
 ##### <a name='ea7542a1cc208464193da9503160bbb41d54856c2'></a> Source: [.openpublishing.build.mdproj](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/565fa792c0ec30d9c35536b25d6336c905f7af66/.openpublishing.build.mdproj)
@@ -539,10 +543,12 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
 * [Back to Top](#report-top)
 
 ##### <a name='8d82385b0d2a38e30f607bf841c712f023ee8d853'></a> Source: [.openpublishing.publish.config.json](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/565fa792c0ec30d9c35536b25d6336c905f7af66/.openpublishing.publish.config.json)
@@ -551,10 +557,12 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
 * [Back to Top](#report-top)
 
 ##### <a name='d9d06f4994fe826dab0c58e8084f729bef909a1b4'></a> Source: [article-osmond1.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/565fa792c0ec30d9c35536b25d6336c905f7af66/article-osmond1.md)
@@ -563,10 +571,12 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
 * [Back to Top](#report-top)
 
 ##### <a name='140a591cad3c15e3872197a229d9662a3f5e1e9d5'></a> Source: [article-osmond2.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/565fa792c0ec30d9c35536b25d6336c905f7af66/article-osmond2.md)
@@ -575,10 +585,12 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
 * [Back to Top](#report-top)
 
 ##### <a name='ebb7a8a008d55dd4955462d217de6149d786bcb26'></a> Source: [common-modules\readme.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/common-modules/readme.md)
@@ -587,10 +599,12 @@
 * Handoff File: [readme.c819820f6c0c5977f6238fc1bf8c76ffe64464ec.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/readme.c819820f6c0c5977f6238fc1bf8c76ffe64464ec.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [readme.c819820f6c0c5977f6238fc1bf8c76ffe64464ec.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/readme.c819820f6c0c5977f6238fc1bf8c76ffe64464ec.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [readme.c819820f6c0c5977f6238fc1bf8c76ffe64464ec.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/readme.c819820f6c0c5977f6238fc1bf8c76ffe64464ec.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -601,10 +615,12 @@
 * Handoff File: [CONTRIBUTING.3f454a98e586d1aa0d322e19afd5e67e08f2d3c8.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/8af60563da7e499aa5fb943af9f679dff9a536a7/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/CONTRIBUTING.3f454a98e586d1aa0d322e19afd5e67e08f2d3c8.de-de.xlf)
 * Handoff Datetime: 2016-06-29 17:09:56
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [CONTRIBUTING.3f454a98e586d1aa0d322e19afd5e67e08f2d3c8.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/89efa27c194af8bac868adffc070a2c35069ac27/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/CONTRIBUTING.3f454a98e586d1aa0d322e19afd5e67e08f2d3c8.de-de.xlf)
 * Handback Datetime: 2015-11-24 23:39:45
+* Handback Name: 
 * Bilingual Error:[bilingual_uploading_failed](#c3b8854dbecd4ab03e46c51a23ac00461bdd70147bilingual_uploading_failed)
 * [Back to Top](#report-top)
 
@@ -614,10 +630,12 @@
 * Handoff File: [archiveResource.b4701b9fe5acf94be3fabf470371d8e47dd154d4.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/archiveResource.b4701b9fe5acf94be3fabf470371d8e47dd154d4.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [archiveResource.b4701b9fe5acf94be3fabf470371d8e47dd154d4.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/archiveResource.b4701b9fe5acf94be3fabf470371d8e47dd154d4.de-de.xlf)
 * Handback Datetime: 2016-10-04 23:08:40
+* Handback Name: 
 * Bilingual File: [archiveResource.b4701b9fe5acf94be3fabf470371d8e47dd154d4.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/archiveResource.b4701b9fe5acf94be3fabf470371d8e47dd154d4.de-de.xlf)
 * Bilingual Datetime: 2016-10-04 23:09:03
 * [Back to Top](#report-top)
@@ -628,10 +646,12 @@
 * Handoff File: [authoringResource.106f1f4d77068b2b95f1927b611b5f405ec7a317.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/authoringResource.106f1f4d77068b2b95f1927b611b5f405ec7a317.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [authoringResource.106f1f4d77068b2b95f1927b611b5f405ec7a317.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/authoringResource.106f1f4d77068b2b95f1927b611b5f405ec7a317.de-de.xlf)
 * Handback Datetime: 2016-10-04 23:08:40
+* Handback Name: 
 * Bilingual File: [authoringResource.106f1f4d77068b2b95f1927b611b5f405ec7a317.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/authoringResource.106f1f4d77068b2b95f1927b611b5f405ec7a317.de-de.xlf)
 * Bilingual Datetime: 2016-10-04 23:09:03
 * [Back to Top](#report-top)
@@ -642,10 +662,12 @@
 * Handoff File: [authoringResourceClass.3603134df9ad1cad202d10769ff631a083cc3aae.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/authoringResourceClass.3603134df9ad1cad202d10769ff631a083cc3aae.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [authoringResourceClass.3603134df9ad1cad202d10769ff631a083cc3aae.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/authoringResourceClass.3603134df9ad1cad202d10769ff631a083cc3aae.de-de.xlf)
 * Handback Datetime: 2016-10-04 23:08:40
+* Handback Name: 
 * Bilingual File: [authoringResourceClass.3603134df9ad1cad202d10769ff631a083cc3aae.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/authoringResourceClass.3603134df9ad1cad202d10769ff631a083cc3aae.de-de.xlf)
 * Bilingual Datetime: 2016-10-04 23:09:03
 * [Back to Top](#report-top)
@@ -656,10 +678,12 @@
 * Handoff File: [authoringResourceComposite.6d5d1e53e83e25cfc63e26078da390a4fa6737f2.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/authoringResourceComposite.6d5d1e53e83e25cfc63e26078da390a4fa6737f2.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: [authoringResourceComposite.6d5d1e53e83e25cfc63e26078da390a4fa6737f2.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/5ba0536f626b3150a12f1f53a08b7b06e15eec29/ol-archive/OpenLocalizationOrg/PowerShell-Docs.de-de/master/authoringResourceComposite.6d5d1e53e83e25cfc63e26078da390a4fa6737f2.de-de.xlf)
 * Archive Datetime: 2016-10-27 22:21:25
 * Handback File: 
 * Handback Datetime: 2016-10-04 23:08:40
+* Handback Name: 
 * Handback Error: [handback_transform_failed](#6631d60d7d82e71c315c26a0196aa3e4c1b60b1511handback_transform_failed)
 * Bilingual Error:[bilingual_uploading_failed](#6631d60d7d82e71c315c26a0196aa3e4c1b60b1511bilingual_uploading_failed)
 * [Back to Top](#report-top)
@@ -670,10 +694,12 @@
 * Handoff File: [authoringResourceMOF.1f503c33425780c369e78193e2f2f4e9242c401b.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/authoringResourceMOF.1f503c33425780c369e78193e2f2f4e9242c401b.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [authoringResourceMOF.1f503c33425780c369e78193e2f2f4e9242c401b.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/authoringResourceMOF.1f503c33425780c369e78193e2f2f4e9242c401b.de-de.xlf)
 * Handback Datetime: 2016-10-04 23:08:40
+* Handback Name: 
 * Bilingual File: [authoringResourceMOF.1f503c33425780c369e78193e2f2f4e9242c401b.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/authoringResourceMOF.1f503c33425780c369e78193e2f2f4e9242c401b.de-de.xlf)
 * Bilingual Datetime: 2016-10-04 23:09:03
 * [Back to Top](#report-top)
@@ -684,10 +710,12 @@
 * Handoff File: [authoringResourceMofCS.0647b27b00ec52b2f524a2856e48bc7c29c0f867.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/authoringResourceMofCS.0647b27b00ec52b2f524a2856e48bc7c29c0f867.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [authoringResourceMofCS.0647b27b00ec52b2f524a2856e48bc7c29c0f867.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/authoringResourceMofCS.0647b27b00ec52b2f524a2856e48bc7c29c0f867.de-de.xlf)
 * Handback Datetime: 2016-10-04 23:08:40
+* Handback Name: 
 * Bilingual File: [authoringResourceMofCS.0647b27b00ec52b2f524a2856e48bc7c29c0f867.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/authoringResourceMofCS.0647b27b00ec52b2f524a2856e48bc7c29c0f867.de-de.xlf)
 * Bilingual Datetime: 2016-10-04 23:09:03
 * [Back to Top](#report-top)
@@ -698,10 +726,12 @@
 * Handoff File: [authoringResourceMofDesigner.09b1adffc4afb0d9b1154880e2dab0b25d82d51b.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/authoringResourceMofDesigner.09b1adffc4afb0d9b1154880e2dab0b25d82d51b.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [authoringResourceMofDesigner.09b1adffc4afb0d9b1154880e2dab0b25d82d51b.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/authoringResourceMofDesigner.09b1adffc4afb0d9b1154880e2dab0b25d82d51b.de-de.xlf)
 * Handback Datetime: 2016-10-04 23:08:40
+* Handback Name: 
 * Bilingual File: [authoringResourceMofDesigner.09b1adffc4afb0d9b1154880e2dab0b25d82d51b.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/authoringResourceMofDesigner.09b1adffc4afb0d9b1154880e2dab0b25d82d51b.de-de.xlf)
 * Bilingual Datetime: 2016-10-04 23:09:03
 * [Back to Top](#report-top)
@@ -712,10 +742,12 @@
 * Handoff File: [builtInResource.2f855e1582347e986aa4e5e62b842b886596fdc2.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/builtInResource.2f855e1582347e986aa4e5e62b842b886596fdc2.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [builtInResource.2f855e1582347e986aa4e5e62b842b886596fdc2.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/builtInResource.2f855e1582347e986aa4e5e62b842b886596fdc2.de-de.xlf)
 * Handback Datetime: 2016-10-04 23:08:40
+* Handback Name: 
 * Bilingual File: [builtInResource.2f855e1582347e986aa4e5e62b842b886596fdc2.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/builtInResource.2f855e1582347e986aa4e5e62b842b886596fdc2.de-de.xlf)
 * Bilingual Datetime: 2016-10-04 23:09:03
 * [Back to Top](#report-top)
@@ -726,10 +758,12 @@
 * Handoff File: [configData.51d01a46dd9af8b425788cc485523b09f8470b95.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/configData.51d01a46dd9af8b425788cc485523b09f8470b95.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [configData.51d01a46dd9af8b425788cc485523b09f8470b95.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/configData.51d01a46dd9af8b425788cc485523b09f8470b95.de-de.xlf)
 * Handback Datetime: 2016-10-04 23:08:40
+* Handback Name: 
 * Bilingual File: [configData.51d01a46dd9af8b425788cc485523b09f8470b95.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/configData.51d01a46dd9af8b425788cc485523b09f8470b95.de-de.xlf)
 * Bilingual Datetime: 2016-10-04 23:09:03
 * [Back to Top](#report-top)
@@ -740,10 +774,12 @@
 * Handoff File: [configDataCredentials.f3e75119e7d93b2f914823c5ea23bfde3935a874.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/configDataCredentials.f3e75119e7d93b2f914823c5ea23bfde3935a874.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [configDataCredentials.f3e75119e7d93b2f914823c5ea23bfde3935a874.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/configDataCredentials.f3e75119e7d93b2f914823c5ea23bfde3935a874.de-de.xlf)
 * Handback Datetime: 2016-10-04 23:08:40
+* Handback Name: 
 * Bilingual File: [configDataCredentials.f3e75119e7d93b2f914823c5ea23bfde3935a874.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/configDataCredentials.f3e75119e7d93b2f914823c5ea23bfde3935a874.de-de.xlf)
 * Bilingual Datetime: 2016-10-04 23:09:03
 * [Back to Top](#report-top)
@@ -754,10 +790,12 @@
 * Handoff File: [configHelp.640c1514ba89b533fcd70fb36da2f349eced1926.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/configHelp.640c1514ba89b533fcd70fb36da2f349eced1926.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [configHelp.640c1514ba89b533fcd70fb36da2f349eced1926.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/configHelp.640c1514ba89b533fcd70fb36da2f349eced1926.de-de.xlf)
 * Handback Datetime: 2016-10-04 23:08:40
+* Handback Name: 
 * Bilingual File: [configHelp.640c1514ba89b533fcd70fb36da2f349eced1926.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/configHelp.640c1514ba89b533fcd70fb36da2f349eced1926.de-de.xlf)
 * Bilingual Datetime: 2016-10-04 23:09:03
 * [Back to Top](#report-top)
@@ -768,10 +806,12 @@
 * Handoff File: [configurations.02626ddbf3a00f8ede56fdfd2e46a027800e75b6.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/configurations.02626ddbf3a00f8ede56fdfd2e46a027800e75b6.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [configurations.02626ddbf3a00f8ede56fdfd2e46a027800e75b6.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/configurations.02626ddbf3a00f8ede56fdfd2e46a027800e75b6.de-de.xlf)
 * Handback Datetime: 2016-10-04 23:08:40
+* Handback Name: 
 * Bilingual File: [configurations.02626ddbf3a00f8ede56fdfd2e46a027800e75b6.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/configurations.02626ddbf3a00f8ede56fdfd2e46a027800e75b6.de-de.xlf)
 * Bilingual Datetime: 2016-10-04 23:09:03
 * [Back to Top](#report-top)
@@ -782,10 +822,12 @@
 * Handoff File: [crossNodeDependencies.bd1d65501a23b72cf44e4d417ebad7a3bd5c7139.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/crossNodeDependencies.bd1d65501a23b72cf44e4d417ebad7a3bd5c7139.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [crossNodeDependencies.bd1d65501a23b72cf44e4d417ebad7a3bd5c7139.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/crossNodeDependencies.bd1d65501a23b72cf44e4d417ebad7a3bd5c7139.de-de.xlf)
 * Handback Datetime: 2016-10-04 23:08:40
+* Handback Name: 
 * Bilingual File: [crossNodeDependencies.bd1d65501a23b72cf44e4d417ebad7a3bd5c7139.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/crossNodeDependencies.bd1d65501a23b72cf44e4d417ebad7a3bd5c7139.de-de.xlf)
 * Bilingual Datetime: 2016-10-04 23:09:03
 * [Back to Top](#report-top)
@@ -796,10 +838,12 @@
 * Handoff File: [debugResource.ac634156affe5c723cc149a298f5aa4268d17016.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/debugResource.ac634156affe5c723cc149a298f5aa4268d17016.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [debugResource.ac634156affe5c723cc149a298f5aa4268d17016.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/debugResource.ac634156affe5c723cc149a298f5aa4268d17016.de-de.xlf)
 * Handback Datetime: 2016-10-04 23:08:40
+* Handback Name: 
 * Bilingual File: [debugResource.ac634156affe5c723cc149a298f5aa4268d17016.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/debugResource.ac634156affe5c723cc149a298f5aa4268d17016.de-de.xlf)
 * Bilingual Datetime: 2016-10-04 23:09:03
 * [Back to Top](#report-top)
@@ -810,10 +854,12 @@
 * Handoff File: [decisionMaker.01553169f2ba4241995260fad925e2784b5f5567.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/decisionMaker.01553169f2ba4241995260fad925e2784b5f5567.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [decisionMaker.01553169f2ba4241995260fad925e2784b5f5567.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/decisionMaker.01553169f2ba4241995260fad925e2784b5f5567.de-de.xlf)
 * Handback Datetime: 2016-10-04 23:08:40
+* Handback Name: 
 * Bilingual File: [decisionMaker.01553169f2ba4241995260fad925e2784b5f5567.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/decisionMaker.01553169f2ba4241995260fad925e2784b5f5567.de-de.xlf)
 * Bilingual Datetime: 2016-10-04 23:09:03
 * [Back to Top](#report-top)
@@ -824,10 +870,12 @@
 * Handoff File: [directCallResource.7adf3e286a432cf50a90cb04db12b1f70bb586cd.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/directCallResource.7adf3e286a432cf50a90cb04db12b1f70bb586cd.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [directCallResource.7adf3e286a432cf50a90cb04db12b1f70bb586cd.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/directCallResource.7adf3e286a432cf50a90cb04db12b1f70bb586cd.de-de.xlf)
 * Handback Datetime: 2016-10-04 23:08:40
+* Handback Name: 
 * Bilingual File: [directCallResource.7adf3e286a432cf50a90cb04db12b1f70bb586cd.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/directCallResource.7adf3e286a432cf50a90cb04db12b1f70bb586cd.de-de.xlf)
 * Bilingual Datetime: 2016-10-04 23:09:03
 * [Back to Top](#report-top)
@@ -838,10 +886,12 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
 * [Back to Top](#report-top)
 
 ##### <a name='4c802002c6a03a27d02221dd713677911a77c30b25'></a> Source: [dsc\enactingConfigurations.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/enactingConfigurations.md)
@@ -850,10 +900,12 @@
 * Handoff File: [enactingConfigurations.5949c3926cc7d368fa49b0ba340a078984794e5d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/enactingConfigurations.5949c3926cc7d368fa49b0ba340a078984794e5d.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [enactingConfigurations.5949c3926cc7d368fa49b0ba340a078984794e5d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/enactingConfigurations.5949c3926cc7d368fa49b0ba340a078984794e5d.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [enactingConfigurations.5949c3926cc7d368fa49b0ba340a078984794e5d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/enactingConfigurations.5949c3926cc7d368fa49b0ba340a078984794e5d.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -864,10 +916,12 @@
 * Handoff File: [environmentResource.eb91ffd4cd8bdb9476e5a83de1a20d3b7b502a56.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/environmentResource.eb91ffd4cd8bdb9476e5a83de1a20d3b7b502a56.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [environmentResource.eb91ffd4cd8bdb9476e5a83de1a20d3b7b502a56.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/environmentResource.eb91ffd4cd8bdb9476e5a83de1a20d3b7b502a56.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [environmentResource.eb91ffd4cd8bdb9476e5a83de1a20d3b7b502a56.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/environmentResource.eb91ffd4cd8bdb9476e5a83de1a20d3b7b502a56.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -878,10 +932,12 @@
 * Handoff File: [fileResource.ad0d9bba41b615db808e5dfc814b50945863b3da.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/fileResource.ad0d9bba41b615db808e5dfc814b50945863b3da.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [fileResource.ad0d9bba41b615db808e5dfc814b50945863b3da.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/fileResource.ad0d9bba41b615db808e5dfc814b50945863b3da.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [fileResource.ad0d9bba41b615db808e5dfc814b50945863b3da.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/fileResource.ad0d9bba41b615db808e5dfc814b50945863b3da.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -892,10 +948,12 @@
 * Handoff File: [gettingStarted.92e02d8bd273df5c304475a9b4fa251c22a7ea19.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/gettingStarted.92e02d8bd273df5c304475a9b4fa251c22a7ea19.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [gettingStarted.92e02d8bd273df5c304475a9b4fa251c22a7ea19.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/gettingStarted.92e02d8bd273df5c304475a9b4fa251c22a7ea19.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [gettingStarted.92e02d8bd273df5c304475a9b4fa251c22a7ea19.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/gettingStarted.92e02d8bd273df5c304475a9b4fa251c22a7ea19.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -906,10 +964,12 @@
 * Handoff File: [groupResource.d19d416269795c92566b62c36b9782062dcea43e.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/groupResource.d19d416269795c92566b62c36b9782062dcea43e.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [groupResource.d19d416269795c92566b62c36b9782062dcea43e.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/groupResource.d19d416269795c92566b62c36b9782062dcea43e.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [groupResource.d19d416269795c92566b62c36b9782062dcea43e.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/groupResource.d19d416269795c92566b62c36b9782062dcea43e.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -920,10 +980,12 @@
 * Handoff File: [groupSetResource.afbe75c035e9c395928b5bef2a440b1aa43df798.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/groupSetResource.afbe75c035e9c395928b5bef2a440b1aa43df798.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [groupSetResource.afbe75c035e9c395928b5bef2a440b1aa43df798.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/groupSetResource.afbe75c035e9c395928b5bef2a440b1aa43df798.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [groupSetResource.afbe75c035e9c395928b5bef2a440b1aa43df798.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/groupSetResource.afbe75c035e9c395928b5bef2a440b1aa43df798.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -934,10 +996,12 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
 * [Back to Top](#report-top)
 
 ##### <a name='3e61149f7b05f74d662d3038233013ffdcbed1a332'></a> Source: [dsc\images\PartialConfig1.jpg](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/46ecc054c2a848e8c31a156b55f298e6b4984750/dsc/images/PartialConfig1.jpg)
@@ -946,11 +1010,13 @@
 * Handoff File: [3e61149f7b05f74d662d3038233013ffdcbed1a3.jpg](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/9df3005c2111d8665ed834aa4827cadbaeb9ad7b/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/3e61149f7b05f74d662d3038233013ffdcbed1a3.jpg)
 * Handoff Datetime: 2016-02-23 18:16:07
 * Handoff Reason: IsDependency
+* Handoff Name: 
 * Dependency From: dsc\partialConfigs.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
 * [Back to Top](#report-top)
 
 ##### <a name='1ba842005c2b1ce80a3670429b3e010c7b1c1f5933'></a> Source: [dsc\images\PartialConfigPullServer.jpg](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/46ecc054c2a848e8c31a156b55f298e6b4984750/dsc/images/PartialConfigPullServer.jpg)
@@ -959,11 +1025,13 @@
 * Handoff File: [1ba842005c2b1ce80a3670429b3e010c7b1c1f59.jpg](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/9df3005c2111d8665ed834aa4827cadbaeb9ad7b/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/1ba842005c2b1ce80a3670429b3e010c7b1c1f59.jpg)
 * Handoff Datetime: 2016-02-23 18:16:07
 * Handoff Reason: IsDependency
+* Handoff Name: 
 * Dependency From: dsc\partialConfigs.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
 * [Back to Top](#report-top)
 
 ##### <a name='7766a7ed7faad8f162557a30e644f43960f1859f34'></a> Source: [dsc\images\Pull.png](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/565fa792c0ec30d9c35536b25d6336c905f7af66/dsc/images/Pull.png)
@@ -972,10 +1040,12 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
 * [Back to Top](#report-top)
 
 ##### <a name='a20dd5927999cbb3c1125bd4ff8944954abc84a935'></a> Source: [dsc\images\Pull1.png](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/d8673d1d50c12395eab9b9aff5bc57189f5ce80b/dsc/images/Pull1.png)
@@ -984,11 +1054,13 @@
 * Handoff File: [a20dd5927999cbb3c1125bd4ff8944954abc84a9.png](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/c06b3685a648c31ef16b6bdb0c0d38cc05394f63/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/a20dd5927999cbb3c1125bd4ff8944954abc84a9.png)
 * Handoff Datetime: 2016-06-01 23:09:14
 * Handoff Reason: IsDependency
+* Handoff Name: 
 * Dependency From: dsc\partialConfigs.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
 * [Back to Top](#report-top)
 
 ##### <a name='e1328ad8ccef4cc3b5e333cfc2550a870b4bf16236'></a> Source: [dsc\images\Push.png](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/565fa792c0ec30d9c35536b25d6336c905f7af66/dsc/images/Push.png)
@@ -997,10 +1069,12 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
 * [Back to Top](#report-top)
 
 ##### <a name='865258c0b403d4e7979d7ee32d3f87b63a349f0837'></a> Source: [dsc\index.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/index.md)
@@ -1009,10 +1083,12 @@
 * Handoff File: [index.087529cd8972c61293d437c5b3a72507e4d1e1d9.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/index.087529cd8972c61293d437c5b3a72507e4d1e1d9.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [index.087529cd8972c61293d437c5b3a72507e4d1e1d9.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/index.087529cd8972c61293d437c5b3a72507e4d1e1d9.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [index.087529cd8972c61293d437c5b3a72507e4d1e1d9.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/index.087529cd8972c61293d437c5b3a72507e4d1e1d9.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -1023,10 +1099,12 @@
 * Handoff File: [Jason_in_dsc_folder.44b508b72458543d467873ed4f58e9679bd069d1.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/1f7331d72864fcb429abf025a6fe5f0861272e86/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Jason_in_dsc_folder.44b508b72458543d467873ed4f58e9679bd069d1.de-de.xlf)
 * Handoff Datetime: 2016-11-09 07:41:55
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: [Jason_in_dsc_folder.44b508b72458543d467873ed4f58e9679bd069d1.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/3fd142126f7465150296b0fff78817b64d5b07b2/ol-archive/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Jason_in_dsc_folder.44b508b72458543d467873ed4f58e9679bd069d1.de-de.xlf)
 * Archive Datetime: 2016-11-23 22:34:23
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
 * [Back to Top](#report-top)
 
 ##### <a name='2edbc1d11dfc7c84369430688a8b0d773277e86439'></a> Source: [dsc\lnxArchiveResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/lnxArchiveResource.md)
@@ -1035,10 +1113,12 @@
 * Handoff File: [lnxArchiveResource.095aab7d23720fd394f2573c30223a6bbcc0a4ef.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/lnxArchiveResource.095aab7d23720fd394f2573c30223a6bbcc0a4ef.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [lnxArchiveResource.095aab7d23720fd394f2573c30223a6bbcc0a4ef.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/lnxArchiveResource.095aab7d23720fd394f2573c30223a6bbcc0a4ef.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [lnxArchiveResource.095aab7d23720fd394f2573c30223a6bbcc0a4ef.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/lnxArchiveResource.095aab7d23720fd394f2573c30223a6bbcc0a4ef.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -1049,10 +1129,12 @@
 * Handoff File: [lnxBuiltInResources.12cc0e2a7d17afe6b1e1b9c928760080863926f9.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/lnxBuiltInResources.12cc0e2a7d17afe6b1e1b9c928760080863926f9.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [lnxBuiltInResources.12cc0e2a7d17afe6b1e1b9c928760080863926f9.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/lnxBuiltInResources.12cc0e2a7d17afe6b1e1b9c928760080863926f9.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [lnxBuiltInResources.12cc0e2a7d17afe6b1e1b9c928760080863926f9.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/lnxBuiltInResources.12cc0e2a7d17afe6b1e1b9c928760080863926f9.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -1063,10 +1145,12 @@
 * Handoff File: [lnxEnvironmentResource.60c6523b1d06708f748c9039105a2042fa341552.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/lnxEnvironmentResource.60c6523b1d06708f748c9039105a2042fa341552.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [lnxEnvironmentResource.60c6523b1d06708f748c9039105a2042fa341552.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/lnxEnvironmentResource.60c6523b1d06708f748c9039105a2042fa341552.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [lnxEnvironmentResource.60c6523b1d06708f748c9039105a2042fa341552.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/lnxEnvironmentResource.60c6523b1d06708f748c9039105a2042fa341552.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -1077,10 +1161,12 @@
 * Handoff File: [lnxFileLineResource.d91fc802a4c6cdbff5a2e35f92b34c36c6dbf5eb.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/lnxFileLineResource.d91fc802a4c6cdbff5a2e35f92b34c36c6dbf5eb.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [lnxFileLineResource.d91fc802a4c6cdbff5a2e35f92b34c36c6dbf5eb.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/lnxFileLineResource.d91fc802a4c6cdbff5a2e35f92b34c36c6dbf5eb.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [lnxFileLineResource.d91fc802a4c6cdbff5a2e35f92b34c36c6dbf5eb.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/lnxFileLineResource.d91fc802a4c6cdbff5a2e35f92b34c36c6dbf5eb.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -1091,10 +1177,12 @@
 * Handoff File: [lnxFileResource.1f67ed46e7bb4ac04f73143e1d7ab7e9199d3191.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/lnxFileResource.1f67ed46e7bb4ac04f73143e1d7ab7e9199d3191.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [lnxFileResource.1f67ed46e7bb4ac04f73143e1d7ab7e9199d3191.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/lnxFileResource.1f67ed46e7bb4ac04f73143e1d7ab7e9199d3191.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [lnxFileResource.1f67ed46e7bb4ac04f73143e1d7ab7e9199d3191.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/lnxFileResource.1f67ed46e7bb4ac04f73143e1d7ab7e9199d3191.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -1105,10 +1193,12 @@
 * Handoff File: [lnxGettingStarted.1601cf6d0eb8b4f7343575c8fbf2106bfaad8b65.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/lnxGettingStarted.1601cf6d0eb8b4f7343575c8fbf2106bfaad8b65.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [lnxGettingStarted.1601cf6d0eb8b4f7343575c8fbf2106bfaad8b65.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/lnxGettingStarted.1601cf6d0eb8b4f7343575c8fbf2106bfaad8b65.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [lnxGettingStarted.1601cf6d0eb8b4f7343575c8fbf2106bfaad8b65.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/lnxGettingStarted.1601cf6d0eb8b4f7343575c8fbf2106bfaad8b65.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -1119,10 +1209,12 @@
 * Handoff File: [lnxGroupResource.0cedb684d797032bd47cdb852629c36da0884567.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/lnxGroupResource.0cedb684d797032bd47cdb852629c36da0884567.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [lnxGroupResource.0cedb684d797032bd47cdb852629c36da0884567.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/lnxGroupResource.0cedb684d797032bd47cdb852629c36da0884567.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [lnxGroupResource.0cedb684d797032bd47cdb852629c36da0884567.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/lnxGroupResource.0cedb684d797032bd47cdb852629c36da0884567.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -1133,10 +1225,12 @@
 * Handoff File: [lnxPackageResource.db35ab938bbfbb38cae53fe9ae98fd22b5f18009.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/lnxPackageResource.db35ab938bbfbb38cae53fe9ae98fd22b5f18009.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [lnxPackageResource.db35ab938bbfbb38cae53fe9ae98fd22b5f18009.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/lnxPackageResource.db35ab938bbfbb38cae53fe9ae98fd22b5f18009.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [lnxPackageResource.db35ab938bbfbb38cae53fe9ae98fd22b5f18009.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/lnxPackageResource.db35ab938bbfbb38cae53fe9ae98fd22b5f18009.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -1147,10 +1241,12 @@
 * Handoff File: [lnxScriptResource.1344a5d5b807ee53705e93842d9ef5e25a883359.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/lnxScriptResource.1344a5d5b807ee53705e93842d9ef5e25a883359.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [lnxScriptResource.1344a5d5b807ee53705e93842d9ef5e25a883359.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/lnxScriptResource.1344a5d5b807ee53705e93842d9ef5e25a883359.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [lnxScriptResource.1344a5d5b807ee53705e93842d9ef5e25a883359.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/lnxScriptResource.1344a5d5b807ee53705e93842d9ef5e25a883359.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -1161,10 +1257,12 @@
 * Handoff File: [lnxServiceResource.e637c7f7b18939ec8c16eadf2c42ab00e236fb7b.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/lnxServiceResource.e637c7f7b18939ec8c16eadf2c42ab00e236fb7b.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [lnxServiceResource.e637c7f7b18939ec8c16eadf2c42ab00e236fb7b.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/lnxServiceResource.e637c7f7b18939ec8c16eadf2c42ab00e236fb7b.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [lnxServiceResource.e637c7f7b18939ec8c16eadf2c42ab00e236fb7b.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/lnxServiceResource.e637c7f7b18939ec8c16eadf2c42ab00e236fb7b.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -1175,10 +1273,12 @@
 * Handoff File: [lnxSshAuthorizedKeysResource.9a647ff238cd38a2fc7da58f3cc5682acf7d3346.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/lnxSshAuthorizedKeysResource.9a647ff238cd38a2fc7da58f3cc5682acf7d3346.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [lnxSshAuthorizedKeysResource.9a647ff238cd38a2fc7da58f3cc5682acf7d3346.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/lnxSshAuthorizedKeysResource.9a647ff238cd38a2fc7da58f3cc5682acf7d3346.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [lnxSshAuthorizedKeysResource.9a647ff238cd38a2fc7da58f3cc5682acf7d3346.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/lnxSshAuthorizedKeysResource.9a647ff238cd38a2fc7da58f3cc5682acf7d3346.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -1189,10 +1289,12 @@
 * Handoff File: [lnxUserResource.2376554a25dd8dfad6a78a6180b7c7166e4817e1.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/lnxUserResource.2376554a25dd8dfad6a78a6180b7c7166e4817e1.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [lnxUserResource.2376554a25dd8dfad6a78a6180b7c7166e4817e1.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/lnxUserResource.2376554a25dd8dfad6a78a6180b7c7166e4817e1.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [lnxUserResource.2376554a25dd8dfad6a78a6180b7c7166e4817e1.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/lnxUserResource.2376554a25dd8dfad6a78a6180b7c7166e4817e1.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -1203,10 +1305,12 @@
 * Handoff File: [logResource.07af9dfcf6076ef19059178c3b404762677920f0.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/logResource.07af9dfcf6076ef19059178c3b404762677920f0.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [logResource.07af9dfcf6076ef19059178c3b404762677920f0.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/logResource.07af9dfcf6076ef19059178c3b404762677920f0.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [logResource.07af9dfcf6076ef19059178c3b404762677920f0.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/logResource.07af9dfcf6076ef19059178c3b404762677920f0.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -1217,10 +1321,12 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
 * [Back to Top](#report-top)
 
 ##### <a name='5d37938869a71bea0d8a6349e680411b7d0200d953'></a> Source: [dsc\metaConfig.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/metaConfig.md)
@@ -1229,10 +1335,12 @@
 * Handoff File: [metaConfig.915dba9ed66671e4a41c35a16d5248bb4c94e3d6.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/metaConfig.915dba9ed66671e4a41c35a16d5248bb4c94e3d6.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [metaConfig.915dba9ed66671e4a41c35a16d5248bb4c94e3d6.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/metaConfig.915dba9ed66671e4a41c35a16d5248bb4c94e3d6.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [metaConfig.915dba9ed66671e4a41c35a16d5248bb4c94e3d6.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/metaConfig.915dba9ed66671e4a41c35a16d5248bb4c94e3d6.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -1243,10 +1351,12 @@
 * Handoff File: [metaConfig4.4ec702d458e6574099cead724f0e57c3c5d262df.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/metaConfig4.4ec702d458e6574099cead724f0e57c3c5d262df.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [metaConfig4.4ec702d458e6574099cead724f0e57c3c5d262df.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/metaConfig4.4ec702d458e6574099cead724f0e57c3c5d262df.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [metaConfig4.4ec702d458e6574099cead724f0e57c3c5d262df.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/metaConfig4.4ec702d458e6574099cead724f0e57c3c5d262df.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -1257,10 +1367,12 @@
 * Handoff File: [rename_troubleshooting.4c130a5165c494568ef17f0cc6e7c9fc0caf31bc.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/68e98dd115e3a1f5b72509ba2680f69d7d26d005/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/rename_troubleshooting.4c130a5165c494568ef17f0cc6e7c9fc0caf31bc.de-de.xlf)
 * Handoff Datetime: 2016-10-05 22:49:23
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: [rename_troubleshooting.4c130a5165c494568ef17f0cc6e7c9fc0caf31bc.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/5ba0536f626b3150a12f1f53a08b7b06e15eec29/ol-archive/OpenLocalizationOrg/PowerShell-Docs.de-de/master/rename_troubleshooting.4c130a5165c494568ef17f0cc6e7c9fc0caf31bc.de-de.xlf)
 * Archive Datetime: 2016-10-27 22:21:25
 * Handback File: [rename_troubleshooting.4c130a5165c494568ef17f0cc6e7c9fc0caf31bc.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/rename_troubleshooting.4c130a5165c494568ef17f0cc6e7c9fc0caf31bc.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [rename_troubleshooting.4c130a5165c494568ef17f0cc6e7c9fc0caf31bc.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/rename_troubleshooting.4c130a5165c494568ef17f0cc6e7c9fc0caf31bc.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -1271,10 +1383,12 @@
 * Handoff File: [msft-dsclocalconfigurationmanager.a79fe5e4edd04227feb5da9e41daad2c0b306f84.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/msft-dsclocalconfigurationmanager.a79fe5e4edd04227feb5da9e41daad2c0b306f84.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: [msft-dsclocalconfigurationmanager.a79fe5e4edd04227feb5da9e41daad2c0b306f84.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/5ba0536f626b3150a12f1f53a08b7b06e15eec29/ol-archive/OpenLocalizationOrg/PowerShell-Docs.de-de/master/msft-dsclocalconfigurationmanager.a79fe5e4edd04227feb5da9e41daad2c0b306f84.de-de.xlf)
 * Archive Datetime: 2016-10-27 22:21:25
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
 * [Back to Top](#report-top)
 
 ##### <a name='9fad1b321c56d57e2671636511a15b7ccc640f9c56'></a> Source: [dsc\msft-dsclocalconfigurationmanager-applyconfiguration.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/msft-dsclocalconfigurationmanager-applyconfiguration.md)
@@ -1283,10 +1397,12 @@
 * Handoff File: [msft-dsclocalconfigurationmanager-applyconfiguration.8a8c7cf9f83c8fe20cc7240603987f13bf76ac94.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/msft-dsclocalconfigurationmanager-applyconfiguration.8a8c7cf9f83c8fe20cc7240603987f13bf76ac94.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: [msft-dsclocalconfigurationmanager-applyconfiguration.8a8c7cf9f83c8fe20cc7240603987f13bf76ac94.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/5ba0536f626b3150a12f1f53a08b7b06e15eec29/ol-archive/OpenLocalizationOrg/PowerShell-Docs.de-de/master/msft-dsclocalconfigurationmanager-applyconfiguration.8a8c7cf9f83c8fe20cc7240603987f13bf76ac94.de-de.xlf)
 * Archive Datetime: 2016-10-27 22:21:25
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
 * [Back to Top](#report-top)
 
 ##### <a name='392ad987826dc31ac0f41dc8c7c97ede3131071457'></a> Source: [dsc\msft-dsclocalconfigurationmanager-disabledebugconfiguration.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/msft-dsclocalconfigurationmanager-disabledebugconfiguration.md)
@@ -1295,10 +1411,12 @@
 * Handoff File: [msft-dsclocalconfigurationmanager-disabledebugconfiguration.9c5587dc91662800483c6063f100aa74b2fc1881.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/msft-dsclocalconfigurationmanager-disabledebugconfiguration.9c5587dc91662800483c6063f100aa74b2fc1881.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: [msft-dsclocalconfigurationmanager-disabledebugconfiguration.9c5587dc91662800483c6063f100aa74b2fc1881.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/5ba0536f626b3150a12f1f53a08b7b06e15eec29/ol-archive/OpenLocalizationOrg/PowerShell-Docs.de-de/master/msft-dsclocalconfigurationmanager-disabledebugconfiguration.9c5587dc91662800483c6063f100aa74b2fc1881.de-de.xlf)
 * Archive Datetime: 2016-10-27 22:21:25
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
 * [Back to Top](#report-top)
 
 ##### <a name='80e29fe72d329d343abb68881d8f1e4a2e7810d158'></a> Source: [dsc\msft-dsclocalconfigurationmanager-enabledebugconfiguration.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/msft-dsclocalconfigurationmanager-enabledebugconfiguration.md)
@@ -1307,10 +1425,12 @@
 * Handoff File: [msft-dsclocalconfigurationmanager-enabledebugconfiguration.56f0b880660ab81bf574c91fac5c3489b478d217.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/msft-dsclocalconfigurationmanager-enabledebugconfiguration.56f0b880660ab81bf574c91fac5c3489b478d217.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: [msft-dsclocalconfigurationmanager-enabledebugconfiguration.56f0b880660ab81bf574c91fac5c3489b478d217.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/5ba0536f626b3150a12f1f53a08b7b06e15eec29/ol-archive/OpenLocalizationOrg/PowerShell-Docs.de-de/master/msft-dsclocalconfigurationmanager-enabledebugconfiguration.56f0b880660ab81bf574c91fac5c3489b478d217.de-de.xlf)
 * Archive Datetime: 2016-10-27 22:21:25
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
 * [Back to Top](#report-top)
 
 ##### <a name='b2cee49814fdd66d34c70b845690696d6220959159'></a> Source: [dsc\msft-dsclocalconfigurationmanager-getconfiguration.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/msft-dsclocalconfigurationmanager-getconfiguration.md)
@@ -1319,10 +1439,12 @@
 * Handoff File: [msft-dsclocalconfigurationmanager-getconfiguration.6595ca00c942ab3e3e62fb2c001bc28d2324a33d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/msft-dsclocalconfigurationmanager-getconfiguration.6595ca00c942ab3e3e62fb2c001bc28d2324a33d.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: [msft-dsclocalconfigurationmanager-getconfiguration.6595ca00c942ab3e3e62fb2c001bc28d2324a33d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/5ba0536f626b3150a12f1f53a08b7b06e15eec29/ol-archive/OpenLocalizationOrg/PowerShell-Docs.de-de/master/msft-dsclocalconfigurationmanager-getconfiguration.6595ca00c942ab3e3e62fb2c001bc28d2324a33d.de-de.xlf)
 * Archive Datetime: 2016-10-27 22:21:25
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
 * [Back to Top](#report-top)
 
 ##### <a name='d051fe64665e438af210ea7521b6213acf2ec9e760'></a> Source: [dsc\msft-dsclocalconfigurationmanager-getconfigurationresultoutput.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/msft-dsclocalconfigurationmanager-getconfigurationresultoutput.md)
@@ -1331,10 +1453,12 @@
 * Handoff File: [msft-dsclocalconfigurationmanager-getconfigurationresultoutput.3528ac9caa01aaee78b88e1d947f7c6d57c55834.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/msft-dsclocalconfigurationmanager-getconfigurationresultoutput.3528ac9caa01aaee78b88e1d947f7c6d57c55834.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: [msft-dsclocalconfigurationmanager-getconfigurationresultoutput.3528ac9caa01aaee78b88e1d947f7c6d57c55834.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/5ba0536f626b3150a12f1f53a08b7b06e15eec29/ol-archive/OpenLocalizationOrg/PowerShell-Docs.de-de/master/msft-dsclocalconfigurationmanager-getconfigurationresultoutput.3528ac9caa01aaee78b88e1d947f7c6d57c55834.de-de.xlf)
 * Archive Datetime: 2016-10-27 22:21:25
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
 * [Back to Top](#report-top)
 
 ##### <a name='2451313ce7c9038923a4a8245d6016518fbbae8361'></a> Source: [dsc\msft-dsclocalconfigurationmanager-getconfigurationstatus.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/msft-dsclocalconfigurationmanager-getconfigurationstatus.md)
@@ -1343,10 +1467,12 @@
 * Handoff File: [msft-dsclocalconfigurationmanager-getconfigurationstatus.e0b502813784f28980b44659361b3c0a51f6ba28.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/msft-dsclocalconfigurationmanager-getconfigurationstatus.e0b502813784f28980b44659361b3c0a51f6ba28.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: [msft-dsclocalconfigurationmanager-getconfigurationstatus.e0b502813784f28980b44659361b3c0a51f6ba28.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/5ba0536f626b3150a12f1f53a08b7b06e15eec29/ol-archive/OpenLocalizationOrg/PowerShell-Docs.de-de/master/msft-dsclocalconfigurationmanager-getconfigurationstatus.e0b502813784f28980b44659361b3c0a51f6ba28.de-de.xlf)
 * Archive Datetime: 2016-10-27 22:21:25
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
 * [Back to Top](#report-top)
 
 ##### <a name='04d0d9f02e0016b8b83573c56880261e2cc2b1cc62'></a> Source: [dsc\msft-dsclocalconfigurationmanager-getmetaconfiguration.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/msft-dsclocalconfigurationmanager-getmetaconfiguration.md)
@@ -1355,10 +1481,12 @@
 * Handoff File: [msft-dsclocalconfigurationmanager-getmetaconfiguration.56421b2916eff5832f34238a84bacda6cb4d6679.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/msft-dsclocalconfigurationmanager-getmetaconfiguration.56421b2916eff5832f34238a84bacda6cb4d6679.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: [msft-dsclocalconfigurationmanager-getmetaconfiguration.56421b2916eff5832f34238a84bacda6cb4d6679.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/5ba0536f626b3150a12f1f53a08b7b06e15eec29/ol-archive/OpenLocalizationOrg/PowerShell-Docs.de-de/master/msft-dsclocalconfigurationmanager-getmetaconfiguration.56421b2916eff5832f34238a84bacda6cb4d6679.de-de.xlf)
 * Archive Datetime: 2016-10-27 22:21:25
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
 * [Back to Top](#report-top)
 
 ##### <a name='e1b70e6f6021415d58523476e197ef5463f2132263'></a> Source: [dsc\msft-dsclocalconfigurationmanager-performrequiredconfigurationchecks.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/msft-dsclocalconfigurationmanager-performrequiredconfigurationchecks.md)
@@ -1367,10 +1495,12 @@
 * Handoff File: [msft-dsclocalconfigurationmanager-performrequiredconfigurationchecks.f68602d47b6c2e9673f52e9a43fcf688b1115c6e.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/msft-dsclocalconfigurationmanager-performrequiredconfigurationchecks.f68602d47b6c2e9673f52e9a43fcf688b1115c6e.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: [msft-dsclocalconfigurationmanager-performrequiredconfigurationchecks.f68602d47b6c2e9673f52e9a43fcf688b1115c6e.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/5ba0536f626b3150a12f1f53a08b7b06e15eec29/ol-archive/OpenLocalizationOrg/PowerShell-Docs.de-de/master/msft-dsclocalconfigurationmanager-performrequiredconfigurationchecks.f68602d47b6c2e9673f52e9a43fcf688b1115c6e.de-de.xlf)
 * Archive Datetime: 2016-10-27 22:21:25
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
 * [Back to Top](#report-top)
 
 ##### <a name='16f38fece67b3872b4afcdcb6755eecb0a7db3c364'></a> Source: [dsc\msft-dsclocalconfigurationmanager-removeconfiguration.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/msft-dsclocalconfigurationmanager-removeconfiguration.md)
@@ -1379,10 +1509,12 @@
 * Handoff File: [msft-dsclocalconfigurationmanager-removeconfiguration.dfbeb60ce8a2ce97a6dd15d3d1cff3363d1d73e9.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/msft-dsclocalconfigurationmanager-removeconfiguration.dfbeb60ce8a2ce97a6dd15d3d1cff3363d1d73e9.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: [msft-dsclocalconfigurationmanager-removeconfiguration.dfbeb60ce8a2ce97a6dd15d3d1cff3363d1d73e9.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/5ba0536f626b3150a12f1f53a08b7b06e15eec29/ol-archive/OpenLocalizationOrg/PowerShell-Docs.de-de/master/msft-dsclocalconfigurationmanager-removeconfiguration.dfbeb60ce8a2ce97a6dd15d3d1cff3363d1d73e9.de-de.xlf)
 * Archive Datetime: 2016-10-27 22:21:25
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
 * [Back to Top](#report-top)
 
 ##### <a name='eb01400b1774ce2ef6e7a3476983404c1329081a65'></a> Source: [dsc\msft-dsclocalconfigurationmanager-resourceget.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/msft-dsclocalconfigurationmanager-resourceget.md)
@@ -1391,10 +1523,12 @@
 * Handoff File: [msft-dsclocalconfigurationmanager-resourceget.31d499db5e4d041aadbeeba37268e2948c4b99bd.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/msft-dsclocalconfigurationmanager-resourceget.31d499db5e4d041aadbeeba37268e2948c4b99bd.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: [msft-dsclocalconfigurationmanager-resourceget.31d499db5e4d041aadbeeba37268e2948c4b99bd.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/5ba0536f626b3150a12f1f53a08b7b06e15eec29/ol-archive/OpenLocalizationOrg/PowerShell-Docs.de-de/master/msft-dsclocalconfigurationmanager-resourceget.31d499db5e4d041aadbeeba37268e2948c4b99bd.de-de.xlf)
 * Archive Datetime: 2016-10-27 22:21:25
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
 * [Back to Top](#report-top)
 
 ##### <a name='55b25653f17f7e826a5b480080fb6a9c6d65357366'></a> Source: [dsc\msft-dsclocalconfigurationmanager-resourceset.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/msft-dsclocalconfigurationmanager-resourceset.md)
@@ -1403,10 +1537,12 @@
 * Handoff File: [msft-dsclocalconfigurationmanager-resourceset.b8a6e6f4417ed8b51815e20c25c3967e3bbfc7c7.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/msft-dsclocalconfigurationmanager-resourceset.b8a6e6f4417ed8b51815e20c25c3967e3bbfc7c7.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: [msft-dsclocalconfigurationmanager-resourceset.b8a6e6f4417ed8b51815e20c25c3967e3bbfc7c7.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/5ba0536f626b3150a12f1f53a08b7b06e15eec29/ol-archive/OpenLocalizationOrg/PowerShell-Docs.de-de/master/msft-dsclocalconfigurationmanager-resourceset.b8a6e6f4417ed8b51815e20c25c3967e3bbfc7c7.de-de.xlf)
 * Archive Datetime: 2016-10-27 22:21:25
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
 * [Back to Top](#report-top)
 
 ##### <a name='bc8c36b26682bbaaaf00c370217a05feaf22a4ec67'></a> Source: [dsc\msft-dsclocalconfigurationmanager-resourcetest.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/msft-dsclocalconfigurationmanager-resourcetest.md)
@@ -1415,10 +1551,12 @@
 * Handoff File: [msft-dsclocalconfigurationmanager-resourcetest.f8a92ad93ab2872087f17ded61aad7961d019889.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/msft-dsclocalconfigurationmanager-resourcetest.f8a92ad93ab2872087f17ded61aad7961d019889.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: [msft-dsclocalconfigurationmanager-resourcetest.f8a92ad93ab2872087f17ded61aad7961d019889.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/5ba0536f626b3150a12f1f53a08b7b06e15eec29/ol-archive/OpenLocalizationOrg/PowerShell-Docs.de-de/master/msft-dsclocalconfigurationmanager-resourcetest.f8a92ad93ab2872087f17ded61aad7961d019889.de-de.xlf)
 * Archive Datetime: 2016-10-27 22:21:25
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
 * [Back to Top](#report-top)
 
 ##### <a name='78876ffd22f5b7a1601be391b9fa86aa3fed678568'></a> Source: [dsc\msft-dsclocalconfigurationmanager-rollback.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/msft-dsclocalconfigurationmanager-rollback.md)
@@ -1427,10 +1565,12 @@
 * Handoff File: [msft-dsclocalconfigurationmanager-rollback.ca9b0ac6513b64cca5924a4ebdc9c393cb0cccc6.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/msft-dsclocalconfigurationmanager-rollback.ca9b0ac6513b64cca5924a4ebdc9c393cb0cccc6.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: [msft-dsclocalconfigurationmanager-rollback.ca9b0ac6513b64cca5924a4ebdc9c393cb0cccc6.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/5ba0536f626b3150a12f1f53a08b7b06e15eec29/ol-archive/OpenLocalizationOrg/PowerShell-Docs.de-de/master/msft-dsclocalconfigurationmanager-rollback.ca9b0ac6513b64cca5924a4ebdc9c393cb0cccc6.de-de.xlf)
 * Archive Datetime: 2016-10-27 22:21:25
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
 * [Back to Top](#report-top)
 
 ##### <a name='e067eb657efce0a190fad9c3dc074b528cd9348169'></a> Source: [dsc\msft-dsclocalconfigurationmanager-sendconfiguration.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/msft-dsclocalconfigurationmanager-sendconfiguration.md)
@@ -1439,10 +1579,12 @@
 * Handoff File: [msft-dsclocalconfigurationmanager-sendconfiguration.ef2224874728677cee639c7ea223742feeb969fe.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/msft-dsclocalconfigurationmanager-sendconfiguration.ef2224874728677cee639c7ea223742feeb969fe.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: [msft-dsclocalconfigurationmanager-sendconfiguration.ef2224874728677cee639c7ea223742feeb969fe.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/5ba0536f626b3150a12f1f53a08b7b06e15eec29/ol-archive/OpenLocalizationOrg/PowerShell-Docs.de-de/master/msft-dsclocalconfigurationmanager-sendconfiguration.ef2224874728677cee639c7ea223742feeb969fe.de-de.xlf)
 * Archive Datetime: 2016-10-27 22:21:25
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
 * [Back to Top](#report-top)
 
 ##### <a name='b327736adab5ee9ea8aee0d61f5e46b2ded7a73070'></a> Source: [dsc\msft-dsclocalconfigurationmanager-sendconfigurationapply.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/msft-dsclocalconfigurationmanager-sendconfigurationapply.md)
@@ -1451,10 +1593,12 @@
 * Handoff File: [msft-dsclocalconfigurationmanager-sendconfigurationapply.04f85927d24f711ab08c310f7301b3477b8ce2d1.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/msft-dsclocalconfigurationmanager-sendconfigurationapply.04f85927d24f711ab08c310f7301b3477b8ce2d1.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: [msft-dsclocalconfigurationmanager-sendconfigurationapply.04f85927d24f711ab08c310f7301b3477b8ce2d1.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/5ba0536f626b3150a12f1f53a08b7b06e15eec29/ol-archive/OpenLocalizationOrg/PowerShell-Docs.de-de/master/msft-dsclocalconfigurationmanager-sendconfigurationapply.04f85927d24f711ab08c310f7301b3477b8ce2d1.de-de.xlf)
 * Archive Datetime: 2016-10-27 22:21:25
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
 * [Back to Top](#report-top)
 
 ##### <a name='9cf01693a668228561c999942b8e66942bfac5fa71'></a> Source: [dsc\msft-dsclocalconfigurationmanager-sendconfigurationapplyasync.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/msft-dsclocalconfigurationmanager-sendconfigurationapplyasync.md)
@@ -1463,10 +1607,12 @@
 * Handoff File: [msft-dsclocalconfigurationmanager-sendconfigurationapplyasync.6d0c80dc6d6cb7b85269234b88c53e813bb7d47f.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/msft-dsclocalconfigurationmanager-sendconfigurationapplyasync.6d0c80dc6d6cb7b85269234b88c53e813bb7d47f.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: [msft-dsclocalconfigurationmanager-sendconfigurationapplyasync.6d0c80dc6d6cb7b85269234b88c53e813bb7d47f.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/5ba0536f626b3150a12f1f53a08b7b06e15eec29/ol-archive/OpenLocalizationOrg/PowerShell-Docs.de-de/master/msft-dsclocalconfigurationmanager-sendconfigurationapplyasync.6d0c80dc6d6cb7b85269234b88c53e813bb7d47f.de-de.xlf)
 * Archive Datetime: 2016-10-27 22:21:25
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
 * [Back to Top](#report-top)
 
 ##### <a name='4cf6b6be55140cfc3013821a69abcad4b3f68e8672'></a> Source: [dsc\msft-dsclocalconfigurationmanager-sendmetaconfigurationapply.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/msft-dsclocalconfigurationmanager-sendmetaconfigurationapply.md)
@@ -1475,10 +1621,12 @@
 * Handoff File: [msft-dsclocalconfigurationmanager-sendmetaconfigurationapply.a2ebf60264f7a711d4c37b3dbfc197f36e50280e.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/msft-dsclocalconfigurationmanager-sendmetaconfigurationapply.a2ebf60264f7a711d4c37b3dbfc197f36e50280e.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: [msft-dsclocalconfigurationmanager-sendmetaconfigurationapply.a2ebf60264f7a711d4c37b3dbfc197f36e50280e.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/5ba0536f626b3150a12f1f53a08b7b06e15eec29/ol-archive/OpenLocalizationOrg/PowerShell-Docs.de-de/master/msft-dsclocalconfigurationmanager-sendmetaconfigurationapply.a2ebf60264f7a711d4c37b3dbfc197f36e50280e.de-de.xlf)
 * Archive Datetime: 2016-10-27 22:21:25
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
 * [Back to Top](#report-top)
 
 ##### <a name='365ae776cfade1c9b63dfed56f922fd9919f89fd73'></a> Source: [dsc\msft-dsclocalconfigurationmanager-stopconfiguration.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/dsc/msft-dsclocalconfigurationmanager-stopconfiguration.md)
@@ -1487,10 +1635,12 @@
 * Handoff File: [msft-dsclocalconfigurationmanager-stopconfiguration.be28209b8b0b7015bd9b68775697d0adbb5e5ebe.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/msft-dsclocalconfigurationmanager-stopconfiguration.be28209b8b0b7015bd9b68775697d0adbb5e5ebe.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [msft-dsclocalconfigurationmanager-stopconfiguration.be28209b8b0b7015bd9b68775697d0adbb5e5ebe.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/msft-dsclocalconfigurationmanager-stopconfiguration.be28209b8b0b7015bd9b68775697d0adbb5e5ebe.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [msft-dsclocalconfigurationmanager-stopconfiguration.be28209b8b0b7015bd9b68775697d0adbb5e5ebe.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/msft-dsclocalconfigurationmanager-stopconfiguration.be28209b8b0b7015bd9b68775697d0adbb5e5ebe.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -1501,10 +1651,12 @@
 * Handoff File: [msft-dsclocalconfigurationmanager-testconfiguration.86165c8b291aa1284c070a010d1c5c22018e0c91.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/msft-dsclocalconfigurationmanager-testconfiguration.86165c8b291aa1284c070a010d1c5c22018e0c91.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [msft-dsclocalconfigurationmanager-testconfiguration.86165c8b291aa1284c070a010d1c5c22018e0c91.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/msft-dsclocalconfigurationmanager-testconfiguration.86165c8b291aa1284c070a010d1c5c22018e0c91.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [msft-dsclocalconfigurationmanager-testconfiguration.86165c8b291aa1284c070a010d1c5c22018e0c91.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/msft-dsclocalconfigurationmanager-testconfiguration.86165c8b291aa1284c070a010d1c5c22018e0c91.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -1515,10 +1667,12 @@
 * Handoff File: [nanoDsc.aab436599c769befa85e33015714db23e0d73ae6.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/nanoDsc.aab436599c769befa85e33015714db23e0d73ae6.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [nanoDsc.aab436599c769befa85e33015714db23e0d73ae6.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/nanoDsc.aab436599c769befa85e33015714db23e0d73ae6.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [nanoDsc.aab436599c769befa85e33015714db23e0d73ae6.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/nanoDsc.aab436599c769befa85e33015714db23e0d73ae6.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -1529,10 +1683,12 @@
 * Handoff File: [overview.8cc85dd99239e10c76baa6006d906abfd6122c3f.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/overview.8cc85dd99239e10c76baa6006d906abfd6122c3f.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [overview.8cc85dd99239e10c76baa6006d906abfd6122c3f.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/overview.8cc85dd99239e10c76baa6006d906abfd6122c3f.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [overview.8cc85dd99239e10c76baa6006d906abfd6122c3f.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/overview.8cc85dd99239e10c76baa6006d906abfd6122c3f.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -1543,10 +1699,12 @@
 * Handoff File: [packageResource.132c4949cee174dc0dc324456d220436cb9884e6.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/packageResource.132c4949cee174dc0dc324456d220436cb9884e6.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [packageResource.132c4949cee174dc0dc324456d220436cb9884e6.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/packageResource.132c4949cee174dc0dc324456d220436cb9884e6.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [packageResource.132c4949cee174dc0dc324456d220436cb9884e6.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/packageResource.132c4949cee174dc0dc324456d220436cb9884e6.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -1557,10 +1715,12 @@
 * Handoff File: [partialConfigs.f483ab7fa1511b557780a02b5b807245f730c1b6.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/partialConfigs.f483ab7fa1511b557780a02b5b807245f730c1b6.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [partialConfigs.f483ab7fa1511b557780a02b5b807245f730c1b6.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/partialConfigs.f483ab7fa1511b557780a02b5b807245f730c1b6.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [partialConfigs.f483ab7fa1511b557780a02b5b807245f730c1b6.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/partialConfigs.f483ab7fa1511b557780a02b5b807245f730c1b6.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -1571,10 +1731,12 @@
 * Handoff File: [processSetResource.60397e2d80d932d8cfef1ca14f3491e355349d09.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/processSetResource.60397e2d80d932d8cfef1ca14f3491e355349d09.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [processSetResource.60397e2d80d932d8cfef1ca14f3491e355349d09.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/processSetResource.60397e2d80d932d8cfef1ca14f3491e355349d09.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [processSetResource.60397e2d80d932d8cfef1ca14f3491e355349d09.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/processSetResource.60397e2d80d932d8cfef1ca14f3491e355349d09.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -1585,10 +1747,12 @@
 * Handoff File: [pullClient.4844144e7d40a6e8b1be2cfaa80a5307f19f47f9.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/pullClient.4844144e7d40a6e8b1be2cfaa80a5307f19f47f9.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [pullClient.4844144e7d40a6e8b1be2cfaa80a5307f19f47f9.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/pullClient.4844144e7d40a6e8b1be2cfaa80a5307f19f47f9.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [pullClient.4844144e7d40a6e8b1be2cfaa80a5307f19f47f9.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/pullClient.4844144e7d40a6e8b1be2cfaa80a5307f19f47f9.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -1599,10 +1763,12 @@
 * Handoff File: [pullClientConfigID.1b955603d220e49bbe52711bacf74c46feec04cc.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/pullClientConfigID.1b955603d220e49bbe52711bacf74c46feec04cc.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [pullClientConfigID.1b955603d220e49bbe52711bacf74c46feec04cc.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/pullClientConfigID.1b955603d220e49bbe52711bacf74c46feec04cc.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [pullClientConfigID.1b955603d220e49bbe52711bacf74c46feec04cc.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/pullClientConfigID.1b955603d220e49bbe52711bacf74c46feec04cc.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -1613,10 +1779,12 @@
 * Handoff File: [pullClientConfigID4.3556f8028eee8a539990f2895506bcbafb14a012.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/pullClientConfigID4.3556f8028eee8a539990f2895506bcbafb14a012.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [pullClientConfigID4.3556f8028eee8a539990f2895506bcbafb14a012.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/pullClientConfigID4.3556f8028eee8a539990f2895506bcbafb14a012.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [pullClientConfigID4.3556f8028eee8a539990f2895506bcbafb14a012.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/pullClientConfigID4.3556f8028eee8a539990f2895506bcbafb14a012.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -1627,10 +1795,12 @@
 * Handoff File: [pullClientConfigNames.90531abb3b29bfd751ad2f3a115a4ba02024827e.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/pullClientConfigNames.90531abb3b29bfd751ad2f3a115a4ba02024827e.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [pullClientConfigNames.90531abb3b29bfd751ad2f3a115a4ba02024827e.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/pullClientConfigNames.90531abb3b29bfd751ad2f3a115a4ba02024827e.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [pullClientConfigNames.90531abb3b29bfd751ad2f3a115a4ba02024827e.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/pullClientConfigNames.90531abb3b29bfd751ad2f3a115a4ba02024827e.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -1641,10 +1811,12 @@
 * Handoff File: [pullServer.4b925b277da29998394af746bdbdd508fda48909.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/pullServer.4b925b277da29998394af746bdbdd508fda48909.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [pullServer.4b925b277da29998394af746bdbdd508fda48909.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/pullServer.4b925b277da29998394af746bdbdd508fda48909.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [pullServer.4b925b277da29998394af746bdbdd508fda48909.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/pullServer.4b925b277da29998394af746bdbdd508fda48909.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -1655,10 +1827,12 @@
 * Handoff File: [pullServerSMB.772aec5ae27ccb19ced78e3eb665a4e16db1c4df.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/pullServerSMB.772aec5ae27ccb19ced78e3eb665a4e16db1c4df.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [pullServerSMB.772aec5ae27ccb19ced78e3eb665a4e16db1c4df.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/pullServerSMB.772aec5ae27ccb19ced78e3eb665a4e16db1c4df.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [pullServerSMB.772aec5ae27ccb19ced78e3eb665a4e16db1c4df.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/pullServerSMB.772aec5ae27ccb19ced78e3eb665a4e16db1c4df.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -1669,10 +1843,12 @@
 * Handoff File: [queryServerNodes.bb63da39c46de8db127c93721dcbec9b10f73d2d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/queryServerNodes.bb63da39c46de8db127c93721dcbec9b10f73d2d.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [queryServerNodes.bb63da39c46de8db127c93721dcbec9b10f73d2d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/queryServerNodes.bb63da39c46de8db127c93721dcbec9b10f73d2d.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [queryServerNodes.bb63da39c46de8db127c93721dcbec9b10f73d2d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/queryServerNodes.bb63da39c46de8db127c93721dcbec9b10f73d2d.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -1683,10 +1859,12 @@
 * Handoff File: [registryResource.7e5e3fabff013c107bd112ac774a50c9cab7c90a.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/registryResource.7e5e3fabff013c107bd112ac774a50c9cab7c90a.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [registryResource.7e5e3fabff013c107bd112ac774a50c9cab7c90a.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/registryResource.7e5e3fabff013c107bd112ac774a50c9cab7c90a.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [registryResource.7e5e3fabff013c107bd112ac774a50c9cab7c90a.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/registryResource.7e5e3fabff013c107bd112ac774a50c9cab7c90a.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -1697,10 +1875,12 @@
 * Handoff File: [reportServer.53df4bc8b7b80c0a19c11434bdf5f4304e8248f7.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/reportServer.53df4bc8b7b80c0a19c11434bdf5f4304e8248f7.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [reportServer.53df4bc8b7b80c0a19c11434bdf5f4304e8248f7.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/reportServer.53df4bc8b7b80c0a19c11434bdf5f4304e8248f7.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [reportServer.53df4bc8b7b80c0a19c11434bdf5f4304e8248f7.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/reportServer.53df4bc8b7b80c0a19c11434bdf5f4304e8248f7.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -1711,10 +1891,12 @@
 * Handoff File: [resourceAuthoringChecklist.3b9ae254d826cc45519d37d06044f28a69bdfa69.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/resourceAuthoringChecklist.3b9ae254d826cc45519d37d06044f28a69bdfa69.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [resourceAuthoringChecklist.3b9ae254d826cc45519d37d06044f28a69bdfa69.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/resourceAuthoringChecklist.3b9ae254d826cc45519d37d06044f28a69bdfa69.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [resourceAuthoringChecklist.3b9ae254d826cc45519d37d06044f28a69bdfa69.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/resourceAuthoringChecklist.3b9ae254d826cc45519d37d06044f28a69bdfa69.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -1725,10 +1907,12 @@
 * Handoff File: [resources.41990b4bc17648676f43a9aedfa72aa3db455ca3.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/resources.41990b4bc17648676f43a9aedfa72aa3db455ca3.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [resources.41990b4bc17648676f43a9aedfa72aa3db455ca3.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/resources.41990b4bc17648676f43a9aedfa72aa3db455ca3.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [resources.41990b4bc17648676f43a9aedfa72aa3db455ca3.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/resources.41990b4bc17648676f43a9aedfa72aa3db455ca3.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -1739,10 +1923,12 @@
 * Handoff File: [runAsUser.d2b90b6bc42ef965e454f9c9f5fd19bc7b488b34.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/runAsUser.d2b90b6bc42ef965e454f9c9f5fd19bc7b488b34.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [runAsUser.d2b90b6bc42ef965e454f9c9f5fd19bc7b488b34.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/runAsUser.d2b90b6bc42ef965e454f9c9f5fd19bc7b488b34.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [runAsUser.d2b90b6bc42ef965e454f9c9f5fd19bc7b488b34.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/runAsUser.d2b90b6bc42ef965e454f9c9f5fd19bc7b488b34.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -1753,10 +1939,12 @@
 * Handoff File: [scriptResource.086a4e23c7f1950435cf115060757fcd9b7f7f5d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/scriptResource.086a4e23c7f1950435cf115060757fcd9b7f7f5d.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [scriptResource.086a4e23c7f1950435cf115060757fcd9b7f7f5d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/scriptResource.086a4e23c7f1950435cf115060757fcd9b7f7f5d.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [scriptResource.086a4e23c7f1950435cf115060757fcd9b7f7f5d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/scriptResource.086a4e23c7f1950435cf115060757fcd9b7f7f5d.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -1767,10 +1955,12 @@
 * Handoff File: [secureMOF.84bae90620632fc30568f4afa595e2b86e8aa6d1.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/secureMOF.84bae90620632fc30568f4afa595e2b86e8aa6d1.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [secureMOF.84bae90620632fc30568f4afa595e2b86e8aa6d1.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/secureMOF.84bae90620632fc30568f4afa595e2b86e8aa6d1.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [secureMOF.84bae90620632fc30568f4afa595e2b86e8aa6d1.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/secureMOF.84bae90620632fc30568f4afa595e2b86e8aa6d1.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -1781,10 +1971,12 @@
 * Handoff File: [secureServer.ce207607010d18109152742ba23c923cd3cddba2.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/secureServer.ce207607010d18109152742ba23c923cd3cddba2.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [secureServer.ce207607010d18109152742ba23c923cd3cddba2.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/secureServer.ce207607010d18109152742ba23c923cd3cddba2.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [secureServer.ce207607010d18109152742ba23c923cd3cddba2.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/secureServer.ce207607010d18109152742ba23c923cd3cddba2.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -1795,10 +1987,12 @@
 * Handoff File: [serviceResource.17d839ef9952ec1a45ba971fcff47a80c41593cf.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/serviceResource.17d839ef9952ec1a45ba971fcff47a80c41593cf.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [serviceResource.17d839ef9952ec1a45ba971fcff47a80c41593cf.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/serviceResource.17d839ef9952ec1a45ba971fcff47a80c41593cf.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [serviceResource.17d839ef9952ec1a45ba971fcff47a80c41593cf.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/serviceResource.17d839ef9952ec1a45ba971fcff47a80c41593cf.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -1809,10 +2003,12 @@
 * Handoff File: [serviceSetResource.c1edeeade2463ce743d694544d750debeebfdccd.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/serviceSetResource.c1edeeade2463ce743d694544d750debeebfdccd.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [serviceSetResource.c1edeeade2463ce743d694544d750debeebfdccd.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/serviceSetResource.c1edeeade2463ce743d694544d750debeebfdccd.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [serviceSetResource.c1edeeade2463ce743d694544d750debeebfdccd.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/serviceSetResource.c1edeeade2463ce743d694544d750debeebfdccd.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -1823,10 +2019,12 @@
 * Handoff File: [singleInstance.4f8933068a5f26b35ccecf08382837dc04056f86.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/singleInstance.4f8933068a5f26b35ccecf08382837dc04056f86.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [singleInstance.4f8933068a5f26b35ccecf08382837dc04056f86.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/singleInstance.4f8933068a5f26b35ccecf08382837dc04056f86.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [singleInstance.4f8933068a5f26b35ccecf08382837dc04056f86.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/singleInstance.4f8933068a5f26b35ccecf08382837dc04056f86.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -1837,10 +2035,12 @@
 * Handoff File: [Sonja_in_dsc_folder.9fced11a4d3bd93bff93f7067a2b176a308a36ce.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/68e98dd115e3a1f5b72509ba2680f69d7d26d005/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Sonja_in_dsc_folder.9fced11a4d3bd93bff93f7067a2b176a308a36ce.de-de.xlf)
 * Handoff Datetime: 2016-10-05 22:49:23
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: [Sonja_in_dsc_folder.9fced11a4d3bd93bff93f7067a2b176a308a36ce.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/5ba0536f626b3150a12f1f53a08b7b06e15eec29/ol-archive/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Sonja_in_dsc_folder.9fced11a4d3bd93bff93f7067a2b176a308a36ce.de-de.xlf)
 * Archive Datetime: 2016-10-27 22:21:25
 * Handback File: [Sonja_in_dsc_folder.9fced11a4d3bd93bff93f7067a2b176a308a36ce.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Sonja_in_dsc_folder.9fced11a4d3bd93bff93f7067a2b176a308a36ce.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [Sonja_in_dsc_folder.9fced11a4d3bd93bff93f7067a2b176a308a36ce.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Sonja_in_dsc_folder.9fced11a4d3bd93bff93f7067a2b176a308a36ce.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -1851,10 +2051,12 @@
 * Handoff File: [sxsResource.835258073c6738946b31509359c72fa70af35ce2.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/sxsResource.835258073c6738946b31509359c72fa70af35ce2.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [sxsResource.835258073c6738946b31509359c72fa70af35ce2.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/sxsResource.835258073c6738946b31509359c72fa70af35ce2.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [sxsResource.835258073c6738946b31509359c72fa70af35ce2.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/sxsResource.835258073c6738946b31509359c72fa70af35ce2.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -1865,10 +2067,12 @@
 * Handoff File: [MoraviaDemo.28b823083720f1a7397586dc24bee387d5dd67f5.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/cdcec5a6353612db53178a47f5ebac2b7a6b09a4/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/MoraviaDemo.28b823083720f1a7397586dc24bee387d5dd67f5.de-de.xlf)
 * Handoff Datetime: 2016-10-04 17:10:35
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: [MoraviaDemo.28b823083720f1a7397586dc24bee387d5dd67f5.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/5ba0536f626b3150a12f1f53a08b7b06e15eec29/ol-archive/OpenLocalizationOrg/PowerShell-Docs.de-de/master/MoraviaDemo.28b823083720f1a7397586dc24bee387d5dd67f5.de-de.xlf)
 * Archive Datetime: 2016-10-27 22:21:25
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
 * [Back to Top](#report-top)
 
 ##### <a name='1e97e7496cbb66ff8b8a10b1412383cf9f3f4c34102'></a> Source: [dsc\Test1\OpenLoc ROCKS.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/5d40229cc5014c159352170071b347a333a90fa5/dsc/Test1/OpenLoc%20ROCKS.md)
@@ -1877,10 +2081,12 @@
 * Handoff File: [OpenLoc ROCKS.ac3ecff61703b5a6c0e8f6ae2b1e10c3a845cc67.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/cdcec5a6353612db53178a47f5ebac2b7a6b09a4/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/OpenLoc%20ROCKS.ac3ecff61703b5a6c0e8f6ae2b1e10c3a845cc67.de-de.xlf)
 * Handoff Datetime: 2016-10-04 17:10:35
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [OpenLoc ROCKS.ac3ecff61703b5a6c0e8f6ae2b1e10c3a845cc67.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/OpenLoc%20ROCKS.ac3ecff61703b5a6c0e8f6ae2b1e10c3a845cc67.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [OpenLoc ROCKS.ac3ecff61703b5a6c0e8f6ae2b1e10c3a845cc67.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/OpenLoc%20ROCKS.ac3ecff61703b5a6c0e8f6ae2b1e10c3a845cc67.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -1891,10 +2097,12 @@
 * Handoff File: [SonjaFileToo.200fe5c96e02b06bc5f8a666c8090d57bedd4415.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/cdcec5a6353612db53178a47f5ebac2b7a6b09a4/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/SonjaFileToo.200fe5c96e02b06bc5f8a666c8090d57bedd4415.de-de.xlf)
 * Handoff Datetime: 2016-10-04 17:10:35
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [SonjaFileToo.200fe5c96e02b06bc5f8a666c8090d57bedd4415.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/SonjaFileToo.200fe5c96e02b06bc5f8a666c8090d57bedd4415.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [SonjaFileToo.200fe5c96e02b06bc5f8a666c8090d57bedd4415.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/SonjaFileToo.200fe5c96e02b06bc5f8a666c8090d57bedd4415.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -1905,10 +2113,12 @@
 * Handoff File: [overview-test2.b82580217442d4533cc66897b1a1a51a6f090168.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/68e98dd115e3a1f5b72509ba2680f69d7d26d005/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/overview-test2.b82580217442d4533cc66897b1a1a51a6f090168.de-de.xlf)
 * Handoff Datetime: 2016-10-05 22:49:23
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: [overview-test2.b82580217442d4533cc66897b1a1a51a6f090168.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/5ba0536f626b3150a12f1f53a08b7b06e15eec29/ol-archive/OpenLocalizationOrg/PowerShell-Docs.de-de/master/overview-test2.b82580217442d4533cc66897b1a1a51a6f090168.de-de.xlf)
 * Archive Datetime: 2016-10-27 22:21:25
 * Handback File: [overview-test2.b82580217442d4533cc66897b1a1a51a6f090168.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/overview-test2.b82580217442d4533cc66897b1a1a51a6f090168.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [overview-test2.b82580217442d4533cc66897b1a1a51a6f090168.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/overview-test2.b82580217442d4533cc66897b1a1a51a6f090168.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -1919,10 +2129,12 @@
 * Handoff File: [TOC.b2a7935bce42ebc7e43bfe65f3058900e2942427.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/1f7331d72864fcb429abf025a6fe5f0861272e86/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/TOC.b2a7935bce42ebc7e43bfe65f3058900e2942427.de-de.xlf)
 * Handoff Datetime: 2016-11-09 07:41:55
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [TOC.b2a7935bce42ebc7e43bfe65f3058900e2942427.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a23af0a974eac945310ed24f7ffce95b136b320f/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/TOC.b2a7935bce42ebc7e43bfe65f3058900e2942427.de-de.xlf)
 * Handback Datetime: 2016-11-09 11:34:13
+* Handback Name: 
 * Bilingual File: [TOC.b2a7935bce42ebc7e43bfe65f3058900e2942427.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a23af0a974eac945310ed24f7ffce95b136b320f/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/TOC.b2a7935bce42ebc7e43bfe65f3058900e2942427.de-de.xlf)
 * Bilingual Datetime: 2016-11-09 11:34:28
 * [Back to Top](#report-top)
@@ -1933,10 +2145,12 @@
 * Handoff File: [troubleshooting.bcb1039de4ec46bfb0ab2d224be50829d0891e7d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/troubleshooting.bcb1039de4ec46bfb0ab2d224be50829d0891e7d.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [troubleshooting.bcb1039de4ec46bfb0ab2d224be50829d0891e7d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/84e024c909e18c131bb6b20fbd3e1dc1e26ad8ed/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/troubleshooting.bcb1039de4ec46bfb0ab2d224be50829d0891e7d.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:38:39
+* Handback Name: 
 * Current Target File: [dsc\troubleshooting.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs.de-de/blob/29047b489527448917393f3232693dface49b370/dsc/troubleshooting.md)
 * Current Handback File: [rename_troubleshooting.4c130a5165c494568ef17f0cc6e7c9fc0caf31bc.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/rename_troubleshooting.4c130a5165c494568ef17f0cc6e7c9fc0caf31bc.de-de.xlf)
 * Current Handback Datetime: 2016-10-05 16:29:21
@@ -1950,10 +2164,12 @@
 * Handoff File: [userResource.5de4fbe03e9e06934442ba451eb0564931863f45.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/userResource.5de4fbe03e9e06934442ba451eb0564931863f45.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [userResource.5de4fbe03e9e06934442ba451eb0564931863f45.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/userResource.5de4fbe03e9e06934442ba451eb0564931863f45.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [userResource.5de4fbe03e9e06934442ba451eb0564931863f45.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/userResource.5de4fbe03e9e06934442ba451eb0564931863f45.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -1964,10 +2180,12 @@
 * Handoff File: [whitepapers.40273d6b9e10f219b68cfb2a8802aec2c9f891cc.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/whitepapers.40273d6b9e10f219b68cfb2a8802aec2c9f891cc.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [whitepapers.40273d6b9e10f219b68cfb2a8802aec2c9f891cc.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/whitepapers.40273d6b9e10f219b68cfb2a8802aec2c9f891cc.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [whitepapers.40273d6b9e10f219b68cfb2a8802aec2c9f891cc.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/whitepapers.40273d6b9e10f219b68cfb2a8802aec2c9f891cc.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -1978,10 +2196,12 @@
 * Handoff File: [windowsfeatureResource.07b968eb71ba947a4bf5fa25add8a0e2c25bcadf.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/windowsfeatureResource.07b968eb71ba947a4bf5fa25add8a0e2c25bcadf.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [windowsfeatureResource.07b968eb71ba947a4bf5fa25add8a0e2c25bcadf.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/windowsfeatureResource.07b968eb71ba947a4bf5fa25add8a0e2c25bcadf.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [windowsfeatureResource.07b968eb71ba947a4bf5fa25add8a0e2c25bcadf.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/windowsfeatureResource.07b968eb71ba947a4bf5fa25add8a0e2c25bcadf.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -1992,10 +2212,12 @@
 * Handoff File: [windowsFeatureSetResource.19493960ded52f96e5dc63665e19551966b90c07.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/windowsFeatureSetResource.19493960ded52f96e5dc63665e19551966b90c07.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [windowsFeatureSetResource.19493960ded52f96e5dc63665e19551966b90c07.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/windowsFeatureSetResource.19493960ded52f96e5dc63665e19551966b90c07.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [windowsFeatureSetResource.19493960ded52f96e5dc63665e19551966b90c07.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/windowsFeatureSetResource.19493960ded52f96e5dc63665e19551966b90c07.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -2006,10 +2228,12 @@
 * Handoff File: [windowsOptionalFeatureResource.40ddc395f8879ed2dc4dcabb138c55bf390ba606.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/windowsOptionalFeatureResource.40ddc395f8879ed2dc4dcabb138c55bf390ba606.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [windowsOptionalFeatureResource.40ddc395f8879ed2dc4dcabb138c55bf390ba606.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/windowsOptionalFeatureResource.40ddc395f8879ed2dc4dcabb138c55bf390ba606.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [windowsOptionalFeatureResource.40ddc395f8879ed2dc4dcabb138c55bf390ba606.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/windowsOptionalFeatureResource.40ddc395f8879ed2dc4dcabb138c55bf390ba606.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -2020,10 +2244,12 @@
 * Handoff File: [windowsOptionalFeatureSetResource.225a3214b6ca44eb5e7a48cfa85be1030d97b84c.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/windowsOptionalFeatureSetResource.225a3214b6ca44eb5e7a48cfa85be1030d97b84c.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [windowsOptionalFeatureSetResource.225a3214b6ca44eb5e7a48cfa85be1030d97b84c.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/windowsOptionalFeatureSetResource.225a3214b6ca44eb5e7a48cfa85be1030d97b84c.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [windowsOptionalFeatureSetResource.225a3214b6ca44eb5e7a48cfa85be1030d97b84c.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/windowsOptionalFeatureSetResource.225a3214b6ca44eb5e7a48cfa85be1030d97b84c.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -2034,10 +2260,12 @@
 * Handoff File: [windowsProcessResource.d5014f2fde06deea365cd1e64a3587c037999fa7.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/windowsProcessResource.d5014f2fde06deea365cd1e64a3587c037999fa7.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [windowsProcessResource.d5014f2fde06deea365cd1e64a3587c037999fa7.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/windowsProcessResource.d5014f2fde06deea365cd1e64a3587c037999fa7.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [windowsProcessResource.d5014f2fde06deea365cd1e64a3587c037999fa7.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/windowsProcessResource.d5014f2fde06deea365cd1e64a3587c037999fa7.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -2048,10 +2276,12 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
 * [Back to Top](#report-top)
 
 ##### <a name='97403b5ae385aa568d0eba44eabac2e10b130a76115'></a> Source: [gallery\index.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/gallery/index.md)
@@ -2060,10 +2290,12 @@
 * Handoff File: [index.fb851c60ffb7fc30c83dbadbcac26716f6e1f16d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/index.fb851c60ffb7fc30c83dbadbcac26716f6e1f16d.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [index.fb851c60ffb7fc30c83dbadbcac26716f6e1f16d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/index.fb851c60ffb7fc30c83dbadbcac26716f6e1f16d.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [index.fb851c60ffb7fc30c83dbadbcac26716f6e1f16d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/index.fb851c60ffb7fc30c83dbadbcac26716f6e1f16d.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -2074,10 +2306,12 @@
 * Handoff File: [contributing_to_psgallery_documentation.cdc8ea8133cc381a44e6b22ab29399fc0e010fc7.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/contributing_to_psgallery_documentation.cdc8ea8133cc381a44e6b22ab29399fc0e010fc7.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [contributing_to_psgallery_documentation.cdc8ea8133cc381a44e6b22ab29399fc0e010fc7.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/contributing_to_psgallery_documentation.cdc8ea8133cc381a44e6b22ab29399fc0e010fc7.de-de.xlf)
 * Handback Datetime: 2016-10-04 23:08:40
+* Handback Name: 
 * Bilingual File: [contributing_to_psgallery_documentation.cdc8ea8133cc381a44e6b22ab29399fc0e010fc7.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/contributing_to_psgallery_documentation.cdc8ea8133cc381a44e6b22ab29399fc0e010fc7.de-de.xlf)
 * Bilingual Datetime: 2016-10-04 23:09:03
 * [Back to Top](#report-top)
@@ -2088,10 +2322,12 @@
 * Handoff File: [Creating-and-Publishing-an-item.612ca6dd00bb48ef9dc422d6bad977ea54f0c53a.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Creating-and-Publishing-an-item.612ca6dd00bb48ef9dc422d6bad977ea54f0c53a.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Creating-and-Publishing-an-item.612ca6dd00bb48ef9dc422d6bad977ea54f0c53a.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Creating-and-Publishing-an-item.612ca6dd00bb48ef9dc422d6bad977ea54f0c53a.de-de.xlf)
 * Handback Datetime: 2016-10-04 23:08:40
+* Handback Name: 
 * Bilingual File: [Creating-and-Publishing-an-item.612ca6dd00bb48ef9dc422d6bad977ea54f0c53a.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Creating-and-Publishing-an-item.612ca6dd00bb48ef9dc422d6bad977ea54f0c53a.de-de.xlf)
 * Bilingual Datetime: 2016-10-04 23:09:03
 * [Back to Top](#report-top)
@@ -2102,10 +2338,12 @@
 * Handoff File: [Deleting-Items.4e26f4bda62324aed679b0c10b81017d4f3924ba.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Deleting-Items.4e26f4bda62324aed679b0c10b81017d4f3924ba.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Deleting-Items.4e26f4bda62324aed679b0c10b81017d4f3924ba.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Deleting-Items.4e26f4bda62324aed679b0c10b81017d4f3924ba.de-de.xlf)
 * Handback Datetime: 2016-10-04 23:08:40
+* Handback Name: 
 * Bilingual File: [Deleting-Items.4e26f4bda62324aed679b0c10b81017d4f3924ba.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Deleting-Items.4e26f4bda62324aed679b0c10b81017d4f3924ba.de-de.xlf)
 * Bilingual Datetime: 2016-10-04 23:09:03
 * [Back to Top](#report-top)
@@ -2116,10 +2354,12 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
 * [Back to Top](#report-top)
 
 ##### <a name='5bad28435adc94c36d1eddd84f42f9af2baebd79120'></a> Source: [gallery\psgallery\Images\ItemDisplayPageWithPSEditions.PNG](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/565fa792c0ec30d9c35536b25d6336c905f7af66/gallery/psgallery/Images/ItemDisplayPageWithPSEditions.PNG)
@@ -2128,10 +2368,12 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
 * [Back to Top](#report-top)
 
 ##### <a name='24fdfd0cc2fa8c22d57d2c2407ea06685a701dc0121'></a> Source: [gallery\psgallery\Images\powershellgetArchitecture.png](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/565fa792c0ec30d9c35536b25d6336c905f7af66/gallery/psgallery/Images/powershellgetArchitecture.png)
@@ -2140,10 +2382,12 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
 * [Back to Top](#report-top)
 
 ##### <a name='d35a7f3fa31a72ac3fcd02e8a8329d50faa563ce122'></a> Source: [gallery\psgallery\Images\SearchResultsWithPSEdition_Desktop.PNG](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/565fa792c0ec30d9c35536b25d6336c905f7af66/gallery/psgallery/Images/SearchResultsWithPSEdition_Desktop.PNG)
@@ -2152,10 +2396,12 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
 * [Back to Top](#report-top)
 
 ##### <a name='6e17f4151dbfc56ef9af9ed79b385f675057cb58123'></a> Source: [gallery\psgallery\Images\SearchResultsWithPSEditions.PNG](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/565fa792c0ec30d9c35536b25d6336c905f7af66/gallery/psgallery/Images/SearchResultsWithPSEditions.PNG)
@@ -2164,10 +2410,12 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
 * [Back to Top](#report-top)
 
 ##### <a name='57218c316b6921e2cd61027a2387edc31a2d9471124'></a> Source: [gallery\psgallery\Item-Conventions.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/gallery/psgallery/Item-Conventions.md)
@@ -2176,10 +2424,12 @@
 * Handoff File: [Item-Conventions.0b4ea1accc4e55f573635809d84bd7ff26d817bb.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Item-Conventions.0b4ea1accc4e55f573635809d84bd7ff26d817bb.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Item-Conventions.0b4ea1accc4e55f573635809d84bd7ff26d817bb.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Item-Conventions.0b4ea1accc4e55f573635809d84bd7ff26d817bb.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [Item-Conventions.0b4ea1accc4e55f573635809d84bd7ff26d817bb.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Item-Conventions.0b4ea1accc4e55f573635809d84bd7ff26d817bb.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -2190,10 +2440,12 @@
 * Handoff File: [Managing-Item-Owners.20ba127bece18032f9becaca9900f96afe54a89f.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Managing-Item-Owners.20ba127bece18032f9becaca9900f96afe54a89f.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Managing-Item-Owners.20ba127bece18032f9becaca9900f96afe54a89f.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Managing-Item-Owners.20ba127bece18032f9becaca9900f96afe54a89f.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [Managing-Item-Owners.20ba127bece18032f9becaca9900f96afe54a89f.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Managing-Item-Owners.20ba127bece18032f9becaca9900f96afe54a89f.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -2204,10 +2456,12 @@
 * Handoff File: [PackageManagement_Architecture .342c41f221a468f60c1ece4ef6d32b4005ca3c94.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/PackageManagement_Architecture%20.342c41f221a468f60c1ece4ef6d32b4005ca3c94.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [PackageManagement_Architecture .342c41f221a468f60c1ece4ef6d32b4005ca3c94.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/PackageManagement_Architecture%20.342c41f221a468f60c1ece4ef6d32b4005ca3c94.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [PackageManagement_Architecture .342c41f221a468f60c1ece4ef6d32b4005ca3c94.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/PackageManagement_Architecture%20.342c41f221a468f60c1ece4ef6d32b4005ca3c94.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -2218,10 +2472,12 @@
 * Handoff File: [psgallery_contacting_administrators.41f40e7fb08ba4dd79a654acff84cf3c9dfa58ba.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psgallery_contacting_administrators.41f40e7fb08ba4dd79a654acff84cf3c9dfa58ba.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psgallery_contacting_administrators.41f40e7fb08ba4dd79a654acff84cf3c9dfa58ba.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psgallery_contacting_administrators.41f40e7fb08ba4dd79a654acff84cf3c9dfa58ba.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [psgallery_contacting_administrators.41f40e7fb08ba4dd79a654acff84cf3c9dfa58ba.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psgallery_contacting_administrators.41f40e7fb08ba4dd79a654acff84cf3c9dfa58ba.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -2232,10 +2488,12 @@
 * Handoff File: [psgallery_contacting_item_owners.879cc50a48f278046286c3aa1d93362e5de5487c.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psgallery_contacting_item_owners.879cc50a48f278046286c3aa1d93362e5de5487c.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psgallery_contacting_item_owners.879cc50a48f278046286c3aa1d93362e5de5487c.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psgallery_contacting_item_owners.879cc50a48f278046286c3aa1d93362e5de5487c.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [psgallery_contacting_item_owners.879cc50a48f278046286c3aa1d93362e5de5487c.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psgallery_contacting_item_owners.879cc50a48f278046286c3aa1d93362e5de5487c.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -2246,10 +2504,12 @@
 * Handoff File: [psgallery_deploy_to_azure_automation.e2979f4b7a0b957862c90510816406977e8c9b76.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psgallery_deploy_to_azure_automation.e2979f4b7a0b957862c90510816406977e8c9b76.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psgallery_deploy_to_azure_automation.e2979f4b7a0b957862c90510816406977e8c9b76.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psgallery_deploy_to_azure_automation.e2979f4b7a0b957862c90510816406977e8c9b76.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [psgallery_deploy_to_azure_automation.e2979f4b7a0b957862c90510816406977e8c9b76.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psgallery_deploy_to_azure_automation.e2979f4b7a0b957862c90510816406977e8c9b76.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -2260,10 +2520,12 @@
 * Handoff File: [psgallery_dispute_resolution.ba69142619a5afc5edcb5b709129031b83c160f1.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psgallery_dispute_resolution.ba69142619a5afc5edcb5b709129031b83c160f1.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psgallery_dispute_resolution.ba69142619a5afc5edcb5b709129031b83c160f1.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psgallery_dispute_resolution.ba69142619a5afc5edcb5b709129031b83c160f1.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [psgallery_dispute_resolution.ba69142619a5afc5edcb5b709129031b83c160f1.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psgallery_dispute_resolution.ba69142619a5afc5edcb5b709129031b83c160f1.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -2274,10 +2536,12 @@
 * Handoff File: [psgallery_faqs.9936554d7bbcd962f197ee765347ad8d8229fc8e.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psgallery_faqs.9936554d7bbcd962f197ee765347ad8d8229fc8e.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psgallery_faqs.9936554d7bbcd962f197ee765347ad8d8229fc8e.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psgallery_faqs.9936554d7bbcd962f197ee765347ad8d8229fc8e.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [psgallery_faqs.9936554d7bbcd962f197ee765347ad8d8229fc8e.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psgallery_faqs.9936554d7bbcd962f197ee765347ad8d8229fc8e.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -2288,10 +2552,12 @@
 * Handoff File: [psgallery_filelist_feature.c8733fb578a6ace43988accf420d565d48e328c1.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psgallery_filelist_feature.c8733fb578a6ace43988accf420d565d48e328c1.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psgallery_filelist_feature.c8733fb578a6ace43988accf420d565d48e328c1.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psgallery_filelist_feature.c8733fb578a6ace43988accf420d565d48e328c1.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [psgallery_filelist_feature.c8733fb578a6ace43988accf420d565d48e328c1.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psgallery_filelist_feature.c8733fb578a6ace43988accf420d565d48e328c1.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -2302,10 +2568,12 @@
 * Handoff File: [psgallery_gettingstarted.a7579de98fd8f80af14a1190c18e388a9f1b7b5d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psgallery_gettingstarted.a7579de98fd8f80af14a1190c18e388a9f1b7b5d.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psgallery_gettingstarted.a7579de98fd8f80af14a1190c18e388a9f1b7b5d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psgallery_gettingstarted.a7579de98fd8f80af14a1190c18e388a9f1b7b5d.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [psgallery_gettingstarted.a7579de98fd8f80af14a1190c18e388a9f1b7b5d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psgallery_gettingstarted.a7579de98fd8f80af14a1190c18e388a9f1b7b5d.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -2316,10 +2584,12 @@
 * Handoff File: [psgallery_items_tab.0ac50d5feec810e8ee6144dc338c29ecef03b21c.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psgallery_items_tab.0ac50d5feec810e8ee6144dc338c29ecef03b21c.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psgallery_items_tab.0ac50d5feec810e8ee6144dc338c29ecef03b21c.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psgallery_items_tab.0ac50d5feec810e8ee6144dc338c29ecef03b21c.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [psgallery_items_tab.0ac50d5feec810e8ee6144dc338c29ecef03b21c.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psgallery_items_tab.0ac50d5feec810e8ee6144dc338c29ecef03b21c.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -2330,10 +2600,12 @@
 * Handoff File: [psgallery_pseditions.47eae496f0d2e1a8a89cdc1b5e162b06537c49f2.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psgallery_pseditions.47eae496f0d2e1a8a89cdc1b5e162b06537c49f2.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psgallery_pseditions.47eae496f0d2e1a8a89cdc1b5e162b06537c49f2.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psgallery_pseditions.47eae496f0d2e1a8a89cdc1b5e162b06537c49f2.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [psgallery_pseditions.47eae496f0d2e1a8a89cdc1b5e162b06537c49f2.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psgallery_pseditions.47eae496f0d2e1a8a89cdc1b5e162b06537c49f2.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -2344,10 +2616,12 @@
 * Handoff File: [psgallery_report_abuse.3f860a2396f730d382f058a733388b2f335474ed.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psgallery_report_abuse.3f860a2396f730d382f058a733388b2f335474ed.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psgallery_report_abuse.3f860a2396f730d382f058a733388b2f335474ed.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psgallery_report_abuse.3f860a2396f730d382f058a733388b2f335474ed.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [psgallery_report_abuse.3f860a2396f730d382f058a733388b2f335474ed.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psgallery_report_abuse.3f860a2396f730d382f058a733388b2f335474ed.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -2358,10 +2632,12 @@
 * Handoff File: [psgallery_scriptanalyzer_rule_profile.98c3a6dcf8fe89c995556d884ceab6f6c6b3248b.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psgallery_scriptanalyzer_rule_profile.98c3a6dcf8fe89c995556d884ceab6f6c6b3248b.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psgallery_scriptanalyzer_rule_profile.98c3a6dcf8fe89c995556d884ceab6f6c6b3248b.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psgallery_scriptanalyzer_rule_profile.98c3a6dcf8fe89c995556d884ceab6f6c6b3248b.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [psgallery_scriptanalyzer_rule_profile.98c3a6dcf8fe89c995556d884ceab6f6c6b3248b.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psgallery_scriptanalyzer_rule_profile.98c3a6dcf8fe89c995556d884ceab6f6c6b3248b.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -2372,10 +2648,12 @@
 * Handoff File: [psgallery_search_syntax.2ad9cca6d84dc286f08b0d6be94f966fa217d374.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psgallery_search_syntax.2ad9cca6d84dc286f08b0d6be94f966fa217d374.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psgallery_search_syntax.2ad9cca6d84dc286f08b0d6be94f966fa217d374.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psgallery_search_syntax.2ad9cca6d84dc286f08b0d6be94f966fa217d374.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [psgallery_search_syntax.2ad9cca6d84dc286f08b0d6be94f966fa217d374.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psgallery_search_syntax.2ad9cca6d84dc286f08b0d6be94f966fa217d374.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -2386,10 +2664,12 @@
 * Handoff File: [psgallery_status.43e5d34bc9b2d2226db15076a08fe9fe163295bb.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psgallery_status.43e5d34bc9b2d2226db15076a08fe9fe163295bb.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psgallery_status.43e5d34bc9b2d2226db15076a08fe9fe163295bb.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psgallery_status.43e5d34bc9b2d2226db15076a08fe9fe163295bb.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [psgallery_status.43e5d34bc9b2d2226db15076a08fe9fe163295bb.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psgallery_status.43e5d34bc9b2d2226db15076a08fe9fe163295bb.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -2400,10 +2680,12 @@
 * Handoff File: [psgallery_unlist_items.c79b85956c8d0a667dcbd8267f56bd1ff22c2495.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psgallery_unlist_items.c79b85956c8d0a667dcbd8267f56bd1ff22c2495.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psgallery_unlist_items.c79b85956c8d0a667dcbd8267f56bd1ff22c2495.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psgallery_unlist_items.c79b85956c8d0a667dcbd8267f56bd1ff22c2495.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [psgallery_unlist_items.c79b85956c8d0a667dcbd8267f56bd1ff22c2495.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psgallery_unlist_items.c79b85956c8d0a667dcbd8267f56bd1ff22c2495.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -2414,10 +2696,12 @@
 * Handoff File: [psgalleryint_status.9eaa96ce82dbb222fe7efca3f89ae756378ba02c.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psgalleryint_status.9eaa96ce82dbb222fe7efca3f89ae756378ba02c.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psgalleryint_status.9eaa96ce82dbb222fe7efca3f89ae756378ba02c.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psgalleryint_status.9eaa96ce82dbb222fe7efca3f89ae756378ba02c.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [psgalleryint_status.9eaa96ce82dbb222fe7efca3f89ae756378ba02c.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psgalleryint_status.9eaa96ce82dbb222fe7efca3f89ae756378ba02c.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -2428,10 +2712,12 @@
 * Handoff File: [Item-Conventions.0b4ea1accc4e55f573635809d84bd7ff26d817bb.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Item-Conventions.0b4ea1accc4e55f573635809d84bd7ff26d817bb.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Item-Conventions.0b4ea1accc4e55f573635809d84bd7ff26d817bb.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Item-Conventions.0b4ea1accc4e55f573635809d84bd7ff26d817bb.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [Item-Conventions.0b4ea1accc4e55f573635809d84bd7ff26d817bb.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Item-Conventions.0b4ea1accc4e55f573635809d84bd7ff26d817bb.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -2442,10 +2728,12 @@
 * Handoff File: [Item-Conventions.0b4ea1accc4e55f573635809d84bd7ff26d817bb.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Item-Conventions.0b4ea1accc4e55f573635809d84bd7ff26d817bb.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Item-Conventions.0b4ea1accc4e55f573635809d84bd7ff26d817bb.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Item-Conventions.0b4ea1accc4e55f573635809d84bd7ff26d817bb.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [Item-Conventions.0b4ea1accc4e55f573635809d84bd7ff26d817bb.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Item-Conventions.0b4ea1accc4e55f573635809d84bd7ff26d817bb.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -2456,10 +2744,12 @@
 * Handoff File: [Item-Conventions.0b4ea1accc4e55f573635809d84bd7ff26d817bb.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Item-Conventions.0b4ea1accc4e55f573635809d84bd7ff26d817bb.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Item-Conventions.0b4ea1accc4e55f573635809d84bd7ff26d817bb.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Item-Conventions.0b4ea1accc4e55f573635809d84bd7ff26d817bb.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [Item-Conventions.0b4ea1accc4e55f573635809d84bd7ff26d817bb.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Item-Conventions.0b4ea1accc4e55f573635809d84bd7ff26d817bb.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -2470,10 +2760,12 @@
 * Handoff File: [Item-Conventions.0b4ea1accc4e55f573635809d84bd7ff26d817bb.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Item-Conventions.0b4ea1accc4e55f573635809d84bd7ff26d817bb.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Item-Conventions.0b4ea1accc4e55f573635809d84bd7ff26d817bb.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Item-Conventions.0b4ea1accc4e55f573635809d84bd7ff26d817bb.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [Item-Conventions.0b4ea1accc4e55f573635809d84bd7ff26d817bb.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Item-Conventions.0b4ea1accc4e55f573635809d84bd7ff26d817bb.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -2484,10 +2776,12 @@
 * Handoff File: [modulewithpseditionsupport.b09e891ddd53c39875bb5f6330848761bf1388ea.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/modulewithpseditionsupport.b09e891ddd53c39875bb5f6330848761bf1388ea.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: [modulewithpseditionsupport.b09e891ddd53c39875bb5f6330848761bf1388ea.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/5ba0536f626b3150a12f1f53a08b7b06e15eec29/ol-archive/OpenLocalizationOrg/PowerShell-Docs.de-de/master/modulewithpseditionsupport.b09e891ddd53c39875bb5f6330848761bf1388ea.de-de.xlf)
 * Archive Datetime: 2016-10-27 22:21:25
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
 * [Back to Top](#report-top)
 
 ##### <a name='b28bce839403217ece4edd67d984a282b60d164d147'></a> Source: [gallery\psget\module\psget_find-command.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/gallery/psget/module/psget_find-command.md)
@@ -2496,10 +2790,12 @@
 * Handoff File: [psget_find-command.b3356b5b6a79b1ff49d91d1f792d3b4ef87eaf81.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_find-command.b3356b5b6a79b1ff49d91d1f792d3b4ef87eaf81.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psget_find-command.b3356b5b6a79b1ff49d91d1f792d3b4ef87eaf81.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_find-command.b3356b5b6a79b1ff49d91d1f792d3b4ef87eaf81.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [psget_find-command.b3356b5b6a79b1ff49d91d1f792d3b4ef87eaf81.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_find-command.b3356b5b6a79b1ff49d91d1f792d3b4ef87eaf81.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -2510,10 +2806,12 @@
 * Handoff File: [psget_find-dscresource.74434d77ca442df5fc85ed3f7a15e515ff7023d8.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_find-dscresource.74434d77ca442df5fc85ed3f7a15e515ff7023d8.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psget_find-dscresource.74434d77ca442df5fc85ed3f7a15e515ff7023d8.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_find-dscresource.74434d77ca442df5fc85ed3f7a15e515ff7023d8.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [psget_find-dscresource.74434d77ca442df5fc85ed3f7a15e515ff7023d8.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_find-dscresource.74434d77ca442df5fc85ed3f7a15e515ff7023d8.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -2524,10 +2822,12 @@
 * Handoff File: [psget_find-module.270b9c3fc401673cea5fc23ad87e32deca5817d2.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_find-module.270b9c3fc401673cea5fc23ad87e32deca5817d2.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psget_find-module.270b9c3fc401673cea5fc23ad87e32deca5817d2.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_find-module.270b9c3fc401673cea5fc23ad87e32deca5817d2.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [psget_find-module.270b9c3fc401673cea5fc23ad87e32deca5817d2.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_find-module.270b9c3fc401673cea5fc23ad87e32deca5817d2.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -2538,10 +2838,12 @@
 * Handoff File: [psget_find-rolecapability.08b15c1f2b389d54fae8fb0887ac941bef802fb5.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_find-rolecapability.08b15c1f2b389d54fae8fb0887ac941bef802fb5.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psget_find-rolecapability.08b15c1f2b389d54fae8fb0887ac941bef802fb5.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_find-rolecapability.08b15c1f2b389d54fae8fb0887ac941bef802fb5.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [psget_find-rolecapability.08b15c1f2b389d54fae8fb0887ac941bef802fb5.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_find-rolecapability.08b15c1f2b389d54fae8fb0887ac941bef802fb5.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -2552,10 +2854,12 @@
 * Handoff File: [psget_get-installedmodule.7abdd8248f452c923fa8ef8700f392ca4b23f5d9.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_get-installedmodule.7abdd8248f452c923fa8ef8700f392ca4b23f5d9.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psget_get-installedmodule.7abdd8248f452c923fa8ef8700f392ca4b23f5d9.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_get-installedmodule.7abdd8248f452c923fa8ef8700f392ca4b23f5d9.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [psget_get-installedmodule.7abdd8248f452c923fa8ef8700f392ca4b23f5d9.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_get-installedmodule.7abdd8248f452c923fa8ef8700f392ca4b23f5d9.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -2566,10 +2870,12 @@
 * Handoff File: [psget_install-module.f4cfd4f184f0eeebe860da9212ff967e277e21a5.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_install-module.f4cfd4f184f0eeebe860da9212ff967e277e21a5.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psget_install-module.f4cfd4f184f0eeebe860da9212ff967e277e21a5.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_install-module.f4cfd4f184f0eeebe860da9212ff967e277e21a5.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [psget_install-module.f4cfd4f184f0eeebe860da9212ff967e277e21a5.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_install-module.f4cfd4f184f0eeebe860da9212ff967e277e21a5.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -2580,10 +2886,12 @@
 * Handoff File: [psget_module_creation.a16430a8d4ade02e72b89546dcaee0c50e2786a0.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_module_creation.a16430a8d4ade02e72b89546dcaee0c50e2786a0.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psget_module_creation.a16430a8d4ade02e72b89546dcaee0c50e2786a0.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_module_creation.a16430a8d4ade02e72b89546dcaee0c50e2786a0.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [psget_module_creation.a16430a8d4ade02e72b89546dcaee0c50e2786a0.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_module_creation.a16430a8d4ade02e72b89546dcaee0c50e2786a0.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -2594,10 +2902,12 @@
 * Handoff File: [psget_moduledependencypopulation.5da558eb97752d04da4fcb52e2fc38ce86c8b234.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_moduledependencypopulation.5da558eb97752d04da4fcb52e2fc38ce86c8b234.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psget_moduledependencypopulation.5da558eb97752d04da4fcb52e2fc38ce86c8b234.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_moduledependencypopulation.5da558eb97752d04da4fcb52e2fc38ce86c8b234.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [psget_moduledependencypopulation.5da558eb97752d04da4fcb52e2fc38ce86c8b234.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_moduledependencypopulation.5da558eb97752d04da4fcb52e2fc38ce86c8b234.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -2608,10 +2918,12 @@
 * Handoff File: [psget_publish-module.6078c450e3d6bd80e07eee8519e3c0235a08fb71.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_publish-module.6078c450e3d6bd80e07eee8519e3c0235a08fb71.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psget_publish-module.6078c450e3d6bd80e07eee8519e3c0235a08fb71.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_publish-module.6078c450e3d6bd80e07eee8519e3c0235a08fb71.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [psget_publish-module.6078c450e3d6bd80e07eee8519e3c0235a08fb71.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_publish-module.6078c450e3d6bd80e07eee8519e3c0235a08fb71.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -2622,10 +2934,12 @@
 * Handoff File: [psget_save-module.2b8da60d8f6dd2c31ebd70b8e36fa3643c0d61b2.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_save-module.2b8da60d8f6dd2c31ebd70b8e36fa3643c0d61b2.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psget_save-module.2b8da60d8f6dd2c31ebd70b8e36fa3643c0d61b2.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_save-module.2b8da60d8f6dd2c31ebd70b8e36fa3643c0d61b2.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [psget_save-module.2b8da60d8f6dd2c31ebd70b8e36fa3643c0d61b2.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_save-module.2b8da60d8f6dd2c31ebd70b8e36fa3643c0d61b2.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -2636,10 +2950,12 @@
 * Handoff File: [psget_uninstall-module.2ff9b56344a8980b87b97c370ff24d4c6a73252b.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_uninstall-module.2ff9b56344a8980b87b97c370ff24d4c6a73252b.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psget_uninstall-module.2ff9b56344a8980b87b97c370ff24d4c6a73252b.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_uninstall-module.2ff9b56344a8980b87b97c370ff24d4c6a73252b.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [psget_uninstall-module.2ff9b56344a8980b87b97c370ff24d4c6a73252b.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_uninstall-module.2ff9b56344a8980b87b97c370ff24d4c6a73252b.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -2650,10 +2966,12 @@
 * Handoff File: [psget_update-module.2d0282a36df18dbd3a59a1dc1599cc6b387e8937.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_update-module.2d0282a36df18dbd3a59a1dc1599cc6b387e8937.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psget_update-module.2d0282a36df18dbd3a59a1dc1599cc6b387e8937.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_update-module.2d0282a36df18dbd3a59a1dc1599cc6b387e8937.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [psget_update-module.2d0282a36df18dbd3a59a1dc1599cc6b387e8937.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_update-module.2d0282a36df18dbd3a59a1dc1599cc6b387e8937.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -2664,10 +2982,12 @@
 * Handoff File: [psget_update-modulemanifest.2981886a11920629e4c99defd10eab3d58bedbca.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_update-modulemanifest.2981886a11920629e4c99defd10eab3d58bedbca.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psget_update-modulemanifest.2981886a11920629e4c99defd10eab3d58bedbca.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_update-modulemanifest.2981886a11920629e4c99defd10eab3d58bedbca.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [psget_update-modulemanifest.2981886a11920629e4c99defd10eab3d58bedbca.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_update-modulemanifest.2981886a11920629e4c99defd10eab3d58bedbca.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -2678,10 +2998,12 @@
 * Handoff File: [PackageManagement_cmdlets.9f11db2263b0255a17ca299d2a07bfdbd7aa5009.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/PackageManagement_cmdlets.9f11db2263b0255a17ca299d2a07bfdbd7aa5009.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [PackageManagement_cmdlets.9f11db2263b0255a17ca299d2a07bfdbd7aa5009.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/PackageManagement_cmdlets.9f11db2263b0255a17ca299d2a07bfdbd7aa5009.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [PackageManagement_cmdlets.9f11db2263b0255a17ca299d2a07bfdbd7aa5009.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/PackageManagement_cmdlets.9f11db2263b0255a17ca299d2a07bfdbd7aa5009.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -2692,10 +3014,12 @@
 * Handoff File: [overview.a9e55060e0d4875447746863a472c8b87caaccf3.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/overview.a9e55060e0d4875447746863a472c8b87caaccf3.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [overview.a9e55060e0d4875447746863a472c8b87caaccf3.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/overview.a9e55060e0d4875447746863a472c8b87caaccf3.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [overview.a9e55060e0d4875447746863a472c8b87caaccf3.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/overview.a9e55060e0d4875447746863a472c8b87caaccf3.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -2706,10 +3030,12 @@
 * Handoff File: [psget_cmdlets_reference.b98d552e04e87ba9d7de0a9de4a051310b8b5d6a.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_cmdlets_reference.b98d552e04e87ba9d7de0a9de4a051310b8b5d6a.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psget_cmdlets_reference.b98d552e04e87ba9d7de0a9de4a051310b8b5d6a.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_cmdlets_reference.b98d552e04e87ba9d7de0a9de4a051310b8b5d6a.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [psget_cmdlets_reference.b98d552e04e87ba9d7de0a9de4a051310b8b5d6a.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_cmdlets_reference.b98d552e04e87ba9d7de0a9de4a051310b8b5d6a.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -2720,10 +3046,12 @@
 * Handoff File: [psget_cmdlets_troubleshooting.d9c18494b8d800c47375d9b3b54afd5a739502dc.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_cmdlets_troubleshooting.d9c18494b8d800c47375d9b3b54afd5a739502dc.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psget_cmdlets_troubleshooting.d9c18494b8d800c47375d9b3b54afd5a739502dc.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_cmdlets_troubleshooting.d9c18494b8d800c47375d9b3b54afd5a739502dc.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [psget_cmdlets_troubleshooting.d9c18494b8d800c47375d9b3b54afd5a739502dc.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_cmdlets_troubleshooting.d9c18494b8d800c47375d9b3b54afd5a739502dc.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -2734,10 +3062,12 @@
 * Handoff File: [psget_oneget_integration.a104ace8864006f02ed49c7fc5c0ede2455b1268.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_oneget_integration.a104ace8864006f02ed49c7fc5c0ede2455b1268.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psget_oneget_integration.a104ace8864006f02ed49c7fc5c0ede2455b1268.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_oneget_integration.a104ace8864006f02ed49c7fc5c0ede2455b1268.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [psget_oneget_integration.a104ace8864006f02ed49c7fc5c0ede2455b1268.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_oneget_integration.a104ace8864006f02ed49c7fc5c0ede2455b1268.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -2748,10 +3078,12 @@
 * Handoff File: [bootstrapping_nuget_proivder_and_exe.3d7517dad67af35162e1b84a4893b46bd5b591e6.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/bootstrapping_nuget_proivder_and_exe.3d7517dad67af35162e1b84a4893b46bd5b591e6.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [bootstrapping_nuget_proivder_and_exe.3d7517dad67af35162e1b84a4893b46bd5b591e6.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/bootstrapping_nuget_proivder_and_exe.3d7517dad67af35162e1b84a4893b46bd5b591e6.de-de.xlf)
 * Handback Datetime: 2016-10-04 23:08:40
+* Handback Name: 
 * Bilingual File: [bootstrapping_nuget_proivder_and_exe.3d7517dad67af35162e1b84a4893b46bd5b591e6.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/bootstrapping_nuget_proivder_and_exe.3d7517dad67af35162e1b84a4893b46bd5b591e6.de-de.xlf)
 * Bilingual Datetime: 2016-10-04 23:09:03
 * [Back to Top](#report-top)
@@ -2762,10 +3094,12 @@
 * Handoff File: [psget_get-psrepository.84c614618b4b8d1d5f3058df413b4e846580cc3e.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_get-psrepository.84c614618b4b8d1d5f3058df413b4e846580cc3e.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psget_get-psrepository.84c614618b4b8d1d5f3058df413b4e846580cc3e.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_get-psrepository.84c614618b4b8d1d5f3058df413b4e846580cc3e.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [psget_get-psrepository.84c614618b4b8d1d5f3058df413b4e846580cc3e.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_get-psrepository.84c614618b4b8d1d5f3058df413b4e846580cc3e.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -2776,10 +3110,12 @@
 * Handoff File: [psget_register-psrepository.e9625ac414f939b17e1998c81fe0915f350841c1.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_register-psrepository.e9625ac414f939b17e1998c81fe0915f350841c1.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psget_register-psrepository.e9625ac414f939b17e1998c81fe0915f350841c1.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_register-psrepository.e9625ac414f939b17e1998c81fe0915f350841c1.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [psget_register-psrepository.e9625ac414f939b17e1998c81fe0915f350841c1.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_register-psrepository.e9625ac414f939b17e1998c81fe0915f350841c1.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -2790,10 +3126,12 @@
 * Handoff File: [psget_set-psrepository.1385a63d0402bdc776ac418bd3de36b4f50fd7a8.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_set-psrepository.1385a63d0402bdc776ac418bd3de36b4f50fd7a8.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psget_set-psrepository.1385a63d0402bdc776ac418bd3de36b4f50fd7a8.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_set-psrepository.1385a63d0402bdc776ac418bd3de36b4f50fd7a8.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [psget_set-psrepository.1385a63d0402bdc776ac418bd3de36b4f50fd7a8.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_set-psrepository.1385a63d0402bdc776ac418bd3de36b4f50fd7a8.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -2804,10 +3142,12 @@
 * Handoff File: [psget_unregister-psrepository.0f923e0f6b1666748ef963c061687b1ae29e29a7.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_unregister-psrepository.0f923e0f6b1666748ef963c061687b1ae29e29a7.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psget_unregister-psrepository.0f923e0f6b1666748ef963c061687b1ae29e29a7.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_unregister-psrepository.0f923e0f6b1666748ef963c061687b1ae29e29a7.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [psget_unregister-psrepository.0f923e0f6b1666748ef963c061687b1ae29e29a7.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_unregister-psrepository.0f923e0f6b1666748ef963c061687b1ae29e29a7.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -2818,10 +3158,12 @@
 * Handoff File: [psget_find-script.e0a1670bccf8867e60db7b34fff80b47f6e7fd4f.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_find-script.e0a1670bccf8867e60db7b34fff80b47f6e7fd4f.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psget_find-script.e0a1670bccf8867e60db7b34fff80b47f6e7fd4f.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_find-script.e0a1670bccf8867e60db7b34fff80b47f6e7fd4f.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [psget_find-script.e0a1670bccf8867e60db7b34fff80b47f6e7fd4f.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_find-script.e0a1670bccf8867e60db7b34fff80b47f6e7fd4f.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -2832,10 +3174,12 @@
 * Handoff File: [psget_get-installedscript.4e0856e04d9e25f336269baaebac998dea024640.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_get-installedscript.4e0856e04d9e25f336269baaebac998dea024640.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psget_get-installedscript.4e0856e04d9e25f336269baaebac998dea024640.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_get-installedscript.4e0856e04d9e25f336269baaebac998dea024640.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [psget_get-installedscript.4e0856e04d9e25f336269baaebac998dea024640.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_get-installedscript.4e0856e04d9e25f336269baaebac998dea024640.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -2846,10 +3190,12 @@
 * Handoff File: [psget_install-script.35109c88b7ae5c9e099c33967e4c0113ca2e8577.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_install-script.35109c88b7ae5c9e099c33967e4c0113ca2e8577.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psget_install-script.35109c88b7ae5c9e099c33967e4c0113ca2e8577.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_install-script.35109c88b7ae5c9e099c33967e4c0113ca2e8577.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [psget_install-script.35109c88b7ae5c9e099c33967e4c0113ca2e8577.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_install-script.35109c88b7ae5c9e099c33967e4c0113ca2e8577.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -2860,10 +3206,12 @@
 * Handoff File: [psget_new-scriptfileinfo.7473f780f5848d94bfcb90cf28464e219ac63a82.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_new-scriptfileinfo.7473f780f5848d94bfcb90cf28464e219ac63a82.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psget_new-scriptfileinfo.7473f780f5848d94bfcb90cf28464e219ac63a82.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_new-scriptfileinfo.7473f780f5848d94bfcb90cf28464e219ac63a82.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [psget_new-scriptfileinfo.7473f780f5848d94bfcb90cf28464e219ac63a82.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_new-scriptfileinfo.7473f780f5848d94bfcb90cf28464e219ac63a82.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -2874,10 +3222,12 @@
 * Handoff File: [psget_publish-script.b8f12da13f2e5852c5c4058400000df3fae860e7.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_publish-script.b8f12da13f2e5852c5c4058400000df3fae860e7.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psget_publish-script.b8f12da13f2e5852c5c4058400000df3fae860e7.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_publish-script.b8f12da13f2e5852c5c4058400000df3fae860e7.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [psget_publish-script.b8f12da13f2e5852c5c4058400000df3fae860e7.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_publish-script.b8f12da13f2e5852c5c4058400000df3fae860e7.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -2888,10 +3238,12 @@
 * Handoff File: [psget_save-script.a6c7b11160045eb99afc9886d29a0f4c254f0fba.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_save-script.a6c7b11160045eb99afc9886d29a0f4c254f0fba.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psget_save-script.a6c7b11160045eb99afc9886d29a0f4c254f0fba.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_save-script.a6c7b11160045eb99afc9886d29a0f4c254f0fba.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [psget_save-script.a6c7b11160045eb99afc9886d29a0f4c254f0fba.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_save-script.a6c7b11160045eb99afc9886d29a0f4c254f0fba.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -2902,10 +3254,12 @@
 * Handoff File: [psget_test-scriptfileinfo.2e2105c6717304422e98a888cdbd5acbaef91540.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_test-scriptfileinfo.2e2105c6717304422e98a888cdbd5acbaef91540.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psget_test-scriptfileinfo.2e2105c6717304422e98a888cdbd5acbaef91540.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_test-scriptfileinfo.2e2105c6717304422e98a888cdbd5acbaef91540.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [psget_test-scriptfileinfo.2e2105c6717304422e98a888cdbd5acbaef91540.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_test-scriptfileinfo.2e2105c6717304422e98a888cdbd5acbaef91540.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -2916,10 +3270,12 @@
 * Handoff File: [psget_uninstall-script.33ef7393d64973992f8dc91ba8977379e2a958a0.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_uninstall-script.33ef7393d64973992f8dc91ba8977379e2a958a0.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psget_uninstall-script.33ef7393d64973992f8dc91ba8977379e2a958a0.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_uninstall-script.33ef7393d64973992f8dc91ba8977379e2a958a0.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [psget_uninstall-script.33ef7393d64973992f8dc91ba8977379e2a958a0.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_uninstall-script.33ef7393d64973992f8dc91ba8977379e2a958a0.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -2930,10 +3286,12 @@
 * Handoff File: [psget_update-script.b4c51feaaaf8f64998ba733b0113c0f912e4761f.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_update-script.b4c51feaaaf8f64998ba733b0113c0f912e4761f.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psget_update-script.b4c51feaaaf8f64998ba733b0113c0f912e4761f.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_update-script.b4c51feaaaf8f64998ba733b0113c0f912e4761f.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [psget_update-script.b4c51feaaaf8f64998ba733b0113c0f912e4761f.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_update-script.b4c51feaaaf8f64998ba733b0113c0f912e4761f.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -2944,10 +3302,12 @@
 * Handoff File: [psget_update-scriptfileinfo.7a7421caf985be979343cdfd91302e23cc83a5cd.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_update-scriptfileinfo.7a7421caf985be979343cdfd91302e23cc83a5cd.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psget_update-scriptfileinfo.7a7421caf985be979343cdfd91302e23cc83a5cd.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_update-scriptfileinfo.7a7421caf985be979343cdfd91302e23cc83a5cd.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [psget_update-scriptfileinfo.7a7421caf985be979343cdfd91302e23cc83a5cd.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_update-scriptfileinfo.7a7421caf985be979343cdfd91302e23cc83a5cd.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -2958,10 +3318,12 @@
 * Handoff File: [Item-Conventions.0b4ea1accc4e55f573635809d84bd7ff26d817bb.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Item-Conventions.0b4ea1accc4e55f573635809d84bd7ff26d817bb.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Item-Conventions.0b4ea1accc4e55f573635809d84bd7ff26d817bb.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Item-Conventions.0b4ea1accc4e55f573635809d84bd7ff26d817bb.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [Item-Conventions.0b4ea1accc4e55f573635809d84bd7ff26d817bb.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Item-Conventions.0b4ea1accc4e55f573635809d84bd7ff26d817bb.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -2972,10 +3334,12 @@
 * Handoff File: [scriptwithpseditionsupport.46e2bd8cb0285ec8da7d2aa4a47ec9340d3d509a.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/scriptwithpseditionsupport.46e2bd8cb0285ec8da7d2aa4a47ec9340d3d509a.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [scriptwithpseditionsupport.46e2bd8cb0285ec8da7d2aa4a47ec9340d3d509a.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/scriptwithpseditionsupport.46e2bd8cb0285ec8da7d2aa4a47ec9340d3d509a.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [scriptwithpseditionsupport.46e2bd8cb0285ec8da7d2aa4a47ec9340d3d509a.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/scriptwithpseditionsupport.46e2bd8cb0285ec8da7d2aa4a47ec9340d3d509a.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -2986,10 +3350,12 @@
 * Handoff File: [readme.fb87aa3d692e5c482ff052bee34f7899bbf75a2a.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/readme.fb87aa3d692e5c482ff052bee34f7899bbf75a2a.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [readme.fb87aa3d692e5c482ff052bee34f7899bbf75a2a.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/readme.fb87aa3d692e5c482ff052bee34f7899bbf75a2a.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [readme.fb87aa3d692e5c482ff052bee34f7899bbf75a2a.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/readme.fb87aa3d692e5c482ff052bee34f7899bbf75a2a.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -3000,10 +3366,12 @@
 * Handoff File: [TOC.8c64df72d95d4bd53637941319526dd80056a223.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/TOC.8c64df72d95d4bd53637941319526dd80056a223.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [TOC.8c64df72d95d4bd53637941319526dd80056a223.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/TOC.8c64df72d95d4bd53637941319526dd80056a223.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [TOC.8c64df72d95d4bd53637941319526dd80056a223.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/TOC.8c64df72d95d4bd53637941319526dd80056a223.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -3014,10 +3382,12 @@
 * Handoff File: [common-role-capability-pitfalls.dfaa23ae81cb39f04c2fe16d9e7917452e8b7b3b.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/common-role-capability-pitfalls.dfaa23ae81cb39f04c2fe16d9e7917452e8b7b3b.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [common-role-capability-pitfalls.dfaa23ae81cb39f04c2fe16d9e7917452e8b7b3b.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/common-role-capability-pitfalls.dfaa23ae81cb39f04c2fe16d9e7917452e8b7b3b.de-de.xlf)
 * Handback Datetime: 2016-10-04 23:08:40
+* Handback Name: 
 * Bilingual File: [common-role-capability-pitfalls.dfaa23ae81cb39f04c2fe16d9e7917452e8b7b3b.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/common-role-capability-pitfalls.dfaa23ae81cb39f04c2fe16d9e7917452e8b7b3b.de-de.xlf)
 * Bilingual Datetime: 2016-10-04 23:09:03
 * [Back to Top](#report-top)
@@ -3028,10 +3398,12 @@
 * Handoff File: [considerations-when-limiting-commands.f94b8dd0f9c77bf7e8a6286eb8ff8f20609bf593.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/considerations-when-limiting-commands.f94b8dd0f9c77bf7e8a6286eb8ff8f20609bf593.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [considerations-when-limiting-commands.f94b8dd0f9c77bf7e8a6286eb8ff8f20609bf593.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/considerations-when-limiting-commands.f94b8dd0f9c77bf7e8a6286eb8ff8f20609bf593.de-de.xlf)
 * Handback Datetime: 2016-10-04 23:08:40
+* Handback Name: 
 * Bilingual File: [considerations-when-limiting-commands.f94b8dd0f9c77bf7e8a6286eb8ff8f20609bf593.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/considerations-when-limiting-commands.f94b8dd0f9c77bf7e8a6286eb8ff8f20609bf593.de-de.xlf)
 * Bilingual Datetime: 2016-10-04 23:09:03
 * [Back to Top](#report-top)
@@ -3042,10 +3414,12 @@
 * Handoff File: [creating-a-domain-controller.b6645bbc4de5b0de067c85719afba2a9b0dcc9fb.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/creating-a-domain-controller.b6645bbc4de5b0de067c85719afba2a9b0dcc9fb.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [creating-a-domain-controller.b6645bbc4de5b0de067c85719afba2a9b0dcc9fb.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/creating-a-domain-controller.b6645bbc4de5b0de067c85719afba2a9b0dcc9fb.de-de.xlf)
 * Handback Datetime: 2016-10-04 23:08:40
+* Handback Name: 
 * Bilingual File: [creating-a-domain-controller.b6645bbc4de5b0de067c85719afba2a9b0dcc9fb.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/creating-a-domain-controller.b6645bbc4de5b0de067c85719afba2a9b0dcc9fb.de-de.xlf)
 * Bilingual Datetime: 2016-10-04 23:09:03
 * [Back to Top](#report-top)
@@ -3056,10 +3430,12 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
 * [Back to Top](#report-top)
 
 ##### <a name='e7ea3957ce3bbd3ce0fc072a82cd108606f05614188'></a> Source: [jea\end-to-end---active-directory.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/jea/end-to-end---active-directory.md)
@@ -3068,10 +3444,12 @@
 * Handoff File: [end-to-end---active-directory.3ad98916a8ab304f831ad3b5b15c64e1b086b1f5.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/end-to-end---active-directory.3ad98916a8ab304f831ad3b5b15c64e1b086b1f5.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [end-to-end---active-directory.3ad98916a8ab304f831ad3b5b15c64e1b086b1f5.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/end-to-end---active-directory.3ad98916a8ab304f831ad3b5b15c64e1b086b1f5.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [end-to-end---active-directory.3ad98916a8ab304f831ad3b5b15c64e1b086b1f5.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/end-to-end---active-directory.3ad98916a8ab304f831ad3b5b15c64e1b086b1f5.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -3082,10 +3460,12 @@
 * Handoff File: [index.087529cd8972c61293d437c5b3a72507e4d1e1d9.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/index.087529cd8972c61293d437c5b3a72507e4d1e1d9.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [index.087529cd8972c61293d437c5b3a72507e4d1e1d9.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/index.087529cd8972c61293d437c5b3a72507e4d1e1d9.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [index.087529cd8972c61293d437c5b3a72507e4d1e1d9.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/index.087529cd8972c61293d437c5b3a72507e4d1e1d9.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -3096,10 +3476,12 @@
 * Handoff File: [introduction.2a4123ad7daaab75b6f7151a8cf0e41bd634f4da.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/introduction.2a4123ad7daaab75b6f7151a8cf0e41bd634f4da.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [introduction.2a4123ad7daaab75b6f7151a8cf0e41bd634f4da.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/introduction.2a4123ad7daaab75b6f7151a8cf0e41bd634f4da.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [introduction.2a4123ad7daaab75b6f7151a8cf0e41bd634f4da.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/introduction.2a4123ad7daaab75b6f7151a8cf0e41bd634f4da.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -3110,10 +3492,12 @@
 * Handoff File: [key-concepts-used-throughout-this-guide.eeae4004227673667762c01ddd04d19b5c6f9c39.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/key-concepts-used-throughout-this-guide.eeae4004227673667762c01ddd04d19b5c6f9c39.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [key-concepts-used-throughout-this-guide.eeae4004227673667762c01ddd04d19b5c6f9c39.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/key-concepts-used-throughout-this-guide.eeae4004227673667762c01ddd04d19b5c6f9c39.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [key-concepts-used-throughout-this-guide.eeae4004227673667762c01ddd04d19b5c6f9c39.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/key-concepts-used-throughout-this-guide.eeae4004227673667762c01ddd04d19b5c6f9c39.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -3124,10 +3508,12 @@
 * Handoff File: [multi-machine-deployment-and-maintenance.32608fd7371edc69c27c934c12cb704b31023002.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/multi-machine-deployment-and-maintenance.32608fd7371edc69c27c934c12cb704b31023002.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [multi-machine-deployment-and-maintenance.32608fd7371edc69c27c934c12cb704b31023002.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/multi-machine-deployment-and-maintenance.32608fd7371edc69c27c934c12cb704b31023002.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [multi-machine-deployment-and-maintenance.32608fd7371edc69c27c934c12cb704b31023002.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/multi-machine-deployment-and-maintenance.32608fd7371edc69c27c934c12cb704b31023002.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -3138,10 +3524,12 @@
 * Handoff File: [on-blacklisting.a0a3a6a7999f27e486c2bb0a14d88792ee94f927.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/on-blacklisting.a0a3a6a7999f27e486c2bb0a14d88792ee94f927.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [on-blacklisting.a0a3a6a7999f27e486c2bb0a14d88792ee94f927.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/on-blacklisting.a0a3a6a7999f27e486c2bb0a14d88792ee94f927.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [on-blacklisting.a0a3a6a7999f27e486c2bb0a14d88792ee94f927.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/on-blacklisting.a0a3a6a7999f27e486c2bb0a14d88792ee94f927.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -3152,10 +3540,12 @@
 * Handoff File: [prerequisites.c7c64787c6d6d670a4d099b82dfa08e0cdc17727.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/prerequisites.c7c64787c6d6d670a4d099b82dfa08e0cdc17727.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [prerequisites.c7c64787c6d6d670a4d099b82dfa08e0cdc17727.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/prerequisites.c7c64787c6d6d670a4d099b82dfa08e0cdc17727.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [prerequisites.c7c64787c6d6d670a4d099b82dfa08e0cdc17727.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/prerequisites.c7c64787c6d6d670a4d099b82dfa08e0cdc17727.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -3166,10 +3556,12 @@
 * Handoff File: [README.21b5f679157a942d8da32daf52be349e47cf03ae.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/README.21b5f679157a942d8da32daf52be349e47cf03ae.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [README.21b5f679157a942d8da32daf52be349e47cf03ae.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/README.21b5f679157a942d8da32daf52be349e47cf03ae.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [README.21b5f679157a942d8da32daf52be349e47cf03ae.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/README.21b5f679157a942d8da32daf52be349e47cf03ae.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -3180,10 +3572,12 @@
 * Handoff File: [remake-the-demo-endpoint.b73e14db6512c128ca4b53500097a6d93e4c7ab5.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/remake-the-demo-endpoint.b73e14db6512c128ca4b53500097a6d93e4c7ab5.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [remake-the-demo-endpoint.b73e14db6512c128ca4b53500097a6d93e4c7ab5.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/remake-the-demo-endpoint.b73e14db6512c128ca4b53500097a6d93e4c7ab5.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [remake-the-demo-endpoint.b73e14db6512c128ca4b53500097a6d93e4c7ab5.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/remake-the-demo-endpoint.b73e14db6512c128ca4b53500097a6d93e4c7ab5.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -3194,10 +3588,12 @@
 * Handoff File: [reporting-on-jea.bddc041646039d665fa8128f14aa51f80efbf4bc.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/reporting-on-jea.bddc041646039d665fa8128f14aa51f80efbf4bc.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [reporting-on-jea.bddc041646039d665fa8128f14aa51f80efbf4bc.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/reporting-on-jea.bddc041646039d665fa8128f14aa51f80efbf4bc.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [reporting-on-jea.bddc041646039d665fa8128f14aa51f80efbf4bc.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/reporting-on-jea.bddc041646039d665fa8128f14aa51f80efbf4bc.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -3208,10 +3604,12 @@
 * Handoff File: [role-capabilities.f5d3ffdf33f9043c1ffa50f8a35842c90ffd6c71.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/role-capabilities.f5d3ffdf33f9043c1ffa50f8a35842c90ffd6c71.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [role-capabilities.f5d3ffdf33f9043c1ffa50f8a35842c90ffd6c71.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/role-capabilities.f5d3ffdf33f9043c1ffa50f8a35842c90ffd6c71.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [role-capabilities.f5d3ffdf33f9043c1ffa50f8a35842c90ffd6c71.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/role-capabilities.f5d3ffdf33f9043c1ffa50f8a35842c90ffd6c71.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -3222,10 +3620,12 @@
 * Handoff File: [TOC.728fa1d71de264a8b3f5c4d3db2895c29df6ac9f.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/TOC.728fa1d71de264a8b3f5c4d3db2895c29df6ac9f.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [TOC.728fa1d71de264a8b3f5c4d3db2895c29df6ac9f.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/TOC.728fa1d71de264a8b3f5c4d3db2895c29df6ac9f.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [TOC.728fa1d71de264a8b3f5c4d3db2895c29df6ac9f.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/TOC.728fa1d71de264a8b3f5c4d3db2895c29df6ac9f.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -3236,10 +3636,12 @@
 * Handoff File: [using-jea.e82fbae736b114be732408d0730fe1a34568d079.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/using-jea.e82fbae736b114be732408d0730fe1a34568d079.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [using-jea.e82fbae736b114be732408d0730fe1a34568d079.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/using-jea.e82fbae736b114be732408d0730fe1a34568d079.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [using-jea.e82fbae736b114be732408d0730fe1a34568d079.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/using-jea.e82fbae736b114be732408d0730fe1a34568d079.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -3250,10 +3652,12 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
 * [Back to Top](#report-top)
 
 ##### <a name='27554498f63fbe896c2dad68b61f4dde8478ba31202'></a> Source: [packages.config](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/565fa792c0ec30d9c35536b25d6336c905f7af66/packages.config)
@@ -3262,10 +3666,12 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
 * [Back to Top](#report-top)
 
 ##### <a name='c2b08fc096d0255147ef5b42858f33932d7eec7c203'></a> Source: [README.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/565fa792c0ec30d9c35536b25d6336c905f7af66/README.md)
@@ -3274,10 +3680,12 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
 * [Back to Top](#report-top)
 
 ##### <a name='c3b263110a908c28569cf3048a94d48da8316684205'></a> Source: [scripting\core-powershell\console\PowerShell.exe-Command-Line-Help.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/core-powershell/console/PowerShell.exe-Command-Line-Help.md)
@@ -3286,10 +3694,12 @@
 * Handoff File: [PowerShell.exe-Command-Line-Help.40e957a31e9460d52f195b5f1ce8890c354d85ca.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/PowerShell.exe-Command-Line-Help.40e957a31e9460d52f195b5f1ce8890c354d85ca.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [PowerShell.exe-Command-Line-Help.40e957a31e9460d52f195b5f1ce8890c354d85ca.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/PowerShell.exe-Command-Line-Help.40e957a31e9460d52f195b5f1ce8890c354d85ca.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [PowerShell.exe-Command-Line-Help.40e957a31e9460d52f195b5f1ce8890c354d85ca.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/PowerShell.exe-Command-Line-Help.40e957a31e9460d52f195b5f1ce8890c354d85ca.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -3300,10 +3710,12 @@
 * Handoff File: [Using-Tab-Expansion.bc99dbdfe7cc5b731756781a1885f77560e0b23a.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Using-Tab-Expansion.bc99dbdfe7cc5b731756781a1885f77560e0b23a.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Using-Tab-Expansion.bc99dbdfe7cc5b731756781a1885f77560e0b23a.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Using-Tab-Expansion.bc99dbdfe7cc5b731756781a1885f77560e0b23a.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [Using-Tab-Expansion.bc99dbdfe7cc5b731756781a1885f77560e0b23a.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Using-Tab-Expansion.bc99dbdfe7cc5b731756781a1885f77560e0b23a.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -3314,10 +3726,12 @@
 * Handoff File: [console-guide.2c039b505fcac6b00d7b2c1ce6118cf177bd3661.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/console-guide.2c039b505fcac6b00d7b2c1ce6118cf177bd3661.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [console-guide.2c039b505fcac6b00d7b2c1ce6118cf177bd3661.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/console-guide.2c039b505fcac6b00d7b2c1ce6118cf177bd3661.de-de.xlf)
 * Handback Datetime: 2016-10-04 23:08:40
+* Handback Name: 
 * Bilingual File: [console-guide.2c039b505fcac6b00d7b2c1ce6118cf177bd3661.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/console-guide.2c039b505fcac6b00d7b2c1ce6118cf177bd3661.de-de.xlf)
 * Bilingual Datetime: 2016-10-04 23:09:03
 * [Back to Top](#report-top)
@@ -3328,10 +3742,12 @@
 * Handoff File: [core-modules.704485ba8e24c04a46b61fa4b4be5fb4b56d985f.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/core-modules.704485ba8e24c04a46b61fa4b4be5fb4b56d985f.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [core-modules.704485ba8e24c04a46b61fa4b4be5fb4b56d985f.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/core-modules.704485ba8e24c04a46b61fa4b4be5fb4b56d985f.de-de.xlf)
 * Handback Datetime: 2016-10-04 23:08:40
+* Handback Name: 
 * Bilingual File: [core-modules.704485ba8e24c04a46b61fa4b4be5fb4b56d985f.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/core-modules.704485ba8e24c04a46b61fa4b4be5fb4b56d985f.de-de.xlf)
 * Bilingual Datetime: 2016-10-04 23:09:03
 * [Back to Top](#report-top)
@@ -3342,10 +3758,12 @@
 * Handoff File: [Microsoft.PowerShell.Archive-Module.35a97b0f85544e34956bcf404a27c283c00df088.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Microsoft.PowerShell.Archive-Module.35a97b0f85544e34956bcf404a27c283c00df088.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Microsoft.PowerShell.Archive-Module.35a97b0f85544e34956bcf404a27c283c00df088.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Microsoft.PowerShell.Archive-Module.35a97b0f85544e34956bcf404a27c283c00df088.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [Microsoft.PowerShell.Archive-Module.35a97b0f85544e34956bcf404a27c283c00df088.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Microsoft.PowerShell.Archive-Module.35a97b0f85544e34956bcf404a27c283c00df088.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -3356,10 +3774,12 @@
 * Handoff File: [Microsoft.PowerShell.Core-Module.76340b0d71587564fa20820318a10a07233be59b.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Microsoft.PowerShell.Core-Module.76340b0d71587564fa20820318a10a07233be59b.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Microsoft.PowerShell.Core-Module.76340b0d71587564fa20820318a10a07233be59b.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Microsoft.PowerShell.Core-Module.76340b0d71587564fa20820318a10a07233be59b.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [Microsoft.PowerShell.Core-Module.76340b0d71587564fa20820318a10a07233be59b.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Microsoft.PowerShell.Core-Module.76340b0d71587564fa20820318a10a07233be59b.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -3370,10 +3790,12 @@
 * Handoff File: [Microsoft.PowerShell.Diagnostics-Module.43631b8500d21df241721a0fa0a6490a42176055.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Microsoft.PowerShell.Diagnostics-Module.43631b8500d21df241721a0fa0a6490a42176055.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Microsoft.PowerShell.Diagnostics-Module.43631b8500d21df241721a0fa0a6490a42176055.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Microsoft.PowerShell.Diagnostics-Module.43631b8500d21df241721a0fa0a6490a42176055.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [Microsoft.PowerShell.Diagnostics-Module.43631b8500d21df241721a0fa0a6490a42176055.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Microsoft.PowerShell.Diagnostics-Module.43631b8500d21df241721a0fa0a6490a42176055.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -3384,10 +3806,12 @@
 * Handoff File: [Microsoft.PowerShell.Host-Module.f7e8e946a81fe0f0747b2ed86d068b078f2bdad1.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Microsoft.PowerShell.Host-Module.f7e8e946a81fe0f0747b2ed86d068b078f2bdad1.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Microsoft.PowerShell.Host-Module.f7e8e946a81fe0f0747b2ed86d068b078f2bdad1.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Microsoft.PowerShell.Host-Module.f7e8e946a81fe0f0747b2ed86d068b078f2bdad1.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [Microsoft.PowerShell.Host-Module.f7e8e946a81fe0f0747b2ed86d068b078f2bdad1.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Microsoft.PowerShell.Host-Module.f7e8e946a81fe0f0747b2ed86d068b078f2bdad1.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -3398,10 +3822,12 @@
 * Handoff File: [Microsoft.PowerShell.Management-Module.a21ffb1493afa615f7bd2efea3e1621f77a29dc5.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Microsoft.PowerShell.Management-Module.a21ffb1493afa615f7bd2efea3e1621f77a29dc5.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Microsoft.PowerShell.Management-Module.a21ffb1493afa615f7bd2efea3e1621f77a29dc5.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Microsoft.PowerShell.Management-Module.a21ffb1493afa615f7bd2efea3e1621f77a29dc5.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [Microsoft.PowerShell.Management-Module.a21ffb1493afa615f7bd2efea3e1621f77a29dc5.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Microsoft.PowerShell.Management-Module.a21ffb1493afa615f7bd2efea3e1621f77a29dc5.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -3412,10 +3838,12 @@
 * Handoff File: [Microsoft.PowerShell.ODataUtils-Module.dc19ab8c5ee930ea60ec6394ae2bf5f1476d792f.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Microsoft.PowerShell.ODataUtils-Module.dc19ab8c5ee930ea60ec6394ae2bf5f1476d792f.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Microsoft.PowerShell.ODataUtils-Module.dc19ab8c5ee930ea60ec6394ae2bf5f1476d792f.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Microsoft.PowerShell.ODataUtils-Module.dc19ab8c5ee930ea60ec6394ae2bf5f1476d792f.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [Microsoft.PowerShell.ODataUtils-Module.dc19ab8c5ee930ea60ec6394ae2bf5f1476d792f.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Microsoft.PowerShell.ODataUtils-Module.dc19ab8c5ee930ea60ec6394ae2bf5f1476d792f.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -3426,10 +3854,12 @@
 * Handoff File: [Microsoft.PowerShell.Utility-Module.136a5519bb173bc576d56d4bddae47328ce7126a.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Microsoft.PowerShell.Utility-Module.136a5519bb173bc576d56d4bddae47328ce7126a.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Microsoft.PowerShell.Utility-Module.136a5519bb173bc576d56d4bddae47328ce7126a.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Microsoft.PowerShell.Utility-Module.136a5519bb173bc576d56d4bddae47328ce7126a.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [Microsoft.PowerShell.Utility-Module.136a5519bb173bc576d56d4bddae47328ce7126a.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Microsoft.PowerShell.Utility-Module.136a5519bb173bc576d56d4bddae47328ce7126a.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -3440,10 +3870,12 @@
 * Handoff File: [Microsoft.WSMan.Management-Module.f24f503e4d28823e358502b180e5f5a39405fdaa.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Microsoft.WSMan.Management-Module.f24f503e4d28823e358502b180e5f5a39405fdaa.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: [Microsoft.WSMan.Management-Module.f24f503e4d28823e358502b180e5f5a39405fdaa.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/5ba0536f626b3150a12f1f53a08b7b06e15eec29/ol-archive/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Microsoft.WSMan.Management-Module.f24f503e4d28823e358502b180e5f5a39405fdaa.de-de.xlf)
 * Archive Datetime: 2016-10-27 22:21:25
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
 * [Back to Top](#report-top)
 
 ##### <a name='dfca9909da78dc45cd72cbfaff5ab4c441762c60216'></a> Source: [scripting\core-powershell\core-modules\PackageManagement-Module.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/core-powershell/core-modules/PackageManagement-Module.md)
@@ -3452,10 +3884,12 @@
 * Handoff File: [PackageManagement-Module.db63e59b8c60034c7f6a864670d6f919655aa107.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/PackageManagement-Module.db63e59b8c60034c7f6a864670d6f919655aa107.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [PackageManagement-Module.db63e59b8c60034c7f6a864670d6f919655aa107.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/PackageManagement-Module.db63e59b8c60034c7f6a864670d6f919655aa107.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [PackageManagement-Module.db63e59b8c60034c7f6a864670d6f919655aa107.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/PackageManagement-Module.db63e59b8c60034c7f6a864670d6f919655aa107.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -3466,10 +3900,12 @@
 * Handoff File: [PSLocalAccount5-Module.a7e83f58ab929ab35f35df26d85766b5d8e6846d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/PSLocalAccount5-Module.a7e83f58ab929ab35f35df26d85766b5d8e6846d.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [PSLocalAccount5-Module.a7e83f58ab929ab35f35df26d85766b5d8e6846d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/PSLocalAccount5-Module.a7e83f58ab929ab35f35df26d85766b5d8e6846d.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [PSLocalAccount5-Module.a7e83f58ab929ab35f35df26d85766b5d8e6846d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/PSLocalAccount5-Module.a7e83f58ab929ab35f35df26d85766b5d8e6846d.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -3480,10 +3916,12 @@
 * Handoff File: [PSReadline-Module.b9c1f6d98794d369cbcffb57ed137937ea9593f3.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/PSReadline-Module.b9c1f6d98794d369cbcffb57ed137937ea9593f3.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [PSReadline-Module.b9c1f6d98794d369cbcffb57ed137937ea9593f3.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/PSReadline-Module.b9c1f6d98794d369cbcffb57ed137937ea9593f3.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [PSReadline-Module.b9c1f6d98794d369cbcffb57ed137937ea9593f3.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/PSReadline-Module.b9c1f6d98794d369cbcffb57ed137937ea9593f3.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -3494,10 +3932,12 @@
 * Handoff File: [PSScheduledJob-Module.e29be58211e466eab7c8e97c6c20cabe6ab4a201.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/PSScheduledJob-Module.e29be58211e466eab7c8e97c6c20cabe6ab4a201.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [PSScheduledJob-Module.e29be58211e466eab7c8e97c6c20cabe6ab4a201.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/PSScheduledJob-Module.e29be58211e466eab7c8e97c6c20cabe6ab4a201.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [PSScheduledJob-Module.e29be58211e466eab7c8e97c6c20cabe6ab4a201.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/PSScheduledJob-Module.e29be58211e466eab7c8e97c6c20cabe6ab4a201.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -3508,10 +3948,12 @@
 * Handoff File: [PSScriptAnalyzer-Module.daa11005454fffd8b6ed60eca71fcea4c800c4d3.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/PSScriptAnalyzer-Module.daa11005454fffd8b6ed60eca71fcea4c800c4d3.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [PSScriptAnalyzer-Module.daa11005454fffd8b6ed60eca71fcea4c800c4d3.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/PSScriptAnalyzer-Module.daa11005454fffd8b6ed60eca71fcea4c800c4d3.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [PSScriptAnalyzer-Module.daa11005454fffd8b6ed60eca71fcea4c800c4d3.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/PSScriptAnalyzer-Module.daa11005454fffd8b6ed60eca71fcea4c800c4d3.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -3522,10 +3964,12 @@
 * Handoff File: [Windows-PowerShell-5.0.af9ec34f7af19f97e9c2299972cbfcfc182580a2.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Windows-PowerShell-5.0.af9ec34f7af19f97e9c2299972cbfcfc182580a2.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Windows-PowerShell-5.0.af9ec34f7af19f97e9c2299972cbfcfc182580a2.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Windows-PowerShell-5.0.af9ec34f7af19f97e9c2299972cbfcfc182580a2.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [Windows-PowerShell-5.0.af9ec34f7af19f97e9c2299972cbfcfc182580a2.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Windows-PowerShell-5.0.af9ec34f7af19f97e9c2299972cbfcfc182580a2.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -3536,10 +3980,12 @@
 * Handoff File: [Windows-PowerShell-Core-About-Topics.2a5d5e1d8931655ca501f33cf2e7cce9dd120e9d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Windows-PowerShell-Core-About-Topics.2a5d5e1d8931655ca501f33cf2e7cce9dd120e9d.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Windows-PowerShell-Core-About-Topics.2a5d5e1d8931655ca501f33cf2e7cce9dd120e9d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Windows-PowerShell-Core-About-Topics.2a5d5e1d8931655ca501f33cf2e7cce9dd120e9d.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [Windows-PowerShell-Core-About-Topics.2a5d5e1d8931655ca501f33cf2e7cce9dd120e9d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Windows-PowerShell-Core-About-Topics.2a5d5e1d8931655ca501f33cf2e7cce9dd120e9d.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -3550,10 +3996,12 @@
 * Handoff File: [Windows-PowerShell-Core-Providers.bcff2b847a340e422ebfc93deb36b35a46b009ad.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Windows-PowerShell-Core-Providers.bcff2b847a340e422ebfc93deb36b35a46b009ad.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Windows-PowerShell-Core-Providers.bcff2b847a340e422ebfc93deb36b35a46b009ad.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Windows-PowerShell-Core-Providers.bcff2b847a340e422ebfc93deb36b35a46b009ad.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [Windows-PowerShell-Core-Providers.bcff2b847a340e422ebfc93deb36b35a46b009ad.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Windows-PowerShell-Core-Providers.bcff2b847a340e422ebfc93deb36b35a46b009ad.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -3564,10 +4012,12 @@
 * Handoff File: [core-powershell.94ba5d1996717b25414c15a5364425d4d49e05f1.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/core-powershell.94ba5d1996717b25414c15a5364425d4d49e05f1.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [core-powershell.94ba5d1996717b25414c15a5364425d4d49e05f1.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/core-powershell.94ba5d1996717b25414c15a5364425d4d49e05f1.de-de.xlf)
 * Handback Datetime: 2016-10-04 23:08:40
+* Handback Name: 
 * Bilingual File: [core-powershell.94ba5d1996717b25414c15a5364425d4d49e05f1.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/core-powershell.94ba5d1996717b25414c15a5364425d4d49e05f1.de-de.xlf)
 * Bilingual Datetime: 2016-10-04 23:09:03
 * [Back to Top](#report-top)
@@ -3578,10 +4028,12 @@
 * Handoff File: [How-to-Create-a-PowerShell-Tab-in-Windows-PowerShell-ISE.19fa26d960530a6380ba6696826a19c8b09eea47.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/How-to-Create-a-PowerShell-Tab-in-Windows-PowerShell-ISE.19fa26d960530a6380ba6696826a19c8b09eea47.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [How-to-Create-a-PowerShell-Tab-in-Windows-PowerShell-ISE.19fa26d960530a6380ba6696826a19c8b09eea47.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/How-to-Create-a-PowerShell-Tab-in-Windows-PowerShell-ISE.19fa26d960530a6380ba6696826a19c8b09eea47.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [How-to-Create-a-PowerShell-Tab-in-Windows-PowerShell-ISE.19fa26d960530a6380ba6696826a19c8b09eea47.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/How-to-Create-a-PowerShell-Tab-in-Windows-PowerShell-ISE.19fa26d960530a6380ba6696826a19c8b09eea47.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -3592,10 +4044,12 @@
 * Handoff File: [How-to-Debug-Scripts-in-Windows-PowerShell-ISE.fe1e91b6be8b768d0e36f102791ffd867cff9b45.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/How-to-Debug-Scripts-in-Windows-PowerShell-ISE.fe1e91b6be8b768d0e36f102791ffd867cff9b45.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [How-to-Debug-Scripts-in-Windows-PowerShell-ISE.fe1e91b6be8b768d0e36f102791ffd867cff9b45.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/How-to-Debug-Scripts-in-Windows-PowerShell-ISE.fe1e91b6be8b768d0e36f102791ffd867cff9b45.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [How-to-Debug-Scripts-in-Windows-PowerShell-ISE.fe1e91b6be8b768d0e36f102791ffd867cff9b45.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/How-to-Debug-Scripts-in-Windows-PowerShell-ISE.fe1e91b6be8b768d0e36f102791ffd867cff9b45.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -3606,10 +4060,12 @@
 * Handoff File: [How-to-Use-Profiles-in-Windows-PowerShell-ISE.72f3b348070f83aa4291e40ad45a895af4a48018.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/How-to-Use-Profiles-in-Windows-PowerShell-ISE.72f3b348070f83aa4291e40ad45a895af4a48018.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [How-to-Use-Profiles-in-Windows-PowerShell-ISE.72f3b348070f83aa4291e40ad45a895af4a48018.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/How-to-Use-Profiles-in-Windows-PowerShell-ISE.72f3b348070f83aa4291e40ad45a895af4a48018.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [How-to-Use-Profiles-in-Windows-PowerShell-ISE.72f3b348070f83aa4291e40ad45a895af4a48018.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/How-to-Use-Profiles-in-Windows-PowerShell-ISE.72f3b348070f83aa4291e40ad45a895af4a48018.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -3620,10 +4076,12 @@
 * Handoff File: [How-to-Use-Tab-Completion-in-the-Script-Pane-and-Console-Pane.33735d08440a6ad0e66cf16476a6ff6987b8776d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/How-to-Use-Tab-Completion-in-the-Script-Pane-and-Console-Pane.33735d08440a6ad0e66cf16476a6ff6987b8776d.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [How-to-Use-Tab-Completion-in-the-Script-Pane-and-Console-Pane.33735d08440a6ad0e66cf16476a6ff6987b8776d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/How-to-Use-Tab-Completion-in-the-Script-Pane-and-Console-Pane.33735d08440a6ad0e66cf16476a6ff6987b8776d.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [How-to-Use-Tab-Completion-in-the-Script-Pane-and-Console-Pane.33735d08440a6ad0e66cf16476a6ff6987b8776d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/How-to-Use-Tab-Completion-in-the-Script-Pane-and-Console-Pane.33735d08440a6ad0e66cf16476a6ff6987b8776d.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -3634,10 +4092,12 @@
 * Handoff File: [How-to-Use-the-Console-Pane-in-the-Windows-PowerShell-ISE.707b5b9278be52fc9edd2981f9b53b4e186be908.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/How-to-Use-the-Console-Pane-in-the-Windows-PowerShell-ISE.707b5b9278be52fc9edd2981f9b53b4e186be908.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [How-to-Use-the-Console-Pane-in-the-Windows-PowerShell-ISE.707b5b9278be52fc9edd2981f9b53b4e186be908.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/How-to-Use-the-Console-Pane-in-the-Windows-PowerShell-ISE.707b5b9278be52fc9edd2981f9b53b4e186be908.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [How-to-Use-the-Console-Pane-in-the-Windows-PowerShell-ISE.707b5b9278be52fc9edd2981f9b53b4e186be908.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/How-to-Use-the-Console-Pane-in-the-Windows-PowerShell-ISE.707b5b9278be52fc9edd2981f9b53b4e186be908.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -3648,10 +4108,12 @@
 * Handoff File: [How-to-Write-and-Run-Scripts-in-the-Windows-PowerShell-ISE.1d5273a3389d28903b210dd8461757538ccbbad2.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/How-to-Write-and-Run-Scripts-in-the-Windows-PowerShell-ISE.1d5273a3389d28903b210dd8461757538ccbbad2.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [How-to-Write-and-Run-Scripts-in-the-Windows-PowerShell-ISE.1d5273a3389d28903b210dd8461757538ccbbad2.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/How-to-Write-and-Run-Scripts-in-the-Windows-PowerShell-ISE.1d5273a3389d28903b210dd8461757538ccbbad2.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [How-to-Write-and-Run-Scripts-in-the-Windows-PowerShell-ISE.1d5273a3389d28903b210dd8461757538ccbbad2.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/How-to-Write-and-Run-Scripts-in-the-Windows-PowerShell-ISE.1d5273a3389d28903b210dd8461757538ccbbad2.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -3662,10 +4124,12 @@
 * Handoff File: [Introducing-the-Windows-PowerShell-ISE.aa528d6859bffd1cebcaab0ca6b3d98103f3a0ca.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Introducing-the-Windows-PowerShell-ISE.aa528d6859bffd1cebcaab0ca6b3d98103f3a0ca.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Introducing-the-Windows-PowerShell-ISE.aa528d6859bffd1cebcaab0ca6b3d98103f3a0ca.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Introducing-the-Windows-PowerShell-ISE.aa528d6859bffd1cebcaab0ca6b3d98103f3a0ca.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [Introducing-the-Windows-PowerShell-ISE.aa528d6859bffd1cebcaab0ca6b3d98103f3a0ca.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Introducing-the-Windows-PowerShell-ISE.aa528d6859bffd1cebcaab0ca6b3d98103f3a0ca.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -3676,10 +4140,12 @@
 * Handoff File: [ISE-Module.4b5489bbbd41c45ee6b994a4c2c42bddbd5551a4.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/ISE-Module.4b5489bbbd41c45ee6b994a4c2c42bddbd5551a4.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [ISE-Module.4b5489bbbd41c45ee6b994a4c2c42bddbd5551a4.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/ISE-Module.4b5489bbbd41c45ee6b994a4c2c42bddbd5551a4.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [ISE-Module.4b5489bbbd41c45ee6b994a4c2c42bddbd5551a4.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/ISE-Module.4b5489bbbd41c45ee6b994a4c2c42bddbd5551a4.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -3690,10 +4156,12 @@
 * Handoff File: [Keyboard-Shortcuts-for-the-Windows-PowerShell-ISE.fafa427058ad68f27ad38041d5743b74ff894bd6.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Keyboard-Shortcuts-for-the-Windows-PowerShell-ISE.fafa427058ad68f27ad38041d5743b74ff894bd6.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Keyboard-Shortcuts-for-the-Windows-PowerShell-ISE.fafa427058ad68f27ad38041d5743b74ff894bd6.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Keyboard-Shortcuts-for-the-Windows-PowerShell-ISE.fafa427058ad68f27ad38041d5743b74ff894bd6.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [Keyboard-Shortcuts-for-the-Windows-PowerShell-ISE.fafa427058ad68f27ad38041d5743b74ff894bd6.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Keyboard-Shortcuts-for-the-Windows-PowerShell-ISE.fafa427058ad68f27ad38041d5743b74ff894bd6.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -3704,10 +4172,12 @@
 * Handoff File: [Purpose-of-the-Windows-PowerShell-ISE-Scripting-Object-Model.0b72c76c2a89652b43b66f9e87694dc03c4a27cd.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Purpose-of-the-Windows-PowerShell-ISE-Scripting-Object-Model.0b72c76c2a89652b43b66f9e87694dc03c4a27cd.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Purpose-of-the-Windows-PowerShell-ISE-Scripting-Object-Model.0b72c76c2a89652b43b66f9e87694dc03c4a27cd.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Purpose-of-the-Windows-PowerShell-ISE-Scripting-Object-Model.0b72c76c2a89652b43b66f9e87694dc03c4a27cd.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [Purpose-of-the-Windows-PowerShell-ISE-Scripting-Object-Model.0b72c76c2a89652b43b66f9e87694dc03c4a27cd.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Purpose-of-the-Windows-PowerShell-ISE-Scripting-Object-Model.0b72c76c2a89652b43b66f9e87694dc03c4a27cd.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -3718,10 +4188,12 @@
 * Handoff File: [The-ISEAddOnToolCollection-Object.a3f1b3c62b9fdabc22f8b0eecd511c74b8556c6d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/The-ISEAddOnToolCollection-Object.a3f1b3c62b9fdabc22f8b0eecd511c74b8556c6d.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [The-ISEAddOnToolCollection-Object.a3f1b3c62b9fdabc22f8b0eecd511c74b8556c6d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/The-ISEAddOnToolCollection-Object.a3f1b3c62b9fdabc22f8b0eecd511c74b8556c6d.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [The-ISEAddOnToolCollection-Object.a3f1b3c62b9fdabc22f8b0eecd511c74b8556c6d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/The-ISEAddOnToolCollection-Object.a3f1b3c62b9fdabc22f8b0eecd511c74b8556c6d.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -3732,10 +4204,12 @@
 * Handoff File: [The-ISEAddOnTool-Object.9b326bc85b97fb7333173a891c0c321072fb7f28.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/The-ISEAddOnTool-Object.9b326bc85b97fb7333173a891c0c321072fb7f28.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [The-ISEAddOnTool-Object.9b326bc85b97fb7333173a891c0c321072fb7f28.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/The-ISEAddOnTool-Object.9b326bc85b97fb7333173a891c0c321072fb7f28.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [The-ISEAddOnTool-Object.9b326bc85b97fb7333173a891c0c321072fb7f28.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/The-ISEAddOnTool-Object.9b326bc85b97fb7333173a891c0c321072fb7f28.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -3746,10 +4220,12 @@
 * Handoff File: [The-ISEEditor-Object.723c3ba4fe972736507c0e35656406bb8dd96b01.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/The-ISEEditor-Object.723c3ba4fe972736507c0e35656406bb8dd96b01.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [The-ISEEditor-Object.723c3ba4fe972736507c0e35656406bb8dd96b01.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/The-ISEEditor-Object.723c3ba4fe972736507c0e35656406bb8dd96b01.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [The-ISEEditor-Object.723c3ba4fe972736507c0e35656406bb8dd96b01.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/The-ISEEditor-Object.723c3ba4fe972736507c0e35656406bb8dd96b01.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -3760,10 +4236,12 @@
 * Handoff File: [The-ISEFileCollection-Object.9e3c57287642456ae02b8c57dfbc4b4a98261726.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/The-ISEFileCollection-Object.9e3c57287642456ae02b8c57dfbc4b4a98261726.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [The-ISEFileCollection-Object.9e3c57287642456ae02b8c57dfbc4b4a98261726.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/The-ISEFileCollection-Object.9e3c57287642456ae02b8c57dfbc4b4a98261726.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [The-ISEFileCollection-Object.9e3c57287642456ae02b8c57dfbc4b4a98261726.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/The-ISEFileCollection-Object.9e3c57287642456ae02b8c57dfbc4b4a98261726.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -3774,10 +4252,12 @@
 * Handoff File: [The-ISEFile-Object.a7b880ceb4f7e2dfbfcfaa86c3044310e3fd7d46.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/The-ISEFile-Object.a7b880ceb4f7e2dfbfcfaa86c3044310e3fd7d46.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [The-ISEFile-Object.a7b880ceb4f7e2dfbfcfaa86c3044310e3fd7d46.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/The-ISEFile-Object.a7b880ceb4f7e2dfbfcfaa86c3044310e3fd7d46.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [The-ISEFile-Object.a7b880ceb4f7e2dfbfcfaa86c3044310e3fd7d46.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/The-ISEFile-Object.a7b880ceb4f7e2dfbfcfaa86c3044310e3fd7d46.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -3788,10 +4268,12 @@
 * Handoff File: [The-ISEMenuItemCollection-Object.8a411d565a2a9f4e068e86158280da6251f33aee.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/The-ISEMenuItemCollection-Object.8a411d565a2a9f4e068e86158280da6251f33aee.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [The-ISEMenuItemCollection-Object.8a411d565a2a9f4e068e86158280da6251f33aee.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/The-ISEMenuItemCollection-Object.8a411d565a2a9f4e068e86158280da6251f33aee.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [The-ISEMenuItemCollection-Object.8a411d565a2a9f4e068e86158280da6251f33aee.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/The-ISEMenuItemCollection-Object.8a411d565a2a9f4e068e86158280da6251f33aee.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -3802,10 +4284,12 @@
 * Handoff File: [The-ISEMenuItem-Object.14fd39d94a609a4d0fe1a1e747bc1b5b00a2c526.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/The-ISEMenuItem-Object.14fd39d94a609a4d0fe1a1e747bc1b5b00a2c526.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [The-ISEMenuItem-Object.14fd39d94a609a4d0fe1a1e747bc1b5b00a2c526.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/The-ISEMenuItem-Object.14fd39d94a609a4d0fe1a1e747bc1b5b00a2c526.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [The-ISEMenuItem-Object.14fd39d94a609a4d0fe1a1e747bc1b5b00a2c526.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/The-ISEMenuItem-Object.14fd39d94a609a4d0fe1a1e747bc1b5b00a2c526.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -3816,10 +4300,12 @@
 * Handoff File: [The-ISE-Object-Model-Hierarchy.f74241c9b9e43821335ec834d39bcd25105102a5.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/The-ISE-Object-Model-Hierarchy.f74241c9b9e43821335ec834d39bcd25105102a5.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [The-ISE-Object-Model-Hierarchy.f74241c9b9e43821335ec834d39bcd25105102a5.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/The-ISE-Object-Model-Hierarchy.f74241c9b9e43821335ec834d39bcd25105102a5.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [The-ISE-Object-Model-Hierarchy.f74241c9b9e43821335ec834d39bcd25105102a5.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/The-ISE-Object-Model-Hierarchy.f74241c9b9e43821335ec834d39bcd25105102a5.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -3830,10 +4316,12 @@
 * Handoff File: [The-ISEOptions-Object.c3be3e584cddf0fbee4dc195cc7dc8959113e07b.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/The-ISEOptions-Object.c3be3e584cddf0fbee4dc195cc7dc8959113e07b.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [The-ISEOptions-Object.c3be3e584cddf0fbee4dc195cc7dc8959113e07b.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/The-ISEOptions-Object.c3be3e584cddf0fbee4dc195cc7dc8959113e07b.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [The-ISEOptions-Object.c3be3e584cddf0fbee4dc195cc7dc8959113e07b.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/The-ISEOptions-Object.c3be3e584cddf0fbee4dc195cc7dc8959113e07b.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -3844,10 +4332,12 @@
 * Handoff File: [The-ISESnippetCollection-Object.4366858d555daebfa9f274764bbadc76be4fb650.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/The-ISESnippetCollection-Object.4366858d555daebfa9f274764bbadc76be4fb650.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [The-ISESnippetCollection-Object.4366858d555daebfa9f274764bbadc76be4fb650.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/The-ISESnippetCollection-Object.4366858d555daebfa9f274764bbadc76be4fb650.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [The-ISESnippetCollection-Object.4366858d555daebfa9f274764bbadc76be4fb650.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/The-ISESnippetCollection-Object.4366858d555daebfa9f274764bbadc76be4fb650.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -3858,10 +4348,12 @@
 * Handoff File: [The-ISESnippetObject.c4aa2a1924463ad9ff3b0499bb03f9ab5cb5c114.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/The-ISESnippetObject.c4aa2a1924463ad9ff3b0499bb03f9ab5cb5c114.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [The-ISESnippetObject.c4aa2a1924463ad9ff3b0499bb03f9ab5cb5c114.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/The-ISESnippetObject.c4aa2a1924463ad9ff3b0499bb03f9ab5cb5c114.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [The-ISESnippetObject.c4aa2a1924463ad9ff3b0499bb03f9ab5cb5c114.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/The-ISESnippetObject.c4aa2a1924463ad9ff3b0499bb03f9ab5cb5c114.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -3872,10 +4364,12 @@
 * Handoff File: [The-ObjectModelRoot-Object.a169b6b5ad03bb7bd4958b09a1583849d2d65179.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/The-ObjectModelRoot-Object.a169b6b5ad03bb7bd4958b09a1583849d2d65179.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [The-ObjectModelRoot-Object.a169b6b5ad03bb7bd4958b09a1583849d2d65179.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/The-ObjectModelRoot-Object.a169b6b5ad03bb7bd4958b09a1583849d2d65179.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [The-ObjectModelRoot-Object.a169b6b5ad03bb7bd4958b09a1583849d2d65179.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/The-ObjectModelRoot-Object.a169b6b5ad03bb7bd4958b09a1583849d2d65179.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -3886,10 +4380,12 @@
 * Handoff File: [The-PowerShellTabCollection-Object.a2b2b49a9b0542cb693b54f1dc6b5f4602d24cbc.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/The-PowerShellTabCollection-Object.a2b2b49a9b0542cb693b54f1dc6b5f4602d24cbc.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [The-PowerShellTabCollection-Object.a2b2b49a9b0542cb693b54f1dc6b5f4602d24cbc.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/The-PowerShellTabCollection-Object.a2b2b49a9b0542cb693b54f1dc6b5f4602d24cbc.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [The-PowerShellTabCollection-Object.a2b2b49a9b0542cb693b54f1dc6b5f4602d24cbc.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/The-PowerShellTabCollection-Object.a2b2b49a9b0542cb693b54f1dc6b5f4602d24cbc.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -3900,10 +4396,12 @@
 * Handoff File: [The-PowerShellTab-Object.28780da3ac85cf2c90fa2d7f96db0039e0b7ee4b.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/The-PowerShellTab-Object.28780da3ac85cf2c90fa2d7f96db0039e0b7ee4b.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [The-PowerShellTab-Object.28780da3ac85cf2c90fa2d7f96db0039e0b7ee4b.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/The-PowerShellTab-Object.28780da3ac85cf2c90fa2d7f96db0039e0b7ee4b.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [The-PowerShellTab-Object.28780da3ac85cf2c90fa2d7f96db0039e0b7ee4b.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/The-PowerShellTab-Object.28780da3ac85cf2c90fa2d7f96db0039e0b7ee4b.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -3914,10 +4412,12 @@
 * Handoff File: [The-Windows-PowerShell-ISE-Scripting-Object-Model.e5b38a274e46dba6a67a774d46f155e992160694.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/The-Windows-PowerShell-ISE-Scripting-Object-Model.e5b38a274e46dba6a67a774d46f155e992160694.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [The-Windows-PowerShell-ISE-Scripting-Object-Model.e5b38a274e46dba6a67a774d46f155e992160694.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/The-Windows-PowerShell-ISE-Scripting-Object-Model.e5b38a274e46dba6a67a774d46f155e992160694.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [The-Windows-PowerShell-ISE-Scripting-Object-Model.e5b38a274e46dba6a67a774d46f155e992160694.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/The-Windows-PowerShell-ISE-Scripting-Object-Model.e5b38a274e46dba6a67a774d46f155e992160694.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -3928,10 +4428,12 @@
 * Handoff File: [Using-the-Windows-PowerShell-ISE.88e5c7c38e58fe4a132fd25a09265d8c01620f82.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Using-the-Windows-PowerShell-ISE.88e5c7c38e58fe4a132fd25a09265d8c01620f82.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Using-the-Windows-PowerShell-ISE.88e5c7c38e58fe4a132fd25a09265d8c01620f82.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Using-the-Windows-PowerShell-ISE.88e5c7c38e58fe4a132fd25a09265d8c01620f82.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [Using-the-Windows-PowerShell-ISE.88e5c7c38e58fe4a132fd25a09265d8c01620f82.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Using-the-Windows-PowerShell-ISE.88e5c7c38e58fe4a132fd25a09265d8c01620f82.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -3942,10 +4444,12 @@
 * Handoff File: [Windows-PowerShell-ISE-Object-Model-Reference.b7881a7d0cd485d731d26e1fc83eab2823736ab8.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Windows-PowerShell-ISE-Object-Model-Reference.b7881a7d0cd485d731d26e1fc83eab2823736ab8.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Windows-PowerShell-ISE-Object-Model-Reference.b7881a7d0cd485d731d26e1fc83eab2823736ab8.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Windows-PowerShell-ISE-Object-Model-Reference.b7881a7d0cd485d731d26e1fc83eab2823736ab8.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [Windows-PowerShell-ISE-Object-Model-Reference.b7881a7d0cd485d731d26e1fc83eab2823736ab8.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Windows-PowerShell-ISE-Object-Model-Reference.b7881a7d0cd485d731d26e1fc83eab2823736ab8.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -3956,10 +4460,12 @@
 * Handoff File: [ise-guide.e255e30893594b93657175b8567eda7793f2f503.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/ise-guide.e255e30893594b93657175b8567eda7793f2f503.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [ise-guide.e255e30893594b93657175b8567eda7793f2f503.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/ise-guide.e255e30893594b93657175b8567eda7793f2f503.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [ise-guide.e255e30893594b93657175b8567eda7793f2f503.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/ise-guide.e255e30893594b93657175b8567eda7793f2f503.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -3970,10 +4476,12 @@
 * Handoff File: [Running-Remote-Commands.625cb4f9a4da4433a285f1820cb5aa2ba4546438.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Running-Remote-Commands.625cb4f9a4da4433a285f1820cb5aa2ba4546438.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Running-Remote-Commands.625cb4f9a4da4433a285f1820cb5aa2ba4546438.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Running-Remote-Commands.625cb4f9a4da4433a285f1820cb5aa2ba4546438.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [Running-Remote-Commands.625cb4f9a4da4433a285f1820cb5aa2ba4546438.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Running-Remote-Commands.625cb4f9a4da4433a285f1820cb5aa2ba4546438.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -3984,10 +4492,12 @@
 * Handoff File: [web-access.cc28379acd511e9a2eb7c2bc80bfa5db0218e22d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/web-access.cc28379acd511e9a2eb7c2bc80bfa5db0218e22d.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [web-access.cc28379acd511e9a2eb7c2bc80bfa5db0218e22d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/web-access.cc28379acd511e9a2eb7c2bc80bfa5db0218e22d.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [web-access.cc28379acd511e9a2eb7c2bc80bfa5db0218e22d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/web-access.cc28379acd511e9a2eb7c2bc80bfa5db0218e22d.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -3998,10 +4508,12 @@
 * Handoff File: [authorization-rules-and-security-features-of-windows-powershell-web-access.c317fe9a78ba1130929bd001738c2eb57f0037dd.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/authorization-rules-and-security-features-of-windows-powershell-web-access.c317fe9a78ba1130929bd001738c2eb57f0037dd.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [authorization-rules-and-security-features-of-windows-powershell-web-access.c317fe9a78ba1130929bd001738c2eb57f0037dd.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/authorization-rules-and-security-features-of-windows-powershell-web-access.c317fe9a78ba1130929bd001738c2eb57f0037dd.de-de.xlf)
 * Handback Datetime: 2016-10-04 23:08:40
+* Handback Name: 
 * Bilingual File: [authorization-rules-and-security-features-of-windows-powershell-web-access.c317fe9a78ba1130929bd001738c2eb57f0037dd.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/authorization-rules-and-security-features-of-windows-powershell-web-access.c317fe9a78ba1130929bd001738c2eb57f0037dd.de-de.xlf)
 * Bilingual Datetime: 2016-10-04 23:09:03
 * [Back to Top](#report-top)
@@ -4012,10 +4524,12 @@
 * Handoff File: [install-and-use-windows-powershell-web-access.b0ab653c895ebd67ec078d852bf20804e9c72a1c.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/install-and-use-windows-powershell-web-access.b0ab653c895ebd67ec078d852bf20804e9c72a1c.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [install-and-use-windows-powershell-web-access.b0ab653c895ebd67ec078d852bf20804e9c72a1c.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/install-and-use-windows-powershell-web-access.b0ab653c895ebd67ec078d852bf20804e9c72a1c.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [install-and-use-windows-powershell-web-access.b0ab653c895ebd67ec078d852bf20804e9c72a1c.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/install-and-use-windows-powershell-web-access.b0ab653c895ebd67ec078d852bf20804e9c72a1c.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -4026,10 +4540,12 @@
 * Handoff File: [troubleshooting-access-problems-in-windows-powershell-web-access.1c7875e668a4ef265134d93052c69465d51413d7.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/troubleshooting-access-problems-in-windows-powershell-web-access.1c7875e668a4ef265134d93052c69465d51413d7.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [troubleshooting-access-problems-in-windows-powershell-web-access.1c7875e668a4ef265134d93052c69465d51413d7.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/troubleshooting-access-problems-in-windows-powershell-web-access.1c7875e668a4ef265134d93052c69465d51413d7.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [troubleshooting-access-problems-in-windows-powershell-web-access.1c7875e668a4ef265134d93052c69465d51413d7.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/troubleshooting-access-problems-in-windows-powershell-web-access.1c7875e668a4ef265134d93052c69465d51413d7.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -4040,10 +4556,12 @@
 * Handoff File: [uninstall-windows-powershell-web-access.95bac7bf293e2b8b9e3aecf2e955c5e893499e71.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/uninstall-windows-powershell-web-access.95bac7bf293e2b8b9e3aecf2e955c5e893499e71.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [uninstall-windows-powershell-web-access.95bac7bf293e2b8b9e3aecf2e955c5e893499e71.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/uninstall-windows-powershell-web-access.95bac7bf293e2b8b9e3aecf2e955c5e893499e71.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [uninstall-windows-powershell-web-access.95bac7bf293e2b8b9e3aecf2e955c5e893499e71.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/uninstall-windows-powershell-web-access.95bac7bf293e2b8b9e3aecf2e955c5e893499e71.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -4054,10 +4572,12 @@
 * Handoff File: [use-the-web-based-windows-powershell-console.a8b4c6032c977748f5d93f5365f50e8e8c8fc1ee.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/use-the-web-based-windows-powershell-console.a8b4c6032c977748f5d93f5365f50e8e8c8fc1ee.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [use-the-web-based-windows-powershell-console.a8b4c6032c977748f5d93f5365f50e8e8c8fc1ee.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/use-the-web-based-windows-powershell-console.a8b4c6032c977748f5d93f5365f50e8e8c8fc1ee.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [use-the-web-based-windows-powershell-console.a8b4c6032c977748f5d93f5365f50e8e8c8fc1ee.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/use-the-web-based-windows-powershell-console.a8b4c6032c977748f5d93f5365f50e8e8c8fc1ee.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -4068,10 +4588,12 @@
 * Handoff File: [PSWorkflow-Module.921d75cae6b7a7d92b6ecea5e55ba16e085b9ec6.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/PSWorkflow-Module.921d75cae6b7a7d92b6ecea5e55ba16e085b9ec6.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [PSWorkflow-Module.921d75cae6b7a7d92b6ecea5e55ba16e085b9ec6.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/PSWorkflow-Module.921d75cae6b7a7d92b6ecea5e55ba16e085b9ec6.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [PSWorkflow-Module.921d75cae6b7a7d92b6ecea5e55ba16e085b9ec6.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/PSWorkflow-Module.921d75cae6b7a7d92b6ecea5e55ba16e085b9ec6.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -4082,10 +4604,12 @@
 * Handoff File: [PSWorkflowUtility-Module.8481930e48267ee01309cb3e5f01579dfdfcf0af.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/PSWorkflowUtility-Module.8481930e48267ee01309cb3e5f01579dfdfcf0af.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [PSWorkflowUtility-Module.8481930e48267ee01309cb3e5f01579dfdfcf0af.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/PSWorkflowUtility-Module.8481930e48267ee01309cb3e5f01579dfdfcf0af.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [PSWorkflowUtility-Module.8481930e48267ee01309cb3e5f01579dfdfcf0af.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/PSWorkflowUtility-Module.8481930e48267ee01309cb3e5f01579dfdfcf0af.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -4096,10 +4620,12 @@
 * Handoff File: [workflows-guide.774a9bad6a29d3525f16f422554b8dd339d761b1.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/workflows-guide.774a9bad6a29d3525f16f422554b8dd339d761b1.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [workflows-guide.774a9bad6a29d3525f16f422554b8dd339d761b1.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/workflows-guide.774a9bad6a29d3525f16f422554b8dd339d761b1.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [workflows-guide.774a9bad6a29d3525f16f422554b8dd339d761b1.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/workflows-guide.774a9bad6a29d3525f16f422554b8dd339d761b1.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -4110,10 +4636,12 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
 * [Back to Top](#report-top)
 
 ##### <a name='e1c94c281a39b3ae026bbeea9811ecc71b9cdb1c264'></a> Source: [scripting\getting-started\basic-cookbooks.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/getting-started/basic-cookbooks.md)
@@ -4122,10 +4650,12 @@
 * Handoff File: [basic-cookbooks.8c3a9847d486728dbb152bba4ef40ec861a781a6.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/basic-cookbooks.8c3a9847d486728dbb152bba4ef40ec861a781a6.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [basic-cookbooks.8c3a9847d486728dbb152bba4ef40ec861a781a6.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/basic-cookbooks.8c3a9847d486728dbb152bba4ef40ec861a781a6.de-de.xlf)
 * Handback Datetime: 2016-10-04 23:08:40
+* Handback Name: 
 * Bilingual File: [basic-cookbooks.8c3a9847d486728dbb152bba4ef40ec861a781a6.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/basic-cookbooks.8c3a9847d486728dbb152bba4ef40ec861a781a6.de-de.xlf)
 * Bilingual Datetime: 2016-10-04 23:09:03
 * [Back to Top](#report-top)
@@ -4136,10 +4666,12 @@
 * Handoff File: [Appendix-1---Compatibility-Aliases.1e82caf8ddab51a17d518f635e351df370bbc743.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Appendix-1---Compatibility-Aliases.1e82caf8ddab51a17d518f635e351df370bbc743.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Appendix-1---Compatibility-Aliases.1e82caf8ddab51a17d518f635e351df370bbc743.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Appendix-1---Compatibility-Aliases.1e82caf8ddab51a17d518f635e351df370bbc743.de-de.xlf)
 * Handback Datetime: 2016-10-04 23:08:40
+* Handback Name: 
 * Bilingual File: [Appendix-1---Compatibility-Aliases.1e82caf8ddab51a17d518f635e351df370bbc743.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Appendix-1---Compatibility-Aliases.1e82caf8ddab51a17d518f635e351df370bbc743.de-de.xlf)
 * Bilingual Datetime: 2016-10-04 23:09:03
 * [Back to Top](#report-top)
@@ -4150,10 +4682,12 @@
 * Handoff File: [Appendix-2---Creating-a-Custom-PowerShell-Shortcut.43122497f916b1aacf07b6760d601b606e4719f8.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Appendix-2---Creating-a-Custom-PowerShell-Shortcut.43122497f916b1aacf07b6760d601b606e4719f8.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Appendix-2---Creating-a-Custom-PowerShell-Shortcut.43122497f916b1aacf07b6760d601b606e4719f8.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Appendix-2---Creating-a-Custom-PowerShell-Shortcut.43122497f916b1aacf07b6760d601b606e4719f8.de-de.xlf)
 * Handback Datetime: 2016-10-04 23:08:40
+* Handback Name: 
 * Bilingual File: [Appendix-2---Creating-a-Custom-PowerShell-Shortcut.43122497f916b1aacf07b6760d601b606e4719f8.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Appendix-2---Creating-a-Custom-PowerShell-Shortcut.43122497f916b1aacf07b6760d601b606e4719f8.de-de.xlf)
 * Bilingual Datetime: 2016-10-04 23:09:03
 * [Back to Top](#report-top)
@@ -4164,10 +4698,12 @@
 * Handoff File: [basic-cookbooks-reference.5da8328fb64dd6fc478181655b0b740c33e1cf9c.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/basic-cookbooks-reference.5da8328fb64dd6fc478181655b0b740c33e1cf9c.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [basic-cookbooks-reference.5da8328fb64dd6fc478181655b0b740c33e1cf9c.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/basic-cookbooks-reference.5da8328fb64dd6fc478181655b0b740c33e1cf9c.de-de.xlf)
 * Handback Datetime: 2016-10-04 23:08:40
+* Handback Name: 
 * Bilingual File: [basic-cookbooks-reference.5da8328fb64dd6fc478181655b0b740c33e1cf9c.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/basic-cookbooks-reference.5da8328fb64dd6fc478181655b0b740c33e1cf9c.de-de.xlf)
 * Bilingual Datetime: 2016-10-04 23:09:03
 * [Back to Top](#report-top)
@@ -4178,10 +4714,12 @@
 * Handoff File: [Changing-Computer-State.11ba8b4925a07ccc764ebf8a1887a5857c1d7273.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Changing-Computer-State.11ba8b4925a07ccc764ebf8a1887a5857c1d7273.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Changing-Computer-State.11ba8b4925a07ccc764ebf8a1887a5857c1d7273.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Changing-Computer-State.11ba8b4925a07ccc764ebf8a1887a5857c1d7273.de-de.xlf)
 * Handback Datetime: 2016-10-04 23:08:40
+* Handback Name: 
 * Bilingual File: [Changing-Computer-State.11ba8b4925a07ccc764ebf8a1887a5857c1d7273.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Changing-Computer-State.11ba8b4925a07ccc764ebf8a1887a5857c1d7273.de-de.xlf)
 * Bilingual Datetime: 2016-10-04 23:09:03
 * [Back to Top](#report-top)
@@ -4192,10 +4730,12 @@
 * Handoff File: [Collecting-Information-About-Computers.eed23e687357879bd13c90bb4d3966ee89bc9099.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Collecting-Information-About-Computers.eed23e687357879bd13c90bb4d3966ee89bc9099.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Collecting-Information-About-Computers.eed23e687357879bd13c90bb4d3966ee89bc9099.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Collecting-Information-About-Computers.eed23e687357879bd13c90bb4d3966ee89bc9099.de-de.xlf)
 * Handback Datetime: 2016-10-04 23:08:40
+* Handback Name: 
 * Bilingual File: [Collecting-Information-About-Computers.eed23e687357879bd13c90bb4d3966ee89bc9099.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Collecting-Information-About-Computers.eed23e687357879bd13c90bb4d3966ee89bc9099.de-de.xlf)
 * Bilingual Datetime: 2016-10-04 23:09:03
 * [Back to Top](#report-top)
@@ -4206,10 +4746,12 @@
 * Handoff File: [Creating-.NET-and-COM-Objects--New-Object-.6a22a1f1b10e73cd8dc65134aed84f0d6961bf45.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Creating-.NET-and-COM-Objects--New-Object-.6a22a1f1b10e73cd8dc65134aed84f0d6961bf45.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Creating-.NET-and-COM-Objects--New-Object-.6a22a1f1b10e73cd8dc65134aed84f0d6961bf45.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Creating-.NET-and-COM-Objects--New-Object-.6a22a1f1b10e73cd8dc65134aed84f0d6961bf45.de-de.xlf)
 * Handback Datetime: 2016-10-04 23:08:40
+* Handback Name: 
 * Bilingual File: [Creating-.NET-and-COM-Objects--New-Object-.6a22a1f1b10e73cd8dc65134aed84f0d6961bf45.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Creating-.NET-and-COM-Objects--New-Object-.6a22a1f1b10e73cd8dc65134aed84f0d6961bf45.de-de.xlf)
 * Bilingual Datetime: 2016-10-04 23:09:03
 * [Back to Top](#report-top)
@@ -4220,10 +4762,12 @@
 * Handoff File: [Creating-a-Custom-Input-Box.d0b0f28391ca707134d516718eec44a874382d2a.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Creating-a-Custom-Input-Box.d0b0f28391ca707134d516718eec44a874382d2a.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Creating-a-Custom-Input-Box.d0b0f28391ca707134d516718eec44a874382d2a.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Creating-a-Custom-Input-Box.d0b0f28391ca707134d516718eec44a874382d2a.de-de.xlf)
 * Handback Datetime: 2016-10-04 23:08:40
+* Handback Name: 
 * Bilingual File: [Creating-a-Custom-Input-Box.d0b0f28391ca707134d516718eec44a874382d2a.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Creating-a-Custom-Input-Box.d0b0f28391ca707134d516718eec44a874382d2a.de-de.xlf)
 * Bilingual Datetime: 2016-10-04 23:09:03
 * [Back to Top](#report-top)
@@ -4234,10 +4778,12 @@
 * Handoff File: [Creating-a-Graphical-Date-Picker.a933c5ebd581abc094dabf7086ffddce8ea5c63e.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Creating-a-Graphical-Date-Picker.a933c5ebd581abc094dabf7086ffddce8ea5c63e.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Creating-a-Graphical-Date-Picker.a933c5ebd581abc094dabf7086ffddce8ea5c63e.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Creating-a-Graphical-Date-Picker.a933c5ebd581abc094dabf7086ffddce8ea5c63e.de-de.xlf)
 * Handback Datetime: 2016-10-04 23:08:40
+* Handback Name: 
 * Bilingual File: [Creating-a-Graphical-Date-Picker.a933c5ebd581abc094dabf7086ffddce8ea5c63e.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Creating-a-Graphical-Date-Picker.a933c5ebd581abc094dabf7086ffddce8ea5c63e.de-de.xlf)
 * Bilingual Datetime: 2016-10-04 23:09:03
 * [Back to Top](#report-top)
@@ -4248,10 +4794,12 @@
 * Handoff File: [Getting-WMI-Objects--Get-WmiObject-.98f932cc6852fdaaeb236ada231cdf834b9b4ab6.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Getting-WMI-Objects--Get-WmiObject-.98f932cc6852fdaaeb236ada231cdf834b9b4ab6.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Getting-WMI-Objects--Get-WmiObject-.98f932cc6852fdaaeb236ada231cdf834b9b4ab6.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Getting-WMI-Objects--Get-WmiObject-.98f932cc6852fdaaeb236ada231cdf834b9b4ab6.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [Getting-WMI-Objects--Get-WmiObject-.98f932cc6852fdaaeb236ada231cdf834b9b4ab6.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Getting-WMI-Objects--Get-WmiObject-.98f932cc6852fdaaeb236ada231cdf834b9b4ab6.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -4262,10 +4810,12 @@
 * Handoff File: [Managing-Current-Location.d3cc0638ed635f92822a2f7ba0e1a1b92de3ad78.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Managing-Current-Location.d3cc0638ed635f92822a2f7ba0e1a1b92de3ad78.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Managing-Current-Location.d3cc0638ed635f92822a2f7ba0e1a1b92de3ad78.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Managing-Current-Location.d3cc0638ed635f92822a2f7ba0e1a1b92de3ad78.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [Managing-Current-Location.d3cc0638ed635f92822a2f7ba0e1a1b92de3ad78.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Managing-Current-Location.d3cc0638ed635f92822a2f7ba0e1a1b92de3ad78.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -4276,10 +4826,12 @@
 * Handoff File: [Managing-Processes-with-Process-Cmdlets.2aca3fe3fa4f78f4a6dbd0ee075adf5a4a97b498.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Managing-Processes-with-Process-Cmdlets.2aca3fe3fa4f78f4a6dbd0ee075adf5a4a97b498.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Managing-Processes-with-Process-Cmdlets.2aca3fe3fa4f78f4a6dbd0ee075adf5a4a97b498.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Managing-Processes-with-Process-Cmdlets.2aca3fe3fa4f78f4a6dbd0ee075adf5a4a97b498.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [Managing-Processes-with-Process-Cmdlets.2aca3fe3fa4f78f4a6dbd0ee075adf5a4a97b498.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Managing-Processes-with-Process-Cmdlets.2aca3fe3fa4f78f4a6dbd0ee075adf5a4a97b498.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -4290,10 +4842,12 @@
 * Handoff File: [Managing-Services.6af555cdf1bed42d8fbea56b1540ab3d1472685c.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Managing-Services.6af555cdf1bed42d8fbea56b1540ab3d1472685c.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Managing-Services.6af555cdf1bed42d8fbea56b1540ab3d1472685c.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Managing-Services.6af555cdf1bed42d8fbea56b1540ab3d1472685c.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [Managing-Services.6af555cdf1bed42d8fbea56b1540ab3d1472685c.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Managing-Services.6af555cdf1bed42d8fbea56b1540ab3d1472685c.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -4304,10 +4858,12 @@
 * Handoff File: [Managing-Windows-PowerShell-Drives.e4a89d5ddea015589544b7739863adfb3aea6b71.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Managing-Windows-PowerShell-Drives.e4a89d5ddea015589544b7739863adfb3aea6b71.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Managing-Windows-PowerShell-Drives.e4a89d5ddea015589544b7739863adfb3aea6b71.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Managing-Windows-PowerShell-Drives.e4a89d5ddea015589544b7739863adfb3aea6b71.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [Managing-Windows-PowerShell-Drives.e4a89d5ddea015589544b7739863adfb3aea6b71.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Managing-Windows-PowerShell-Drives.e4a89d5ddea015589544b7739863adfb3aea6b71.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -4318,10 +4874,12 @@
 * Handoff File: [Manipulating-Items-Directly.555f7b1c862dcd9242ab20f5755ded2039933823.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Manipulating-Items-Directly.555f7b1c862dcd9242ab20f5755ded2039933823.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Manipulating-Items-Directly.555f7b1c862dcd9242ab20f5755ded2039933823.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Manipulating-Items-Directly.555f7b1c862dcd9242ab20f5755ded2039933823.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [Manipulating-Items-Directly.555f7b1c862dcd9242ab20f5755ded2039933823.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Manipulating-Items-Directly.555f7b1c862dcd9242ab20f5755ded2039933823.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -4332,10 +4890,12 @@
 * Handoff File: [Multiple-selection-List-Boxes.a647f0bae5e61f570951792f4be945b14d21dc9a.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Multiple-selection-List-Boxes.a647f0bae5e61f570951792f4be945b14d21dc9a.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Multiple-selection-List-Boxes.a647f0bae5e61f570951792f4be945b14d21dc9a.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Multiple-selection-List-Boxes.a647f0bae5e61f570951792f4be945b14d21dc9a.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [Multiple-selection-List-Boxes.a647f0bae5e61f570951792f4be945b14d21dc9a.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Multiple-selection-List-Boxes.a647f0bae5e61f570951792f4be945b14d21dc9a.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -4346,10 +4906,12 @@
 * Handoff File: [Other-Useful-Scripting-Objects.459706091ef015585d8b721094a9c46e2e9926b5.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Other-Useful-Scripting-Objects.459706091ef015585d8b721094a9c46e2e9926b5.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Other-Useful-Scripting-Objects.459706091ef015585d8b721094a9c46e2e9926b5.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Other-Useful-Scripting-Objects.459706091ef015585d8b721094a9c46e2e9926b5.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [Other-Useful-Scripting-Objects.459706091ef015585d8b721094a9c46e2e9926b5.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Other-Useful-Scripting-Objects.459706091ef015585d8b721094a9c46e2e9926b5.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -4360,10 +4922,12 @@
 * Handoff File: [Performing-Networking-Tasks.8fb5e0306e65ac69813c68c34345bd110f038067.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Performing-Networking-Tasks.8fb5e0306e65ac69813c68c34345bd110f038067.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Performing-Networking-Tasks.8fb5e0306e65ac69813c68c34345bd110f038067.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Performing-Networking-Tasks.8fb5e0306e65ac69813c68c34345bd110f038067.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [Performing-Networking-Tasks.8fb5e0306e65ac69813c68c34345bd110f038067.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Performing-Networking-Tasks.8fb5e0306e65ac69813c68c34345bd110f038067.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -4374,10 +4938,12 @@
 * Handoff File: [PowerShellGet-Module.ac51526ac1d58e30a623a4d259ded86670804b8e.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/PowerShellGet-Module.ac51526ac1d58e30a623a4d259ded86670804b8e.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [PowerShellGet-Module.ac51526ac1d58e30a623a4d259ded86670804b8e.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/PowerShellGet-Module.ac51526ac1d58e30a623a4d259ded86670804b8e.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [PowerShellGet-Module.ac51526ac1d58e30a623a4d259ded86670804b8e.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/PowerShellGet-Module.ac51526ac1d58e30a623a4d259ded86670804b8e.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -4388,10 +4954,12 @@
 * Handoff File: [Redirecting-Data-with-Out---Cmdlets.f00d2b27f4adf3fcfcd30fe93cc31d62302c5a43.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Redirecting-Data-with-Out---Cmdlets.f00d2b27f4adf3fcfcd30fe93cc31d62302c5a43.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Redirecting-Data-with-Out---Cmdlets.f00d2b27f4adf3fcfcd30fe93cc31d62302c5a43.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Redirecting-Data-with-Out---Cmdlets.f00d2b27f4adf3fcfcd30fe93cc31d62302c5a43.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [Redirecting-Data-with-Out---Cmdlets.f00d2b27f4adf3fcfcd30fe93cc31d62302c5a43.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Redirecting-Data-with-Out---Cmdlets.f00d2b27f4adf3fcfcd30fe93cc31d62302c5a43.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -4402,10 +4970,12 @@
 * Handoff File: [Removing-Objects-from-the-Pipeline--Where-Object-.c50bea5ef122e7a14cee83616746ae2679a551cb.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Removing-Objects-from-the-Pipeline--Where-Object-.c50bea5ef122e7a14cee83616746ae2679a551cb.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Removing-Objects-from-the-Pipeline--Where-Object-.c50bea5ef122e7a14cee83616746ae2679a551cb.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Removing-Objects-from-the-Pipeline--Where-Object-.c50bea5ef122e7a14cee83616746ae2679a551cb.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [Removing-Objects-from-the-Pipeline--Where-Object-.c50bea5ef122e7a14cee83616746ae2679a551cb.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Removing-Objects-from-the-Pipeline--Where-Object-.c50bea5ef122e7a14cee83616746ae2679a551cb.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -4416,10 +4986,12 @@
 * Handoff File: [Repeating-a-Task-for-Multiple-Objects--ForEach-Object-.128d80b157278425d37c4d451fbb8198a8bf1304.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Repeating-a-Task-for-Multiple-Objects--ForEach-Object-.128d80b157278425d37c4d451fbb8198a8bf1304.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Repeating-a-Task-for-Multiple-Objects--ForEach-Object-.128d80b157278425d37c4d451fbb8198a8bf1304.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Repeating-a-Task-for-Multiple-Objects--ForEach-Object-.128d80b157278425d37c4d451fbb8198a8bf1304.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [Repeating-a-Task-for-Multiple-Objects--ForEach-Object-.128d80b157278425d37c4d451fbb8198a8bf1304.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Repeating-a-Task-for-Multiple-Objects--ForEach-Object-.128d80b157278425d37c4d451fbb8198a8bf1304.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -4430,10 +5002,12 @@
 * Handoff File: [Selecting-Items-from-a-List-Box.afbdc6b6a2c0471cc31c7a41f3dcb7f0911919c5.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Selecting-Items-from-a-List-Box.afbdc6b6a2c0471cc31c7a41f3dcb7f0911919c5.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Selecting-Items-from-a-List-Box.afbdc6b6a2c0471cc31c7a41f3dcb7f0911919c5.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Selecting-Items-from-a-List-Box.afbdc6b6a2c0471cc31c7a41f3dcb7f0911919c5.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [Selecting-Items-from-a-List-Box.afbdc6b6a2c0471cc31c7a41f3dcb7f0911919c5.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Selecting-Items-from-a-List-Box.afbdc6b6a2c0471cc31c7a41f3dcb7f0911919c5.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -4444,10 +5018,12 @@
 * Handoff File: [Selecting-Parts-of-Objects--Select-Object-.029fe5304d0df3fa774092ba01aea4088df1b626.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Selecting-Parts-of-Objects--Select-Object-.029fe5304d0df3fa774092ba01aea4088df1b626.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Selecting-Parts-of-Objects--Select-Object-.029fe5304d0df3fa774092ba01aea4088df1b626.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Selecting-Parts-of-Objects--Select-Object-.029fe5304d0df3fa774092ba01aea4088df1b626.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [Selecting-Parts-of-Objects--Select-Object-.029fe5304d0df3fa774092ba01aea4088df1b626.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Selecting-Parts-of-Objects--Select-Object-.029fe5304d0df3fa774092ba01aea4088df1b626.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -4458,10 +5034,12 @@
 * Handoff File: [Sorting-Objects.756929e616c834f3f60e351c4478aeb3fe04ecd5.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Sorting-Objects.756929e616c834f3f60e351c4478aeb3fe04ecd5.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Sorting-Objects.756929e616c834f3f60e351c4478aeb3fe04ecd5.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Sorting-Objects.756929e616c834f3f60e351c4478aeb3fe04ecd5.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [Sorting-Objects.756929e616c834f3f60e351c4478aeb3fe04ecd5.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Sorting-Objects.756929e616c834f3f60e351c4478aeb3fe04ecd5.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -4472,10 +5050,12 @@
 * Handoff File: [Using-Format-Commands-to-Change-Output-View.2137f36cb5d1b6954de7ab8d2a6eedc4bfd21aa7.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Using-Format-Commands-to-Change-Output-View.2137f36cb5d1b6954de7ab8d2a6eedc4bfd21aa7.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Using-Format-Commands-to-Change-Output-View.2137f36cb5d1b6954de7ab8d2a6eedc4bfd21aa7.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Using-Format-Commands-to-Change-Output-View.2137f36cb5d1b6954de7ab8d2a6eedc4bfd21aa7.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [Using-Format-Commands-to-Change-Output-View.2137f36cb5d1b6954de7ab8d2a6eedc4bfd21aa7.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Using-Format-Commands-to-Change-Output-View.2137f36cb5d1b6954de7ab8d2a6eedc4bfd21aa7.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -4486,10 +5066,12 @@
 * Handoff File: [Using-Static-Classes-and-Methods.040e055ba5ec9e3a6d642990063a18388cce271f.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Using-Static-Classes-and-Methods.040e055ba5ec9e3a6d642990063a18388cce271f.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Using-Static-Classes-and-Methods.040e055ba5ec9e3a6d642990063a18388cce271f.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Using-Static-Classes-and-Methods.040e055ba5ec9e3a6d642990063a18388cce271f.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [Using-Static-Classes-and-Methods.040e055ba5ec9e3a6d642990063a18388cce271f.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Using-Static-Classes-and-Methods.040e055ba5ec9e3a6d642990063a18388cce271f.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -4500,10 +5082,12 @@
 * Handoff File: [Viewing-Object-Structure--Get-Member-.f4fabd9bed3d26cc1f7fb0224aadf75a78376b73.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Viewing-Object-Structure--Get-Member-.f4fabd9bed3d26cc1f7fb0224aadf75a78376b73.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Viewing-Object-Structure--Get-Member-.f4fabd9bed3d26cc1f7fb0224aadf75a78376b73.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Viewing-Object-Structure--Get-Member-.f4fabd9bed3d26cc1f7fb0224aadf75a78376b73.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [Viewing-Object-Structure--Get-Member-.f4fabd9bed3d26cc1f7fb0224aadf75a78376b73.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Viewing-Object-Structure--Get-Member-.f4fabd9bed3d26cc1f7fb0224aadf75a78376b73.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -4514,10 +5098,12 @@
 * Handoff File: [Working-with-Files-and-Folders.438b7eef46d04a40a0358fc73edef4c7b0599d09.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Working-with-Files-and-Folders.438b7eef46d04a40a0358fc73edef4c7b0599d09.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Working-with-Files-and-Folders.438b7eef46d04a40a0358fc73edef4c7b0599d09.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Working-with-Files-and-Folders.438b7eef46d04a40a0358fc73edef4c7b0599d09.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [Working-with-Files-and-Folders.438b7eef46d04a40a0358fc73edef4c7b0599d09.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Working-with-Files-and-Folders.438b7eef46d04a40a0358fc73edef4c7b0599d09.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -4528,10 +5114,12 @@
 * Handoff File: [Working-With-Files-Folders-and-Registry-Keys.853b8e9b48e80efcbf9ed04d21be570df93cae82.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Working-With-Files-Folders-and-Registry-Keys.853b8e9b48e80efcbf9ed04d21be570df93cae82.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Working-With-Files-Folders-and-Registry-Keys.853b8e9b48e80efcbf9ed04d21be570df93cae82.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Working-With-Files-Folders-and-Registry-Keys.853b8e9b48e80efcbf9ed04d21be570df93cae82.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [Working-With-Files-Folders-and-Registry-Keys.853b8e9b48e80efcbf9ed04d21be570df93cae82.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Working-With-Files-Folders-and-Registry-Keys.853b8e9b48e80efcbf9ed04d21be570df93cae82.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -4542,10 +5130,12 @@
 * Handoff File: [Working-with-Objects.b9d0a3ad133a85d90825e330449e244ca0a2613d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Working-with-Objects.b9d0a3ad133a85d90825e330449e244ca0a2613d.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Working-with-Objects.b9d0a3ad133a85d90825e330449e244ca0a2613d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Working-with-Objects.b9d0a3ad133a85d90825e330449e244ca0a2613d.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [Working-with-Objects.b9d0a3ad133a85d90825e330449e244ca0a2613d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Working-with-Objects.b9d0a3ad133a85d90825e330449e244ca0a2613d.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -4556,10 +5146,12 @@
 * Handoff File: [Working-with-Printers.5f47c7acf0cbe2a6824abd01c2e75fec38389375.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Working-with-Printers.5f47c7acf0cbe2a6824abd01c2e75fec38389375.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Working-with-Printers.5f47c7acf0cbe2a6824abd01c2e75fec38389375.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Working-with-Printers.5f47c7acf0cbe2a6824abd01c2e75fec38389375.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [Working-with-Printers.5f47c7acf0cbe2a6824abd01c2e75fec38389375.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Working-with-Printers.5f47c7acf0cbe2a6824abd01c2e75fec38389375.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -4570,10 +5162,12 @@
 * Handoff File: [Working-with-Registry-Entries.976d36732cc6108f0778e6a62a7464c45e1118bc.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Working-with-Registry-Entries.976d36732cc6108f0778e6a62a7464c45e1118bc.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Working-with-Registry-Entries.976d36732cc6108f0778e6a62a7464c45e1118bc.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Working-with-Registry-Entries.976d36732cc6108f0778e6a62a7464c45e1118bc.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [Working-with-Registry-Entries.976d36732cc6108f0778e6a62a7464c45e1118bc.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Working-with-Registry-Entries.976d36732cc6108f0778e6a62a7464c45e1118bc.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -4584,10 +5178,12 @@
 * Handoff File: [Working-with-Registry-Keys.fe931e6eb1dd48b4f801957624d1bf4a223e18f7.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Working-with-Registry-Keys.fe931e6eb1dd48b4f801957624d1bf4a223e18f7.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Working-with-Registry-Keys.fe931e6eb1dd48b4f801957624d1bf4a223e18f7.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Working-with-Registry-Keys.fe931e6eb1dd48b4f801957624d1bf4a223e18f7.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [Working-with-Registry-Keys.fe931e6eb1dd48b4f801957624d1bf4a223e18f7.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Working-with-Registry-Keys.fe931e6eb1dd48b4f801957624d1bf4a223e18f7.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -4598,10 +5194,12 @@
 * Handoff File: [Working-with-Software-Installations.cfe92ac3d26a8caf4190b39d99c30cf5af9264a1.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Working-with-Software-Installations.cfe92ac3d26a8caf4190b39d99c30cf5af9264a1.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Working-with-Software-Installations.cfe92ac3d26a8caf4190b39d99c30cf5af9264a1.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Working-with-Software-Installations.cfe92ac3d26a8caf4190b39d99c30cf5af9264a1.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [Working-with-Software-Installations.cfe92ac3d26a8caf4190b39d99c30cf5af9264a1.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Working-with-Software-Installations.cfe92ac3d26a8caf4190b39d99c30cf5af9264a1.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -4612,10 +5210,12 @@
 * Handoff File: [About-Windows-PowerShell.9cb66c3513a43593501f97fde1913b752049ba24.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/About-Windows-PowerShell.9cb66c3513a43593501f97fde1913b752049ba24.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [About-Windows-PowerShell.9cb66c3513a43593501f97fde1913b752049ba24.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/About-Windows-PowerShell.9cb66c3513a43593501f97fde1913b752049ba24.de-de.xlf)
 * Handback Datetime: 2016-10-04 23:08:40
+* Handback Name: 
 * Bilingual File: [About-Windows-PowerShell.9cb66c3513a43593501f97fde1913b752049ba24.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/About-Windows-PowerShell.9cb66c3513a43593501f97fde1913b752049ba24.de-de.xlf)
 * Bilingual Datetime: 2016-10-04 23:09:03
 * [Back to Top](#report-top)
@@ -4626,10 +5226,12 @@
 * Handoff File: [Exploring-the-Windows-PowerShell-ISE.a3f992702bf0a10e452f02c0ce43f75d90f185dc.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Exploring-the-Windows-PowerShell-ISE.a3f992702bf0a10e452f02c0ce43f75d90f185dc.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Exploring-the-Windows-PowerShell-ISE.a3f992702bf0a10e452f02c0ce43f75d90f185dc.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Exploring-the-Windows-PowerShell-ISE.a3f992702bf0a10e452f02c0ce43f75d90f185dc.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [Exploring-the-Windows-PowerShell-ISE.a3f992702bf0a10e452f02c0ce43f75d90f185dc.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Exploring-the-Windows-PowerShell-ISE.a3f992702bf0a10e452f02c0ce43f75d90f185dc.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -4640,10 +5242,12 @@
 * Handoff File: [Getting-Detailed-Help-Information.b1023914b4f9ec878e49ae91b3ddcc90e5a2f70f.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Getting-Detailed-Help-Information.b1023914b4f9ec878e49ae91b3ddcc90e5a2f70f.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Getting-Detailed-Help-Information.b1023914b4f9ec878e49ae91b3ddcc90e5a2f70f.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Getting-Detailed-Help-Information.b1023914b4f9ec878e49ae91b3ddcc90e5a2f70f.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [Getting-Detailed-Help-Information.b1023914b4f9ec878e49ae91b3ddcc90e5a2f70f.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Getting-Detailed-Help-Information.b1023914b4f9ec878e49ae91b3ddcc90e5a2f70f.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -4654,10 +5258,12 @@
 * Handoff File: [Getting-Information-About-Commands.dba9a060e6bfa8bc1ecb0a835f23f5a66e3984e1.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Getting-Information-About-Commands.dba9a060e6bfa8bc1ecb0a835f23f5a66e3984e1.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Getting-Information-About-Commands.dba9a060e6bfa8bc1ecb0a835f23f5a66e3984e1.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Getting-Information-About-Commands.dba9a060e6bfa8bc1ecb0a835f23f5a66e3984e1.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [Getting-Information-About-Commands.dba9a060e6bfa8bc1ecb0a835f23f5a66e3984e1.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Getting-Information-About-Commands.dba9a060e6bfa8bc1ecb0a835f23f5a66e3984e1.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -4668,10 +5274,12 @@
 * Handoff File: [Learning-Windows-PowerShell-Names.fc1b82ec398316e9fb38af6a070070e1e3773976.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Learning-Windows-PowerShell-Names.fc1b82ec398316e9fb38af6a070070e1e3773976.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Learning-Windows-PowerShell-Names.fc1b82ec398316e9fb38af6a070070e1e3773976.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Learning-Windows-PowerShell-Names.fc1b82ec398316e9fb38af6a070070e1e3773976.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [Learning-Windows-PowerShell-Names.fc1b82ec398316e9fb38af6a070070e1e3773976.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Learning-Windows-PowerShell-Names.fc1b82ec398316e9fb38af6a070070e1e3773976.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -4682,10 +5290,12 @@
 * Handoff File: [Object-Pipeline.c54b9454055c11d1724d28868c454225b4ecbf01.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Object-Pipeline.c54b9454055c11d1724d28868c454225b4ecbf01.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Object-Pipeline.c54b9454055c11d1724d28868c454225b4ecbf01.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Object-Pipeline.c54b9454055c11d1724d28868c454225b4ecbf01.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [Object-Pipeline.c54b9454055c11d1724d28868c454225b4ecbf01.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Object-Pipeline.c54b9454055c11d1724d28868c454225b4ecbf01.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -4696,10 +5306,12 @@
 * Handoff File: [Scripting-with-Windows-PowerShell.2db569b949f9f41122774e4819582e471a7b8657.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Scripting-with-Windows-PowerShell.2db569b949f9f41122774e4819582e471a7b8657.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Scripting-with-Windows-PowerShell.2db569b949f9f41122774e4819582e471a7b8657.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Scripting-with-Windows-PowerShell.2db569b949f9f41122774e4819582e471a7b8657.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [Scripting-with-Windows-PowerShell.2db569b949f9f41122774e4819582e471a7b8657.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Scripting-with-Windows-PowerShell.2db569b949f9f41122774e4819582e471a7b8657.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -4710,10 +5322,12 @@
 * Handoff File: [Understanding-Important-Windows-PowerShell-Concepts.e57bc7ae4c2f359978fe7616e99a6f6106ed365a.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Understanding-Important-Windows-PowerShell-Concepts.e57bc7ae4c2f359978fe7616e99a6f6106ed365a.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Understanding-Important-Windows-PowerShell-Concepts.e57bc7ae4c2f359978fe7616e99a6f6106ed365a.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Understanding-Important-Windows-PowerShell-Concepts.e57bc7ae4c2f359978fe7616e99a6f6106ed365a.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [Understanding-Important-Windows-PowerShell-Concepts.e57bc7ae4c2f359978fe7616e99a6f6106ed365a.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Understanding-Important-Windows-PowerShell-Concepts.e57bc7ae4c2f359978fe7616e99a6f6106ed365a.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -4724,10 +5338,12 @@
 * Handoff File: [Understanding-the-Windows-PowerShell-Pipeline.5006e128bc4994cdd31323aee54ddf13a776c1da.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Understanding-the-Windows-PowerShell-Pipeline.5006e128bc4994cdd31323aee54ddf13a776c1da.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Understanding-the-Windows-PowerShell-Pipeline.5006e128bc4994cdd31323aee54ddf13a776c1da.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Understanding-the-Windows-PowerShell-Pipeline.5006e128bc4994cdd31323aee54ddf13a776c1da.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [Understanding-the-Windows-PowerShell-Pipeline.5006e128bc4994cdd31323aee54ddf13a776c1da.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Understanding-the-Windows-PowerShell-Pipeline.5006e128bc4994cdd31323aee54ddf13a776c1da.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -4738,10 +5354,12 @@
 * Handoff File: [Using-Familiar-Command-Names.8a60fa9c7acab4b8d258a854a67fc88365a64e18.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Using-Familiar-Command-Names.8a60fa9c7acab4b8d258a854a67fc88365a64e18.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Using-Familiar-Command-Names.8a60fa9c7acab4b8d258a854a67fc88365a64e18.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Using-Familiar-Command-Names.8a60fa9c7acab4b8d258a854a67fc88365a64e18.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [Using-Familiar-Command-Names.8a60fa9c7acab4b8d258a854a67fc88365a64e18.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Using-Familiar-Command-Names.8a60fa9c7acab4b8d258a854a67fc88365a64e18.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -4752,10 +5370,12 @@
 * Handoff File: [Using-Variables-to-Store-Objects.18165e54af473f3b203e56ff6805e411c4cebf96.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Using-Variables-to-Store-Objects.18165e54af473f3b203e56ff6805e411c4cebf96.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Using-Variables-to-Store-Objects.18165e54af473f3b203e56ff6805e411c4cebf96.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Using-Variables-to-Store-Objects.18165e54af473f3b203e56ff6805e411c4cebf96.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [Using-Variables-to-Store-Objects.18165e54af473f3b203e56ff6805e411c4cebf96.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Using-Variables-to-Store-Objects.18165e54af473f3b203e56ff6805e411c4cebf96.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -4766,10 +5386,12 @@
 * Handoff File: [Using-Windows-PowerShell.d23924c5ab8baff992c4dcc78d5d8a95c48ac773.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Using-Windows-PowerShell.d23924c5ab8baff992c4dcc78d5d8a95c48ac773.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Using-Windows-PowerShell.d23924c5ab8baff992c4dcc78d5d8a95c48ac773.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Using-Windows-PowerShell.d23924c5ab8baff992c4dcc78d5d8a95c48ac773.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [Using-Windows-PowerShell.d23924c5ab8baff992c4dcc78d5d8a95c48ac773.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Using-Windows-PowerShell.d23924c5ab8baff992c4dcc78d5d8a95c48ac773.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -4780,10 +5402,12 @@
 * Handoff File: [Using-Windows-PowerShell-for-Administration.3209ac0b3fcb066fa560cb0dfb438e0727585644.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Using-Windows-PowerShell-for-Administration.3209ac0b3fcb066fa560cb0dfb438e0727585644.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Using-Windows-PowerShell-for-Administration.3209ac0b3fcb066fa560cb0dfb438e0727585644.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Using-Windows-PowerShell-for-Administration.3209ac0b3fcb066fa560cb0dfb438e0727585644.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [Using-Windows-PowerShell-for-Administration.3209ac0b3fcb066fa560cb0dfb438e0727585644.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Using-Windows-PowerShell-for-Administration.3209ac0b3fcb066fa560cb0dfb438e0727585644.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -4794,10 +5418,12 @@
 * Handoff File: [Windows-PowerShell-Basics.45ea07959671c017eb400e283d061349dab0c336.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Windows-PowerShell-Basics.45ea07959671c017eb400e283d061349dab0c336.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Windows-PowerShell-Basics.45ea07959671c017eb400e283d061349dab0c336.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Windows-PowerShell-Basics.45ea07959671c017eb400e283d061349dab0c336.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [Windows-PowerShell-Basics.45ea07959671c017eb400e283d061349dab0c336.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Windows-PowerShell-Basics.45ea07959671c017eb400e283d061349dab0c336.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -4808,10 +5434,12 @@
 * Handoff File: [Windows-PowerShell-Integrated-Scripting-Environment--ISE-.e04b905878b8b2ba1a7a20acc1d05db96a71a631.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Windows-PowerShell-Integrated-Scripting-Environment--ISE-.e04b905878b8b2ba1a7a20acc1d05db96a71a631.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Windows-PowerShell-Integrated-Scripting-Environment--ISE-.e04b905878b8b2ba1a7a20acc1d05db96a71a631.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Windows-PowerShell-Integrated-Scripting-Environment--ISE-.e04b905878b8b2ba1a7a20acc1d05db96a71a631.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [Windows-PowerShell-Integrated-Scripting-Environment--ISE-.e04b905878b8b2ba1a7a20acc1d05db96a71a631.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Windows-PowerShell-Integrated-Scripting-Environment--ISE-.e04b905878b8b2ba1a7a20acc1d05db96a71a631.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -4822,10 +5450,12 @@
 * Handoff File: [fundamental-concepts.8d6219b42c9bbb2735aa45fc3604c76da06b0f1e.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/fundamental-concepts.8d6219b42c9bbb2735aa45fc3604c76da06b0f1e.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [fundamental-concepts.8d6219b42c9bbb2735aa45fc3604c76da06b0f1e.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/fundamental-concepts.8d6219b42c9bbb2735aa45fc3604c76da06b0f1e.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [fundamental-concepts.8d6219b42c9bbb2735aa45fc3604c76da06b0f1e.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/fundamental-concepts.8d6219b42c9bbb2735aa45fc3604c76da06b0f1e.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -4836,10 +5466,12 @@
 * Handoff File: [Getting-Ready-to-Use-Windows-PowerShell.672757f96d6f3590bcbf857fbd689a13c0162f82.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Getting-Ready-to-Use-Windows-PowerShell.672757f96d6f3590bcbf857fbd689a13c0162f82.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Getting-Ready-to-Use-Windows-PowerShell.672757f96d6f3590bcbf857fbd689a13c0162f82.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Getting-Ready-to-Use-Windows-PowerShell.672757f96d6f3590bcbf857fbd689a13c0162f82.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [Getting-Ready-to-Use-Windows-PowerShell.672757f96d6f3590bcbf857fbd689a13c0162f82.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Getting-Ready-to-Use-Windows-PowerShell.672757f96d6f3590bcbf857fbd689a13c0162f82.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -4850,10 +5482,12 @@
 * Handoff File: [Getting-Started-with-Windows-PowerShell.a63e6424e1216675a9fb5a347b8bffe414db98cb.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Getting-Started-with-Windows-PowerShell.a63e6424e1216675a9fb5a347b8bffe414db98cb.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Getting-Started-with-Windows-PowerShell.a63e6424e1216675a9fb5a347b8bffe414db98cb.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Getting-Started-with-Windows-PowerShell.a63e6424e1216675a9fb5a347b8bffe414db98cb.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [Getting-Started-with-Windows-PowerShell.a63e6424e1216675a9fb5a347b8bffe414db98cb.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Getting-Started-with-Windows-PowerShell.a63e6424e1216675a9fb5a347b8bffe414db98cb.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -4864,10 +5498,12 @@
 * Handoff File: [more-powershell-learning.00ec2b0492cda79380c66d0136e44b73cc496123.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/more-powershell-learning.00ec2b0492cda79380c66d0136e44b73cc496123.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: [more-powershell-learning.00ec2b0492cda79380c66d0136e44b73cc496123.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/5ba0536f626b3150a12f1f53a08b7b06e15eec29/ol-archive/OpenLocalizationOrg/PowerShell-Docs.de-de/master/more-powershell-learning.00ec2b0492cda79380c66d0136e44b73cc496123.de-de.xlf)
 * Archive Datetime: 2016-10-27 22:21:25
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
 * [Back to Top](#report-top)
 
 ##### <a name='e3cac149d549400b6a180b4a4fd6ff1a13a8130b318'></a> Source: [scripting\getting-started\understanding-concepts-reference.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/getting-started/understanding-concepts-reference.md)
@@ -4876,10 +5512,12 @@
 * Handoff File: [understanding-concepts-reference.afbedb7cd05f0cdbf50deb95f51ded6db98670cb.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/understanding-concepts-reference.afbedb7cd05f0cdbf50deb95f51ded6db98670cb.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [understanding-concepts-reference.afbedb7cd05f0cdbf50deb95f51ded6db98670cb.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/understanding-concepts-reference.afbedb7cd05f0cdbf50deb95f51ded6db98670cb.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [understanding-concepts-reference.afbedb7cd05f0cdbf50deb95f51ded6db98670cb.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/understanding-concepts-reference.afbedb7cd05f0cdbf50deb95f51ded6db98670cb.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -4890,10 +5528,12 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
 * [Back to Top](#report-top)
 
 ##### <a name='fc6307be4dafb378350b6d9667b2b6aca0e2e6d4320'></a> Source: [scripting\PowerShell-Scripting.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/scripting/PowerShell-Scripting.md)
@@ -4902,10 +5542,12 @@
 * Handoff File: [PowerShell-Scripting.8f5d79e74e333fb9812de946411a1b4ef2060582.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/PowerShell-Scripting.8f5d79e74e333fb9812de946411a1b4ef2060582.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [PowerShell-Scripting.8f5d79e74e333fb9812de946411a1b4ef2060582.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/PowerShell-Scripting.8f5d79e74e333fb9812de946411a1b4ef2060582.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [PowerShell-Scripting.8f5d79e74e333fb9812de946411a1b4ef2060582.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/PowerShell-Scripting.8f5d79e74e333fb9812de946411a1b4ef2060582.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -4916,10 +5558,12 @@
 * Handoff File: [Accessibility-in-Windows-PowerShell-ISE.2ca37c157ff546e8a8bfde68228e933bd363cbbe.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Accessibility-in-Windows-PowerShell-ISE.2ca37c157ff546e8a8bfde68228e933bd363cbbe.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Accessibility-in-Windows-PowerShell-ISE.2ca37c157ff546e8a8bfde68228e933bd363cbbe.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Accessibility-in-Windows-PowerShell-ISE.2ca37c157ff546e8a8bfde68228e933bd363cbbe.de-de.xlf)
 * Handback Datetime: 2016-10-04 23:08:40
+* Handback Name: 
 * Bilingual File: [Accessibility-in-Windows-PowerShell-ISE.2ca37c157ff546e8a8bfde68228e933bd363cbbe.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Accessibility-in-Windows-PowerShell-ISE.2ca37c157ff546e8a8bfde68228e933bd363cbbe.de-de.xlf)
 * Bilingual Datetime: 2016-10-04 23:09:03
 * [Back to Top](#report-top)
@@ -4930,10 +5574,12 @@
 * Handoff File: [Installing-the-Windows-PowerShell-2.0-Engine.190b56ee17b5135bba49f697312b896e5c3755dd.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Installing-the-Windows-PowerShell-2.0-Engine.190b56ee17b5135bba49f697312b896e5c3755dd.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Installing-the-Windows-PowerShell-2.0-Engine.190b56ee17b5135bba49f697312b896e5c3755dd.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Installing-the-Windows-PowerShell-2.0-Engine.190b56ee17b5135bba49f697312b896e5c3755dd.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [Installing-the-Windows-PowerShell-2.0-Engine.190b56ee17b5135bba49f697312b896e5c3755dd.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Installing-the-Windows-PowerShell-2.0-Engine.190b56ee17b5135bba49f697312b896e5c3755dd.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -4944,10 +5590,12 @@
 * Handoff File: [Installing-the-Windows-PowerShell-SDK.bfd31a5fc654dd34236aff66cf62844476672b64.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Installing-the-Windows-PowerShell-SDK.bfd31a5fc654dd34236aff66cf62844476672b64.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Installing-the-Windows-PowerShell-SDK.bfd31a5fc654dd34236aff66cf62844476672b64.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Installing-the-Windows-PowerShell-SDK.bfd31a5fc654dd34236aff66cf62844476672b64.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [Installing-the-Windows-PowerShell-SDK.bfd31a5fc654dd34236aff66cf62844476672b64.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Installing-the-Windows-PowerShell-SDK.bfd31a5fc654dd34236aff66cf62844476672b64.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -4958,10 +5606,12 @@
 * Handoff File: [Installing-Windows-PowerShell.c225d4b5172b3b37e8ac8bff29aa92025a05b723.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Installing-Windows-PowerShell.c225d4b5172b3b37e8ac8bff29aa92025a05b723.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Installing-Windows-PowerShell.c225d4b5172b3b37e8ac8bff29aa92025a05b723.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Installing-Windows-PowerShell.c225d4b5172b3b37e8ac8bff29aa92025a05b723.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [Installing-Windows-PowerShell.c225d4b5172b3b37e8ac8bff29aa92025a05b723.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Installing-Windows-PowerShell.c225d4b5172b3b37e8ac8bff29aa92025a05b723.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -4972,10 +5622,12 @@
 * Handoff File: [security.7b91becb693d5fdadf48da31d0f88030d89c66e9.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/security.7b91becb693d5fdadf48da31d0f88030d89c66e9.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [security.7b91becb693d5fdadf48da31d0f88030d89c66e9.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/security.7b91becb693d5fdadf48da31d0f88030d89c66e9.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [security.7b91becb693d5fdadf48da31d0f88030d89c66e9.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/security.7b91becb693d5fdadf48da31d0f88030d89c66e9.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -4986,10 +5638,12 @@
 * Handoff File: [setup-reference.a03249de1bfe6b8b6b0ea03c359d494f9ed9537d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/setup-reference.a03249de1bfe6b8b6b0ea03c359d494f9ed9537d.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [setup-reference.a03249de1bfe6b8b6b0ea03c359d494f9ed9537d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/setup-reference.a03249de1bfe6b8b6b0ea03c359d494f9ed9537d.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [setup-reference.a03249de1bfe6b8b6b0ea03c359d494f9ed9537d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/setup-reference.a03249de1bfe6b8b6b0ea03c359d494f9ed9537d.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -5000,10 +5654,12 @@
 * Handoff File: [Starting-the-32-Bit-Version-of-Windows-PowerShell.4a4eaf664caff353459bbcc3d81a3756ede97b7f.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Starting-the-32-Bit-Version-of-Windows-PowerShell.4a4eaf664caff353459bbcc3d81a3756ede97b7f.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Starting-the-32-Bit-Version-of-Windows-PowerShell.4a4eaf664caff353459bbcc3d81a3756ede97b7f.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Starting-the-32-Bit-Version-of-Windows-PowerShell.4a4eaf664caff353459bbcc3d81a3756ede97b7f.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [Starting-the-32-Bit-Version-of-Windows-PowerShell.4a4eaf664caff353459bbcc3d81a3756ede97b7f.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Starting-the-32-Bit-Version-of-Windows-PowerShell.4a4eaf664caff353459bbcc3d81a3756ede97b7f.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -5014,10 +5670,12 @@
 * Handoff File: [Starting-the-Windows-PowerShell-2.0-Engine.0df3c4544d747196fba6c23b324ae9b0a2731dbf.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Starting-the-Windows-PowerShell-2.0-Engine.0df3c4544d747196fba6c23b324ae9b0a2731dbf.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Starting-the-Windows-PowerShell-2.0-Engine.0df3c4544d747196fba6c23b324ae9b0a2731dbf.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Starting-the-Windows-PowerShell-2.0-Engine.0df3c4544d747196fba6c23b324ae9b0a2731dbf.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [Starting-the-Windows-PowerShell-2.0-Engine.0df3c4544d747196fba6c23b324ae9b0a2731dbf.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Starting-the-Windows-PowerShell-2.0-Engine.0df3c4544d747196fba6c23b324ae9b0a2731dbf.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -5028,10 +5686,12 @@
 * Handoff File: [Starting-Windows-PowerShell.a3dcf25852cd345b654f8612f2d32861f0ccad4f.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Starting-Windows-PowerShell.a3dcf25852cd345b654f8612f2d32861f0ccad4f.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Starting-Windows-PowerShell.a3dcf25852cd345b654f8612f2d32861f0ccad4f.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Starting-Windows-PowerShell.a3dcf25852cd345b654f8612f2d32861f0ccad4f.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [Starting-Windows-PowerShell.a3dcf25852cd345b654f8612f2d32861f0ccad4f.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Starting-Windows-PowerShell.a3dcf25852cd345b654f8612f2d32861f0ccad4f.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -5042,10 +5702,12 @@
 * Handoff File: [Starting-Windows-PowerShell-on-Earlier-Versions-of-Windows.ac47511df5f424676dbef5b674ac8c6defb39896.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Starting-Windows-PowerShell-on-Earlier-Versions-of-Windows.ac47511df5f424676dbef5b674ac8c6defb39896.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Starting-Windows-PowerShell-on-Earlier-Versions-of-Windows.ac47511df5f424676dbef5b674ac8c6defb39896.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Starting-Windows-PowerShell-on-Earlier-Versions-of-Windows.ac47511df5f424676dbef5b674ac8c6defb39896.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [Starting-Windows-PowerShell-on-Earlier-Versions-of-Windows.ac47511df5f424676dbef5b674ac8c6defb39896.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Starting-Windows-PowerShell-on-Earlier-Versions-of-Windows.ac47511df5f424676dbef5b674ac8c6defb39896.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -5056,10 +5718,12 @@
 * Handoff File: [Windows-PowerShell-System-Requirements.90a72e00f7c321f4c9ff85e3a9ac215639266c9c.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Windows-PowerShell-System-Requirements.90a72e00f7c321f4c9ff85e3a9ac215639266c9c.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Windows-PowerShell-System-Requirements.90a72e00f7c321f4c9ff85e3a9ac215639266c9c.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Windows-PowerShell-System-Requirements.90a72e00f7c321f4c9ff85e3a9ac215639266c9c.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [Windows-PowerShell-System-Requirements.90a72e00f7c321f4c9ff85e3a9ac215639266c9c.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Windows-PowerShell-System-Requirements.90a72e00f7c321f4c9ff85e3a9ac215639266c9c.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -5070,10 +5734,12 @@
 * Handoff File: [WinRMSecurity.255765f15bf2d6a4b9d093e2c9eada2cd613afe0.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/WinRMSecurity.255765f15bf2d6a4b9d093e2c9eada2cd613afe0.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [WinRMSecurity.255765f15bf2d6a4b9d093e2c9eada2cd613afe0.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/WinRMSecurity.255765f15bf2d6a4b9d093e2c9eada2cd613afe0.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [WinRMSecurity.255765f15bf2d6a4b9d093e2c9eada2cd613afe0.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/WinRMSecurity.255765f15bf2d6a4b9d093e2c9eada2cd613afe0.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -5084,10 +5750,12 @@
 * Handoff File: [TOC.94c88eadcdc1b167fb0a17837d186c734f84dea9.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/TOC.94c88eadcdc1b167fb0a17837d186c734f84dea9.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [TOC.94c88eadcdc1b167fb0a17837d186c734f84dea9.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/TOC.94c88eadcdc1b167fb0a17837d186c734f84dea9.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [TOC.94c88eadcdc1b167fb0a17837d186c734f84dea9.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/TOC.94c88eadcdc1b167fb0a17837d186c734f84dea9.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -5098,10 +5766,12 @@
 * Handoff File: [WinRMSecurity.bed416d948611138eff822ac11c040f02ce812b9.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/WinRMSecurity.bed416d948611138eff822ac11c040f02ce812b9.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [WinRMSecurity.bed416d948611138eff822ac11c040f02ce812b9.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/WinRMSecurity.bed416d948611138eff822ac11c040f02ce812b9.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [WinRMSecurity.bed416d948611138eff822ac11c040f02ce812b9.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/WinRMSecurity.bed416d948611138eff822ac11c040f02ce812b9.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -5112,10 +5782,12 @@
 * Handoff File: [What-s-New-in-the-PowerShell-50-ISE.bd27df5ede4241a8e6b57d0582112056984b68c8.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/What-s-New-in-the-PowerShell-50-ISE.bd27df5ede4241a8e6b57d0582112056984b68c8.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [What-s-New-in-the-PowerShell-50-ISE.bd27df5ede4241a8e6b57d0582112056984b68c8.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/What-s-New-in-the-PowerShell-50-ISE.bd27df5ede4241a8e6b57d0582112056984b68c8.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [What-s-New-in-the-PowerShell-50-ISE.bd27df5ede4241a8e6b57d0582112056984b68c8.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/What-s-New-in-the-PowerShell-50-ISE.bd27df5ede4241a8e6b57d0582112056984b68c8.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -5126,10 +5798,12 @@
 * Handoff File: [What-s-New-in-Windows-PowerShell-50.c86af26f5e83de3e47d3ac33f24919d8e93982d7.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/What-s-New-in-Windows-PowerShell-50.c86af26f5e83de3e47d3ac33f24919d8e93982d7.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [What-s-New-in-Windows-PowerShell-50.c86af26f5e83de3e47d3ac33f24919d8e93982d7.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/What-s-New-in-Windows-PowerShell-50.c86af26f5e83de3e47d3ac33f24919d8e93982d7.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [What-s-New-in-Windows-PowerShell-50.c86af26f5e83de3e47d3ac33f24919d8e93982d7.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/What-s-New-in-Windows-PowerShell-50.c86af26f5e83de3e47d3ac33f24919d8e93982d7.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -5140,10 +5814,12 @@
 * Handoff File: [What-s-New-With-PowerShell.8b0e86271984e828077d39559df46f794de87d12.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/What-s-New-With-PowerShell.8b0e86271984e828077d39559df46f794de87d12.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [What-s-New-With-PowerShell.8b0e86271984e828077d39559df46f794de87d12.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/What-s-New-With-PowerShell.8b0e86271984e828077d39559df46f794de87d12.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [What-s-New-With-PowerShell.8b0e86271984e828077d39559df46f794de87d12.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/What-s-New-With-PowerShell.8b0e86271984e828077d39559df46f794de87d12.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -5154,10 +5830,12 @@
 * Handoff File: [Windows-PowerShell-Glossary.77221263d6ea0c1622b940853c173bf68bf4ee7c.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Windows-PowerShell-Glossary.77221263d6ea0c1622b940853c173bf68bf4ee7c.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Windows-PowerShell-Glossary.77221263d6ea0c1622b940853c173bf68bf4ee7c.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Windows-PowerShell-Glossary.77221263d6ea0c1622b940853c173bf68bf4ee7c.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [Windows-PowerShell-Glossary.77221263d6ea0c1622b940853c173bf68bf4ee7c.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Windows-PowerShell-Glossary.77221263d6ea0c1622b940853c173bf68bf4ee7c.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -5168,10 +5846,12 @@
 * Handoff File: [Jason_in_dsc_folder.44b508b72458543d467873ed4f58e9679bd069d1.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/37cbae771d399a12c122bddf40c30f90b0ebfbb8/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Jason_in_dsc_folder.44b508b72458543d467873ed4f58e9679bd069d1.de-de.xlf)
 * Handoff Datetime: 2016-10-12 17:58:32
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: [Jason_in_dsc_folder.44b508b72458543d467873ed4f58e9679bd069d1.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/5ba0536f626b3150a12f1f53a08b7b06e15eec29/ol-archive/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Jason_in_dsc_folder.44b508b72458543d467873ed4f58e9679bd069d1.de-de.xlf)
 * Archive Datetime: 2016-10-27 22:21:25
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
 * [Back to Top](#report-top)
 
 ##### <a name='2160a4b932075c98df6806c61d263d30f650b9f4340'></a> Source: [wmf\5.0\audit_cms.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/wmf/5.0/audit_cms.md)
@@ -5180,10 +5860,12 @@
 * Handoff File: [audit_cms.1a4620c3522dc041191724aaba92897a08d4f2cc.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/audit_cms.1a4620c3522dc041191724aaba92897a08d4f2cc.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [audit_cms.1a4620c3522dc041191724aaba92897a08d4f2cc.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/audit_cms.1a4620c3522dc041191724aaba92897a08d4f2cc.de-de.xlf)
 * Handback Datetime: 2016-10-04 23:08:40
+* Handback Name: 
 * Bilingual File: [audit_cms.1a4620c3522dc041191724aaba92897a08d4f2cc.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/audit_cms.1a4620c3522dc041191724aaba92897a08d4f2cc.de-de.xlf)
 * Bilingual Datetime: 2016-10-04 23:09:03
 * [Back to Top](#report-top)
@@ -5194,10 +5876,12 @@
 * Handoff File: [audit_overview.92ad34c8060616c8b797a90e6812159e2418ad20.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/audit_overview.92ad34c8060616c8b797a90e6812159e2418ad20.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [audit_overview.92ad34c8060616c8b797a90e6812159e2418ad20.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/audit_overview.92ad34c8060616c8b797a90e6812159e2418ad20.de-de.xlf)
 * Handback Datetime: 2016-10-04 23:08:40
+* Handback Name: 
 * Bilingual File: [audit_overview.92ad34c8060616c8b797a90e6812159e2418ad20.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/audit_overview.92ad34c8060616c8b797a90e6812159e2418ad20.de-de.xlf)
 * Bilingual Datetime: 2016-10-04 23:09:03
 * [Back to Top](#report-top)
@@ -5208,10 +5892,12 @@
 * Handoff File: [audit_script.ccd77e9c7f4781d90d16930be2e2e2005ff14222.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/audit_script.ccd77e9c7f4781d90d16930be2e2e2005ff14222.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [audit_script.ccd77e9c7f4781d90d16930be2e2e2005ff14222.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/audit_script.ccd77e9c7f4781d90d16930be2e2e2005ff14222.de-de.xlf)
 * Handback Datetime: 2016-10-04 23:08:40
+* Handback Name: 
 * Bilingual File: [audit_script.ccd77e9c7f4781d90d16930be2e2e2005ff14222.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/audit_script.ccd77e9c7f4781d90d16930be2e2e2005ff14222.de-de.xlf)
 * Bilingual Datetime: 2016-10-04 23:09:03
 * [Back to Top](#report-top)
@@ -5222,10 +5908,12 @@
 * Handoff File: [audit_transcript.742defa1fc2c40092f068aecc8c8eb1036f2c66f.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/audit_transcript.742defa1fc2c40092f068aecc8c8eb1036f2c66f.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [audit_transcript.742defa1fc2c40092f068aecc8c8eb1036f2c66f.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/audit_transcript.742defa1fc2c40092f068aecc8c8eb1036f2c66f.de-de.xlf)
 * Handback Datetime: 2016-10-04 23:08:40
+* Handback Name: 
 * Bilingual File: [audit_transcript.742defa1fc2c40092f068aecc8c8eb1036f2c66f.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/audit_transcript.742defa1fc2c40092f068aecc8c8eb1036f2c66f.de-de.xlf)
 * Bilingual Datetime: 2016-10-04 23:09:03
 * [Back to Top](#report-top)
@@ -5236,10 +5924,12 @@
 * Handoff File: [class_base.4cc8998d2f276a57fa965a488e963ba42771d5b8.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/class_base.4cc8998d2f276a57fa965a488e963ba42771d5b8.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [class_base.4cc8998d2f276a57fa965a488e963ba42771d5b8.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/class_base.4cc8998d2f276a57fa965a488e963ba42771d5b8.de-de.xlf)
 * Handback Datetime: 2016-10-04 23:08:40
+* Handback Name: 
 * Bilingual File: [class_base.4cc8998d2f276a57fa965a488e963ba42771d5b8.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/class_base.4cc8998d2f276a57fa965a488e963ba42771d5b8.de-de.xlf)
 * Bilingual Datetime: 2016-10-04 23:09:03
 * [Back to Top](#report-top)
@@ -5250,10 +5940,12 @@
 * Handoff File: [class_baseconstructor.7fe6ee1dd851ef4aa67d9e97f707b2aee2fecef0.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/class_baseconstructor.7fe6ee1dd851ef4aa67d9e97f707b2aee2fecef0.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [class_baseconstructor.7fe6ee1dd851ef4aa67d9e97f707b2aee2fecef0.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/class_baseconstructor.7fe6ee1dd851ef4aa67d9e97f707b2aee2fecef0.de-de.xlf)
 * Handback Datetime: 2016-10-04 23:08:40
+* Handback Name: 
 * Bilingual File: [class_baseconstructor.7fe6ee1dd851ef4aa67d9e97f707b2aee2fecef0.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/class_baseconstructor.7fe6ee1dd851ef4aa67d9e97f707b2aee2fecef0.de-de.xlf)
 * Bilingual Datetime: 2016-10-04 23:09:03
 * [Back to Top](#report-top)
@@ -5264,10 +5956,12 @@
 * Handoff File: [class_basemethod.196d5316eaf1e61bbb5e5dd6a8449e57e8fc8ab0.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/class_basemethod.196d5316eaf1e61bbb5e5dd6a8449e57e8fc8ab0.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [class_basemethod.196d5316eaf1e61bbb5e5dd6a8449e57e8fc8ab0.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/class_basemethod.196d5316eaf1e61bbb5e5dd6a8449e57e8fc8ab0.de-de.xlf)
 * Handback Datetime: 2016-10-04 23:08:40
+* Handback Name: 
 * Bilingual File: [class_basemethod.196d5316eaf1e61bbb5e5dd6a8449e57e8fc8ab0.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/class_basemethod.196d5316eaf1e61bbb5e5dd6a8449e57e8fc8ab0.de-de.xlf)
 * Bilingual Datetime: 2016-10-04 23:09:03
 * [Back to Top](#report-top)
@@ -5278,10 +5972,12 @@
 * Handoff File: [class_interface.9f3079ca5e797498f02f8747c04250b1f4f3043f.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/class_interface.9f3079ca5e797498f02f8747c04250b1f4f3043f.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [class_interface.9f3079ca5e797498f02f8747c04250b1f4f3043f.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/class_interface.9f3079ca5e797498f02f8747c04250b1f4f3043f.de-de.xlf)
 * Handback Datetime: 2016-10-04 23:08:40
+* Handback Name: 
 * Bilingual File: [class_interface.9f3079ca5e797498f02f8747c04250b1f4f3043f.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/class_interface.9f3079ca5e797498f02f8747c04250b1f4f3043f.de-de.xlf)
 * Bilingual Datetime: 2016-10-04 23:09:03
 * [Back to Top](#report-top)
@@ -5292,10 +5988,12 @@
 * Handoff File: [class_newtype.9ab827c0184e4434bea8e35d941675ccca6c487d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/class_newtype.9ab827c0184e4434bea8e35d941675ccca6c487d.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [class_newtype.9ab827c0184e4434bea8e35d941675ccca6c487d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/class_newtype.9ab827c0184e4434bea8e35d941675ccca6c487d.de-de.xlf)
 * Handback Datetime: 2016-10-04 23:08:40
+* Handback Name: 
 * Bilingual File: [class_newtype.9ab827c0184e4434bea8e35d941675ccca6c487d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/class_newtype.9ab827c0184e4434bea8e35d941675ccca6c487d.de-de.xlf)
 * Bilingual Datetime: 2016-10-04 23:09:03
 * [Back to Top](#report-top)
@@ -5306,10 +6004,12 @@
 * Handoff File: [class_overview.47b2db18ab277465532501bdd9ec704e75ef939d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/class_overview.47b2db18ab277465532501bdd9ec704e75ef939d.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [class_overview.47b2db18ab277465532501bdd9ec704e75ef939d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/class_overview.47b2db18ab277465532501bdd9ec704e75ef939d.de-de.xlf)
 * Handback Datetime: 2016-10-04 23:08:40
+* Handback Name: 
 * Bilingual File: [class_overview.47b2db18ab277465532501bdd9ec704e75ef939d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/class_overview.47b2db18ab277465532501bdd9ec704e75ef939d.de-de.xlf)
 * Bilingual Datetime: 2016-10-04 23:09:03
 * [Back to Top](#report-top)
@@ -5320,10 +6020,12 @@
 * Handoff File: [debug_overview.1dc7b5c9880c61726d759a20f5756d7c955759a7.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/debug_overview.1dc7b5c9880c61726d759a20f5756d7c955759a7.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [debug_overview.1dc7b5c9880c61726d759a20f5756d7c955759a7.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/debug_overview.1dc7b5c9880c61726d759a20f5756d7c955759a7.de-de.xlf)
 * Handback Datetime: 2016-10-04 23:08:40
+* Handback Name: 
 * Bilingual File: [debug_overview.1dc7b5c9880c61726d759a20f5756d7c955759a7.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/debug_overview.1dc7b5c9880c61726d759a20f5756d7c955759a7.de-de.xlf)
 * Bilingual Datetime: 2016-10-04 23:09:03
 * [Back to Top](#report-top)
@@ -5334,10 +6036,12 @@
 * Handoff File: [dsc_authoring.c549b1f0b83923af0cbc07bbf3754a486f8b4303.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_authoring.c549b1f0b83923af0cbc07bbf3754a486f8b4303.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [dsc_authoring.c549b1f0b83923af0cbc07bbf3754a486f8b4303.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_authoring.c549b1f0b83923af0cbc07bbf3754a486f8b4303.de-de.xlf)
 * Handback Datetime: 2016-10-04 23:08:40
+* Handback Name: 
 * Bilingual File: [dsc_authoring.c549b1f0b83923af0cbc07bbf3754a486f8b4303.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_authoring.c549b1f0b83923af0cbc07bbf3754a486f8b4303.de-de.xlf)
 * Bilingual Datetime: 2016-10-04 23:09:03
 * [Back to Top](#report-top)
@@ -5348,10 +6052,12 @@
 * Handoff File: [dsc_classbasedresource.5c3f03799c95e04a59b065d6f8922d74f341a15c.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_classbasedresource.5c3f03799c95e04a59b065d6f8922d74f341a15c.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [dsc_classbasedresource.5c3f03799c95e04a59b065d6f8922d74f341a15c.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_classbasedresource.5c3f03799c95e04a59b065d6f8922d74f341a15c.de-de.xlf)
 * Handback Datetime: 2016-10-04 23:08:40
+* Handback Name: 
 * Bilingual File: [dsc_classbasedresource.5c3f03799c95e04a59b065d6f8922d74f341a15c.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_classbasedresource.5c3f03799c95e04a59b065d6f8922d74f341a15c.de-de.xlf)
 * Bilingual Datetime: 2016-10-04 23:09:03
 * [Back to Top](#report-top)
@@ -5362,10 +6068,12 @@
 * Handoff File: [dsc_confighelp.f820ac9bca8e0dc5c00c6a8fca928469a7bf501b.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_confighelp.f820ac9bca8e0dc5c00c6a8fca928469a7bf501b.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [dsc_confighelp.f820ac9bca8e0dc5c00c6a8fca928469a7bf501b.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_confighelp.f820ac9bca8e0dc5c00c6a8fca928469a7bf501b.de-de.xlf)
 * Handback Datetime: 2016-10-04 23:08:40
+* Handback Name: 
 * Bilingual File: [dsc_confighelp.f820ac9bca8e0dc5c00c6a8fca928469a7bf501b.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_confighelp.f820ac9bca8e0dc5c00c6a8fca928469a7bf501b.de-de.xlf)
 * Bilingual Datetime: 2016-10-04 23:09:03
 * [Back to Top](#report-top)
@@ -5376,10 +6084,12 @@
 * Handoff File: [dsc_directaccess.7a6b66fb5d0c51e4c69ed337e09c14a8a76e9ff4.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_directaccess.7a6b66fb5d0c51e4c69ed337e09c14a8a76e9ff4.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [dsc_directaccess.7a6b66fb5d0c51e4c69ed337e09c14a8a76e9ff4.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_directaccess.7a6b66fb5d0c51e4c69ed337e09c14a8a76e9ff4.de-de.xlf)
 * Handback Datetime: 2016-10-04 23:08:40
+* Handback Name: 
 * Bilingual File: [dsc_directaccess.7a6b66fb5d0c51e4c69ed337e09c14a8a76e9ff4.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_directaccess.7a6b66fb5d0c51e4c69ed337e09c14a8a76e9ff4.de-de.xlf)
 * Bilingual Datetime: 2016-10-04 23:09:03
 * [Back to Top](#report-top)
@@ -5390,10 +6100,12 @@
 * Handoff File: [dsc_encryptedmof.ae98aa583f49a21a6d3fb46448195bcd56337fdc.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_encryptedmof.ae98aa583f49a21a6d3fb46448195bcd56337fdc.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [dsc_encryptedmof.ae98aa583f49a21a6d3fb46448195bcd56337fdc.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_encryptedmof.ae98aa583f49a21a6d3fb46448195bcd56337fdc.de-de.xlf)
 * Handback Datetime: 2016-10-04 23:08:40
+* Handback Name: 
 * Bilingual File: [dsc_encryptedmof.ae98aa583f49a21a6d3fb46448195bcd56337fdc.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_encryptedmof.ae98aa583f49a21a6d3fb46448195bcd56337fdc.de-de.xlf)
 * Bilingual Datetime: 2016-10-04 23:09:03
 * [Back to Top](#report-top)
@@ -5404,10 +6116,12 @@
 * Handoff File: [dsc_freqnomultiple.24a510bddeb0893246c680375a783ba9be7c648b.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_freqnomultiple.24a510bddeb0893246c680375a783ba9be7c648b.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [dsc_freqnomultiple.24a510bddeb0893246c680375a783ba9be7c648b.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_freqnomultiple.24a510bddeb0893246c680375a783ba9be7c648b.de-de.xlf)
 * Handback Datetime: 2016-10-04 23:08:40
+* Handback Name: 
 * Bilingual File: [dsc_freqnomultiple.24a510bddeb0893246c680375a783ba9be7c648b.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_freqnomultiple.24a510bddeb0893246c680375a783ba9be7c648b.de-de.xlf)
 * Bilingual Datetime: 2016-10-04 23:09:03
 * [Back to Top](#report-top)
@@ -5418,10 +6132,12 @@
 * Handoff File: [dsc_getconfigurationstatus.6dbd8b8c78c8ec42545c0e351d242cfdaa1d7eef.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_getconfigurationstatus.6dbd8b8c78c8ec42545c0e351d242cfdaa1d7eef.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [dsc_getconfigurationstatus.6dbd8b8c78c8ec42545c0e351d242cfdaa1d7eef.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_getconfigurationstatus.6dbd8b8c78c8ec42545c0e351d242cfdaa1d7eef.de-de.xlf)
 * Handback Datetime: 2016-10-04 23:08:40
+* Handback Name: 
 * Bilingual File: [dsc_getconfigurationstatus.6dbd8b8c78c8ec42545c0e351d242cfdaa1d7eef.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_getconfigurationstatus.6dbd8b8c78c8ec42545c0e351d242cfdaa1d7eef.de-de.xlf)
 * Bilingual Datetime: 2016-10-04 23:09:03
 * [Back to Top](#report-top)
@@ -5432,10 +6148,12 @@
 * Handoff File: [dsc_identicalduplicate.5d2a56666d6760f99354e53bd0572bed6f5327a9.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_identicalduplicate.5d2a56666d6760f99354e53bd0572bed6f5327a9.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [dsc_identicalduplicate.5d2a56666d6760f99354e53bd0572bed6f5327a9.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_identicalduplicate.5d2a56666d6760f99354e53bd0572bed6f5327a9.de-de.xlf)
 * Handback Datetime: 2016-10-04 23:08:40
+* Handback Name: 
 * Bilingual File: [dsc_identicalduplicate.5d2a56666d6760f99354e53bd0572bed6f5327a9.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_identicalduplicate.5d2a56666d6760f99354e53bd0572bed6f5327a9.de-de.xlf)
 * Bilingual Datetime: 2016-10-04 23:09:03
 * [Back to Top](#report-top)
@@ -5446,10 +6164,12 @@
 * Handoff File: [dsc_importdscresource.6e807c405f17f191256af2d3a990bb08e143b60e.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_importdscresource.6e807c405f17f191256af2d3a990bb08e143b60e.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [dsc_importdscresource.6e807c405f17f191256af2d3a990bb08e143b60e.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_importdscresource.6e807c405f17f191256af2d3a990bb08e143b60e.de-de.xlf)
 * Handback Datetime: 2016-10-04 23:08:40
+* Handback Name: 
 * Bilingual File: [dsc_importdscresource.6e807c405f17f191256af2d3a990bb08e143b60e.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_importdscresource.6e807c405f17f191256af2d3a990bb08e143b60e.de-de.xlf)
 * Bilingual Datetime: 2016-10-04 23:09:03
 * [Back to Top](#report-top)
@@ -5460,10 +6180,12 @@
 * Handoff File: [dsc_improvements.ef97b488849556e2b3c44d95f49f5b63fa3153bd.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_improvements.ef97b488849556e2b3c44d95f49f5b63fa3153bd.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [dsc_improvements.ef97b488849556e2b3c44d95f49f5b63fa3153bd.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_improvements.ef97b488849556e2b3c44d95f49f5b63fa3153bd.de-de.xlf)
 * Handback Datetime: 2016-10-04 23:08:40
+* Handback Name: 
 * Bilingual File: [dsc_improvements.ef97b488849556e2b3c44d95f49f5b63fa3153bd.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_improvements.ef97b488849556e2b3c44d95f49f5b63fa3153bd.de-de.xlf)
 * Bilingual Datetime: 2016-10-04 23:09:03
 * [Back to Top](#report-top)
@@ -5474,10 +6196,12 @@
 * Handoff File: [dsc_lcmstate.cd64c6e3e1e836262b70ece11b130e06b6f3bad0.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_lcmstate.cd64c6e3e1e836262b70ece11b130e06b6f3bad0.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [dsc_lcmstate.cd64c6e3e1e836262b70ece11b130e06b6f3bad0.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_lcmstate.cd64c6e3e1e836262b70ece11b130e06b6f3bad0.de-de.xlf)
 * Handback Datetime: 2016-10-04 23:08:40
+* Handback Name: 
 * Bilingual File: [dsc_lcmstate.cd64c6e3e1e836262b70ece11b130e06b6f3bad0.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_lcmstate.cd64c6e3e1e836262b70ece11b130e06b6f3bad0.de-de.xlf)
 * Bilingual Datetime: 2016-10-04 23:09:03
 * [Back to Top](#report-top)
@@ -5488,10 +6212,12 @@
 * Handoff File: [dsc_metaconfiguration.35d6b407146eac14a3a7029b9de7033c38a22bb9.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_metaconfiguration.35d6b407146eac14a3a7029b9de7033c38a22bb9.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [dsc_metaconfiguration.35d6b407146eac14a3a7029b9de7033c38a22bb9.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_metaconfiguration.35d6b407146eac14a3a7029b9de7033c38a22bb9.de-de.xlf)
 * Handback Datetime: 2016-10-04 23:08:40
+* Handback Name: 
 * Bilingual File: [dsc_metaconfiguration.35d6b407146eac14a3a7029b9de7033c38a22bb9.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_metaconfiguration.35d6b407146eac14a3a7029b9de7033c38a22bb9.de-de.xlf)
 * Bilingual Datetime: 2016-10-04 23:09:03
 * [Back to Top](#report-top)
@@ -5502,10 +6228,12 @@
 * Handoff File: [dsc_newresources.ab9c09459bc25b3931945d9d404f4599a48be7e0.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_newresources.ab9c09459bc25b3931945d9d404f4599a48be7e0.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [dsc_newresources.ab9c09459bc25b3931945d9d404f4599a48be7e0.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_newresources.ab9c09459bc25b3931945d9d404f4599a48be7e0.de-de.xlf)
 * Handback Datetime: 2016-10-04 23:08:40
+* Handback Name: 
 * Bilingual File: [dsc_newresources.ab9c09459bc25b3931945d9d404f4599a48be7e0.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_newresources.ab9c09459bc25b3931945d9d404f4599a48be7e0.de-de.xlf)
 * Bilingual Datetime: 2016-10-04 23:09:03
 * [Back to Top](#report-top)
@@ -5516,10 +6244,12 @@
 * Handoff File: [dsc_nodeid.d5c351f720310ee08eb5cc0449bcd89fc6c828b1.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_nodeid.d5c351f720310ee08eb5cc0449bcd89fc6c828b1.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [dsc_nodeid.d5c351f720310ee08eb5cc0449bcd89fc6c828b1.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_nodeid.d5c351f720310ee08eb5cc0449bcd89fc6c828b1.de-de.xlf)
 * Handback Datetime: 2016-10-04 23:08:40
+* Handback Name: 
 * Bilingual File: [dsc_nodeid.d5c351f720310ee08eb5cc0449bcd89fc6c828b1.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_nodeid.d5c351f720310ee08eb5cc0449bcd89fc6c828b1.de-de.xlf)
 * Bilingual Datetime: 2016-10-04 23:09:03
 * [Back to Top](#report-top)
@@ -5530,10 +6260,12 @@
 * Handoff File: [dsc_partialconfig.7a57fc67534f25ae1cee47917aa5f48c9fe07fe2.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_partialconfig.7a57fc67534f25ae1cee47917aa5f48c9fe07fe2.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [dsc_partialconfig.7a57fc67534f25ae1cee47917aa5f48c9fe07fe2.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_partialconfig.7a57fc67534f25ae1cee47917aa5f48c9fe07fe2.de-de.xlf)
 * Handback Datetime: 2016-10-04 23:08:40
+* Handback Name: 
 * Bilingual File: [dsc_partialconfig.7a57fc67534f25ae1cee47917aa5f48c9fe07fe2.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_partialconfig.7a57fc67534f25ae1cee47917aa5f48c9fe07fe2.de-de.xlf)
 * Bilingual Datetime: 2016-10-04 23:09:03
 * [Back to Top](#report-top)
@@ -5544,10 +6276,12 @@
 * Handoff File: [dsc_partialconfig_mixedmode.589a3de34413ae3f13f49ff83861189d47e231b2.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_partialconfig_mixedmode.589a3de34413ae3f13f49ff83861189d47e231b2.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [dsc_partialconfig_mixedmode.589a3de34413ae3f13f49ff83861189d47e231b2.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_partialconfig_mixedmode.589a3de34413ae3f13f49ff83861189d47e231b2.de-de.xlf)
 * Handback Datetime: 2016-10-04 23:08:40
+* Handback Name: 
 * Bilingual File: [dsc_partialconfig_mixedmode.589a3de34413ae3f13f49ff83861189d47e231b2.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_partialconfig_mixedmode.589a3de34413ae3f13f49ff83861189d47e231b2.de-de.xlf)
 * Bilingual Datetime: 2016-10-04 23:09:03
 * [Back to Top](#report-top)
@@ -5558,10 +6292,12 @@
 * Handoff File: [dsc_publishconfig.d1e8983bf865e4d34049ce85fe6bc796ca7f6c92.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_publishconfig.d1e8983bf865e4d34049ce85fe6bc796ca7f6c92.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [dsc_publishconfig.d1e8983bf865e4d34049ce85fe6bc796ca7f6c92.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_publishconfig.d1e8983bf865e4d34049ce85fe6bc796ca7f6c92.de-de.xlf)
 * Handback Datetime: 2016-10-04 23:08:40
+* Handback Name: 
 * Bilingual File: [dsc_publishconfig.d1e8983bf865e4d34049ce85fe6bc796ca7f6c92.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_publishconfig.d1e8983bf865e4d34049ce85fe6bc796ca7f6c92.de-de.xlf)
 * Bilingual Datetime: 2016-10-04 23:09:03
 * [Back to Top](#report-top)
@@ -5572,10 +6308,12 @@
 * Handoff File: [dsc_refreshmode.aae04d9212e4bdfa064262dbc13ff73f67d28fc3.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_refreshmode.aae04d9212e4bdfa064262dbc13ff73f67d28fc3.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [dsc_refreshmode.aae04d9212e4bdfa064262dbc13ff73f67d28fc3.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_refreshmode.aae04d9212e4bdfa064262dbc13ff73f67d28fc3.de-de.xlf)
 * Handback Datetime: 2016-10-04 23:08:40
+* Handback Name: 
 * Bilingual File: [dsc_refreshmode.aae04d9212e4bdfa064262dbc13ff73f67d28fc3.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_refreshmode.aae04d9212e4bdfa064262dbc13ff73f67d28fc3.de-de.xlf)
 * Bilingual Datetime: 2016-10-04 23:09:03
 * [Back to Top](#report-top)
@@ -5586,10 +6324,12 @@
 * Handoff File: [dsc_removeconfigdoc.83ad29516446e4b7390a6cacef8d0de31bb735a3.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_removeconfigdoc.83ad29516446e4b7390a6cacef8d0de31bb735a3.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [dsc_removeconfigdoc.83ad29516446e4b7390a6cacef8d0de31bb735a3.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_removeconfigdoc.83ad29516446e4b7390a6cacef8d0de31bb735a3.de-de.xlf)
 * Handback Datetime: 2016-10-04 23:08:40
+* Handback Name: 
 * Bilingual File: [dsc_removeconfigdoc.83ad29516446e4b7390a6cacef8d0de31bb735a3.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_removeconfigdoc.83ad29516446e4b7390a6cacef8d0de31bb735a3.de-de.xlf)
 * Bilingual Datetime: 2016-10-04 23:09:03
 * [Back to Top](#report-top)
@@ -5600,10 +6340,12 @@
 * Handoff File: [dsc_reporting.3683c7c2b6af9827ef59d833315a1fe1753f4724.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_reporting.3683c7c2b6af9827ef59d833315a1fe1753f4724.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [dsc_reporting.3683c7c2b6af9827ef59d833315a1fe1753f4724.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_reporting.3683c7c2b6af9827ef59d833315a1fe1753f4724.de-de.xlf)
 * Handback Datetime: 2016-10-04 23:08:40
+* Handback Name: 
 * Bilingual File: [dsc_reporting.3683c7c2b6af9827ef59d833315a1fe1753f4724.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_reporting.3683c7c2b6af9827ef59d833315a1fe1753f4724.de-de.xlf)
 * Bilingual Datetime: 2016-10-04 23:09:03
 * [Back to Top](#report-top)
@@ -5614,10 +6356,12 @@
 * Handoff File: [dsc_repository.deb1b97eeef91cd16ea753a88765f7e6c8f61292.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_repository.deb1b97eeef91cd16ea753a88765f7e6c8f61292.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [dsc_repository.deb1b97eeef91cd16ea753a88765f7e6c8f61292.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_repository.deb1b97eeef91cd16ea753a88765f7e6c8f61292.de-de.xlf)
 * Handback Datetime: 2016-10-04 23:08:40
+* Handback Name: 
 * Bilingual File: [dsc_repository.deb1b97eeef91cd16ea753a88765f7e6c8f61292.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_repository.deb1b97eeef91cd16ea753a88765f7e6c8f61292.de-de.xlf)
 * Bilingual Datetime: 2016-10-04 23:09:03
 * [Back to Top](#report-top)
@@ -5628,10 +6372,12 @@
 * Handoff File: [dsc_resourcedebugging.094cf92c8661eb6bf762a1e58fc19a5166ae2104.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_resourcedebugging.094cf92c8661eb6bf762a1e58fc19a5166ae2104.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [dsc_resourcedebugging.094cf92c8661eb6bf762a1e58fc19a5166ae2104.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_resourcedebugging.094cf92c8661eb6bf762a1e58fc19a5166ae2104.de-de.xlf)
 * Handback Datetime: 2016-10-04 23:08:40
+* Handback Name: 
 * Bilingual File: [dsc_resourcedebugging.094cf92c8661eb6bf762a1e58fc19a5166ae2104.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_resourcedebugging.094cf92c8661eb6bf762a1e58fc19a5166ae2104.de-de.xlf)
 * Bilingual Datetime: 2016-10-04 23:09:03
 * [Back to Top](#report-top)
@@ -5642,10 +6388,12 @@
 * Handoff File: [dsc_runas.1962ecfa965fe6bb030c6cf8ceb5aa07252b3126.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_runas.1962ecfa965fe6bb030c6cf8ceb5aa07252b3126.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [dsc_runas.1962ecfa965fe6bb030c6cf8ceb5aa07252b3126.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_runas.1962ecfa965fe6bb030c6cf8ceb5aa07252b3126.de-de.xlf)
 * Handback Datetime: 2016-10-04 23:08:40
+* Handback Name: 
 * Bilingual File: [dsc_runas.1962ecfa965fe6bb030c6cf8ceb5aa07252b3126.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_runas.1962ecfa965fe6bb030c6cf8ceb5aa07252b3126.de-de.xlf)
 * Bilingual Datetime: 2016-10-04 23:09:03
 * [Back to Top](#report-top)
@@ -5656,10 +6404,12 @@
 * Handoff File: [dsc_setdsclcm.ef6c7d4888ecc43581b14aae37e8323a0436d5cc.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_setdsclcm.ef6c7d4888ecc43581b14aae37e8323a0436d5cc.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [dsc_setdsclcm.ef6c7d4888ecc43581b14aae37e8323a0436d5cc.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_setdsclcm.ef6c7d4888ecc43581b14aae37e8323a0436d5cc.de-de.xlf)
 * Handback Datetime: 2016-10-04 23:08:40
+* Handback Name: 
 * Bilingual File: [dsc_setdsclcm.ef6c7d4888ecc43581b14aae37e8323a0436d5cc.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_setdsclcm.ef6c7d4888ecc43581b14aae37e8323a0436d5cc.de-de.xlf)
 * Bilingual Datetime: 2016-10-04 23:09:03
 * [Back to Top](#report-top)
@@ -5670,10 +6420,12 @@
 * Handoff File: [dsc_statestatus.e27c3bcf9358f0bcde16f5f499fcbd4c43622786.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_statestatus.e27c3bcf9358f0bcde16f5f499fcbd4c43622786.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [dsc_statestatus.e27c3bcf9358f0bcde16f5f499fcbd4c43622786.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_statestatus.e27c3bcf9358f0bcde16f5f499fcbd4c43622786.de-de.xlf)
 * Handback Datetime: 2016-10-04 23:08:40
+* Handback Name: 
 * Bilingual File: [dsc_statestatus.e27c3bcf9358f0bcde16f5f499fcbd4c43622786.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_statestatus.e27c3bcf9358f0bcde16f5f499fcbd4c43622786.de-de.xlf)
 * Bilingual Datetime: 2016-10-04 23:09:03
 * [Back to Top](#report-top)
@@ -5684,10 +6436,12 @@
 * Handoff File: [dsc_sxsresource.d69876c715c1fdad209db88936b87f8e2b29f24c.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_sxsresource.d69876c715c1fdad209db88936b87f8e2b29f24c.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [dsc_sxsresource.d69876c715c1fdad209db88936b87f8e2b29f24c.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_sxsresource.d69876c715c1fdad209db88936b87f8e2b29f24c.de-de.xlf)
 * Handback Datetime: 2016-10-04 23:08:40
+* Handback Name: 
 * Bilingual File: [dsc_sxsresource.d69876c715c1fdad209db88936b87f8e2b29f24c.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_sxsresource.d69876c715c1fdad209db88936b87f8e2b29f24c.de-de.xlf)
 * Bilingual Datetime: 2016-10-04 23:09:03
 * [Back to Top](#report-top)
@@ -5698,10 +6452,12 @@
 * Handoff File: [dsc_testconfiguration.80d6e6c713d3c87ea98a35ea9a2b1ecdf85d9b68.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_testconfiguration.80d6e6c713d3c87ea98a35ea9a2b1ecdf85d9b68.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [dsc_testconfiguration.80d6e6c713d3c87ea98a35ea9a2b1ecdf85d9b68.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_testconfiguration.80d6e6c713d3c87ea98a35ea9a2b1ecdf85d9b68.de-de.xlf)
 * Handback Datetime: 2016-10-04 23:08:40
+* Handback Name: 
 * Bilingual File: [dsc_testconfiguration.80d6e6c713d3c87ea98a35ea9a2b1ecdf85d9b68.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_testconfiguration.80d6e6c713d3c87ea98a35ea9a2b1ecdf85d9b68.de-de.xlf)
 * Bilingual Datetime: 2016-10-04 23:09:03
 * [Back to Top](#report-top)
@@ -5712,10 +6468,12 @@
 * Handoff File: [dsc_updateconfig.b3842fd986f3d536d3f4449fb960724b496517d9.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_updateconfig.b3842fd986f3d536d3f4449fb960724b496517d9.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [dsc_updateconfig.b3842fd986f3d536d3f4449fb960724b496517d9.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_updateconfig.b3842fd986f3d536d3f4449fb960724b496517d9.de-de.xlf)
 * Handback Datetime: 2016-10-04 23:08:40
+* Handback Name: 
 * Bilingual File: [dsc_updateconfig.b3842fd986f3d536d3f4449fb960724b496517d9.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_updateconfig.b3842fd986f3d536d3f4449fb960724b496517d9.de-de.xlf)
 * Bilingual Datetime: 2016-10-04 23:09:03
 * [Back to Top](#report-top)
@@ -5726,10 +6484,12 @@
 * Handoff File: [dsc_waitfor.48580aa1828047d340b5e5c526709461d5ebe255.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_waitfor.48580aa1828047d340b5e5c526709461d5ebe255.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [dsc_waitfor.48580aa1828047d340b5e5c526709461d5ebe255.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_waitfor.48580aa1828047d340b5e5c526709461d5ebe255.de-de.xlf)
 * Handback Datetime: 2016-10-04 23:08:40
+* Handback Name: 
 * Bilingual File: [dsc_waitfor.48580aa1828047d340b5e5c526709461d5ebe255.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_waitfor.48580aa1828047d340b5e5c526709461d5ebe255.de-de.xlf)
 * Bilingual Datetime: 2016-10-04 23:09:03
 * [Back to Top](#report-top)
@@ -5740,10 +6500,12 @@
 * Handoff File: [dsc_wow64.c734644e88e00205f45013bd4b2341f7df609095.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_wow64.c734644e88e00205f45013bd4b2341f7df609095.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [dsc_wow64.c734644e88e00205f45013bd4b2341f7df609095.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_wow64.c734644e88e00205f45013bd4b2341f7df609095.de-de.xlf)
 * Handback Datetime: 2016-10-04 23:08:40
+* Handback Name: 
 * Bilingual File: [dsc_wow64.c734644e88e00205f45013bd4b2341f7df609095.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/dsc_wow64.c734644e88e00205f45013bd4b2341f7df609095.de-de.xlf)
 * Bilingual Datetime: 2016-10-04 23:09:03
 * [Back to Top](#report-top)
@@ -5754,10 +6516,12 @@
 * Handoff File: [feedback.143816a6c4b84d9da34b8073d5cc6c72a028e551.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/feedback.143816a6c4b84d9da34b8073d5cc6c72a028e551.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [feedback.143816a6c4b84d9da34b8073d5cc6c72a028e551.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/feedback.143816a6c4b84d9da34b8073d5cc6c72a028e551.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [feedback.143816a6c4b84d9da34b8073d5cc6c72a028e551.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/feedback.143816a6c4b84d9da34b8073d5cc6c72a028e551.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -5768,10 +6532,12 @@
 * Handoff File: [feedback_archive.3381bea4a70c6c2b6f28cb1c554c19b458f13d1b.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/feedback_archive.3381bea4a70c6c2b6f28cb1c554c19b458f13d1b.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [feedback_archive.3381bea4a70c6c2b6f28cb1c554c19b458f13d1b.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/feedback_archive.3381bea4a70c6c2b6f28cb1c554c19b458f13d1b.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [feedback_archive.3381bea4a70c6c2b6f28cb1c554c19b458f13d1b.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/feedback_archive.3381bea4a70c6c2b6f28cb1c554c19b458f13d1b.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -5782,10 +6548,12 @@
 * Handoff File: [feedback_clipboard.84e163db6285a65adaadcceb579060323e57f5c1.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/feedback_clipboard.84e163db6285a65adaadcceb579060323e57f5c1.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [feedback_clipboard.84e163db6285a65adaadcceb579060323e57f5c1.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/feedback_clipboard.84e163db6285a65adaadcceb579060323e57f5c1.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [feedback_clipboard.84e163db6285a65adaadcceb579060323e57f5c1.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/feedback_clipboard.84e163db6285a65adaadcceb579060323e57f5c1.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -5796,10 +6564,12 @@
 * Handoff File: [feedback_cmdlets.b67689cce17c378dad22880611f703622d92b4ad.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/feedback_cmdlets.b67689cce17c378dad22880611f703622d92b4ad.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [feedback_cmdlets.b67689cce17c378dad22880611f703622d92b4ad.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/feedback_cmdlets.b67689cce17c378dad22880611f703622d92b4ad.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [feedback_cmdlets.b67689cce17c378dad22880611f703622d92b4ad.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/feedback_cmdlets.b67689cce17c378dad22880611f703622d92b4ad.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -5810,10 +6580,12 @@
 * Handoff File: [feedback_convertfromString.109a190f24e69d8fe8d9b7d1fb090ce4f9a5267d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/feedback_convertfromString.109a190f24e69d8fe8d9b7d1fb090ce4f9a5267d.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [feedback_convertfromString.109a190f24e69d8fe8d9b7d1fb090ce4f9a5267d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/feedback_convertfromString.109a190f24e69d8fe8d9b7d1fb090ce4f9a5267d.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [feedback_convertfromString.109a190f24e69d8fe8d9b7d1fb090ce4f9a5267d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/feedback_convertfromString.109a190f24e69d8fe8d9b7d1fb090ce4f9a5267d.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -5824,10 +6596,12 @@
 * Handoff File: [feedback_convertstring.bc59fc0bc4dcce51a1f6f58584cc6a8fc654bd47.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/feedback_convertstring.bc59fc0bc4dcce51a1f6f58584cc6a8fc654bd47.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [feedback_convertstring.bc59fc0bc4dcce51a1f6f58584cc6a8fc654bd47.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/feedback_convertstring.bc59fc0bc4dcce51a1f6f58584cc6a8fc654bd47.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [feedback_convertstring.bc59fc0bc4dcce51a1f6f58584cc6a8fc654bd47.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/feedback_convertstring.bc59fc0bc4dcce51a1f6f58584cc6a8fc654bd47.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -5838,10 +6612,12 @@
 * Handoff File: [feedback_fileinfo.e03f597cbd149812b9f543125711d0c2ac066301.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/feedback_fileinfo.e03f597cbd149812b9f543125711d0c2ac066301.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [feedback_fileinfo.e03f597cbd149812b9f543125711d0c2ac066301.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/feedback_fileinfo.e03f597cbd149812b9f543125711d0c2ac066301.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [feedback_fileinfo.e03f597cbd149812b9f543125711d0c2ac066301.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/feedback_fileinfo.e03f597cbd149812b9f543125711d0c2ac066301.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -5852,10 +6628,12 @@
 * Handoff File: [feedback_formathex.b7985634766247ec982733c5aa0a82e79780d00e.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/feedback_formathex.b7985634766247ec982733c5aa0a82e79780d00e.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [feedback_formathex.b7985634766247ec982733c5aa0a82e79780d00e.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/feedback_formathex.b7985634766247ec982733c5aa0a82e79780d00e.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [feedback_formathex.b7985634766247ec982733c5aa0a82e79780d00e.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/feedback_formathex.b7985634766247ec982733c5aa0a82e79780d00e.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -5866,10 +6644,12 @@
 * Handoff File: [feedback_getchilditem.799596155029a30f1298c5144b0cb113af2b2bed.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/feedback_getchilditem.799596155029a30f1298c5144b0cb113af2b2bed.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [feedback_getchilditem.799596155029a30f1298c5144b0cb113af2b2bed.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/feedback_getchilditem.799596155029a30f1298c5144b0cb113af2b2bed.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [feedback_getchilditem.799596155029a30f1298c5144b0cb113af2b2bed.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/feedback_getchilditem.799596155029a30f1298c5144b0cb113af2b2bed.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -5880,10 +6660,12 @@
 * Handoff File: [feedback_moduleversionranges.6fba6bc01ecc078ab098b4cca47890fc7d1c3e36.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/feedback_moduleversionranges.6fba6bc01ecc078ab098b4cca47890fc7d1c3e36.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [feedback_moduleversionranges.6fba6bc01ecc078ab098b4cca47890fc7d1c3e36.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/feedback_moduleversionranges.6fba6bc01ecc078ab098b4cca47890fc7d1c3e36.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [feedback_moduleversionranges.6fba6bc01ecc078ab098b4cca47890fc7d1c3e36.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/feedback_moduleversionranges.6fba6bc01ecc078ab098b4cca47890fc7d1c3e36.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -5894,10 +6676,12 @@
 * Handoff File: [feedback_newguid.56818e4e062722ce589308307f208042aa0f493d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/feedback_newguid.56818e4e062722ce589308307f208042aa0f493d.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [feedback_newguid.56818e4e062722ce589308307f208042aa0f493d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/feedback_newguid.56818e4e062722ce589308307f208042aa0f493d.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [feedback_newguid.56818e4e062722ce589308307f208042aa0f493d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/feedback_newguid.56818e4e062722ce589308307f208042aa0f493d.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -5908,10 +6692,12 @@
 * Handoff File: [feedback_nonewline.011fc617cd5977a94aba667ba59ba06e9121de5f.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/feedback_nonewline.011fc617cd5977a94aba667ba59ba06e9121de5f.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [feedback_nonewline.011fc617cd5977a94aba667ba59ba06e9121de5f.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/feedback_nonewline.011fc617cd5977a94aba667ba59ba06e9121de5f.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [feedback_nonewline.011fc617cd5977a94aba667ba59ba06e9121de5f.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/feedback_nonewline.011fc617cd5977a94aba667ba59ba06e9121de5f.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -5922,10 +6708,12 @@
 * Handoff File: [feedback_symbolic.2a9a5acdc77b4047244ecc185a2d34209c6a9ca7.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/feedback_symbolic.2a9a5acdc77b4047244ecc185a2d34209c6a9ca7.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [feedback_symbolic.2a9a5acdc77b4047244ecc185a2d34209c6a9ca7.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/feedback_symbolic.2a9a5acdc77b4047244ecc185a2d34209c6a9ca7.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [feedback_symbolic.2a9a5acdc77b4047244ecc185a2d34209c6a9ca7.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/feedback_symbolic.2a9a5acdc77b4047244ecc185a2d34209c6a9ca7.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -5936,10 +6724,12 @@
 * Handoff File: [feedback_tempfile.ae7dfa32b29a84b34de0ca2cbad4b7a147828ca7.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/feedback_tempfile.ae7dfa32b29a84b34de0ca2cbad4b7a147828ca7.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [feedback_tempfile.ae7dfa32b29a84b34de0ca2cbad4b7a147828ca7.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/feedback_tempfile.ae7dfa32b29a84b34de0ca2cbad4b7a147828ca7.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [feedback_tempfile.ae7dfa32b29a84b34de0ca2cbad4b7a147828ca7.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/feedback_tempfile.ae7dfa32b29a84b34de0ca2cbad4b7a147828ca7.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -5950,10 +6740,12 @@
 * Handoff File: [informationstream_overview.2a7cf6cc8c38f66d757db9737aba17961b59dd48.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/informationstream_overview.2a7cf6cc8c38f66d757db9737aba17961b59dd48.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [informationstream_overview.2a7cf6cc8c38f66d757db9737aba17961b59dd48.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/informationstream_overview.2a7cf6cc8c38f66d757db9737aba17961b59dd48.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [informationstream_overview.2a7cf6cc8c38f66d757db9737aba17961b59dd48.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/informationstream_overview.2a7cf6cc8c38f66d757db9737aba17961b59dd48.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -5964,10 +6756,12 @@
 * Handoff File: [install.299002dd28808701e6fba3662bcf3fa7bfd0afcd.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/install.299002dd28808701e6fba3662bcf3fa7bfd0afcd.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [install.299002dd28808701e6fba3662bcf3fa7bfd0afcd.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/install.299002dd28808701e6fba3662bcf3fa7bfd0afcd.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [install.299002dd28808701e6fba3662bcf3fa7bfd0afcd.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/install.299002dd28808701e6fba3662bcf3fa7bfd0afcd.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -5978,10 +6772,12 @@
 * Handoff File: [jea_endpoint.cb08c9d0f8049659e6507d3de1d0a8c36b60990f.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/jea_endpoint.cb08c9d0f8049659e6507d3de1d0a8c36b60990f.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [jea_endpoint.cb08c9d0f8049659e6507d3de1d0a8c36b60990f.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/jea_endpoint.cb08c9d0f8049659e6507d3de1d0a8c36b60990f.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [jea_endpoint.cb08c9d0f8049659e6507d3de1d0a8c36b60990f.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/jea_endpoint.cb08c9d0f8049659e6507d3de1d0a8c36b60990f.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -5992,10 +6788,12 @@
 * Handoff File: [jea_overview.658a52745f6cffa61c193add5b15d6ed92ae05f2.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/jea_overview.658a52745f6cffa61c193add5b15d6ed92ae05f2.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [jea_overview.658a52745f6cffa61c193add5b15d6ed92ae05f2.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/jea_overview.658a52745f6cffa61c193add5b15d6ed92ae05f2.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [jea_overview.658a52745f6cffa61c193add5b15d6ed92ae05f2.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/jea_overview.658a52745f6cffa61c193add5b15d6ed92ae05f2.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -6006,10 +6804,12 @@
 * Handoff File: [jea_report.fbb80f728acef34b319fa10333051f0c1fbe68f3.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/jea_report.fbb80f728acef34b319fa10333051f0c1fbe68f3.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [jea_report.fbb80f728acef34b319fa10333051f0c1fbe68f3.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/jea_report.fbb80f728acef34b319fa10333051f0c1fbe68f3.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [jea_report.fbb80f728acef34b319fa10333051f0c1fbe68f3.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/jea_report.fbb80f728acef34b319fa10333051f0c1fbe68f3.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -6020,10 +6820,12 @@
 * Handoff File: [limitation_dsc.84393b9f829dc3ec01781af7ab4702c88eefacce.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/limitation_dsc.84393b9f829dc3ec01781af7ab4702c88eefacce.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [limitation_dsc.84393b9f829dc3ec01781af7ab4702c88eefacce.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/limitation_dsc.84393b9f829dc3ec01781af7ab4702c88eefacce.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [limitation_dsc.84393b9f829dc3ec01781af7ab4702c88eefacce.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/limitation_dsc.84393b9f829dc3ec01781af7ab4702c88eefacce.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -6034,10 +6836,12 @@
 * Handoff File: [limitation_overview.4c88716fba1165ec8c8f879705c3e1ac3be95c3b.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/limitation_overview.4c88716fba1165ec8c8f879705c3e1ac3be95c3b.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [limitation_overview.4c88716fba1165ec8c8f879705c3e1ac3be95c3b.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/limitation_overview.4c88716fba1165ec8c8f879705c3e1ac3be95c3b.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [limitation_overview.4c88716fba1165ec8c8f879705c3e1ac3be95c3b.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/limitation_overview.4c88716fba1165ec8c8f879705c3e1ac3be95c3b.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -6048,10 +6852,12 @@
 * Handoff File: [networkswitch_overview.f76fbd99321e35e96ca483cf3029400cffc3cbbb.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/networkswitch_overview.f76fbd99321e35e96ca483cf3029400cffc3cbbb.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [networkswitch_overview.f76fbd99321e35e96ca483cf3029400cffc3cbbb.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/networkswitch_overview.f76fbd99321e35e96ca483cf3029400cffc3cbbb.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [networkswitch_overview.f76fbd99321e35e96ca483cf3029400cffc3cbbb.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/networkswitch_overview.f76fbd99321e35e96ca483cf3029400cffc3cbbb.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -6062,10 +6868,12 @@
 * Handoff File: [odata_overview.8e2a9a6439fd99d29ee8bbf95227a47facf1d339.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/odata_overview.8e2a9a6439fd99d29ee8bbf95227a47facf1d339.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [odata_overview.8e2a9a6439fd99d29ee8bbf95227a47facf1d339.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/odata_overview.8e2a9a6439fd99d29ee8bbf95227a47facf1d339.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [odata_overview.8e2a9a6439fd99d29ee8bbf95227a47facf1d339.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/odata_overview.8e2a9a6439fd99d29ee8bbf95227a47facf1d339.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -6076,10 +6884,12 @@
 * Handoff File: [oneget_cmdlets.c8461a017b340ba6823a21ea09e5526755f42d8e.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/oneget_cmdlets.c8461a017b340ba6823a21ea09e5526755f42d8e.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [oneget_cmdlets.c8461a017b340ba6823a21ea09e5526755f42d8e.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/oneget_cmdlets.c8461a017b340ba6823a21ea09e5526755f42d8e.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [oneget_cmdlets.c8461a017b340ba6823a21ea09e5526755f42d8e.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/oneget_cmdlets.c8461a017b340ba6823a21ea09e5526755f42d8e.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -6090,10 +6900,12 @@
 * Handoff File: [oneget_overview.faa23864a561cf547935d85ec8b89e6f418a9d84.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/oneget_overview.faa23864a561cf547935d85ec8b89e6f418a9d84.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [oneget_overview.faa23864a561cf547935d85ec8b89e6f418a9d84.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/oneget_overview.faa23864a561cf547935d85ec8b89e6f418a9d84.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [oneget_overview.faa23864a561cf547935d85ec8b89e6f418a9d84.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/oneget_overview.faa23864a561cf547935d85ec8b89e6f418a9d84.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -6104,10 +6916,12 @@
 * Handoff File: [productincompat.0a6cf726af5908329b3844a4dac896cc5058dc98.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/productincompat.0a6cf726af5908329b3844a4dac896cc5058dc98.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [productincompat.0a6cf726af5908329b3844a4dac896cc5058dc98.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/productincompat.0a6cf726af5908329b3844a4dac896cc5058dc98.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [productincompat.0a6cf726af5908329b3844a4dac896cc5058dc98.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/productincompat.0a6cf726af5908329b3844a4dac896cc5058dc98.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -6118,10 +6932,12 @@
 * Handoff File: [psget_module_overview.d0f01deb0c90b20ae7155756cfab78da00060dcf.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_module_overview.d0f01deb0c90b20ae7155756cfab78da00060dcf.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psget_module_overview.d0f01deb0c90b20ae7155756cfab78da00060dcf.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_module_overview.d0f01deb0c90b20ae7155756cfab78da00060dcf.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [psget_module_overview.d0f01deb0c90b20ae7155756cfab78da00060dcf.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_module_overview.d0f01deb0c90b20ae7155756cfab78da00060dcf.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -6132,10 +6948,12 @@
 * Handoff File: [psget_modulecmdlets.78c6b2d8b0135ba8453b9ae6962c8e814209c764.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_modulecmdlets.78c6b2d8b0135ba8453b9ae6962c8e814209c764.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psget_modulecmdlets.78c6b2d8b0135ba8453b9ae6962c8e814209c764.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_modulecmdlets.78c6b2d8b0135ba8453b9ae6962c8e814209c764.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [psget_modulecmdlets.78c6b2d8b0135ba8453b9ae6962c8e814209c764.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_modulecmdlets.78c6b2d8b0135ba8453b9ae6962c8e814209c764.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -6146,10 +6964,12 @@
 * Handoff File: [psget_moduledependency.b230bb725b1be8352ddbb06879144284e90d1972.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_moduledependency.b230bb725b1be8352ddbb06879144284e90d1972.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psget_moduledependency.b230bb725b1be8352ddbb06879144284e90d1972.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_moduledependency.b230bb725b1be8352ddbb06879144284e90d1972.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [psget_moduledependency.b230bb725b1be8352ddbb06879144284e90d1972.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_moduledependency.b230bb725b1be8352ddbb06879144284e90d1972.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -6160,10 +6980,12 @@
 * Handoff File: [psget_modulesxsinstall.71b85a56e418b7a114d7c8203c6786139ab70334.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_modulesxsinstall.71b85a56e418b7a114d7c8203c6786139ab70334.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psget_modulesxsinstall.71b85a56e418b7a114d7c8203c6786139ab70334.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_modulesxsinstall.71b85a56e418b7a114d7c8203c6786139ab70334.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [psget_modulesxsinstall.71b85a56e418b7a114d7c8203c6786139ab70334.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_modulesxsinstall.71b85a56e418b7a114d7c8203c6786139ab70334.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -6174,10 +6996,12 @@
 * Handoff File: [psget_psrepository.27f467ad15827a2688770cde9903a76243c9c757.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_psrepository.27f467ad15827a2688770cde9903a76243c9c757.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psget_psrepository.27f467ad15827a2688770cde9903a76243c9c757.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_psrepository.27f467ad15827a2688770cde9903a76243c9c757.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [psget_psrepository.27f467ad15827a2688770cde9903a76243c9c757.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_psrepository.27f467ad15827a2688770cde9903a76243c9c757.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -6188,10 +7012,12 @@
 * Handoff File: [psget_script_overview.4be11aa863936c9d1e99cc85da3635bbb3108ba6.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_script_overview.4be11aa863936c9d1e99cc85da3635bbb3108ba6.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psget_script_overview.4be11aa863936c9d1e99cc85da3635bbb3108ba6.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_script_overview.4be11aa863936c9d1e99cc85da3635bbb3108ba6.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [psget_script_overview.4be11aa863936c9d1e99cc85da3635bbb3108ba6.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_script_overview.4be11aa863936c9d1e99cc85da3635bbb3108ba6.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -6202,10 +7028,12 @@
 * Handoff File: [psget_scriptcmdlets.4171680ef59ddc646eaa180bd30d8394276c46a3.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_scriptcmdlets.4171680ef59ddc646eaa180bd30d8394276c46a3.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [psget_scriptcmdlets.4171680ef59ddc646eaa180bd30d8394276c46a3.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_scriptcmdlets.4171680ef59ddc646eaa180bd30d8394276c46a3.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [psget_scriptcmdlets.4171680ef59ddc646eaa180bd30d8394276c46a3.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/psget_scriptcmdlets.4171680ef59ddc646eaa180bd30d8394276c46a3.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -6216,10 +7044,12 @@
 * Handoff File: [releasenotes.6b2452476cc52d490ab786e75fe7920d8690e7c0.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/releasenotes.6b2452476cc52d490ab786e75fe7920d8690e7c0.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [releasenotes.6b2452476cc52d490ab786e75fe7920d8690e7c0.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/releasenotes.6b2452476cc52d490ab786e75fe7920d8690e7c0.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [releasenotes.6b2452476cc52d490ab786e75fe7920d8690e7c0.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/releasenotes.6b2452476cc52d490ab786e75fe7920d8690e7c0.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -6230,10 +7060,12 @@
 * Handoff File: [requirements.599400d9bdc5e69c1c16cb37cbc687bae515c330.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/requirements.599400d9bdc5e69c1c16cb37cbc687bae515c330.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [requirements.599400d9bdc5e69c1c16cb37cbc687bae515c330.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/requirements.599400d9bdc5e69c1c16cb37cbc687bae515c330.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [requirements.599400d9bdc5e69c1c16cb37cbc687bae515c330.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/requirements.599400d9bdc5e69c1c16cb37cbc687bae515c330.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -6244,10 +7076,12 @@
 * Handoff File: [sil_overview.1e7d998d82630c51f69b098a2c2b893451c419e5.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/sil_overview.1e7d998d82630c51f69b098a2c2b893451c419e5.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [sil_overview.1e7d998d82630c51f69b098a2c2b893451c419e5.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/sil_overview.1e7d998d82630c51f69b098a2c2b893451c419e5.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [sil_overview.1e7d998d82630c51f69b098a2c2b893451c419e5.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/sil_overview.1e7d998d82630c51f69b098a2c2b893451c419e5.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -6258,10 +7092,12 @@
 * Handoff File: [uninstall.98be0e2c383d10711000c737c3984097ed45c695.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/uninstall.98be0e2c383d10711000c737c3984097ed45c695.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [uninstall.98be0e2c383d10711000c737c3984097ed45c695.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/uninstall.98be0e2c383d10711000c737c3984097ed45c695.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [uninstall.98be0e2c383d10711000c737c3984097ed45c695.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/uninstall.98be0e2c383d10711000c737c3984097ed45c695.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -6272,10 +7108,12 @@
 * Handoff File: [bugfixes.9ac3235fa7ee0f522e47993290af882a3a4a26f7.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/bugfixes.9ac3235fa7ee0f522e47993290af882a3a4a26f7.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [bugfixes.9ac3235fa7ee0f522e47993290af882a3a4a26f7.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/bugfixes.9ac3235fa7ee0f522e47993290af882a3a4a26f7.de-de.xlf)
 * Handback Datetime: 2016-10-04 23:08:40
+* Handback Name: 
 * Bilingual File: [bugfixes.9ac3235fa7ee0f522e47993290af882a3a4a26f7.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/bugfixes.9ac3235fa7ee0f522e47993290af882a3a4a26f7.de-de.xlf)
 * Bilingual Datetime: 2016-10-04 23:09:03
 * [Back to Top](#report-top)
@@ -6286,10 +7124,12 @@
 * Handoff File: [community-resources.29f3e6ec9661c97589a0cc8652b4d1c7917aa57d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/community-resources.29f3e6ec9661c97589a0cc8652b4d1c7917aa57d.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [community-resources.29f3e6ec9661c97589a0cc8652b4d1c7917aa57d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/community-resources.29f3e6ec9661c97589a0cc8652b4d1c7917aa57d.de-de.xlf)
 * Handback Datetime: 2016-10-04 23:08:40
+* Handback Name: 
 * Bilingual File: [community-resources.29f3e6ec9661c97589a0cc8652b4d1c7917aa57d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/community-resources.29f3e6ec9661c97589a0cc8652b4d1c7917aa57d.de-de.xlf)
 * Bilingual Datetime: 2016-10-04 23:09:03
 * [Back to Top](#report-top)
@@ -6300,10 +7140,12 @@
 * Handoff File: [compatibility.c48662c8b1c8f8765c91c89c348a9a64174fcb50.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/compatibility.c48662c8b1c8f8765c91c89c348a9a64174fcb50.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [compatibility.c48662c8b1c8f8765c91c89c348a9a64174fcb50.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/compatibility.c48662c8b1c8f8765c91c89c348a9a64174fcb50.de-de.xlf)
 * Handback Datetime: 2016-10-04 23:08:40
+* Handback Name: 
 * Bilingual File: [compatibility.c48662c8b1c8f8765c91c89c348a9a64174fcb50.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/compatibility.c48662c8b1c8f8765c91c89c348a9a64174fcb50.de-de.xlf)
 * Bilingual Datetime: 2016-10-04 23:09:03
 * [Back to Top](#report-top)
@@ -6314,10 +7156,12 @@
 * Handoff File: [console-improvements.1e8be4b16ba9b1a7df66013c3107d42521f009d8.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/console-improvements.1e8be4b16ba9b1a7df66013c3107d42521f009d8.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [console-improvements.1e8be4b16ba9b1a7df66013c3107d42521f009d8.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/console-improvements.1e8be4b16ba9b1a7df66013c3107d42521f009d8.de-de.xlf)
 * Handback Datetime: 2016-10-04 23:08:40
+* Handback Name: 
 * Bilingual File: [console-improvements.1e8be4b16ba9b1a7df66013c3107d42521f009d8.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/console-improvements.1e8be4b16ba9b1a7df66013c3107d42521f009d8.de-de.xlf)
 * Bilingual Datetime: 2016-10-04 23:09:03
 * [Back to Top](#report-top)
@@ -6328,10 +7172,12 @@
 * Handoff File: [DSC-improvements.34bcd4169d438016a90bb7d385251ff174844f98.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/DSC-improvements.34bcd4169d438016a90bb7d385251ff174844f98.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [DSC-improvements.34bcd4169d438016a90bb7d385251ff174844f98.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/DSC-improvements.34bcd4169d438016a90bb7d385251ff174844f98.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [DSC-improvements.34bcd4169d438016a90bb7d385251ff174844f98.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/DSC-improvements.34bcd4169d438016a90bb7d385251ff174844f98.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -6342,10 +7188,12 @@
 * Handoff File: [engine-improvements.c5dd46175ad980e169540bcebd2cac560021ece6.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/engine-improvements.c5dd46175ad980e169540bcebd2cac560021ece6.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [engine-improvements.c5dd46175ad980e169540bcebd2cac560021ece6.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/engine-improvements.c5dd46175ad980e169540bcebd2cac560021ece6.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [engine-improvements.c5dd46175ad980e169540bcebd2cac560021ece6.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/engine-improvements.c5dd46175ad980e169540bcebd2cac560021ece6.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -6356,10 +7204,12 @@
 * Handoff File: [analysis_cache.ebd5d54252739ef057bf5e6146bcf8d8131dab36.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/analysis_cache.ebd5d54252739ef057bf5e6146bcf8d8131dab36.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [analysis_cache.ebd5d54252739ef057bf5e6146bcf8d8131dab36.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/analysis_cache.ebd5d54252739ef057bf5e6146bcf8d8131dab36.de-de.xlf)
 * Handback Datetime: 2016-10-04 23:08:40
+* Handback Name: 
 * Bilingual File: [analysis_cache.ebd5d54252739ef057bf5e6146bcf8d8131dab36.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/analysis_cache.ebd5d54252739ef057bf5e6146bcf8d8131dab36.de-de.xlf)
 * Bilingual Datetime: 2016-10-04 23:09:03
 * [Back to Top](#report-top)
@@ -6370,10 +7220,12 @@
 * Handoff File: [catalog-cmdlets.3fb2b42ac619c6fd99ffe4114805b65c71476b3b.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/catalog-cmdlets.3fb2b42ac619c6fd99ffe4114805b65c71476b3b.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: [catalog-cmdlets.3fb2b42ac619c6fd99ffe4114805b65c71476b3b.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/5ba0536f626b3150a12f1f53a08b7b06e15eec29/ol-archive/OpenLocalizationOrg/PowerShell-Docs.de-de/master/catalog-cmdlets.3fb2b42ac619c6fd99ffe4114805b65c71476b3b.de-de.xlf)
 * Archive Datetime: 2016-10-27 22:21:25
 * Handback File: 
 * Handback Datetime: 2016-10-04 23:08:40
+* Handback Name: 
 * Handback Error: [handback_transform_failed](#1e422b30ab2471e73123badedf1f10631f9730ed425handback_transform_failed)
 * [Back to Top](#report-top)
 
@@ -6383,10 +7235,12 @@
 * Handoff File: [console-enhancements.3c888b1935faa7ae4eb59ba6845eb7d78cd60ecc.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/console-enhancements.3c888b1935faa7ae4eb59ba6845eb7d78cd60ecc.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [console-enhancements.3c888b1935faa7ae4eb59ba6845eb7d78cd60ecc.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/console-enhancements.3c888b1935faa7ae4eb59ba6845eb7d78cd60ecc.de-de.xlf)
 * Handback Datetime: 2016-10-04 23:08:40
+* Handback Name: 
 * Bilingual File: [console-enhancements.3c888b1935faa7ae4eb59ba6845eb7d78cd60ecc.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/a9936e0ca2bc9e575597f4bb7195419369a93f4d/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/console-enhancements.3c888b1935faa7ae4eb59ba6845eb7d78cd60ecc.de-de.xlf)
 * Bilingual Datetime: 2016-10-04 23:09:03
 * [Back to Top](#report-top)
@@ -6397,10 +7251,12 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
 * [Back to Top](#report-top)
 
 ##### <a name='368c26766961e760fd2de8c99057121bea076158428'></a> Source: [wmf\5.1\features-scenarios-cache\DSCPartialConfigNaming.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/wmf/5.1/features-scenarios-cache/DSCPartialConfigNaming.md)
@@ -6409,10 +7265,12 @@
 * Handoff File: [DSCPartialConfigNaming.0fa686a40e3e562fa831fc87a2ac2b8b81cfba33.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/DSCPartialConfigNaming.0fa686a40e3e562fa831fc87a2ac2b8b81cfba33.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [DSCPartialConfigNaming.0fa686a40e3e562fa831fc87a2ac2b8b81cfba33.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/DSCPartialConfigNaming.0fa686a40e3e562fa831fc87a2ac2b8b81cfba33.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [DSCPartialConfigNaming.0fa686a40e3e562fa831fc87a2ac2b8b81cfba33.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/DSCPartialConfigNaming.0fa686a40e3e562fa831fc87a2ac2b8b81cfba33.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -6423,10 +7281,12 @@
 * Handoff File: [DSCRunAsCredentialCompositeResources.f65c22955818dede6f97031e1a087a8a60d20d6c.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/DSCRunAsCredentialCompositeResources.f65c22955818dede6f97031e1a087a8a60d20d6c.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: [DSCRunAsCredentialCompositeResources.f65c22955818dede6f97031e1a087a8a60d20d6c.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/5ba0536f626b3150a12f1f53a08b7b06e15eec29/ol-archive/OpenLocalizationOrg/PowerShell-Docs.de-de/master/DSCRunAsCredentialCompositeResources.f65c22955818dede6f97031e1a087a8a60d20d6c.de-de.xlf)
 * Archive Datetime: 2016-10-27 22:21:25
 * Handback File: 
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Handback Error: [handback_transform_failed](#7505e063fad84999af786f2af0602d204ed973b7429handback_transform_failed)
 * [Back to Top](#report-top)
 
@@ -6436,10 +7296,12 @@
 * Handoff File: [DSCSigningValidations.9fb5f7c90060737d46691c9c29429a9e500a99db.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/DSCSigningValidations.9fb5f7c90060737d46691c9c29429a9e500a99db.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [DSCSigningValidations.9fb5f7c90060737d46691c9c29429a9e500a99db.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/DSCSigningValidations.9fb5f7c90060737d46691c9c29429a9e500a99db.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [DSCSigningValidations.9fb5f7c90060737d46691c9c29429a9e500a99db.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/DSCSigningValidations.9fb5f7c90060737d46691c9c29429a9e500a99db.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -6450,10 +7312,12 @@
 * Handoff File: [Improved-dsc-classresource.2098c3839949d3dc2fb34849ee53df99fdeaf052.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Improved-dsc-classresource.2098c3839949d3dc2fb34849ee53df99fdeaf052.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Improved-dsc-classresource.2098c3839949d3dc2fb34849ee53df99fdeaf052.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Improved-dsc-classresource.2098c3839949d3dc2fb34849ee53df99fdeaf052.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [Improved-dsc-classresource.2098c3839949d3dc2fb34849ee53df99fdeaf052.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Improved-dsc-classresource.2098c3839949d3dc2fb34849ee53df99fdeaf052.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -6464,10 +7328,12 @@
 * Handoff File: [Improved-dsc-resourcedebugging.0f92046f690e1bab0e838d53b3c92087667cbfa9.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Improved-dsc-resourcedebugging.0f92046f690e1bab0e838d53b3c92087667cbfa9.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Improved-dsc-resourcedebugging.0f92046f690e1bab0e838d53b3c92087667cbfa9.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Improved-dsc-resourcedebugging.0f92046f690e1bab0e838d53b3c92087667cbfa9.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [Improved-dsc-resourcedebugging.0f92046f690e1bab0e838d53b3c92087667cbfa9.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Improved-dsc-resourcedebugging.0f92046f690e1bab0e838d53b3c92087667cbfa9.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -6478,10 +7344,12 @@
 * Handoff File: [improved-pullclient-security.cf456de8ef304f3ca033ba4bc6092fd1be84dc09.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/improved-pullclient-security.cf456de8ef304f3ca033ba4bc6092fd1be84dc09.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: [improved-pullclient-security.cf456de8ef304f3ca033ba4bc6092fd1be84dc09.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/5ba0536f626b3150a12f1f53a08b7b06e15eec29/ol-archive/OpenLocalizationOrg/PowerShell-Docs.de-de/master/improved-pullclient-security.cf456de8ef304f3ca033ba4bc6092fd1be84dc09.de-de.xlf)
 * Archive Datetime: 2016-10-27 22:21:25
 * Handback File: 
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Handback Error: [handback_transform_failed](#8bb3f7173559c349d033d175f5784d80b7a16ed0433handback_transform_failed)
 * [Back to Top](#report-top)
 
@@ -6491,10 +7359,12 @@
 * Handoff File: [Improved-PullServer-Registration.d7a4fcccff45351d621c096800df507ce7913764.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Improved-PullServer-Registration.d7a4fcccff45351d621c096800df507ce7913764.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [Improved-PullServer-Registration.d7a4fcccff45351d621c096800df507ce7913764.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Improved-PullServer-Registration.d7a4fcccff45351d621c096800df507ce7913764.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [Improved-PullServer-Registration.d7a4fcccff45351d621c096800df507ce7913764.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Improved-PullServer-Registration.d7a4fcccff45351d621c096800df507ce7913764.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -6505,10 +7375,12 @@
 * Handoff File: [improvements-oneget.c8c4d33b77e464fe53344366059ee41c9a3b5fce.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/improvements-oneget.c8c4d33b77e464fe53344366059ee41c9a3b5fce.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [improvements-oneget.c8c4d33b77e464fe53344366059ee41c9a3b5fce.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/improvements-oneget.c8c4d33b77e464fe53344366059ee41c9a3b5fce.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [improvements-oneget.c8c4d33b77e464fe53344366059ee41c9a3b5fce.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/improvements-oneget.c8c4d33b77e464fe53344366059ee41c9a3b5fce.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -6519,10 +7391,12 @@
 * Handoff File: [jea-improvements.7d497b331a525c0e4042c5417438af356075d0e5.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/jea-improvements.7d497b331a525c0e4042c5417438af356075d0e5.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [jea-improvements.7d497b331a525c0e4042c5417438af356075d0e5.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/jea-improvements.7d497b331a525c0e4042c5417438af356075d0e5.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [jea-improvements.7d497b331a525c0e4042c5417438af356075d0e5.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/jea-improvements.7d497b331a525c0e4042c5417438af356075d0e5.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -6533,10 +7407,12 @@
 * Handoff File: [oneget-improvement.5f280305f3daa37cb51ab01097cd9282a4fef551.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/oneget-improvement.5f280305f3daa37cb51ab01097cd9282a4fef551.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [oneget-improvement.5f280305f3daa37cb51ab01097cd9282a4fef551.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/oneget-improvement.5f280305f3daa37cb51ab01097cd9282a4fef551.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [oneget-improvement.5f280305f3daa37cb51ab01097cd9282a4fef551.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/oneget-improvement.5f280305f3daa37cb51ab01097cd9282a4fef551.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -6547,10 +7423,12 @@
 * Handoff File: [PesterUpdates.1e4976b79d08b1906a0f335de1892decc168f7a5.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/PesterUpdates.1e4976b79d08b1906a0f335de1892decc168f7a5.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: [PesterUpdates.1e4976b79d08b1906a0f335de1892decc168f7a5.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/5ba0536f626b3150a12f1f53a08b7b06e15eec29/ol-archive/OpenLocalizationOrg/PowerShell-Docs.de-de/master/PesterUpdates.1e4976b79d08b1906a0f335de1892decc168f7a5.de-de.xlf)
 * Archive Datetime: 2016-10-27 22:21:25
 * Handback File: 
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Handback Error: [handback_transform_failed](#dd7905bfd221201919d028ec158cd5ef349335e2438handback_transform_failed)
 * [Back to Top](#report-top)
 
@@ -6560,10 +7438,12 @@
 * Handoff File: [PowerShellGet-Enhancements.cd4664568a0aea25a6d3edac2f9934255e20fc3d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/PowerShellGet-Enhancements.cd4664568a0aea25a6d3edac2f9934255e20fc3d.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [PowerShellGet-Enhancements.cd4664568a0aea25a6d3edac2f9934255e20fc3d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/PowerShellGet-Enhancements.cd4664568a0aea25a6d3edac2f9934255e20fc3d.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [PowerShellGet-Enhancements.cd4664568a0aea25a6d3edac2f9934255e20fc3d.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/PowerShellGet-Enhancements.cd4664568a0aea25a6d3edac2f9934255e20fc3d.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -6574,10 +7454,12 @@
 * Handoff File: [ps-engine-enhancements.51ba717e1fb1db2a8fb647083ba968b9f58c4a82.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/ps-engine-enhancements.51ba717e1fb1db2a8fb647083ba968b9f58c4a82.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [ps-engine-enhancements.51ba717e1fb1db2a8fb647083ba968b9f58c4a82.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/ps-engine-enhancements.51ba717e1fb1db2a8fb647083ba968b9f58c4a82.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [ps-engine-enhancements.51ba717e1fb1db2a8fb647083ba968b9f58c4a82.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/ps-engine-enhancements.51ba717e1fb1db2a8fb647083ba968b9f58c4a82.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -6588,10 +7470,12 @@
 * Handoff File: [template.041b21bf6b803f46c15437198c5b452c28cfb564.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/template.041b21bf6b803f46c15437198c5b452c28cfb564.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [template.041b21bf6b803f46c15437198c5b452c28cfb564.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/template.041b21bf6b803f46c15437198c5b452c28cfb564.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [template.041b21bf6b803f46c15437198c5b452c28cfb564.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/template.041b21bf6b803f46c15437198c5b452c28cfb564.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -6602,10 +7486,12 @@
 * Handoff File: [using-module.dfdedb618ec7d188918f7f3f705c8c39bbb26521.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/using-module.dfdedb618ec7d188918f7f3f705c8c39bbb26521.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [using-module.dfdedb618ec7d188918f7f3f705c8c39bbb26521.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/using-module.dfdedb618ec7d188918f7f3f705c8c39bbb26521.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [using-module.dfdedb618ec7d188918f7f3f705c8c39bbb26521.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/using-module.dfdedb618ec7d188918f7f3f705c8c39bbb26521.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -6616,10 +7502,12 @@
 * Handoff File: [install-configure.d23935c7edf43234f7208217daa4ff7870a16d7c.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/install-configure.d23935c7edf43234f7208217daa4ff7870a16d7c.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [install-configure.d23935c7edf43234f7208217daa4ff7870a16d7c.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/install-configure.d23935c7edf43234f7208217daa4ff7870a16d7c.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [install-configure.d23935c7edf43234f7208217daa4ff7870a16d7c.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/install-configure.d23935c7edf43234f7208217daa4ff7870a16d7c.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -6630,10 +7518,12 @@
 * Handoff File: [known-issues.7fc7aa932b574dc3cc428850a7fbc702d58225ff.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/known-issues.7fc7aa932b574dc3cc428850a7fbc702d58225ff.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [known-issues.7fc7aa932b574dc3cc428850a7fbc702d58225ff.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/known-issues.7fc7aa932b574dc3cc428850a7fbc702d58225ff.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [known-issues.7fc7aa932b574dc3cc428850a7fbc702d58225ff.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/known-issues.7fc7aa932b574dc3cc428850a7fbc702d58225ff.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -6644,10 +7534,12 @@
 * Handoff File: [NetworkingSwitchCmdletInput.eed91b2188e6217c0c49c260c2510c33d4434177.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/NetworkingSwitchCmdletInput.eed91b2188e6217c0c49c260c2510c33d4434177.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [NetworkingSwitchCmdletInput.eed91b2188e6217c0c49c260c2510c33d4434177.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/NetworkingSwitchCmdletInput.eed91b2188e6217c0c49c260c2510c33d4434177.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [NetworkingSwitchCmdletInput.eed91b2188e6217c0c49c260c2510c33d4434177.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/NetworkingSwitchCmdletInput.eed91b2188e6217c0c49c260c2510c33d4434177.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -6658,10 +7550,12 @@
 * Handoff File: [template.f5eecaf481ada681f07bf33f2cc24cafd45f0083.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/template.f5eecaf481ada681f07bf33f2cc24cafd45f0083.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [template.f5eecaf481ada681f07bf33f2cc24cafd45f0083.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/template.f5eecaf481ada681f07bf33f2cc24cafd45f0083.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [template.f5eecaf481ada681f07bf33f2cc24cafd45f0083.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/template.f5eecaf481ada681f07bf33f2cc24cafd45f0083.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -6672,10 +7566,12 @@
 * Handoff File: [package-management-improvements.81c1bcda67908dcb003110be1bfb73a016cee225.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/package-management-improvements.81c1bcda67908dcb003110be1bfb73a016cee225.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [package-management-improvements.81c1bcda67908dcb003110be1bfb73a016cee225.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/package-management-improvements.81c1bcda67908dcb003110be1bfb73a016cee225.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [package-management-improvements.81c1bcda67908dcb003110be1bfb73a016cee225.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/package-management-improvements.81c1bcda67908dcb003110be1bfb73a016cee225.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -6686,10 +7582,12 @@
 * Handoff File: [release-notes.218509b1bab21c093b32cb5d4953c42d1cb90cb4.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/release-notes.218509b1bab21c093b32cb5d4953c42d1cb90cb4.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [release-notes.218509b1bab21c093b32cb5d4953c42d1cb90cb4.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/release-notes.218509b1bab21c093b32cb5d4953c42d1cb90cb4.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [release-notes.218509b1bab21c093b32cb5d4953c42d1cb90cb4.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/release-notes.218509b1bab21c093b32cb5d4953c42d1cb90cb4.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -6700,10 +7598,12 @@
 * Handoff File: [scenarios-features.88cb2bdf7b7e45a4af286640d319a76b1f602647.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/scenarios-features.88cb2bdf7b7e45a4af286640d319a76b1f602647.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [scenarios-features.88cb2bdf7b7e45a4af286640d319a76b1f602647.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/scenarios-features.88cb2bdf7b7e45a4af286640d319a76b1f602647.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [scenarios-features.88cb2bdf7b7e45a4af286640d319a76b1f602647.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/scenarios-features.88cb2bdf7b7e45a4af286640d319a76b1f602647.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -6714,10 +7614,12 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
 * [Back to Top](#report-top)
 
 ##### <a name='e4ee3e2aa0624ac60c9669581fab767fec5097c0451'></a> Source: [wmf\images\CatalogFile1.jpg](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/565fa792c0ec30d9c35536b25d6336c905f7af66/wmf/images/CatalogFile1.jpg)
@@ -6726,10 +7628,12 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
 * [Back to Top](#report-top)
 
 ##### <a name='4a10c9aaa7c9ce8d049548b711831cb0718307e3452'></a> Source: [wmf\images\CatalogFile2.jpg](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/565fa792c0ec30d9c35536b25d6336c905f7af66/wmf/images/CatalogFile2.jpg)
@@ -6738,10 +7642,12 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
 * [Back to Top](#report-top)
 
 ##### <a name='ba1897f38317f5fe38f2d8caf0efcc57bc8bb19d453'></a> Source: [wmf\images\DscResourceDebugging.jpg](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/565fa792c0ec30d9c35536b25d6336c905f7af66/wmf/images/DscResourceDebugging.jpg)
@@ -6750,10 +7656,12 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
 * [Back to Top](#report-top)
 
 ##### <a name='e6ed57c70f1b1380eb67c6998a1c9c67f3f246fc454'></a> Source: [wmf\images\Import-DscResource-Modversion.jpg](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/565fa792c0ec30d9c35536b25d6336c905f7af66/wmf/images/Import-DscResource-Modversion.jpg)
@@ -6762,10 +7670,12 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
 * [Back to Top](#report-top)
 
 ##### <a name='fe58526eb9e55d83fa9eb21563443117a6902aa0455'></a> Source: [wmf\images\MetaConfigPartialOne.png](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/565fa792c0ec30d9c35536b25d6336c905f7af66/wmf/images/MetaConfigPartialOne.png)
@@ -6774,10 +7684,12 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
 * [Back to Top](#report-top)
 
 ##### <a name='9a44a53029d37d4165bbffbdcaa79d9be76e5fac456'></a> Source: [wmf\images\MOF_Encryption.jpg](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/565fa792c0ec30d9c35536b25d6336c905f7af66/wmf/images/MOF_Encryption.jpg)
@@ -6786,10 +7698,12 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
 * [Back to Top](#report-top)
 
 ##### <a name='a2ae4fa2f4b6602830972bddf4430f4f6505520f457'></a> Source: [wmf\images\NewFileCatalog.jpg](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/565fa792c0ec30d9c35536b25d6336c905f7af66/wmf/images/NewFileCatalog.jpg)
@@ -6798,10 +7712,12 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
 * [Back to Top](#report-top)
 
 ##### <a name='a05a5b737a08368968cfd0183c14db8cdcfe2f8c458'></a> Source: [wmf\images\PartialGeneratedMof.png](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/565fa792c0ec30d9c35536b25d6336c905f7af66/wmf/images/PartialGeneratedMof.png)
@@ -6810,10 +7726,12 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
 * [Back to Top](#report-top)
 
 ##### <a name='99a5b10f8cc127cec79a1143db5826574ebfbd64459'></a> Source: [wmf\images\PartialInConfigRepository.png](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/565fa792c0ec30d9c35536b25d6336c905f7af66/wmf/images/PartialInConfigRepository.png)
@@ -6822,10 +7740,12 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
 * [Back to Top](#report-top)
 
 ##### <a name='a4be2daf505060635a78de3eb6ac273755f05676460'></a> Source: [wmf\images\PullUnisgnedCatalog.PNG](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/565fa792c0ec30d9c35536b25d6336c905f7af66/wmf/images/PullUnisgnedCatalog.PNG)
@@ -6834,10 +7754,12 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
 * [Back to Top](#report-top)
 
 ##### <a name='83fae01e6d44ef867ae8868c022376211c22d01e461'></a> Source: [wmf\images\PullUnsignedConfigFail.PNG](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/565fa792c0ec30d9c35536b25d6336c905f7af66/wmf/images/PullUnsignedConfigFail.PNG)
@@ -6846,10 +7768,12 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
 * [Back to Top](#report-top)
 
 ##### <a name='ac6c4586d916fbbd888f73d39201d82da6da8873462'></a> Source: [wmf\images\PushSignedMof.PNG](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/565fa792c0ec30d9c35536b25d6336c905f7af66/wmf/images/PushSignedMof.PNG)
@@ -6858,10 +7782,12 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
 * [Back to Top](#report-top)
 
 ##### <a name='9bce54791cd28520e9812b1fd8daa42dfbe56c64463'></a> Source: [wmf\images\PushUnsignedMof.PNG](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/565fa792c0ec30d9c35536b25d6336c905f7af66/wmf/images/PushUnsignedMof.PNG)
@@ -6870,10 +7796,12 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
 * [Back to Top](#report-top)
 
 ##### <a name='6290a872ef2ee8882895f6245e6dc7a7f20ecdf4464'></a> Source: [wmf\images\SignMofFile.PNG](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/565fa792c0ec30d9c35536b25d6336c905f7af66/wmf/images/SignMofFile.PNG)
@@ -6882,10 +7810,12 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
 * [Back to Top](#report-top)
 
 ##### <a name='2a797c88dc4d945e346bc20711f7586163e9edfb465'></a> Source: [wmf\images\TestFileCatalog.jpg](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/565fa792c0ec30d9c35536b25d6336c905f7af66/wmf/images/TestFileCatalog.jpg)
@@ -6894,10 +7824,12 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
 * [Back to Top](#report-top)
 
 ##### <a name='865258c0b403d4e7979d7ee32d3f87b63a349f08466'></a> Source: [wmf\index.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/565fa792c0ec30d9c35536b25d6336c905f7af66/wmf/index.md)
@@ -6906,10 +7838,12 @@
 * Handoff File: [index.087529cd8972c61293d437c5b3a72507e4d1e1d9.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/index.087529cd8972c61293d437c5b3a72507e4d1e1d9.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [index.087529cd8972c61293d437c5b3a72507e4d1e1d9.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/index.087529cd8972c61293d437c5b3a72507e4d1e1d9.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [index.087529cd8972c61293d437c5b3a72507e4d1e1d9.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/index.087529cd8972c61293d437c5b3a72507e4d1e1d9.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -6920,10 +7854,12 @@
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
 * [Back to Top](#report-top)
 
 ##### <a name='a7ef0ddf4d093a89f32f3484dfbef78fb159f0c2468'></a> Source: [wmf\README.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b/wmf/README.md)
@@ -6932,10 +7868,12 @@
 * Handoff File: [README.3f33d618813a6a11bfd02271ad6bb9c112763721.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/README.3f33d618813a6a11bfd02271ad6bb9c112763721.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [README.3f33d618813a6a11bfd02271ad6bb9c112763721.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/README.3f33d618813a6a11bfd02271ad6bb9c112763721.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [README.3f33d618813a6a11bfd02271ad6bb9c112763721.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/README.3f33d618813a6a11bfd02271ad6bb9c112763721.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -6946,10 +7884,12 @@
 * Handoff File: [TOC.60497266061c38453b3db893ec675eb65584af89.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/d1c6b45a256b53022bedaf402420a32ee8585aff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/TOC.60497266061c38453b3db893ec675eb65584af89.de-de.xlf)
 * Handoff Datetime: 2016-10-04 18:02:39
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: [TOC.60497266061c38453b3db893ec675eb65584af89.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/TOC.60497266061c38453b3db893ec675eb65584af89.de-de.xlf)
 * Handback Datetime: 2016-10-05 16:29:21
+* Handback Name: 
 * Bilingual File: [TOC.60497266061c38453b3db893ec675eb65584af89.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/TOC.60497266061c38453b3db893ec675eb65584af89.de-de.xlf)
 * Bilingual Datetime: 2016-10-05 16:32:20
 * [Back to Top](#report-top)
@@ -6960,10 +7900,12 @@
 * Handoff File: [Index.e91feffba67618796babf7f7c4ac867ead922d70.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/68e98dd115e3a1f5b72509ba2680f69d7d26d005/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Index.e91feffba67618796babf7f7c4ac867ead922d70.de-de.xlf)
 * Handoff Datetime: 2016-10-05 22:49:23
 * Handoff Reason: Include
+* Handoff Name: 
 * Archive File: [Index.e91feffba67618796babf7f7c4ac867ead922d70.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/5ba0536f626b3150a12f1f53a08b7b06e15eec29/ol-archive/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Index.e91feffba67618796babf7f7c4ac867ead922d70.de-de.xlf)
 * Archive Datetime: 2016-10-27 22:21:25
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
 * [Back to Top](#report-top)
 
 
