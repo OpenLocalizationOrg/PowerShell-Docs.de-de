@@ -1,26 +1,11 @@
 # <a name='report-top'></a> Localization Archive Report
 
 ## Summary
- Total Files | 1
+ Total Files | 0
 
 ## File List
- Source File | Status | Details 
- ----------- | ------ | ------- 
- [dsc\Jason_in_dsc_folder.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/565fa792c0ec30d9c35536b25d6336c905f7af66/dsc/Jason_in_dsc_folder.md) | ArchivedSuccess | [Details](#05c43e68978034622fab8e2b0c8bab1291130a8338)
 
 ## Item Details
-##### <a name='05c43e68978034622fab8e2b0c8bab1291130a8338'></a> Source: [dsc\Jason_in_dsc_folder.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/565fa792c0ec30d9c35536b25d6336c905f7af66/dsc/Jason_in_dsc_folder.md)
-* Status: ArchivedSuccess
-* Target File: 
-* Handoff File: [Jason_in_dsc_folder.44b508b72458543d467873ed4f58e9679bd069d1.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/1f7331d72864fcb429abf025a6fe5f0861272e86/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Jason_in_dsc_folder.44b508b72458543d467873ed4f58e9679bd069d1.de-de.xlf)
-* Handoff Datetime: 2016-11-09 07:41:55
-* Handoff Reason: Include
-* Archive File: [Jason_in_dsc_folder.44b508b72458543d467873ed4f58e9679bd069d1.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/3fd142126f7465150296b0fff78817b64d5b07b2/ol-archive/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Jason_in_dsc_folder.44b508b72458543d467873ed4f58e9679bd069d1.de-de.xlf)
-* Archive Datetime: 2016-11-23 22:34:23
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
 
 ## Error Details
 
