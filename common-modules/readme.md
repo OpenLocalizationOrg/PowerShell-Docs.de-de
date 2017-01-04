@@ -1,8 +1,8 @@
-#  Allgemeine Module in PowerShell
+#  <a name="common-modules-in-powershell"></a>Common Modules in PowerShell!
 
-"Common" PowerShell-Module bieten die grundlegende Funktionen von PowerShell.
+PowerShell 'Common' modules provide the basic functionality of PowerShell.
 
-Die folgende Tabelle zeigt die Entwicklung der allgemeinen Module durch veröffentlichte Version:
+The following table shows the evolution of common modules by release version:
 
 V 3.0 | V 4.0 | V 5.0 | V 5.1
 ------- | ------- | ------- | -------
@@ -27,6 +27,6 @@ PSWorkflow|PSWorkflow|PSWorkflow|PSWorkflow
 PSWorkflowUtility|PSWorkflowUtility|PSWorkflowUtility|PSWorkflowUtility
 
 
-<!--HONumber=Oct16_HO1-->
+<!--HONumber=Jan17_HO1-->
 
 
