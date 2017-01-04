@@ -604,8 +604,8 @@
 * Handback File: [readme.c819820f6c0c5977f6238fc1bf8c76ffe64464ec.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/64f719ead6e6e7154027ced19076b9b5b0918528/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/readme.c819820f6c0c5977f6238fc1bf8c76ffe64464ec.de-de.xlf)
 * Handback Datetime: 2017-01-04 06:29:18
 * Handback Name: HandbackName_201701014
-* Bilingual File: [readme.c819820f6c0c5977f6238fc1bf8c76ffe64464ec.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/readme.c819820f6c0c5977f6238fc1bf8c76ffe64464ec.de-de.xlf)
-* Bilingual Datetime: 2016-10-05 16:32:20
+* Bilingual File: [readme.c819820f6c0c5977f6238fc1bf8c76ffe64464ec.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/64f719ead6e6e7154027ced19076b9b5b0918528/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/readme.c819820f6c0c5977f6238fc1bf8c76ffe64464ec.de-de.xlf)
+* Bilingual Datetime: 2017-01-04 06:29:47
 * [Back to Top](#report-top)
 
 ##### <a name='c3b8854dbecd4ab03e46c51a23ac00461bdd70147'></a> Source: [CONTRIBUTING.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/b9602cbbae4e194c33a3983e83909f21c2c53766/CONTRIBUTING.md)
