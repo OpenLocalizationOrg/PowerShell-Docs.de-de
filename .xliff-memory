@@ -6347,8 +6347,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\ed7de439cf1b40224e8d4589159749902fce1b5c.f41f01f5e76f0111872c0911449674bbc356df59.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\readme.c819820f6c0c5977f6238fc1bf8c76ffe64464ec.de-de.xlf",
+      "LocXliffCommit": "64f719ead6e6e7154027ced19076b9b5b0918528"
     }
   }
 }
