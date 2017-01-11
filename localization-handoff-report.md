@@ -1,33 +1,11 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 1
+ Total Files | 0
 
 ## File List
- Source File | Status | Details 
- ----------- | ------ | ------- 
- [common-modules\readme.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/0b9da41bca1ba05e725a2a0ee7ccdd25bc909901/common-modules/readme.md) | HandedOffSuccess | [Details](#ed7de439cf1b40224e8d4589159749902fce1b5c6)
 
 ## Item Details
-##### <a name='ed7de439cf1b40224e8d4589159749902fce1b5c6'></a> Source: [common-modules\readme.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/0b9da41bca1ba05e725a2a0ee7ccdd25bc909901/common-modules/readme.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [readme.c819820f6c0c5977f6238fc1bf8c76ffe64464ec.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/70eb70223e04f6925559231364258bdc667c572f/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/readme.c819820f6c0c5977f6238fc1bf8c76ffe64464ec.de-de.xlf)
-* Handoff Datetime: 2017-01-04 03:34:30
-* Handoff Reason: Include
-* Handoff Name: 
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* Handback Name: 
-* Current Target File: [common-modules\readme.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs.de-de/blob/29047b489527448917393f3232693dface49b370/common-modules/readme.md)
-* Current Handback File: [readme.c819820f6c0c5977f6238fc1bf8c76ffe64464ec.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/readme.c819820f6c0c5977f6238fc1bf8c76ffe64464ec.de-de.xlf)
-* Current Handback Datetime: 2016-10-05 16:29:21
-* Bilingual File: [readme.c819820f6c0c5977f6238fc1bf8c76ffe64464ec.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/readme.c819820f6c0c5977f6238fc1bf8c76ffe64464ec.de-de.xlf)
-* Bilingual Datetime: 2016-10-05 16:32:20
-* [Back to Top](#report-top)
-
 
 ## Error Details
 
