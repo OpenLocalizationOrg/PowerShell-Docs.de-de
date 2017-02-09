@@ -1,19 +1,17 @@
 {
-  "build_entry_point": "docs",
+  "build_entry_point": "",
   "need_generate_pdf": false,
   "need_generate_intellisense": false,
   "docsets_to_publish": [
     {
       "docset_name": "PowerShell_PowerShell-docs_dsc",
-      "build_source_folder": "dsc",
       "build_output_subfolder": "dsc",
       "locale": "de-de",
       "version": 0,
       "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content"
-      },
-      "build_entry_point": "op"
+      }
     }
   ],
   "notification_subscribers": [
@@ -23,10 +21,14 @@
   "skip_source_output_uploading": false,
   "dependent_repositories": [
     {
-      "path_to_root": "_themes",
-      "url": "https://github.com/Microsoft/templates.docs.msft.de-de",
-      "branch": "master",
-      "branch_mapping": {}
+      "path_to_root": "_repo.en-us",
+      "url": "https://github.com/OpenLocalizationOrg/PowerShell-Docs",
+      "branch": "live",
+      "branch_mapping": {
+        "live": "live",
+        "master": "master"
+      }
     }
-  ]
+  ],
+  "need_generate_pdf_url_template": false
 }
