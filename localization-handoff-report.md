@@ -1,11 +1,33 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 0
+ Total Files | 1
 
 ## File List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [gallery\psgallery\Item-Conventions.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/e7d58422fe893a05d427110ab5c354473c00d9ad/gallery/psgallery/Item-Conventions.md) | HandedOffSuccess | [Details](#fac5915c9d785a3b7a8db004271c67bf0bba2f21123)
 
 ## Item Details
+##### <a name='fac5915c9d785a3b7a8db004271c67bf0bba2f21123'></a> Source: [gallery\psgallery\Item-Conventions.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/e7d58422fe893a05d427110ab5c354473c00d9ad/gallery/psgallery/Item-Conventions.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [Item-Conventions.0b4ea1accc4e55f573635809d84bd7ff26d817bb.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handoff/blob/2117deaa0f12fefabbdc998f3093d6eb2d853cff/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Item-Conventions.0b4ea1accc4e55f573635809d84bd7ff26d817bb.de-de.xlf)
+* Handoff Datetime: 2017-02-16 21:08:42
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* Current Target File: [gallery\psgallery\Item-Conventions.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs.de-de/blob/29047b489527448917393f3232693dface49b370/gallery/psgallery/Item-Conventions.md)
+* Current Handback File: [Item-Conventions.0b4ea1accc4e55f573635809d84bd7ff26d817bb.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Item-Conventions.0b4ea1accc4e55f573635809d84bd7ff26d817bb.de-de.xlf)
+* Current Handback Datetime: 2016-10-05 16:29:21
+* Bilingual File: [Item-Conventions.0b4ea1accc4e55f573635809d84bd7ff26d817bb.de-de.xlf](https://github.com/OpenLocalizationOrg/PowerShell-Docs.handback/blob/6fa5c52bd7f5d7d295131ba8fa0cbf9b4eb161c3/ol-handback/OpenLocalizationOrg/PowerShell-Docs.de-de/master/Item-Conventions.0b4ea1accc4e55f573635809d84bd7ff26d817bb.de-de.xlf)
+* Bilingual Datetime: 2016-10-05 16:32:20
+* [Back to Top](#report-top)
+
 
 ## Error Details
 

@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "75f1b11516c8a2e3b1370032d8832d5d16f4dcb6",
+  "LastProcessedCommit": "e7d58422fe893a05d427110ab5c354473c00d9ad",
   "LastTranslatedCommit": "1be7e4c5a8c8d4440e0b4b57299c9169e2f648fe",
   "LastTansformerVersion": null,
   "LastConfigHash": "b9b6e87b4ee9cded2f7d603851d0c0583f1b4b43",
@@ -15752,7 +15752,7 @@
     "57218c316b6921e2cd61027a2387edc31a2d9471": {
       "FileHash": "57218c316b6921e2cd61027a2387edc31a2d9471",
       "SourceFileCommit": "a656ec981dc03fd95c5e70e2d1a2c741ee1adc9b",
-      "SourceFilePath": "gallery\\psgallery\\Item-Conventions.md",
+      "SourceFilePath": "gallery\\psgallery\\Setting-Up-Local-Gallery.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
       "TokenReference": null,
@@ -27906,6 +27906,44 @@
       "BilingualFilePath": "ol-handback\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\readme.c819820f6c0c5977f6238fc1bf8c76ffe64464ec.de-de.xlf",
       "BilingualFileCommit": "64f719ead6e6e7154027ced19076b9b5b0918528",
       "BilingualDateTime": "2017-01-04T06:29:47.2776359Z",
+      "BilingualException": null
+    },
+    "fac5915c9d785a3b7a8db004271c67bf0bba2f21": {
+      "FileHash": "fac5915c9d785a3b7a8db004271c67bf0bba2f21",
+      "SourceFileCommit": "e7d58422fe893a05d427110ab5c354473c00d9ad",
+      "SourceFilePath": "gallery\\psgallery\\Item-Conventions.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "TokenReference": null,
+      "FilePathList": [
+        "gallery\\psgallery\\Item-Conventions.md"
+      ],
+      "HasMetadata": false,
+      "TranslationType": 1,
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\Item-Conventions.0b4ea1accc4e55f573635809d84bd7ff26d817bb.de-de.xlf",
+      "HandoffFileCommit": "2117deaa0f12fefabbdc998f3093d6eb2d853cff",
+      "HandoffDateTime": "2017-02-16T21:08:42.0405101Z",
+      "HandoffXliffHash": "812b606f272614b296254ba6dfd87a069be4e747",
+      "HandoffName": null,
+      "HandoffPriority": "",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackName": null,
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
       "BilingualException": null
     }
   }
