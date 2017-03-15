@@ -18,6 +18,12 @@ ms.openlocfilehash: 2b2dfd9c39fe5d7bf4a52032653108729715e6bf
 Wenn Sie diesen Prozess alleine absolvieren, könnten Ihnen einige häufig auftretende Fehler unterlaufen.
 Hier finden Sie einige wichtige Informationen dazu, wie Sie solche Fehler identifizieren und beheben, wenn Sie einen neuen Endpunkt erstellen oder ändern:
 
+**Still link**: [これはテスト1です](これはテスト1です) > [This is a test2]( これはテスト2です ) 
+
+**No Link**: [これはテスト3です]\(これはテスト3です\) > &#91;This is a test4&#93;(これはテスト4です)> [This is a test5]&#40;これはテスト5です&#41;
+
+
+
 #### Funktionen im Vergleich zu Cmdlets
 In PowerShell geschriebene PowerShell-Befehle sind PowerShell-Funktionen.
 Als spezielle .NET-Klassen geschriebene PowerShell-Befehle sind PowerShell-Cmdlets.
