@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "e04cefa43c1ca3f66f02be58c9fe1ff36ced6a82",
+  "LastProcessedCommit": "ca6af2153df6f0111c606ea7a40a860f0b1367b7",
   "LastTranslatedCommit": "a06daae2ca2e6aef88644318005d2168654aaf55",
   "LastConfigHash": "2611c1dbd140c885b7617044d5833f41a15cf131",
   "Items": {
@@ -15433,6 +15433,21 @@
       "HandoffFileCommit": "29a8cc28e29a17caf7c4f8a80ae8a838241b7b9d",
       "HandoffDateTime": "2017-08-18T09:05:01.9657109Z",
       "HandoffXliffHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "HandoffPriority": ""
+    },
+    "7694b873bb54d38547dfe6d18b4e3b7466c3f5b8": {
+      "FileHash": "7694b873bb54d38547dfe6d18b4e3b7466c3f5b8",
+      "SourceFileCommit": "ca6af2153df6f0111c606ea7a40a860f0b1367b7",
+      "SourceFilePath": "ecmaxml\\test.xml",
+      "HandoffReason": 1,
+      "FilePathList": [
+        "ecmaxml\\test.xml"
+      ],
+      "TranslationType": 1,
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.de-de\\master\\test.9b04275df1462dbc8fc1f6c79aa1a113fa6ea898.de-de.xlf",
+      "HandoffFileCommit": "fe59c7eecfa228cd2695c95f24ac3d0dcd235bcf",
+      "HandoffDateTime": "2017-08-18T09:25:39.8446744Z",
+      "HandoffXliffHash": "57da3f5f14a50bb544963212e6420544e72d25b1",
       "HandoffPriority": ""
     }
   }
